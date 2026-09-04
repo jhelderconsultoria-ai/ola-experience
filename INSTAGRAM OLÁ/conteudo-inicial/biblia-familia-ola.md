@@ -80,6 +80,36 @@ O nome é uma homenagem afetiva a Luduvina, mãe do fundador da Olá Experience.
 
 **Frase característica:** “E se a gente fosse descobrir?”
 
+### Dora — avó (mãe do Nilo), 68 anos
+
+**Papel na família:** guarda as histórias e as receitas que ninguém mais lembra de perguntar.
+
+**Personalidade:** espirituosa, teimosa, cheia de energia que ninguém espera dela. Finge que não liga de ser esquecida — mas liga.
+
+**Rotina:** cuida da casa e do quintal, espera as ligações que nem sempre vêm.
+
+**Conflito central:** virou a “avó de plantão pras emergências” — só é chamada quando alguém precisa de ajuda, nunca pra se divertir junto. É o ponto de partida (“antes”) do arco da Temporada 2: uma avó que se isolou sem perceber.
+
+**Relação com a jornada:** descobre, ao longo da temporada, que pode convidar — não só esperar ser convidada — e que aguenta mais do que a família imagina. As afinidades dela nascem episódio a episódio, junto com a própria mudança.
+
+**Frase característica:** “Vocês só ligam quando precisam de alguém pra cuidar das crianças. Eu topo — mas dessa vez, vou junto.”
+
+### Beto — avô (pai do Nilo), 71 anos
+
+**Papel na família:** o avô que ninguém esperava que fosse o mais animado da casa.
+
+**Personalidade:** bem-humorado, curioso, teimoso do jeito bom — sempre testando algo novo.
+
+**Rotina:** aposentado, mas a agenda vive cheia: curso, caminhada, leitura, um projeto novo. Já estuda e cuida do corpo por conta própria — conhece os 4 pilares (cognitivo, cardio, força, bolso) na prática, não na teoria.
+
+**Conflito central:** a família ainda trata ele como quem “já era”, e ele vive provando o contrário — às vezes até demais, querendo acompanhar o ritmo dos mais novos.
+
+**Relação com a jornada:** é o “depois” do arco da Temporada 2 — vira sem querer o motor que puxa todo mundo (Dora incluída) a se mexer. Não como professor, como exemplo contagiante.
+
+**Afinidades futuras:** bike, beach tennis, cursos livres, jardinagem ativa, desafios que ele mesmo inventa com os netos.
+
+**Frase característica:** “Aposentei do trabalho. Não aposentei de mim.”
+
 ## Dinâmica familiar
 
 - Lu ajuda a família a transformar intenção em organização.

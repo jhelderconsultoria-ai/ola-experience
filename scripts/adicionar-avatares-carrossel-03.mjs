@@ -21,8 +21,8 @@ const AVATAR_TOP = 26;
 // Caixas estimadas a olho no recorte 979x1606 de 02-familia-ola-reflexao-final.png.
 const FACE_BOXES = {
   lu:   { left: 120, top: 640, size: 170 },
-  nilo: { left: 300, top: 480, size: 220 },
-  zai:  { left: 780, top: 650, size: 180 },
+  nilo: { left: 295, top: 545, size: 220 },
+  zai:  { left: 715, top: 615, size: 190 },
   nori: { left: 580, top: 860, size: 170 },
 };
 
