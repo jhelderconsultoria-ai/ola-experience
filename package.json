@@ -6,6 +6,11 @@
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
+  "devDependencies": {
+    "@mindstone/mcp-server-kling": "^0.4.1",
+    "ffmpeg-static": "^5.2.0",
+    "sharp": "^0.35.4"
+  },
   "scripts": {
     "auroq:sync:codex": "node scripts/sync-codex-skills.mjs --clean",
     "auroq:sync:codex:check": "node scripts/sync-codex-skills.mjs --check",
