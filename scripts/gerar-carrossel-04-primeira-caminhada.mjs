@@ -1,14 +1,16 @@
-// Adiciona um retrato circular de cada personagem nos slides de fala
-// (02-lu .. 05-nori) do carrossel 03, recortado a olho da arte 02 (sem
-// deteccao facial disponivel — ajustar manualmente se sair desalinhado).
+// Carrossel do episodio 3 ("A primeira caminhada") no mesmo padrao visual
+// dos episodios 01 e 02 — capa fotografica (script separado) + slides de
+// fala com avatar.
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/03-corredor-raw.png');
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-03-vamos-fazer');
+const SRC = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/04-caminhada-raw.png');
+const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-04-primeira-caminhada');
+fs.mkdirSync(OUT_DIR, { recursive: true });
 
-const W = 1080, H = 1080; // quadrado — o Instagram corta carrossel pra 1:1 mesmo se voce mandar 4:5
+const W = 1080, H = 1080;
 const BG = '#1A3C30';
 const CREAM = '#F3E9D8';
 const CREAM_MUTED = '#C9C2AE';
@@ -18,13 +20,13 @@ const AVATAR_SIZE = 110;
 const AVATAR_LEFT = 70;
 const AVATAR_TOP = 26;
 
-// Caixas estimadas a olho no recorte 979x1606 de 02-familia-ola-reflexao-final.png.
-// Caixas de rosto da cena do corredor/porta de entrada (episodio 3).
+// Caixas de rosto da cena da caminhada (episodio 3), calibradas no recorte
+// quadrado 1080x1080 de 04-caminhada-raw.png.
 const FACE_BOXES = {
-  lu:   { left: 410, top: 110, size: 220 },
-  nilo: { left: 220, top: 580, size: 220 },
-  zai:  { left: 130, top: 150, size: 200 },
-  nori: { left: 790, top: 370, size: 200 },
+  lu:   { left: 60,  top: 100, size: 240 },
+  nilo: { left: 300, top: 20,  size: 260 },
+  zai:  { left: 560, top: 140, size: 220 },
+  nori: { left: 720, top: 300, size: 240 },
 };
 
 function esc(s) {
@@ -42,8 +44,6 @@ async function makeAvatar(key) {
     .composite([{ input: circleMask, blend: 'dest-in' }])
     .png()
     .toBuffer();
-
-  // anel terracota por cima
   const ring = Buffer.from(
     `<svg width="${AVATAR_SIZE}" height="${AVATAR_SIZE}"><circle cx="${AVATAR_SIZE / 2}" cy="${AVATAR_SIZE / 2}" r="${AVATAR_SIZE / 2 - 2}" fill="none" stroke="${TERRACOTA}" stroke-width="3"/></svg>`
   );
@@ -64,7 +64,7 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
   <svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
     <style>
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 4px; fill: ${TERRACOTA}; }
-      .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 58px; font-weight: 700; fill: ${CREAM}; }
+      .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 54px; font-weight: 700; fill: ${CREAM}; }
       .quote { font-family: 'Georgia', 'Times New Roman', serif; font-size: 140px; fill: ${TERRACOTA}; opacity: 0.55; }
       .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 24px; letter-spacing: 2px; fill: ${CREAM_MUTED}; }
       .badge { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; fill: ${CREAM_MUTED}; }
@@ -85,51 +85,55 @@ const slides = [
   {
     name: '02-lu', key: 'lu',
     eyebrow: 'LU, 38 ANOS', quoteMark: true,
-    lines: ['Se a gente esperar', 'sobrar tempo,', 'não começa nunca.'],
-    footer: 'Ela organiza tudo — menos o próprio descanso.',
+    lines: ['Não sabia se ia', 'dar tempo.', 'Deu.'],
+    footer: 'Nem precisou tirar a manhã inteira.',
     badge: '2/6', showArrow: true,
   },
   {
     name: '03-nilo', key: 'nilo',
     eyebrow: 'NILO, 41 ANOS', quoteMark: true,
-    lines: ['Vamos começar', 'pequeno e ver', 'onde isso leva.'],
-    footer: 'Descanso não é só ficar parado.',
+    lines: ['Cansaço eu tinha.', 'Desculpa,', 'não mais.'],
+    footer: 'Trocou uma pela outra sem perceber.',
     badge: '3/6', showArrow: true,
   },
   {
     name: '04-zai', key: 'zai',
     eyebrow: 'ZAI, 15 ANOS', quoteMark: true,
-    lines: ['Eu vou, mas posso', 'escolher uma parte', 'do roteiro?'],
-    footer: 'Ele topa quando participa da escolha.',
+    lines: ['Falei que ia ficar', 'no celular.', 'Fiquei olhando', 'pra árvore.'],
+    footer: 'Ele mesmo se surpreendeu.',
     badge: '4/6', showArrow: true,
   },
   {
     name: '05-nori', key: 'nori',
     eyebrow: 'NORI, 8 ANOS', quoteMark: true,
-    lines: ['E se a gente', 'fosse descobrir?'],
-    footer: 'A pergunta que sempre movimenta todo mundo.',
+    lines: ['Eu disse que', 'tinha passarinho.', 'Ninguém acreditou.'],
+    footer: 'Até alguém olhar pra cima.',
     badge: '5/6', showArrow: true,
+  },
+  {
+    name: '06-fechamento',
+    eyebrow: 'OLÁ EXPERIENCE',
+    lines: ['Não foi uma trilha.', 'Foi só uma rua.', 'Já foi o suficiente.'],
+    footer: 'Qual seria a primeira caminhada da sua família?',
+    badge: '6/6', showArrow: false,
   },
 ];
 
-const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-
 async function main() {
-  const logoW = 220; // mesma proporcao da logo na arte 01 (~21% da largura)
+  const logoW = 220;
   const logoMeta = await sharp(LOGO_PATH).metadata();
   const logoH = Math.round((logoW * logoMeta.height) / logoMeta.width);
   const logoBuf = await sharp(LOGO_PATH).resize(logoW).toBuffer();
 
   for (const s of slides) {
-    const avatarBuf = await makeAvatar(s.key);
     const svg = Buffer.from(slideSvg(s));
+    const composite = [{ input: svg, top: 0, left: 0 }];
+    if (s.key) composite.push({ input: await makeAvatar(s.key), top: AVATAR_TOP, left: AVATAR_LEFT });
+    composite.push({ input: logoBuf, top: H - logoH - 24, left: Math.round((W - logoW) / 2) });
+
     const outPath = path.join(OUT_DIR, `${s.name}.png`);
     await sharp({ create: { width: W, height: H, channels: 3, background: BG } })
-      .composite([
-        { input: svg, top: 0, left: 0 },
-        { input: avatarBuf, top: AVATAR_TOP, left: AVATAR_LEFT },
-        { input: logoBuf, top: H - logoH - 24, left: Math.round((W - logoW) / 2) },
-      ])
+      .composite(composite)
       .png()
       .toFile(outPath);
     console.log('OK', outPath);

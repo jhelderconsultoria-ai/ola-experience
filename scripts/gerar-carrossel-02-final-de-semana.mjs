@@ -73,9 +73,9 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
     <rect x="${accentX}" y="${accentY}" width="70" height="6" fill="${TERRACOTA}"/>
     ${quoteMark ? `<text x="68" y="${startY - 120}" class="quote">&#8220;</text>` : ''}
     <text text-anchor="middle" class="headline">${textSpans}</text>
-    ${footer ? `<text x="50%" y="${H - 100}" text-anchor="middle" class="footer">${esc(footer)}</text>` : ''}
+    ${footer ? `<text x="${showArrow ? 70 : W / 2}" y="${H - 190}" text-anchor="${showArrow ? 'start' : 'middle'}" class="footer">${esc(footer)}</text>` : ''}
     ${badge ? `<text x="${W - 70}" y="76" text-anchor="end" class="badge">${esc(badge)}</text>` : ''}
-    ${showArrow ? `<text x="${W - 70}" y="${H - 66}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>` : ''}
+    ${showArrow ? `<text x="${W - 70}" y="${H - 190}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>` : ''}
   </svg>`;
 }
 
@@ -118,7 +118,7 @@ const slides = [
 ];
 
 async function main() {
-  const logoW = 90;
+  const logoW = 220; // mesma proporcao da logo na arte 01 (~21% da largura)
   const logoMeta = await sharp(LOGO_PATH).metadata();
   const logoH = Math.round((logoW * logoMeta.height) / logoMeta.width);
   const logoBuf = await sharp(LOGO_PATH).resize(logoW).toBuffer();

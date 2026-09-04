@@ -166,6 +166,60 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 - Natureza apresentada com verdes profundos, céu azul e luz acolhedora.
 - Sem semelhança deliberada com personagens ou franquias existentes.
 
+## Guarda-roupa por personagem
+
+Pra evitar a impressão de que a família nunca troca de roupa, cada personagem tem um pequeno guarda-roupa fixo (2 a 4 looks) em vez de uma roupa única. Cada look mantém as âncoras visuais do personagem (cor de cabelo, corte, e um elemento de identidade que nunca muda) — só a roupa varia conforme a atividade do episódio. Sempre descrever o look explicitamente no prompt; nunca deixar "livre" pro gerador escolher.
+
+### Lu — mãe
+
+Âncora fixa: cabelos cacheados presos em coque, brinquinho pequeno dourado.
+
+- **Casa/cotidiano:** cardigã terracota aberto sobre blusa creme, calça verde-oliva confortável.
+- **Trabalho/externo:** camisa estruturada verde-musgo, calça alfaiataria terracota.
+- **Ativo/ar livre (caminhada, trilha):** legging verde-oliva, regata terracota, corta-vento leve amarrado na cintura, tênis, cabelo em rabo de cavalo baixo.
+- **Fim de semana casual:** vestido leve de linho terracota ou camisa xadrez terrosa com jeans.
+
+### Nilo — pai
+
+Âncora fixa: barba curta aparada, cabelo escuro curto.
+
+- **Casa/cotidiano:** camiseta azul-petróleo, bermuda ou calça neutra.
+- **Trabalho:** camisa social areia remangada, calça social escura.
+- **Ativo (bike, trilha, beach tennis):** camiseta técnica azul-petróleo, shorts esportivo neutro, tênis, boné opcional.
+- **Fim de semana casual:** camiseta neutra com jaqueta jeans ou corta-vento azul-petróleo.
+
+### Zai — filho, 15 anos
+
+Âncora fixa: cabelo cacheado escuro, postura mais reservada/introspectiva.
+
+- **Casa/escola:** moletom verde-floresta, calça ou bermuda neutra, mochila.
+- **Ativo (escalada, ciclismo, trilha):** camiseta técnica verde-floresta, bermuda esportiva, tênis, boné ou viseira.
+- **Casual com amigos:** jaqueta corta-vento verde-floresta, camiseta estampada, jeans.
+
+### Nori — filha, 8 anos
+
+Âncora fixa: cabelos cacheados presos com laço ou presilha colorida.
+
+- **Casa/escola:** macacão jeans verde sobre camiseta amarela.
+- **Aventura (trilha, praia, caça ao tesouro):** shortinho verde, camiseta amarela estampada, boné, tênis confortável.
+- **Passeio/fim de semana:** vestido leve amarelo com detalhes verdes, tênis.
+
+### Dora — avó, 68 anos
+
+Paleta própria (bordô e creme) pra diferenciar visualmente da geração dos pais. Âncora fixa: cabelo grisalho curto e ondulado, brincos pequenos.
+
+- **Casa/quintal:** blusa bordô, calça creme, avental leve quando estiver na cozinha ou no quintal.
+- **Ativo (caminhada em grupo, hidroginástica):** agasalho leve bordô com tênis branco; para hidroginástica, roupa de banho simples com saída de praia.
+- **Social (encontro com amigas, passeio):** vestido floral leve em tons terrosos.
+
+### Beto — avô, 71 anos
+
+Paleta própria (azul-marinho e caqui). Âncora fixa: cabelo grisalho curto, óculos leves.
+
+- **Casa/cotidiano:** polo azul-marinho, calça caqui, chapéu panamá leve.
+- **Ativo (bike, beach tennis, jardinagem):** camiseta técnica azul-marinho, bermuda caqui, tênis ou boné.
+- **Estudo/curso:** camisa casual xadrez leve, calça bege, óculos de leitura.
+
 ## Assinatura narrativa
 
 **Olá Experience — cada família, uma jornada.**

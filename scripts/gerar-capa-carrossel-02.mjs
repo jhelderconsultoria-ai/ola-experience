@@ -16,7 +16,7 @@ async function main() {
     .resize(W, H, { fit: 'cover', position: 'centre' })
     .toBuffer();
 
-  const logoW = 90;
+  const logoW = 220; // mesma proporcao da logo na arte 01 (~21% da largura)
   const logoMeta = await sharp(LOGO_PATH).metadata();
   const logoH = Math.round((logoW * logoMeta.height) / logoMeta.width);
   const logoBuf = await sharp(LOGO_PATH).resize(logoW).toBuffer();
@@ -34,7 +34,7 @@ async function main() {
       </linearGradient>
     </defs>
     <rect x="0" y="0" width="${W}" height="300" fill="url(#top)"/>
-    <rect x="0" y="${H - 280}" width="${W}" height="280" fill="url(#bottom)"/>
+    <rect x="0" y="${H - 340}" width="${W}" height="340" fill="url(#bottom)"/>
     <style>
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 5px; fill: ${TERRACOTA}; }
       .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 48px; font-weight: 700; fill: ${CREAM}; }
@@ -42,9 +42,9 @@ async function main() {
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${TERRACOTA}; }
     </style>
     <rect x="70" y="88" width="70" height="6" fill="${TERRACOTA}"/>
-    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · EPISÓDIO 02</text>
+    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · EPISÓDIO 01</text>
     <text x="${W - 70}" y="76" text-anchor="end" class="badge">1/6</text>
-    <text x="50%" y="${H - 210}" text-anchor="middle" class="headline">
+    <text x="50%" y="${H - 290}" text-anchor="middle" class="headline">
       <tspan x="50%" dy="0">O final de semana passou.</tspan>
       <tspan x="50%" dy="58">O que ficou dele?</tspan>
     </text>
