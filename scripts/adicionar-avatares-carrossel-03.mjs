@@ -8,7 +8,7 @@ import sharp from 'sharp';
 const SRC = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/02-familia-ola-reflexao-final.png');
 const OUT_DIR = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-03-vamos-fazer');
 
-const W = 1080, H = 1350;
+const W = 1080, H = 1080; // quadrado — o Instagram corta carrossel pra 1:1 mesmo se voce mandar 4:5
 const BG = '#1A3C30';
 const CREAM = '#F3E9D8';
 const CREAM_MUTED = '#C9C2AE';
@@ -111,7 +111,7 @@ const slides = [
   },
 ];
 
-const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho.png');
+const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
 
 async function main() {
   const logoW = 90;

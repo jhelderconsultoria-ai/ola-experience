@@ -6,10 +6,10 @@ import path from 'path';
 import sharp from 'sharp';
 
 const SRC = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/02-familia-ola-reflexao-final.png');
-const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho.png');
+const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
 const OUT = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-03-vamos-fazer/01-capa.png');
 
-const W = 1080, H = 1350;
+const W = 1080, H = 1080; // quadrado — o Instagram corta carrossel pra 1:1 mesmo se voce mandar 4:5
 const CREAM = '#F3E9D8';
 const TERRACOTA = '#C97B4A';
 

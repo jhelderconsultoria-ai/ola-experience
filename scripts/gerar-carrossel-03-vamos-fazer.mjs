@@ -7,9 +7,9 @@ import sharp from 'sharp';
 const OUT_DIR = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-03-vamos-fazer');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
-const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho.png');
+const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
 
-const W = 1080, H = 1350;
+const W = 1080, H = 1080; // quadrado — o Instagram corta carrossel pra 1:1 mesmo se voce mandar 4:5
 const BG = '#1A3C30';       // verde-floresta oficial (amostrado do perfil)
 const CREAM = '#F3E9D8';
 const CREAM_MUTED = '#C9C2AE';
