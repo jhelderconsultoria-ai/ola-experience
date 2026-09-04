@@ -1,0 +1,140 @@
+- generic [ref=f53e4]:
+  - generic [ref=f53e9]:
+    - generic [ref=f53e12]:
+      - link [ref=f53e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=f53e22]
+      - generic [ref=f53e25]:
+        - link [ref=f53e30] [cursor=pointer]:
+          - /url: /
+          - img "Página inicial" [ref=f53e35]
+        - link [ref=f53e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=f53e45]
+        - link [ref=f53e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Mensagens" [ref=f53e57]
+        - link [ref=f53e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Pesquisa" [ref=f53e68]
+        - link [ref=f53e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notificações" [ref=f53e80]
+        - link [ref=f53e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Novo post" [ref=f53e91]
+        - link [ref=f53e96] [cursor=pointer]:
+          - /url: "#"
+          - img "Painel profissional" [ref=f53e101]
+        - link [ref=f53e108] [cursor=pointer]:
+          - /url: /olaexperienceoficial/
+          - link [ref=f53e113]:
+            - img "Foto do perfil de olaexperienceoficial" [ref=f53e114]
+      - generic [ref=f53e115]:
+        - link [ref=f53e118] [cursor=pointer]:
+          - /url: "#"
+          - img "Configurações" [ref=f53e123]
+        - link [ref=f53e126] [cursor=pointer]:
+          - /url: "#"
+          - img "Também da Meta" [ref=f53e131]
+    - generic [ref=f53e134]:
+      - main [ref=f53e135]:
+        - progressbar [ref=f53e137]:
+          - img "Carregando..." [ref=f53e138]
+      - contentinfo [ref=f53e151]:
+        - generic [ref=f53e152]:
+          - generic [ref=f53e154]:
+            - link "Meta" [ref=f53e156] [cursor=pointer]:
+              - /url: https://about.meta.com/
+            - link "Sobre" [ref=f53e159] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+            - link "Blog" [ref=f53e162] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+            - link "Carreiras" [ref=f53e165] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+            - link "Ajuda" [ref=f53e168] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+            - link "API" [ref=f53e171] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+            - link "Privacidade" [ref=f53e174] [cursor=pointer]:
+              - /url: /legal/privacy/
+            - link "Termos" [ref=f53e177] [cursor=pointer]:
+              - /url: /legal/terms/
+            - link "Localizações" [ref=f53e180] [cursor=pointer]:
+              - /url: /explore/locations/
+            - link "Popular" [ref=f53e183] [cursor=pointer]:
+              - /url: /popular/
+            - link "Instagram Lite" [ref=f53e186] [cursor=pointer]:
+              - /url: /web/lite/
+            - link "Meta AI" [ref=f53e189] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - link "Threads" [ref=f53e192] [cursor=pointer]:
+              - /url: https://www.threads.com/
+            - link "Upload de contatos e não usuários" [ref=f53e195] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+            - link "Meta Verified" [ref=f53e198] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=f53e200]:
+            - generic [ref=f53e201] [cursor=pointer]:
+              - generic [ref=f53e202]:
+                - generic [ref=f53e203]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=f53e206]
+              - combobox "Trocar idioma de exibição" [ref=f53e208]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=f53e209]: © 2026 Instagram from Meta
+  - button "Mensagens Mensagens" [ref=f53e212] [cursor=pointer]:
+    - generic [ref=f53e214]:
+      - img "Mensagens" [ref=f53e216]
+      - generic [ref=f53e219]: Mensagens

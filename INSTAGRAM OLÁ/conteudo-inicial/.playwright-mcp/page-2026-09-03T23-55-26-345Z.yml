@@ -1,0 +1,186 @@
+- generic [ref=f20e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f20e18]:
+          - generic [ref=f20e21]:
+            - link [ref=f20e514] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f20e34]:
+              - link [ref=f20e516] [cursor=pointer]:
+                - /url: /
+              - link [ref=f20e518] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f20e520] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f20e522] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f20e525] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f20e534] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f20e538] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f20e546] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f20e547]
+            - generic [ref=f20e128]:
+              - link [ref=f20e549] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f20e551] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f20e147]:
+            - main [ref=f20e148]:
+              - generic [ref=f20e150]:
+                - generic [ref=f20e151]:
+                  - generic [ref=f20e152]:
+                    - generic [ref=f20e156]:
+                      - button [ref=f20e553] [cursor=pointer]:
+                        - generic [ref=f20e158]: Nota...
+                      - button [ref=f20e554] [cursor=pointer]
+                    - generic [ref=f20e174]:
+                      - generic [ref=f20e175]:
+                        - generic [ref=f20e176]:
+                          - link [ref=f20e556] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f20e557]:
+                              - generic [ref=f20e180]: olaexperienceoficial
+                          - button [ref=f20e558] [cursor=pointer]
+                        - generic [ref=f20e186]: OLÁ EXPERIENCE
+                        - generic [ref=f20e188]:
+                          - generic [ref=f20e190]:
+                            - generic [ref=f20e191]: "0"
+                            - text: posts
+                          - link [ref=f20e560] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f20e194]:
+                              - generic [ref=f20e561]: "0"
+                              - text: seguidores
+                          - link [ref=f20e562] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f20e198]:
+                              - generic [ref=f20e199]: "0"
+                              - text: seguindo
+                      - generic [ref=f20e200]: esportes e lazer
+                  - generic [ref=f20e208]:
+                    - link [ref=f20e563] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f20e564] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f20e214]:
+                    - list [ref=f20e218]:
+                      - listitem [ref=f20e219]
+                      - listitem [ref=f20e220]
+                      - listitem [ref=f20e221]:
+                        - button [ref=f20e565] [cursor=pointer]:
+                          - generic [ref=f20e230]: Novo
+                - tablist [ref=f20e234]:
+                  - link [ref=f20e567] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f20e569] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f20e571] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - generic [ref=f20e262]:
+                  - generic [ref=f20e263]: Começar
+                  - list [ref=f20e270]:
+                    - listitem [ref=f20e271]
+                    - listitem [ref=f20e272]
+                    - listitem [ref=f20e273]:
+                      - button [ref=f20e573]:
+                        - generic [ref=f20e277]:
+                          - generic [ref=f20e282]: Compartilhar fotos
+                          - generic [ref=f20e284]: Quando você compartilhar fotos, elas aparecerão no seu perfil.
+                          - button [ref=f20e575] [cursor=pointer]: Compartilhar sua primeira foto
+                    - listitem [ref=f20e287]:
+                      - button [ref=f20e576]:
+                        - generic [ref=f20e291]:
+                          - generic [ref=f20e295]: Adicionar telefone
+                          - generic [ref=f20e297]: Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais.
+                          - button [ref=f20e578] [cursor=pointer]: Adicionar telefone
+                    - listitem [ref=f20e300]:
+                      - button [ref=f20e579]:
+                        - generic [ref=f20e304]:
+                          - generic [ref=f20e309]: Adicionar foto do perfil
+                          - generic [ref=f20e311]: Adicione uma foto do perfil para que seus amigos saibam que é você.
+                          - button [ref=f20e581] [cursor=pointer]: Adicionar foto do perfil
+            - contentinfo [ref=f20e314]:
+              - generic [ref=f20e315]:
+                - generic [ref=f20e317]:
+                  - link [ref=f20e582] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f20e320]: Meta
+                  - link [ref=f20e583] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f20e323]: Sobre
+                  - link [ref=f20e584] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f20e326]: Blog
+                  - link [ref=f20e585] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f20e329]: Carreiras
+                  - link [ref=f20e586] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f20e332]: Ajuda
+                  - link [ref=f20e587] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f20e335]: API
+                  - link [ref=f20e588] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f20e338]: Privacidade
+                  - link [ref=f20e589] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f20e341]: Termos
+                  - link [ref=f20e590] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f20e344]: Localizações
+                  - link [ref=f20e591] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f20e347]: Popular
+                  - link [ref=f20e592] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f20e350]: Instagram Lite
+                  - link [ref=f20e593] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f20e353]: Meta AI
+                  - link [ref=f20e594] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f20e356]: Threads
+                  - link [ref=f20e595] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f20e359]: Upload de contatos e não usuários
+                  - link [ref=f20e596] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f20e362]: Meta Verified
+                - generic [ref=f20e363]:
+                  - generic [ref=f20e364] [cursor=pointer]:
+                    - generic [ref=f20e365]: Português (Brasil)
+                    - combobox [ref=f20e598]
+                  - generic [ref=f20e372]: © 2026 Instagram from Meta
+        - button [ref=f20e375] [cursor=pointer]:
+          - generic "Mensagens" [ref=f20e376]:
+            - generic [ref=f20e377]:
+              - img "Mensagens" [ref=f20e380]
+              - generic [ref=f20e383]: Mensagens
+  - generic [ref=f20e609]:
+    - button [active] [ref=f20e612] [cursor=pointer]:
+      - img "Fechar" [ref=f20e614]
+    - dialog "Cortar" [ref=f20e644]:
+      - generic [ref=f20e645]:
+        - generic [ref=f20e649]:
+          - heading "Cortar" [level=1] [ref=f20e652]
+          - button [ref=f20e655] [cursor=pointer]:
+            - img "Voltar" [ref=f20e658]
+          - button "Avançar" [ref=f20e662] [cursor=pointer]
+        - generic [ref=f20e668]:
+          - button [ref=f20e673] [cursor=pointer]:
+            - button [ref=f20e674]:
+              - img "Selecionar corte" [ref=f20e676]
+          - button [ref=f20e682] [cursor=pointer]:
+            - button [ref=f20e683]:
+              - img "Selecionar zoom" [ref=f20e685]
+          - button [ref=f20e691] [cursor=pointer]:
+            - button [ref=f20e692]:
+              - img "Abrir galeria de mídia" [ref=f20e694]

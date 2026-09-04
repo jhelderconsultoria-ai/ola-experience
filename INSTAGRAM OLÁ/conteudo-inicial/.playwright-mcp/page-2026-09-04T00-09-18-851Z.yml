@@ -1,0 +1,213 @@
+- generic [ref=f35e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f35e9]:
+          - generic [ref=f35e12]:
+            - link [ref=f35e353] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f35e25]:
+              - link [ref=f35e355] [cursor=pointer]:
+                - /url: /
+              - link [ref=f35e357] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f35e359] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f35e361] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f35e364] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f35e373] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f35e375] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f35e377] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f35e378]
+            - generic [ref=f35e118]:
+              - link [ref=f35e380] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f35e382] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f35e137]:
+            - main [ref=f35e138]:
+              - generic [ref=f35e140]:
+                - generic [ref=f35e141]:
+                  - generic [ref=f35e142]:
+                    - generic [ref=f35e146]:
+                      - button [ref=f35e384] [cursor=pointer]:
+                        - generic [ref=f35e148]: Nota...
+                      - button [ref=f35e385] [cursor=pointer]
+                    - generic [ref=f35e161]:
+                      - generic [ref=f35e162]:
+                        - generic [ref=f35e163]:
+                          - link [ref=f35e387] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f35e388]:
+                              - generic [ref=f35e167]: olaexperienceoficial
+                          - button [ref=f35e389] [cursor=pointer]
+                        - generic [ref=f35e173]: OLÁ EXPERIENCE
+                        - generic [ref=f35e175]:
+                          - generic [ref=f35e177]:
+                            - generic [ref=f35e178]: "1"
+                            - text: post
+                          - link [ref=f35e391] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f35e181]:
+                              - generic [ref=f35e392]: "0"
+                              - text: seguidores
+                          - link [ref=f35e393] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f35e185]:
+                              - generic [ref=f35e186]: "0"
+                              - text: seguindo
+                      - generic [ref=f35e187]: esportes e lazer
+                  - generic [ref=f35e195]:
+                    - link [ref=f35e394] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f35e395] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f35e201]:
+                    - list [ref=f35e205]:
+                      - listitem [ref=f35e206]
+                      - listitem [ref=f35e207]
+                      - listitem [ref=f35e208]:
+                        - button [ref=f35e396] [cursor=pointer]:
+                          - generic [ref=f35e217]: Novo
+                - tablist [ref=f35e221]:
+                  - link [ref=f35e398] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f35e400] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f35e402] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - link [ref=f35e337] [cursor=pointer]:
+                  - /url: /olaexperienceoficial/p/Dc2EJYsjI5-/
+            - contentinfo [ref=f35e261]:
+              - generic [ref=f35e262]:
+                - generic [ref=f35e264]:
+                  - link [ref=f35e405] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f35e267]: Meta
+                  - link [ref=f35e406] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f35e270]: Sobre
+                  - link [ref=f35e407] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f35e273]: Blog
+                  - link [ref=f35e408] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f35e276]: Carreiras
+                  - link [ref=f35e409] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f35e279]: Ajuda
+                  - link [ref=f35e410] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f35e282]: API
+                  - link [ref=f35e411] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f35e285]: Privacidade
+                  - link [ref=f35e412] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f35e288]: Termos
+                  - link [ref=f35e413] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f35e291]: Localizações
+                  - link [ref=f35e414] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f35e294]: Popular
+                  - link [ref=f35e415] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f35e297]: Instagram Lite
+                  - link [ref=f35e416] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f35e300]: Meta AI
+                  - link [ref=f35e417] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f35e303]: Threads
+                  - link [ref=f35e418] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f35e306]: Upload de contatos e não usuários
+                  - link [ref=f35e419] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f35e309]: Meta Verified
+                - generic [ref=f35e310]:
+                  - generic [ref=f35e311] [cursor=pointer]:
+                    - generic [ref=f35e312]: Português (Brasil)
+                    - combobox [ref=f35e421]
+                  - generic [ref=f35e319]: © 2026 Instagram from Meta
+        - button [ref=f35e344] [cursor=pointer]:
+          - generic "Mensagens" [ref=f35e345]:
+            - generic [ref=f35e346]:
+              - img "Mensagens" [ref=f35e349]
+              - generic [ref=f35e352]: Mensagens
+  - generic [ref=f35e424]:
+    - button [ref=f35e427] [cursor=pointer]:
+      - img "Fechar" [ref=f35e429]
+    - generic [ref=f35e433]:
+      - generic:
+        - dialog:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - button [ref=f35e436]:
+                      - 'img "Ilustração 3D de uma família brasileira reunida na sala de casa ao entardecer. Lu usa um notebook, Nilo e Zai olham seus celulares, e Nori segura um tablet. Plantas, madeira e luz quente compõem o ambiente. No topo, lê-se: “Quando foi a última vez que vocês viveram algo novo juntos?”. Na parte inferior: “Olá Experience”." [ref=f35e440]'
+                    - generic [ref=f35e442]:
+                      - generic [ref=f35e444]:
+                        - banner [ref=f35e445]:
+                          - button [disabled] [ref=f35e450]:
+                            - link [disabled] [ref=f35e452] [cursor=pointer]:
+                              - /url: /olaexperienceoficial/
+                              - img "Foto do perfil de olaexperienceoficial" [ref=f35e453]
+                          - generic [ref=f35e454]:
+                            - link "olaexperienceoficial" [ref=f35e464] [cursor=pointer]:
+                              - /url: /olaexperienceoficial/
+                            - button "Conteúdo de IA" [ref=f35e470] [cursor=pointer]
+                        - button [ref=f35e473] [cursor=pointer]:
+                          - img "Mais opções" [ref=f35e476]
+                      - generic [ref=f35e480]:
+                        - generic [ref=f35e482]:
+                          - button "Ver insights" [ref=f35e484] [cursor=pointer]
+                          - button "Turbinar post" [ref=f35e486] [cursor=pointer]
+                        - generic [ref=f35e487]:
+                          - button [ref=f35e490] [cursor=pointer]:
+                            - img "Curtir" [ref=f35e493]
+                          - button [ref=f35e496] [cursor=pointer]:
+                            - img "Comentar" [ref=f35e498]
+                          - button [ref=f35e500] [cursor=pointer]:
+                            - img "Repostar" [ref=f35e501]
+                          - button [ref=f35e504] [cursor=pointer]:
+                            - img "Compartilhar post" [ref=f35e506]
+                          - button [ref=f35e511] [cursor=pointer]:
+                            - button [ref=f35e512]:
+                              - img "Salvar" [ref=f35e514]
+                        - generic [ref=f35e519]:
+                          - text: Seja a primeira pessoa a
+                          - button "curtir isso" [ref=f35e520] [cursor=pointer]
+                        - list [ref=f35e522]:
+                          - button [ref=f35e523]:
+                            - listitem [ref=f35e524]:
+                              - generic [ref=f35e526]:
+                                - button [disabled] [ref=f35e530]:
+                                  - link [disabled] [ref=f35e532] [cursor=pointer]:
+                                    - /url: /olaexperienceoficial/
+                                    - img "Foto do perfil de olaexperienceoficial" [ref=f35e533]
+                                - generic [ref=f35e534]:
+                                  - heading [active] [level=2] [ref=f35e535]:
+                                    - link "olaexperienceoficial" [ref=f35e540] [cursor=pointer]:
+                                      - /url: /olaexperienceoficial/
+                                  - heading "Estamos sempre juntos. Mas nem sempre estamos verdadeiramente presentes. Entre trabalho, estudos, compromissos e momentos de descanso, cada família encontra seu próprio jeito de atravessar a rotina. A tecnologia faz parte dessa vida — e não precisa ser tratada como inimiga. Ainda assim, às vezes sentimos falta de respirar novos ares, movimentar o corpo, conversar sem pressa e criar lembranças juntos. A Olá Experience está nascendo para ajudar pessoas e famílias a encontrarem novas possibilidades de saúde, movimento, natureza e conexão — respeitando diferentes histórias, necessidades e ritmos. Esta jornada está apenas começando. Olá Experience — cada família, uma jornada. Qual experiência sua família gostaria de viver junta?" [level=1] [ref=f35e542]: Estamos sempre juntos. Mas nem sempre estamos verdadeiramente presentes.Entre trabalho, estudos, compromissos e momentos de descanso, cada família encontra seu próprio jeito de atravessar a rotina. A tecnologia faz parte dessa vida — e não precisa ser tratada como inimiga.Ainda assim, às vezes sentimos falta de respirar novos ares, movimentar o corpo, conversar sem pressa e criar lembranças juntos.A Olá Experience está nascendo para ajudar pessoas e famílias a encontrarem novas possibilidades de saúde, movimento, natureza e conexão — respeitando diferentes histórias, necessidades e ritmos.Esta jornada está apenas começando.Olá Experience — cada família, uma jornada.Qual experiência sua família gostaria de viver junta?
+                                  - time [ref=f35e545]: 20 s
+                        - link [ref=f35e549] [cursor=pointer]:
+                          - /url: /olaexperienceoficial/p/Dc2EJYsjI5-/
+                          - time [ref=f35e551]: há 20 segundos
+                        - generic [ref=f35e555]:
+                          - button [ref=f35e557] [cursor=pointer]:
+                            - img "Emoji" [ref=f35e559]
+                          - textbox "Adicione um comentário..." [ref=f35e561]
+                          - generic [ref=f35e562]:
+                            - button "Postar" [disabled]

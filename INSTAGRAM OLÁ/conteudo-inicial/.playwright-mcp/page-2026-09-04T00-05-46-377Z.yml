@@ -1,0 +1,146 @@
+- generic [ref=f29e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f29e9]:
+          - generic [ref=f29e12]:
+            - link [ref=f29e453] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f29e25]:
+              - link [ref=f29e455] [cursor=pointer]:
+                - /url: /
+              - link [ref=f29e457] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f29e459] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f29e461] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f29e463] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f29e465] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f29e467] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f29e469] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f29e470]
+            - generic [ref=f29e115]:
+              - link [ref=f29e472] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f29e474] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f29e134]:
+            - main [ref=f29e135]:
+              - generic [ref=f29e152]:
+                - generic [ref=f29e154]:
+                  - button [disabled] [ref=f29e477]:
+                    - link [disabled] [ref=f29e478] [cursor=pointer]
+                  - generic [ref=f29e166]:
+                    - link [ref=f29e480] [cursor=pointer]:
+                      - /url: /olaexperienceoficial/
+                      - generic [ref=f29e175]: olaexperienceoficial
+                    - button [ref=f29e481] [cursor=pointer]:
+                      - generic [ref=f29e180]: Conteúdo de IA
+                  - button [ref=f29e482] [cursor=pointer]
+                - separator [ref=f29e190]
+                - generic [ref=f29e192]:
+                  - generic [ref=f29e194]:
+                    - link [ref=f29e484] [cursor=pointer]:
+                      - /url: /olaexperienceoficial/
+                    - generic [ref=f29e204]:
+                      - generic [ref=f29e205]:
+                        - link [ref=f29e486] [cursor=pointer]:
+                          - /url: /olaexperienceoficial/
+                          - generic [ref=f29e210]: olaexperienceoficial
+                        - time [ref=f29e214]: 8 min
+                      - generic [ref=f29e215]: Estamos sempre juntos. Mas nem sempre estamos verdadeiramente presentes. Entre trabalho, estudos, compromissos e momentos de descanso, cada família encontra seu próprio jeito de atravessar a rotina. A tecnologia faz parte dessa vida — e não precisa ser tratada como inimiga. Ainda assim, às vezes sentimos falta de respirar novos ares, movimentar o corpo, conversar sem pressa e criar lembranças juntos. A Olá Experience está nascendo para ajudar pessoas e famílias a encontrarem novas possibilidades de saúde, movimento, natureza e conexão — respeitando diferentes histórias, necessidades e ritmos. Esta jornada está apenas começando. Olá Experience — cada família, uma jornada. Qual experiência sua família gostaria de viver junta?
+                  - generic [ref=f29e218]:
+                    - heading [level=2] [ref=f29e487]: Ainda não há nenhum comentário.
+                    - generic [ref=f29e221]: Inicie a conversa.
+                - generic [ref=f29e224]:
+                  - button [ref=f29e488] [cursor=pointer]: Ver insights
+                  - button [ref=f29e489] [cursor=pointer]: Turbinar post
+                - generic [ref=f29e229]:
+                  - generic [ref=f29e230]:
+                    - generic [ref=f29e231]:
+                      - button [ref=f29e490] [cursor=pointer]
+                      - button [ref=f29e492] [cursor=pointer]
+                      - button [ref=f29e494] [cursor=pointer]
+                      - button [ref=f29e496] [cursor=pointer]
+                    - button [ref=f29e498] [cursor=pointer]:
+                      - button [ref=f29e499]
+                  - link [ref=f29e501] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/p/Dc2CwN6DFku/
+                    - time [ref=f29e262]: há 8 minutos
+                - generic [ref=f29e265]:
+                  - link [ref=f29e266]
+                  - generic [ref=f29e268]:
+                    - button [ref=f29e502] [cursor=pointer]
+                    - textbox [ref=f29e504]:
+                      - /placeholder: Adicione um comentário...
+            - contentinfo [ref=f29e275]:
+              - generic [ref=f29e276]:
+                - generic [ref=f29e278]:
+                  - link [ref=f29e505] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f29e281]: Meta
+                  - link [ref=f29e506] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f29e284]: Sobre
+                  - link [ref=f29e507] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f29e287]: Blog
+                  - link [ref=f29e508] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f29e290]: Carreiras
+                  - link [ref=f29e509] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f29e293]: Ajuda
+                  - link [ref=f29e510] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f29e296]: API
+                  - link [ref=f29e511] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f29e299]: Privacidade
+                  - link [ref=f29e512] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f29e302]: Termos
+                  - link [ref=f29e513] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f29e305]: Localizações
+                  - link [ref=f29e514] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f29e308]: Popular
+                  - link [ref=f29e515] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f29e311]: Instagram Lite
+                  - link [ref=f29e516] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f29e314]: Meta AI
+                  - link [ref=f29e517] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f29e317]: Threads
+                  - link [ref=f29e518] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f29e320]: Upload de contatos e não usuários
+                  - link [ref=f29e519] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f29e323]: Meta Verified
+                - generic [ref=f29e324]:
+                  - generic [ref=f29e325] [cursor=pointer]:
+                    - generic [ref=f29e326]: Português (Brasil)
+                    - combobox [ref=f29e521]
+                  - generic [ref=f29e333]: © 2026 Instagram from Meta
+        - button [ref=f29e355] [cursor=pointer]:
+          - generic "Mensagens" [ref=f29e356]:
+            - generic [ref=f29e357]:
+              - img "Mensagens" [ref=f29e360]
+              - generic [ref=f29e363]: Mensagens
+  - dialog [ref=f29e528]:
+    - generic [ref=f29e531]:
+      - heading "Excluir post? Tem certeza de que deseja excluir esse post?" [active] [level=1] [ref=f29e532]:
+        - heading "Excluir post?" [level=1] [ref=f29e533]
+        - generic [ref=f29e534]: Tem certeza de que deseja excluir esse post?
+      - generic [ref=f29e536]:
+        - button "Excluir" [ref=f29e537] [cursor=pointer]
+        - button "Cancelar" [ref=f29e538] [cursor=pointer]

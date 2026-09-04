@@ -1,0 +1,201 @@
+- generic [ref=f32e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f32e18]:
+          - generic [ref=f32e21]:
+            - link [ref=f32e479] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f32e34]:
+              - link [ref=f32e481] [cursor=pointer]:
+                - /url: /
+              - link [ref=f32e483] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f32e485] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f32e487] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f32e490] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e499] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e501] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e503] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f32e504]
+            - generic [ref=f32e127]:
+              - link [ref=f32e506] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e508] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f32e146]:
+            - main [ref=f32e147]:
+              - generic [ref=f32e149]:
+                - generic [ref=f32e150]:
+                  - generic [ref=f32e151]:
+                    - generic [ref=f32e155]:
+                      - button [ref=f32e510] [cursor=pointer]:
+                        - generic [ref=f32e157]: Nota...
+                      - button [ref=f32e511] [cursor=pointer]
+                    - generic [ref=f32e170]:
+                      - generic [ref=f32e171]:
+                        - generic [ref=f32e172]:
+                          - link [ref=f32e513] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f32e514]:
+                              - generic [ref=f32e176]: olaexperienceoficial
+                          - button [ref=f32e515] [cursor=pointer]
+                        - generic [ref=f32e182]: OLÁ EXPERIENCE
+                        - generic [ref=f32e184]:
+                          - generic [ref=f32e186]:
+                            - generic [ref=f32e187]: "0"
+                            - text: posts
+                          - link [ref=f32e517] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e190]:
+                              - generic [ref=f32e518]: "0"
+                              - text: seguidores
+                          - link [ref=f32e519] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e194]:
+                              - generic [ref=f32e195]: "0"
+                              - text: seguindo
+                      - generic [ref=f32e196]: esportes e lazer
+                  - generic [ref=f32e204]:
+                    - link [ref=f32e520] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f32e521] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f32e210]:
+                    - list [ref=f32e214]:
+                      - listitem [ref=f32e215]
+                      - listitem [ref=f32e216]
+                      - listitem [ref=f32e217]:
+                        - button [ref=f32e522] [cursor=pointer]:
+                          - generic [ref=f32e226]: Novo
+                - tablist [ref=f32e230]:
+                  - link [ref=f32e524] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f32e526] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f32e528] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - generic [ref=f32e258]:
+                  - generic [ref=f32e259]: Começar
+                  - list [ref=f32e266]:
+                    - listitem [ref=f32e267]
+                    - listitem [ref=f32e268]
+                    - listitem [ref=f32e269]:
+                      - button [ref=f32e530]:
+                        - generic [ref=f32e273]:
+                          - generic [ref=f32e278]: Compartilhar fotos
+                          - generic [ref=f32e280]: Quando você compartilhar fotos, elas aparecerão no seu perfil.
+                          - button [ref=f32e532] [cursor=pointer]: Compartilhar sua primeira foto
+                    - listitem [ref=f32e283]:
+                      - button [ref=f32e533]:
+                        - generic [ref=f32e287]:
+                          - generic [ref=f32e291]: Adicionar telefone
+                          - generic [ref=f32e293]: Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais.
+                          - button [ref=f32e535] [cursor=pointer]: Adicionar telefone
+            - contentinfo [ref=f32e296]:
+              - generic [ref=f32e297]:
+                - generic [ref=f32e299]:
+                  - link [ref=f32e536] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f32e302]: Meta
+                  - link [ref=f32e537] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f32e305]: Sobre
+                  - link [ref=f32e538] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f32e308]: Blog
+                  - link [ref=f32e539] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f32e311]: Carreiras
+                  - link [ref=f32e540] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f32e314]: Ajuda
+                  - link [ref=f32e541] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f32e317]: API
+                  - link [ref=f32e542] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f32e320]: Privacidade
+                  - link [ref=f32e543] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f32e323]: Termos
+                  - link [ref=f32e544] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f32e326]: Localizações
+                  - link [ref=f32e545] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f32e329]: Popular
+                  - link [ref=f32e546] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f32e332]: Instagram Lite
+                  - link [ref=f32e547] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f32e335]: Meta AI
+                  - link [ref=f32e548] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f32e338]: Threads
+                  - link [ref=f32e549] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f32e341]: Upload de contatos e não usuários
+                  - link [ref=f32e550] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f32e344]: Meta Verified
+                - generic [ref=f32e345]:
+                  - generic [ref=f32e346] [cursor=pointer]:
+                    - generic [ref=f32e347]: Português (Brasil)
+                    - combobox [ref=f32e552]
+                  - generic [ref=f32e354]: © 2026 Instagram from Meta
+        - button [ref=f32e357] [cursor=pointer]:
+          - generic "Mensagens" [ref=f32e358]:
+            - generic [ref=f32e359]:
+              - img "Mensagens" [ref=f32e362]
+              - generic [ref=f32e365]: Mensagens
+  - generic [ref=f32e555]:
+    - button [ref=f32e558] [cursor=pointer]:
+      - img "Fechar" [ref=f32e560]
+    - dialog "Cortar" [ref=f32e590]:
+      - generic [ref=f32e591]:
+        - generic [ref=f32e595]:
+          - heading "Cortar" [level=1] [ref=f32e598]
+          - button [ref=f32e601] [cursor=pointer]:
+            - img "Voltar" [ref=f32e604]
+          - button "Avançar" [ref=f32e608] [cursor=pointer]
+        - generic [ref=f32e614]:
+          - generic [ref=f32e616]:
+            - generic [ref=f32e646]:
+              - button "Original Ícone de contorno de foto" [ref=f32e647] [cursor=pointer]:
+                - generic [ref=f32e648]:
+                  - generic [ref=f32e649]: Original
+                  - img "Ícone de contorno de foto" [ref=f32e652]
+              - separator [ref=f32e656]
+              - button "1:1 Ícone de corte em formato quadrado" [ref=f32e657] [cursor=pointer]:
+                - generic [ref=f32e658]:
+                  - generic [ref=f32e659]: 1:1
+                  - img "Ícone de corte em formato quadrado" [ref=f32e662]
+              - separator [ref=f32e664]
+              - button "4:5 Ícone de corte em formato retrato" [active] [ref=f32e665] [cursor=pointer]:
+                - generic [ref=f32e666]:
+                  - generic [ref=f32e667]: 4:5
+                  - img "Ícone de corte em formato retrato" [ref=f32e670]
+              - separator [ref=f32e672]
+              - button "16:9 Ícone de corte em formato paisagem" [ref=f32e673] [cursor=pointer]:
+                - generic [ref=f32e674]:
+                  - generic [ref=f32e675]: 16:9
+                  - img "Ícone de corte em formato paisagem" [ref=f32e678]
+            - button [ref=f32e619] [cursor=pointer]:
+              - button [ref=f32e620]:
+                - img "Selecionar corte" [ref=f32e622]
+          - button [ref=f32e628] [cursor=pointer]:
+            - button [ref=f32e629]:
+              - img "Selecionar zoom" [ref=f32e631]
+          - button [ref=f32e637] [cursor=pointer]:
+            - button [ref=f32e638]:
+              - img "Abrir galeria de mídia" [ref=f32e640]

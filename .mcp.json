@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "arcane": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "arcane-mcp@0.4.0"
+      ]
+    },
+    "kling": {
+      "command": "node",
+      "args": [
+        "node_modules/@mindstone/mcp-server-kling/dist/index.js"
+      ],
+      "env": {
+        "KLING_API_KEY": "${KLING_API_KEY}",
+        "KLING_REQUEST_TIMEOUT_MS": "60000"
+      }
+    }
+  }
+}

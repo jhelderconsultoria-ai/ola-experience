@@ -1,0 +1,210 @@
+- generic [ref=f32e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f32e18]:
+          - generic [ref=f32e21]:
+            - link [ref=f32e479] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f32e34]:
+              - link [ref=f32e481] [cursor=pointer]:
+                - /url: /
+              - link [ref=f32e483] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f32e485] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f32e487] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f32e490] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e499] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e501] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e503] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f32e504]
+            - generic [ref=f32e127]:
+              - link [ref=f32e506] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e508] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f32e146]:
+            - main [ref=f32e147]:
+              - generic [ref=f32e149]:
+                - generic [ref=f32e150]:
+                  - generic [ref=f32e151]:
+                    - generic [ref=f32e155]:
+                      - button [ref=f32e510] [cursor=pointer]:
+                        - generic [ref=f32e157]: Nota...
+                      - button [ref=f32e511] [cursor=pointer]
+                    - generic [ref=f32e170]:
+                      - generic [ref=f32e171]:
+                        - generic [ref=f32e172]:
+                          - link [ref=f32e513] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f32e514]:
+                              - generic [ref=f32e176]: olaexperienceoficial
+                          - button [ref=f32e515] [cursor=pointer]
+                        - generic [ref=f32e182]: OLÁ EXPERIENCE
+                        - generic [ref=f32e184]:
+                          - generic [ref=f32e186]:
+                            - generic [ref=f32e187]: "0"
+                            - text: posts
+                          - link [ref=f32e517] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e190]:
+                              - generic [ref=f32e518]: "0"
+                              - text: seguidores
+                          - link [ref=f32e519] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e194]:
+                              - generic [ref=f32e195]: "0"
+                              - text: seguindo
+                      - generic [ref=f32e196]: esportes e lazer
+                  - generic [ref=f32e204]:
+                    - link [ref=f32e520] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f32e521] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f32e210]:
+                    - list [ref=f32e214]:
+                      - listitem [ref=f32e215]
+                      - listitem [ref=f32e216]
+                      - listitem [ref=f32e217]:
+                        - button [ref=f32e522] [cursor=pointer]:
+                          - generic [ref=f32e226]: Novo
+                - tablist [ref=f32e230]:
+                  - link [ref=f32e524] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f32e526] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f32e528] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - generic [ref=f32e258]:
+                  - generic [ref=f32e259]: Começar
+                  - list [ref=f32e266]:
+                    - listitem [ref=f32e267]
+                    - listitem [ref=f32e268]
+                    - listitem [ref=f32e269]:
+                      - button [ref=f32e530]:
+                        - generic [ref=f32e273]:
+                          - generic [ref=f32e278]: Compartilhar fotos
+                          - generic [ref=f32e280]: Quando você compartilhar fotos, elas aparecerão no seu perfil.
+                          - button [ref=f32e532] [cursor=pointer]: Compartilhar sua primeira foto
+                    - listitem [ref=f32e283]:
+                      - button [ref=f32e533]:
+                        - generic [ref=f32e287]:
+                          - generic [ref=f32e291]: Adicionar telefone
+                          - generic [ref=f32e293]: Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais.
+                          - button [ref=f32e535] [cursor=pointer]: Adicionar telefone
+            - contentinfo [ref=f32e296]:
+              - generic [ref=f32e297]:
+                - generic [ref=f32e299]:
+                  - link [ref=f32e536] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f32e302]: Meta
+                  - link [ref=f32e537] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f32e305]: Sobre
+                  - link [ref=f32e538] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f32e308]: Blog
+                  - link [ref=f32e539] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f32e311]: Carreiras
+                  - link [ref=f32e540] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f32e314]: Ajuda
+                  - link [ref=f32e541] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f32e317]: API
+                  - link [ref=f32e542] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f32e320]: Privacidade
+                  - link [ref=f32e543] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f32e323]: Termos
+                  - link [ref=f32e544] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f32e326]: Localizações
+                  - link [ref=f32e545] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f32e329]: Popular
+                  - link [ref=f32e546] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f32e332]: Instagram Lite
+                  - link [ref=f32e547] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f32e335]: Meta AI
+                  - link [ref=f32e548] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f32e338]: Threads
+                  - link [ref=f32e549] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f32e341]: Upload de contatos e não usuários
+                  - link [ref=f32e550] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f32e344]: Meta Verified
+                - generic [ref=f32e345]:
+                  - generic [ref=f32e346] [cursor=pointer]:
+                    - generic [ref=f32e347]: Português (Brasil)
+                    - combobox [ref=f32e552]
+                  - generic [ref=f32e354]: © 2026 Instagram from Meta
+        - button [ref=f32e357] [cursor=pointer]:
+          - generic "Mensagens" [ref=f32e358]:
+            - generic [ref=f32e359]:
+              - img "Mensagens" [ref=f32e362]
+              - generic [ref=f32e365]: Mensagens
+  - generic [ref=f32e555]:
+    - button [ref=f32e558] [cursor=pointer]:
+      - img "Fechar" [ref=f32e560]
+    - dialog "Criar novo post" [ref=f32e784]:
+      - generic [ref=f32e785]:
+        - generic [ref=f32e789]:
+          - heading "Criar novo post" [level=1] [ref=f32e792]
+          - button [ref=f32e795] [cursor=pointer]:
+            - img "Voltar" [ref=f32e798]
+          - button "Compartilhar" [ref=f32e802] [cursor=pointer]
+        - generic [ref=f32e803]:
+          - generic [ref=f32e808]:
+            - img "Foto para posicionamento de marcações" [ref=f32e809]
+            - button [ref=f32e810]
+          - generic [ref=f32e815]:
+            - generic [ref=f32e821]:
+              - link [ref=f32e824]:
+                - img "Foto do perfil de olaexperienceoficial" [ref=f32e825]
+              - generic [ref=f32e826]: olaexperienceoficial
+            - generic [ref=f32e832]:
+              - textbox "Escreva uma legenda..." [ref=f32e834]:
+                - paragraph [ref=f32e835]: Estamos sempre juntos. Mas nem sempre estamos verdadeiramente presentes. Entre trabalho, estudos, compromissos e momentos de descanso, cada família encontra seu próprio jeito de atravessar a rotina. A tecnologia faz parte dessa vida — e não precisa ser tratada como inimiga. Ainda assim, às vezes sentimos falta de respirar novos ares, movimentar o corpo, conversar sem pressa e criar lembranças juntos. A Olá Experience está nascendo para ajudar pessoas e famílias a encontrarem novas possibilidades de saúde, movimento, natureza e conexão — respeitando diferentes histórias, necessidades e ritmos. Esta jornada está apenas começando. Olá Experience — cada família, uma jornada. Qual experiência sua família gostaria de viver junta?
+              - generic [ref=f32e836]:
+                - button [ref=f32e838] [cursor=pointer]:
+                  - img "Emoji" [ref=f32e840]
+                - button "739/2.200" [ref=f32e893] [cursor=pointer]
+            - separator [ref=f32e846]
+            - generic [ref=f32e849]:
+              - textbox "Adicionar localização" [ref=f32e850]
+              - img "Adicionar localização" [ref=f32e852]
+            - generic [ref=f32e856]:
+              - textbox "Adicionar colaboradores" [ref=f32e857]
+              - img "Adicionar colaboradores" [ref=f32e859]
+            - generic [ref=f32e864]:
+              - generic [ref=f32e865]:
+                - generic [ref=f32e866]: Adicionar rótulo de IA
+                - switch [checked] [active] [ref=f32e870] [cursor=pointer]
+              - generic [ref=f32e872]:
+                - text: Você precisa rotular alguns conteúdos realistas criados com IA.
+                - link "Saiba mais" [ref=f32e873] [cursor=pointer]:
+                  - /url: https://help.instagram.com/761121959519495
+            - button "Acessibilidade Ícone de seta para baixo" [ref=f32e875] [cursor=pointer]:
+              - generic [ref=f32e876]: Acessibilidade
+              - img "Ícone de seta para baixo" [ref=f32e878]
+            - button "Configurações avançadas Ícone de seta para baixo" [ref=f32e881] [cursor=pointer]:
+              - generic [ref=f32e882]: Configurações avançadas
+              - img "Ícone de seta para baixo" [ref=f32e884]
+            - separator [ref=f32e886]
+    - button [ref=f32e888] [cursor=pointer]:
+      - tooltip "Clique na foto para marcar pessoas" [ref=f32e890]

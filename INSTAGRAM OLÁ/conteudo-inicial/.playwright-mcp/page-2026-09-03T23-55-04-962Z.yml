@@ -1,0 +1,260 @@
+- generic [ref=f20e4]:
+  - generic [ref=f20e18]:
+    - generic [ref=f20e21]:
+      - link [ref=f20e26] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=f20e31]
+      - generic [ref=f20e34]:
+        - link "Página inicial Página inicial" [ref=f20e385] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f20e40]:
+            - img "Página inicial" [ref=f20e44]
+            - generic [ref=f20e386]: Página inicial
+        - link "Reels Reels" [ref=f20e391] [cursor=pointer]:
+          - /url: /reels/
+          - generic [ref=f20e50]:
+            - img "Reels" [ref=f20e54]
+            - generic [ref=f20e392]: Reels
+        - link "Mensagens Mensagens" [ref=f20e397] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - generic [ref=f20e62]:
+            - img "Mensagens" [ref=f20e66]
+            - generic [ref=f20e398]: Mensagens
+        - link "Pesquisa Pesquisa" [ref=f20e403] [cursor=pointer]:
+          - /url: /explore/
+          - generic [ref=f20e73]:
+            - img "Pesquisa" [ref=f20e77]
+            - generic [ref=f20e404]: Pesquisa
+        - link "Notificações Notificações" [ref=f20e410] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f20e411]:
+            - img "Notificações" [ref=f20e415]
+            - generic [ref=f20e419]: Notificações
+        - generic [ref=f20e96]:
+          - link "Novo post Criar" [active] [ref=f20e424] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f20e98]:
+              - img "Novo post" [ref=f20e102]
+              - generic [ref=f20e425]: Criar
+          - generic [ref=f20e431]:
+            - link "Postar Postar" [ref=f20e432] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f20e435]:
+                - generic [ref=f20e436]: Postar
+                - img "Postar" [ref=f20e443]
+            - link "Vídeo ao vivo Vídeo ao vivo" [ref=f20e445] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f20e448]:
+                - generic [ref=f20e449]: Vídeo ao vivo
+                - img "Vídeo ao vivo" [ref=f20e456]
+            - link "Anúncio Anúncio" [ref=f20e458] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f20e461]:
+                - generic [ref=f20e462]: Anúncio
+                - img "Anúncio" [ref=f20e469]
+        - link "Painel profissional Painel" [ref=f20e474] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f20e475]:
+            - img "Painel profissional" [ref=f20e479]
+            - generic [ref=f20e482]: Painel
+        - link "Foto do perfil de olaexperienceoficial Perfil" [ref=f20e488] [cursor=pointer]:
+          - /url: /olaexperienceoficial/
+          - generic [ref=f20e121]:
+            - link [ref=f20e126]:
+              - img "Foto do perfil de olaexperienceoficial" [ref=f20e127]
+            - generic [ref=f20e489]: Perfil
+      - generic [ref=f20e128]:
+        - link "Configurações Mais" [ref=f20e494] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f20e132]:
+            - img "Configurações" [ref=f20e136]
+            - generic [ref=f20e495]: Mais
+        - link "Também da Meta Também da Meta" [ref=f20e500] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f20e140]:
+            - img "Também da Meta" [ref=f20e144]
+            - generic [ref=f20e501]: Também da Meta
+    - generic [ref=f20e147]:
+      - main [ref=f20e148]:
+        - generic [ref=f20e150]:
+          - generic [ref=f20e151]:
+            - generic [ref=f20e152]:
+              - generic [ref=f20e156]:
+                - button "Nota..." [ref=f20e157] [cursor=pointer]
+                - button [ref=f20e169] [cursor=pointer]:
+                  - img "Adicionar uma foto do perfil" [ref=f20e170]
+              - generic [ref=f20e174]:
+                - generic [ref=f20e175]:
+                  - generic [ref=f20e176]:
+                    - link [ref=f20e178] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "olaexperienceoficial" [level=2] [ref=f20e179]
+                    - button [ref=f20e181] [cursor=pointer]:
+                      - img "Opções" [ref=f20e183]
+                  - generic [ref=f20e186]: OLÁ EXPERIENCE
+                  - generic [ref=f20e188]:
+                    - generic [ref=f20e190]:
+                      - generic [ref=f20e191]: "0"
+                      - text: posts
+                    - link "0 seguidores" [ref=f20e193] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=f20e194]:
+                        - generic "0" [ref=f20e195]
+                        - text: seguidores
+                    - link "0 seguindo" [ref=f20e197] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=f20e198]:
+                        - generic [ref=f20e199]: "0"
+                        - text: seguindo
+                - generic [ref=f20e201]:
+                  - generic [ref=f20e202]: esportes e lazer
+                  - heading [level=1]
+            - generic [ref=f20e208]:
+              - link "Editar perfil" [ref=f20e210] [cursor=pointer]:
+                - /url: /accounts/edit/
+              - link "Ver Itens Arquivados" [ref=f20e212] [cursor=pointer]:
+                - /url: /archive/stories/
+            - menu [ref=f20e214]:
+              - list [ref=f20e218]:
+                - listitem [ref=f20e219]
+                - listitem [ref=f20e220]
+                - listitem [ref=f20e221]:
+                  - button "Ícone de mais Novo" [ref=f20e224] [cursor=pointer]:
+                    - img "Ícone de mais" [ref=f20e228]
+                    - generic [ref=f20e230]: Novo
+          - generic [ref=f20e233]:
+            - tablist [ref=f20e234]:
+              - link [ref=f20e236] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - img "Posts" [ref=f20e238]
+              - link [ref=f20e249] [cursor=pointer]:
+                - /url: /olaexperienceoficial/saved/
+                - img "Salvos" [ref=f20e251]
+              - link [ref=f20e254] [cursor=pointer]:
+                - /url: /olaexperienceoficial/tagged/
+                - img "Marcados" [ref=f20e256]
+            - tabpanel
+          - generic [ref=f20e262]:
+            - generic [ref=f20e263]: Começar
+            - list [ref=f20e270]:
+              - listitem [ref=f20e271]
+              - listitem [ref=f20e272]
+              - listitem [ref=f20e273]:
+                - button "Quando você compartilhar fotos, elas aparecerão no seu perfil. Compartilhar fotos Quando você compartilhar fotos, elas aparecerão no seu perfil. Compartilhar sua primeira foto" [ref=f20e276]:
+                  - generic [ref=f20e277]:
+                    - img "Quando você compartilhar fotos, elas aparecerão no seu perfil." [ref=f20e278]
+                    - generic [ref=f20e282]: Compartilhar fotos
+                    - generic [ref=f20e284]: Quando você compartilhar fotos, elas aparecerão no seu perfil.
+                    - button "Compartilhar sua primeira foto" [ref=f20e286] [cursor=pointer]
+              - listitem [ref=f20e287]:
+                - button "Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais. Adicionar telefone Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais. Adicionar telefone" [ref=f20e290]:
+                  - generic [ref=f20e291]:
+                    - img "Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais." [ref=f20e292]
+                    - generic [ref=f20e295]: Adicionar telefone
+                    - generic [ref=f20e297]: Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais.
+                    - button "Adicionar telefone" [ref=f20e299] [cursor=pointer]
+              - listitem [ref=f20e300]:
+                - button "Quando você compartilhar fotos, elas aparecerão no seu perfil. Adicionar foto do perfil Adicione uma foto do perfil para que seus amigos saibam que é você. Adicionar foto do perfil" [ref=f20e303]:
+                  - generic [ref=f20e304]:
+                    - img "Quando você compartilhar fotos, elas aparecerão no seu perfil." [ref=f20e305]
+                    - generic [ref=f20e309]: Adicionar foto do perfil
+                    - generic [ref=f20e311]: Adicione uma foto do perfil para que seus amigos saibam que é você.
+                    - button "Adicionar foto do perfil" [ref=f20e313] [cursor=pointer]
+      - contentinfo [ref=f20e314]:
+        - generic [ref=f20e315]:
+          - generic [ref=f20e317]:
+            - link "Meta" [ref=f20e319] [cursor=pointer]:
+              - /url: https://about.meta.com/
+            - link "Sobre" [ref=f20e322] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+            - link "Blog" [ref=f20e325] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+            - link "Carreiras" [ref=f20e328] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+            - link "Ajuda" [ref=f20e331] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+            - link "API" [ref=f20e334] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+            - link "Privacidade" [ref=f20e337] [cursor=pointer]:
+              - /url: /legal/privacy/
+            - link "Termos" [ref=f20e340] [cursor=pointer]:
+              - /url: /legal/terms/
+            - link "Localizações" [ref=f20e343] [cursor=pointer]:
+              - /url: /explore/locations/
+            - link "Popular" [ref=f20e346] [cursor=pointer]:
+              - /url: /popular/
+            - link "Instagram Lite" [ref=f20e349] [cursor=pointer]:
+              - /url: /web/lite/
+            - link "Meta AI" [ref=f20e352] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - link "Threads" [ref=f20e355] [cursor=pointer]:
+              - /url: https://www.threads.com/
+            - link "Upload de contatos e não usuários" [ref=f20e358] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+            - link "Meta Verified" [ref=f20e361] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=f20e363]:
+            - generic [ref=f20e364] [cursor=pointer]:
+              - generic [ref=f20e365]:
+                - generic [ref=f20e366]: Português (Brasil)
+                - img "Ícone de seta para baixo" [ref=f20e369]
+              - combobox "Trocar idioma de exibição" [ref=f20e371]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English"
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)" [selected]
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=f20e372]: © 2026 Instagram from Meta
+  - button [ref=f20e375] [cursor=pointer]:
+    - generic "Mensagens" [ref=f20e376]:
+      - generic [ref=f20e377]:
+        - img "Mensagens" [ref=f20e380]
+        - generic [ref=f20e383]: Mensagens

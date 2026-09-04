@@ -1,0 +1,7 @@
+[mcp_servers.arcane]
+command = "npx"
+args = ["-y", "arcane-mcp@0.4.0"]
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "@playwright/mcp@latest", "--browser", "chrome"]

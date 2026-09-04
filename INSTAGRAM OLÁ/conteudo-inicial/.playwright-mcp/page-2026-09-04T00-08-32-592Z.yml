@@ -1,0 +1,215 @@
+- generic [ref=f32e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f32e18]:
+          - generic [ref=f32e21]:
+            - link [ref=f32e479] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f32e34]:
+              - link [ref=f32e481] [cursor=pointer]:
+                - /url: /
+              - link [ref=f32e483] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f32e485] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f32e487] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f32e490] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e499] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e501] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e503] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f32e504]
+            - generic [ref=f32e127]:
+              - link [ref=f32e506] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f32e508] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f32e146]:
+            - main [ref=f32e147]:
+              - generic [ref=f32e149]:
+                - generic [ref=f32e150]:
+                  - generic [ref=f32e151]:
+                    - generic [ref=f32e155]:
+                      - button [ref=f32e510] [cursor=pointer]:
+                        - generic [ref=f32e157]: Nota...
+                      - button [ref=f32e511] [cursor=pointer]
+                    - generic [ref=f32e170]:
+                      - generic [ref=f32e171]:
+                        - generic [ref=f32e172]:
+                          - link [ref=f32e513] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f32e514]:
+                              - generic [ref=f32e176]: olaexperienceoficial
+                          - button [ref=f32e515] [cursor=pointer]
+                        - generic [ref=f32e182]: OLÁ EXPERIENCE
+                        - generic [ref=f32e184]:
+                          - generic [ref=f32e186]:
+                            - generic [ref=f32e187]: "0"
+                            - text: posts
+                          - link [ref=f32e517] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e190]:
+                              - generic [ref=f32e518]: "0"
+                              - text: seguidores
+                          - link [ref=f32e519] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f32e194]:
+                              - generic [ref=f32e195]: "0"
+                              - text: seguindo
+                      - generic [ref=f32e196]: esportes e lazer
+                  - generic [ref=f32e204]:
+                    - link [ref=f32e520] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f32e521] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f32e210]:
+                    - list [ref=f32e214]:
+                      - listitem [ref=f32e215]
+                      - listitem [ref=f32e216]
+                      - listitem [ref=f32e217]:
+                        - button [ref=f32e522] [cursor=pointer]:
+                          - generic [ref=f32e226]: Novo
+                - tablist [ref=f32e230]:
+                  - link [ref=f32e524] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f32e526] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f32e528] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - generic [ref=f32e258]:
+                  - generic [ref=f32e259]: Começar
+                  - list [ref=f32e266]:
+                    - listitem [ref=f32e267]
+                    - listitem [ref=f32e268]
+                    - listitem [ref=f32e269]:
+                      - button [ref=f32e530]:
+                        - generic [ref=f32e273]:
+                          - generic [ref=f32e278]: Compartilhar fotos
+                          - generic [ref=f32e280]: Quando você compartilhar fotos, elas aparecerão no seu perfil.
+                          - button [ref=f32e532] [cursor=pointer]: Compartilhar sua primeira foto
+                    - listitem [ref=f32e283]:
+                      - button [ref=f32e533]:
+                        - generic [ref=f32e287]:
+                          - generic [ref=f32e291]: Adicionar telefone
+                          - generic [ref=f32e293]: Adicione seu número de telefone para poder redefinir sua senha, encontrar amigos e muito mais.
+                          - button [ref=f32e535] [cursor=pointer]: Adicionar telefone
+            - contentinfo [ref=f32e296]:
+              - generic [ref=f32e297]:
+                - generic [ref=f32e299]:
+                  - link [ref=f32e536] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f32e302]: Meta
+                  - link [ref=f32e537] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f32e305]: Sobre
+                  - link [ref=f32e538] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f32e308]: Blog
+                  - link [ref=f32e539] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f32e311]: Carreiras
+                  - link [ref=f32e540] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f32e314]: Ajuda
+                  - link [ref=f32e541] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f32e317]: API
+                  - link [ref=f32e542] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f32e320]: Privacidade
+                  - link [ref=f32e543] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f32e323]: Termos
+                  - link [ref=f32e544] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f32e326]: Localizações
+                  - link [ref=f32e545] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f32e329]: Popular
+                  - link [ref=f32e546] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f32e332]: Instagram Lite
+                  - link [ref=f32e547] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f32e335]: Meta AI
+                  - link [ref=f32e548] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f32e338]: Threads
+                  - link [ref=f32e549] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f32e341]: Upload de contatos e não usuários
+                  - link [ref=f32e550] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f32e344]: Meta Verified
+                - generic [ref=f32e345]:
+                  - generic [ref=f32e346] [cursor=pointer]:
+                    - generic [ref=f32e347]: Português (Brasil)
+                    - combobox [ref=f32e552]
+                  - generic [ref=f32e354]: © 2026 Instagram from Meta
+        - button [ref=f32e357] [cursor=pointer]:
+          - generic "Mensagens" [ref=f32e358]:
+            - generic [ref=f32e359]:
+              - img "Mensagens" [ref=f32e362]
+              - generic [ref=f32e365]: Mensagens
+  - generic [ref=f32e555]:
+    - button [active] [ref=f32e558] [cursor=pointer]:
+      - img "Fechar" [ref=f32e560]
+    - dialog "Editar" [ref=f32e680]:
+      - generic [ref=f32e681]:
+        - generic [ref=f32e685]:
+          - heading "Editar" [level=1] [ref=f32e688]
+          - button [ref=f32e691] [cursor=pointer]:
+            - img "Voltar" [ref=f32e694]
+          - button "Avançar" [ref=f32e698] [cursor=pointer]
+        - generic [ref=f32e699]:
+          - img [ref=f32e703] [cursor=pointer]
+          - generic [ref=f32e709]:
+            - generic [ref=f32e710]:
+              - tablist [ref=f32e711]:
+                - tab "Filtros" [selected] [ref=f32e713] [cursor=pointer]
+                - tab "Ajustes" [ref=f32e717] [cursor=pointer]
+              - tabpanel
+            - generic [ref=f32e722]:
+              - 'button "Filtro: Aden Aden" [ref=f32e724] [cursor=pointer]':
+                - 'img "Filtro: Aden" [ref=f32e726]'
+                - generic [ref=f32e727]: Aden
+              - 'button "Filtro: Clarendon Clarendon" [ref=f32e729] [cursor=pointer]':
+                - 'img "Filtro: Clarendon" [ref=f32e731]'
+                - generic [ref=f32e732]: Clarendon
+              - 'button "Filtro: Crema Crema" [ref=f32e734] [cursor=pointer]':
+                - 'img "Filtro: Crema" [ref=f32e736]'
+                - generic [ref=f32e737]: Crema
+              - 'button "Filtro: Gingham Gingham" [ref=f32e739] [cursor=pointer]':
+                - 'img "Filtro: Gingham" [ref=f32e741]'
+                - generic [ref=f32e742]: Gingham
+              - 'button "Filtro: Juno Juno" [ref=f32e744] [cursor=pointer]':
+                - 'img "Filtro: Juno" [ref=f32e746]'
+                - generic [ref=f32e747]: Juno
+              - 'button "Filtro: Lark Lark" [ref=f32e749] [cursor=pointer]':
+                - 'img "Filtro: Lark" [ref=f32e751]'
+                - generic [ref=f32e752]: Lark
+              - 'button "Filtro: Ludwig Ludwig" [ref=f32e754] [cursor=pointer]':
+                - 'img "Filtro: Ludwig" [ref=f32e756]'
+                - generic [ref=f32e757]: Ludwig
+              - 'button "Filtro: Moon Moon" [ref=f32e759] [cursor=pointer]':
+                - 'img "Filtro: Moon" [ref=f32e761]'
+                - generic [ref=f32e762]: Moon
+              - 'button "Filtro: Normal Original" [ref=f32e764] [cursor=pointer]':
+                - 'img "Filtro: Normal" [ref=f32e766]'
+                - generic [ref=f32e767]: Original
+              - 'button "Filtro: Perpetua Perpetua" [ref=f32e769] [cursor=pointer]':
+                - 'img "Filtro: Perpetua" [ref=f32e771]'
+                - generic [ref=f32e772]: Perpetua
+              - 'button "Filtro: Reyes Reyes" [ref=f32e774] [cursor=pointer]':
+                - 'img "Filtro: Reyes" [ref=f32e776]'
+                - generic [ref=f32e777]: Reyes
+              - 'button "Filtro: Slumber Slumber" [ref=f32e779] [cursor=pointer]':
+                - 'img "Filtro: Slumber" [ref=f32e781]'
+                - generic [ref=f32e782]: Slumber

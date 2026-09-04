@@ -1,0 +1,155 @@
+- generic [ref=f62e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic [ref=f62e18]:
+          - generic [ref=f62e21]:
+            - link [ref=f62e342] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f62e34]:
+              - link [ref=f62e344] [cursor=pointer]:
+                - /url: /
+              - link [ref=f62e346] [cursor=pointer]:
+                - /url: /reels/
+              - link [ref=f62e348] [cursor=pointer]:
+                - /url: /direct/inbox/
+              - link [ref=f62e350] [cursor=pointer]:
+                - /url: /explore/
+              - link [ref=f62e352] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f62e354] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f62e356] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f62e358] [cursor=pointer]:
+                - /url: /olaexperienceoficial/
+                - link [ref=f62e359]
+            - generic [ref=f62e127]:
+              - link [ref=f62e361] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=f62e363] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f62e146]:
+            - main [ref=f62e147]:
+              - generic [ref=f62e149]:
+                - generic [ref=f62e150]:
+                  - generic [ref=f62e151]:
+                    - generic [ref=f62e155]:
+                      - button [ref=f62e365] [cursor=pointer]:
+                        - generic [ref=f62e157]: Nota...
+                      - button [ref=f62e366] [cursor=pointer]
+                    - generic [ref=f62e170]:
+                      - generic [ref=f62e171]:
+                        - generic [ref=f62e172]:
+                          - link [ref=f62e368] [cursor=pointer]:
+                            - /url: "#"
+                            - heading [level=2] [ref=f62e369]:
+                              - generic [ref=f62e176]: olaexperienceoficial
+                          - button [ref=f62e370] [cursor=pointer]
+                        - generic [ref=f62e182]: OLÁ EXPERIENCE
+                        - generic [ref=f62e184]:
+                          - generic [ref=f62e186]:
+                            - generic [ref=f62e187]: "1"
+                            - text: post
+                          - link [ref=f62e372] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f62e190]:
+                              - generic [ref=f62e373]: "0"
+                              - text: seguidores
+                          - link [ref=f62e374] [cursor=pointer]:
+                            - /url: "#"
+                            - generic [ref=f62e194]:
+                              - generic [ref=f62e195]: "0"
+                              - text: seguindo
+                      - generic [ref=f62e197]:
+                        - generic [ref=f62e198]: esportes e lazer
+                        - button [ref=f62e375] [cursor=pointer]:
+                          - generic [ref=f62e202]: Da preparação da mente e do corpo à experiência na natureza. Movimento • aventura • bem-estar
+                  - generic [ref=f62e207]:
+                    - link [ref=f62e376] [cursor=pointer]:
+                      - /url: /accounts/edit/
+                      - text: Editar perfil
+                    - link [ref=f62e377] [cursor=pointer]:
+                      - /url: /archive/stories/
+                      - text: Ver Itens Arquivados
+                  - menu [ref=f62e213]:
+                    - list [ref=f62e217]:
+                      - listitem [ref=f62e218]
+                      - listitem [ref=f62e219]
+                      - listitem [ref=f62e220]:
+                        - button [ref=f62e378] [cursor=pointer]:
+                          - generic [ref=f62e229]: Novo
+                - tablist [ref=f62e233]:
+                  - link [ref=f62e380] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/
+                  - link [ref=f62e382] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/saved/
+                  - link [ref=f62e384] [cursor=pointer]:
+                    - /url: /olaexperienceoficial/tagged/
+                - link [ref=f62e386] [cursor=pointer]:
+                  - /url: /olaexperienceoficial/p/Dc2HOg6DHbS/
+            - contentinfo [ref=f62e272]:
+              - generic [ref=f62e273]:
+                - generic [ref=f62e275]:
+                  - link [ref=f62e388] [cursor=pointer]:
+                    - /url: https://about.meta.com/
+                    - generic [ref=f62e278]: Meta
+                  - link [ref=f62e389] [cursor=pointer]:
+                    - /url: https://about.instagram.com/
+                    - generic [ref=f62e281]: Sobre
+                  - link [ref=f62e390] [cursor=pointer]:
+                    - /url: https://about.instagram.com/blog/
+                    - generic [ref=f62e284]: Blog
+                  - link [ref=f62e391] [cursor=pointer]:
+                    - /url: https://about.instagram.com/about-us/careers
+                    - generic [ref=f62e287]: Carreiras
+                  - link [ref=f62e392] [cursor=pointer]:
+                    - /url: https://help.instagram.com/
+                    - generic [ref=f62e290]: Ajuda
+                  - link [ref=f62e393] [cursor=pointer]:
+                    - /url: https://developers.facebook.com/docs/instagram
+                    - generic [ref=f62e293]: API
+                  - link [ref=f62e394] [cursor=pointer]:
+                    - /url: /legal/privacy/
+                    - generic [ref=f62e296]: Privacidade
+                  - link [ref=f62e395] [cursor=pointer]:
+                    - /url: /legal/terms/
+                    - generic [ref=f62e299]: Termos
+                  - link [ref=f62e396] [cursor=pointer]:
+                    - /url: /explore/locations/
+                    - generic [ref=f62e302]: Localizações
+                  - link [ref=f62e397] [cursor=pointer]:
+                    - /url: /popular/
+                    - generic [ref=f62e305]: Popular
+                  - link [ref=f62e398] [cursor=pointer]:
+                    - /url: /web/lite/
+                    - generic [ref=f62e308]: Instagram Lite
+                  - link [ref=f62e399] [cursor=pointer]:
+                    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                    - generic [ref=f62e311]: Meta AI
+                  - link [ref=f62e400] [cursor=pointer]:
+                    - /url: https://www.threads.com/
+                    - generic [ref=f62e314]: Threads
+                  - link [ref=f62e401] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/instagram/261704639352628
+                    - generic [ref=f62e317]: Upload de contatos e não usuários
+                  - link [ref=f62e402] [cursor=pointer]:
+                    - /url: /accounts/meta_verified/?entrypoint=web_footer
+                    - generic [ref=f62e320]: Meta Verified
+                - generic [ref=f62e321]:
+                  - generic [ref=f62e322] [cursor=pointer]:
+                    - generic [ref=f62e323]: Português (Brasil)
+                    - combobox [ref=f62e404]
+                  - generic [ref=f62e330]: © 2026 Instagram from Meta
+        - button [ref=f62e333] [cursor=pointer]:
+          - generic "Mensagens" [ref=f62e334]:
+            - generic [ref=f62e335]:
+              - img "Mensagens" [ref=f62e338]
+              - generic [ref=f62e341]: Mensagens
+  - dialog [ref=f62e411]:
+    - generic [ref=f62e415]:
+      - heading "Alterar foto do perfil" [active] [level=3] [ref=f62e417]
+      - generic [ref=f62e418]:
+        - button "Carregar foto" [ref=f62e419] [cursor=pointer]
+        - button "Remover foto atual" [ref=f62e420] [cursor=pointer]
+        - button "Cancelar" [ref=f62e421] [cursor=pointer]
