@@ -37,3 +37,10 @@
 **Decisao:** Adiar a automacao total. Expert nao tem conta no Facebook ainda. Por ora, fica no modo semi-automatico: eu deixo arte e legenda prontas com antecedencia, ele so confirma a publicacao no dia (terca/sabado).
 **Racional:** Expert quer amadurecer mais o projeto antes de investir na infraestrutura de API/Business Manager.
 **Impacto:** Nenhuma automacao agendada configurada. Revisitar quando o expert tiver Facebook e Business Manager prontos.
+
+## 04/09/2026 — Cada episodio ganha cenario proprio (nao repetir ambiente)
+
+**Contexto:** Episodios 1, 2 e 3 estavam reaproveitando a mesma foto de sala de estar. Expert notou a repeticao e pediu ambientes diferentes por episodio, batendo com o tema de cada um.
+**Decisao:** Episodio 1 manteve o cenario original (sala, ja tinha curtidas). Episodios 2 (cozinha, domingo a noite) e 3 (corredor/porta de entrada) ganharam cena nova, gerada via Codex (nao Kling — sem credito, plano diferente) usando a arte 02 como referencia de personagem pra manter consistencia visual.
+**Racional:** Cenario repetido enfraquece a narrativa visual da serie; Codex resolve sem gastar credito da Kling (que so tem saldo de video, nao de imagem).
+**Impacto:** Padrao daqui pra frente: cada episodio novo (a partir do 4) precisa de cena propria gerada via Codex antes de virar carrossel. Kling fica reservado pra quando houver credito de imagem disponivel.

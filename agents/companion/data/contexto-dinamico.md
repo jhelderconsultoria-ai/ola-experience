@@ -8,7 +8,7 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 
 ## Campanhas Ativas
 
-- **Instagram Olá Experience** — bio, foto de perfil, arte 01 e carrossel do episodio 3 ("Vamos fazer alguma coisa?") publicados. Arte 02 (video animado, Kling) foi publicada e depois excluida por pedido do expert (musica sintetizada nao agradou). Linha editorial migrou de video/imagem gerada por IA pra carrossel de texto (mais rapido, sem depender de credito Kling). Temporada 2 ("A gente ainda tem tempo" — arco da avo Dora e do avo Beto, os 4 pilares) planejada em `INSTAGRAM OLÁ/TEMPORADA-2-AVOS.md`, ainda nao comecou a publicar.
+- **Instagram Olá Experience** — 3 posts no ar: episodio 1 (sala, bio original), episodio 2 (cozinha, "O final de semana passou") e episodio 3 (corredor/porta de entrada, "Vamos fazer alguma coisa?"). Cada episodio agora tem cenario proprio (decisao do expert: nao repetir ambiente entre episodios). Imagens de cenario dos episodios 2 e 3 foram geradas via Codex (nao Kling — sem custo de credito), personagens consistentes. Todos os posts tem hashtags de descoberta na legenda (saude/familia/esporte + #jornadaolá) e rotulo de conteudo de IA ativado. Linha editorial migrou de video pra carrossel de texto (mais rapido, sem depender de credito Kling). Temporada 2 ("A gente ainda tem tempo" — arco da avo Dora e do avo Beto, os 4 pilares) planejada em `INSTAGRAM OLÁ/TEMPORADA-2-AVOS.md`, ainda nao comecou a publicar.
 - **Cadencia de postagem:** terca e sabado, 2x/semana, decidida pelo expert.
 - **Automacao de postagem:** expert avaliou ir direto pra API oficial da Meta (publicacao 100% automatica) mas decidiu adiar — nao tem Facebook ainda. Por enquanto opera em modo semi-automatico: eu deixo arte/legenda prontas com antecedencia, expert so confirma "publica" no dia.
 
@@ -20,7 +20,7 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 
 ## Onde Parou
 
-Episodio 3 (carrossel) publicado e corrigido (ver Notas Tecnicas — canvas precisou virar quadrado). Bio atualizada pra formato "enigmatico" com os 4 pilares nomeados + #JornadaOlá. Proximo passo e episodio 4 da Temporada 1 ("A primeira caminhada") quando o expert pedir.
+Episodios 1, 2 e 3 publicados, cada um com cenario proprio e hashtags de descoberta. Bio atualizada pra formato "enigmatico" com os 4 pilares nomeados + #JornadaOlá. Proximo passo e episodio 4 da Temporada 1 ("A primeira caminhada") quando o expert pedir — vai precisar de mais uma cena nova via Codex (cenario de caminhada/parque).
 
 ## Notas Tecnicas
 
