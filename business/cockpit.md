@@ -4,8 +4,8 @@
 > Mantido pelo Companion. Expert valida.
 > Regra: max 3 ativos. Sem excecao.
 
-**Ultima atualizacao:** {data}
-**Proximo review:** {data}
+**Ultima atualizacao:** 04/09/2026
+**Proximo review:** 11/09/2026
 
 ---
 
@@ -13,7 +13,7 @@
 
 | # | Projeto | Objetivo | Next Action | Dono | Status | Tracker |
 |---|---------|----------|-------------|------|--------|---------|
-| 1 | | | | | | |
+| 1 | Instagram Olá Experience | Construir presenca pre-lancamento com a Familia Horizonte (@olaexperienceoficial) | Aprovar legenda e publicar o carrossel 03 "Vamos fazer alguma coisa?" | Jorge Helder | Ativo | `INSTAGRAM OLÁ/PROJETO-INSTAGRAM-OLA.md` |
 | 2 | | | | | | |
 | 3 | | | | | | |
 
