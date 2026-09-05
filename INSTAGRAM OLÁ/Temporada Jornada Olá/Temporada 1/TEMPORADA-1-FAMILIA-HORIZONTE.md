@@ -75,7 +75,7 @@ Diretrizes específicas deste episódio:
 - Preparação é mostrada como parte da aventura, não burocracia chata antes dela.
 - Cada personagem contribui de um jeito próprio (reforça "os filhos participam das decisões").
 - Prompt de imagem pronto em `prompts-codex-cena-preparar.txt`.
-**Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
+**Status:** arte gerada via Codex CLI e carrossel montado em `carrossel-08-preparar/` (4 slides, legenda em `carrossel-08-preparar/legenda.md`) — pronto pra publicar em 10/09/2026, aguardando confirmação do Jorge no dia.
 
 **Ep. 08 — "A primeira experiência na natureza"** — rótulo na tela: **T1E08** (era T1E07)
 Cenário: clareira de mata nativa, beira de um riacho, meio-dia com luz filtrada pelas árvores. A família chega junto (bicicleta do Nilo encostada num tronco — paga o que foi preparado no Ep. 07) e cada um vive a experiência do próprio jeito: a Nori usa a lupa que arrumou na mochila pra examinar algo na água, o Zai fotografa a paisagem com a câmera que escolheu levar, o Nilo acompanha a descoberta da Nori sem tirar o protagonismo dela, a Lu observa sentada numa pedra com uma xícara térmica, presente e sem celular.

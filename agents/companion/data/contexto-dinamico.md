@@ -15,7 +15,7 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 ## Prioridades do Momento
 
 1. ~~T1E05 publica hoje~~ — publicado em 05/09/2026: https://www.instagram.com/p/Dc6lqL0FgxX/ (apos 5 rodadas de correcao de arte: corpo da Lu, roupa do Nilo, pelagem/olhar do Thor, nitidez do Zai).
-2. Renumeração em cascata feita em 05/09/2026: T1E05-30 (ritmo em diante) viraram T1E06-31 pra abrir espaço pro Thor antes deles. T1E06-11 têm roteiro e prompt prontos, falta gerar as artes via Codex (fluxo direto pelo Claude Code) e montar os carrosseis.
+2. Renumeração em cascata feita em 05/09/2026: T1E05-30 (ritmo em diante) viraram T1E06-31 pra abrir espaço pro Thor antes deles. T1E06 e T1E07 já têm arte gerada e carrossel montado (publicados/prontos); T1E08-11 têm roteiro e prompt prontos, falta gerar as artes via Codex (fluxo direto pelo Claude Code) e montar os carrosseis.
 3. As 4 primeiras Frases (07/09, 09/09, 11/09, 12/09) foram criadas E publicadas todas em 05/09/2026 (pedido do Jorge — antecipado, nao esperou a data). Links em `campanha-60-dias-cotidiano.md`. Essas datas do calendario ja estao cumpridas. Script reutilizavel `scripts/gerar-frases.mjs` com 4 paletas variadas (verde-floresta, terracota escuro, creme claro, oliva) e logo escuro (`marca-ola-experience-caminho-escura.png`) pra fundo claro — usar pra proxima leva de Frases (a partir de 14/09).
 4. Escrever o roteiro do T1E12 (retoma o Bloco Cognitivo, agora limpo — sem quebra do Thor no meio, considerar incluir ele nas cenas mesmo assim) — depois de T1E06-11.
 5. Seguir a estrutura de 4 pilares ja fechada (ver `business/campanhas/instagram/campanha-60-dias-cotidiano.md` e `TEMPORADA-1-FAMILIA-HORIZONTE.md`): blocos de 5 episodios por pilar (Cognitivo T1E10-14, Cardio T1E15-19, Forca T1E20-24, Bolso T1E25-29) + 2 de fechamento (T1E30-31). Temporada 2 (avos) fica intocada, so comeca depois do checkpoint do dia 60 (06/11/2026 em diante).
@@ -30,7 +30,7 @@ Campanha de 60 dias decidida em 05/09/2026 (07/09 a 05/11/2026, 7x/semana, 3 Art
 
 As 4 primeiras Frases (07/09, 09/09, 11/09, 12/09) foram publicadas antecipadamente, todas em 05/09/2026 (pedido do Jorge) — essas datas do calendario ja estao cumpridas, nao repetir. Perfil em 10 posts, 27 seguidores.
 
-Proximo post da campanha: T1E06 ("Cada pessoa tem seu ritmo"), Arte, publica 08/09/2026 — roteiro e prompt prontos, falta gerar a arte. Depois dele, proxima Frase a escrever e pra 14/09/2026 em diante (ainda nao existe).
+T1E06 ("Cada pessoa tem seu ritmo") ja publicado em 05/09/2026 (antecipado, https://www.instagram.com/p/Dc6wW6OFiIF/). T1E07 ("Preparar tambem faz parte") teve arte gerada via Codex CLI e carrossel montado em 05/09/2026 (`carrossel-08-preparar/`, 4 slides + legenda) — pronto pra publicar em 10/09/2026, aguardando o Jorge confirmar "publica" no dia (nao antecipado desta vez, ao contrario do Thor/Frases). Depois dele, proxima Frase a escrever e pra 14/09/2026 em diante (ainda nao existe), e a proxima arte a gerar e o T1E08 ("A primeira experiencia na natureza", publica 13/09).
 
 Bio do perfil ajustada em 05/09/2026: hashtag `#vidaativa` trocada por `#familiahorizonte`, e rotulo de perfil "Criador de conteudo de IA" ativado (via Claude in Chrome).
 
