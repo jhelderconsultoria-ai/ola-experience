@@ -80,6 +80,32 @@ O nome é uma homenagem afetiva a Luduvina, mãe do fundador da Olá Experience.
 
 **Frase característica:** “E se a gente fosse descobrir?”
 
+### Thor — cachorro da família, golden retriever, 4 anos
+
+Entra na família no T1E05, como presente surpresa da Lu e do Nilo pra Nori — publicado
+fora da ordem de roteiro pra sair no mesmo dia do Ep. 04 (05/09/2026), antes dos
+episódios de ritmo/preparação/natureza já escritos (por isso eles foram renumerados +1).
+É um marco emocional da temporada, não um episódio de pilar.
+
+**Papel na família:** o integrante mais novo. Não fala (é um cachorro), mas participa
+ativamente das cenas — reage, brinca, acompanha a família nos passeios.
+
+**Personalidade:** brincalhão, leal, energético mas carinhoso — nem hiperativo, nem
+largado.
+
+**Aparência fixa (referência completa em `../personagens/thor-referencia.txt`):** golden
+retriever adulto, porte forte e robusto, pelagem dourada rica e intensa (mais próxima de
+âmbar do que do dourado pálido comum), peito e patas mais claros/cremosos, orelhas
+caídas, cauda felpuda. **Âncora fixa que nunca muda:** coleira de couro terracota (cor da
+paleta da marca) com uma placa de identificação redonda pequena — é o que garante
+reconhecimento dele em cenas futuras, sempre presente.
+
+**Afinidades:** correr, buscar bolinha, acompanhar a família nas trilhas e passeios na
+natureza (reforça o pilar Cardio nos episódios seguintes).
+
+**Frase característica:** (não fala — reage com o corpo: orelhas em pé de curiosidade,
+cauda abanando de alegria, deitado encostado em alguém quando a cena pede acolhimento.)
+
 ### Dora — avó (mãe do Nilo), 68 anos
 
 **Papel na família:** guarda as histórias e as receitas que ninguém mais lembra de perguntar.
@@ -169,6 +195,8 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 ## Guarda-roupa por personagem
 
 Pra evitar a impressão de que a família nunca troca de roupa, cada personagem tem um pequeno guarda-roupa fixo (2 a 4 looks) em vez de uma roupa única. Cada look mantém as âncoras visuais do personagem (cor de cabelo, corte, e um elemento de identidade que nunca muda) — só a roupa varia conforme a atividade do episódio. Sempre descrever o look explicitamente no prompt; nunca deixar "livre" pro gerador escolher.
+
+**Reforço de 05/09/2026:** variar o look ativamente a cada episódio novo — não repetir o mesmo look "casa/cotidiano" toda vez só porque é o mais fácil de descrever. Antes de escrever o prompt de uma cena nova, escolher explicitamente qual dos looks já catalogados combina com o contexto daquele episódio.
 
 ### Lu — mãe
 

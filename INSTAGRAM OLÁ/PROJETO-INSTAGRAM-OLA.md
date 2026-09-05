@@ -115,10 +115,13 @@ A imagem atual é a referência conceitual inicial. Antes da publicação, deve 
 
 ## Bio publicada
 
-> Da preparação da mente e do corpo à experiência na natureza.  
-> Movimento • aventura • bem-estar
+> Cognitivo. Cardio. Força. Bolso.
+> A Família Horizonte tá descobrindo os 4 pilares que ninguém te ensinou.
+> #jornadaolá #familiahorizonte
 
-Publicada no perfil `@olaexperienceoficial` em 3 de setembro de 2026.
+Atualizada no perfil `@olaexperienceoficial` em 05/09/2026 (hashtag trocada de
+`#vidaativa` pra `#familiahorizonte`, mais consistente com a hashtag usada em todo post
+da série). Rótulo de perfil "Criador de conteúdo de IA" também ativado nessa data.
 
 ## Cuidados desta fase
 
@@ -133,6 +136,12 @@ Publicada no perfil `@olaexperienceoficial` em 3 de setembro de 2026.
 O Claude Code possuía autorização local para ferramentas Playwright. O arquivo `.codex/config.toml` recebeu uma configuração equivalente para o Codex. Essa ferramenta somente ficará disponível após reiniciar a sessão e poderá exigir instalação inicial e novo login no navegador controlado.
 
 Nunca fornecer senha, código de autenticação ou cookies em uma conversa. O login deve ser realizado pessoalmente pelo titular da conta.
+
+## Campanha ativa
+
+Campanha de 60 dias (07/09 a 05/11/2026), postagem diária — 3x/semana Arte (episódios da
+série, mesma numeração Temporada+Episódio) e 4x/semana Frase (carrossel de texto, cores
+variadas). Calendário e detalhes em `business/campanhas/instagram/campanha-60-dias-cotidiano.md`.
 
 ## Próximas etapas
 

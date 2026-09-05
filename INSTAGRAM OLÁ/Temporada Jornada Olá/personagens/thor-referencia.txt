@@ -1,0 +1,18 @@
+THOR - FICHA DE REFERENCIA (cachorro da familia, golden retriever, 4 anos)
+===========================================
+Versao final aprovada em 05/09/2026 (thor-referencia.png), gerada via Codex CLI
+(codex exec + image_gen.imagegen) direto do Claude Code. Duas tentativas anteriores
+descartadas: v1 saiu fotorrealista demais (nao combinava com o estilo 3D da serie), v2
+melhorou o estilo mas faltava nome na placa e expressao mais carinhosa/fofa.
+
+Renderizacao 3D animada, CGI, estilo dos estudios de animacao tipo Pixar/Dreamworks adulto e sofisticado - NAO e uma fotografia, e um personagem de animacao 3D renderizado (leve estilizacao mantendo anatomia realista, acabamento de render de estudio de animacao). Ficha de referencia de personagem (character model sheet), fundo neutro liso cinza-claro, luz de estudio uniforme e suave.
+
+Cachorro golden retriever adulto, macho, 4 anos, porte forte e robusto, musculatura visivel, estrutura saudavel e ativa (nao magro, nao acima do peso). Pelagem dourada rica e intensa tom ambar, mais clara e cremosa no peito e patas. Orelhas caidas e fofas, focinho largo, cauda felpuda e longa.
+
+Expressao facial: MUITO importante - olhar carinhoso e afetuoso, olhos levemente mais grandes e brilhantes que o normal (dentro do estilo de animacao, sem exagero cartunesco extremo), sobrancelhas suaves elevadas transmitindo docura e carinho genuino, cabeca levemente inclinada de um jeito adoravel, a cara de personagem que a pessoa olha e se apaixona na hora - fofo, acolhedor, doce, nao apenas alegre generico.
+
+Duas poses lado a lado (perfil e de frente, estilo model sheet), lingua de fora num sorriso canino natural e caloroso.
+
+Elemento de identidade fixo (nunca muda em nenhum episodio futuro): coleira de couro terracota com uma placa de identificacao redonda de metal dourado pendurada. NA PLACA REDONDA, gravado/escrito em letras maiusculas simples e legiveis, o nome THOR (exatamente estas 4 letras: T-H-O-R, maiusculas, fonte simples tipo gravacao de pet tag, bem legivel e centralizado na placa). O nome precisa aparecer com nitidez em pelo menos uma das duas poses, de preferencia na pose de frente onde a placa fica mais visivel e de frente pra camera.
+
+Referencia de qualidade: mesmo nivel de acabamento e estilo dos dois cachorros golden retriever ja usados no episodio do parquinho da mesma serie (animacao 3D, nao foto real). Sem nenhum outro texto na imagem alem do nome na placa, sem logotipo, sem marca d'agua, sem pessoas na cena.

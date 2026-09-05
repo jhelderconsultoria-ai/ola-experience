@@ -13,7 +13,7 @@
 
 | # | Projeto | Objetivo | Next Action | Dono | Status | Tracker |
 |---|---------|----------|-------------|------|--------|---------|
-| 1 | Instagram Olá Experience | Construir presenca pre-lancamento com a Familia Horizonte (@olaexperienceoficial) | Definir cenario/roteiro do episodio 5 (T1E05, "Cada pessoa tem seu ritmo" — ainda sem cenario definido) e montar o carrossel | Jorge Helder | Ativo | `INSTAGRAM OLÁ/PROJETO-INSTAGRAM-OLA.md` |
+| 1 | Instagram Olá Experience | Campanha de 60 dias (07/09 a 05/11/2026): postar todo dia, 3x/semana Arte (Temporada 1 expandida ate T1E31, estruturada em 4 blocos de pilares) + 4x/semana Frase (reflexao), checkpoint de metricas no dia 60 | T1E05 (Thor) + T1E06 (ritmo, com vestuario esportivo generico como execucao segura da ideia Track&Field) + as 4 primeiras Frases (07,09,11,12/09) todos publicados antecipadamente em 05/09 (11 posts no ar, 27 seguidores). Proximo: gerar arte do T1E07 (publica 10/09) e escrever nova Frase pra 14/09 em diante | Jorge Helder | Ativo | `business/campanhas/instagram/campanha-60-dias-cotidiano.md` |
 | 2 | | | | | | |
 | 3 | | | | | | |
 
