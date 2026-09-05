@@ -12,19 +12,19 @@ Mostrar uma família comum, cansada e cheia de tecnologia, descobrindo que dá p
 
 **Ep. 1 — "Juntos, mas envolvidos em rotinas diferentes"**
 Apresentação da família — todos na sala, cada um no próprio aparelho, juntos fisicamente mas ausentes uns dos outros. Publicado como post de chamada (sem numeração de episódio, funciona como convite pros episódios que vêm), não como carrossel.
-**Status:** publicado — post único (sem carrossel), arte em `artes-base/01-familia-ola-apresentacao-chamada.png`.
+**Status:** publicado em 04/09/2026 — post único (sem carrossel), arte em `artes-base/01-familia-ola-apresentacao-chamada.png`.
 
 **Ep. 01 — "O final de semana passou"**
 A Lu cuidou de todo mundo, o Nilo prometeu (de novo) que ia ser diferente, o Zai registrou tudo no celular, a Nori guardou uma folha. Cenário: cozinha, domingo à noite.
-**Status:** publicado — carrossel em `carrossel-02-final-de-semana/`.
+**Status:** publicado em 04/09/2026 — carrossel em `carrossel-02-final-de-semana/`.
 
 **Ep. 02 — "Vamos fazer alguma coisa?"**
 A família decide sair de casa. Cada um reage diferente ao convite — a Lu já sabe que se esperar não começa nunca, o Nilo prefere começar pequeno, o Zai só topa se puder escolher parte do roteiro, a Nori pergunta o que sempre movimenta todo mundo. Cenário: corredor/porta de entrada.
-**Status:** publicado — carrossel em `carrossel-03-vamos-fazer/`.
+**Status:** publicado em 04/09/2026 — carrossel em `carrossel-03-vamos-fazer/`.
 
 **Ep. 03 — "Uma volta pelo quarteirão"** (era "A primeira caminhada" na lista original — renomeado pra não sugerir que a família nunca tinha caminhado junta antes)
 A primeira caminhada de fato: uma volta simples pelo bairro, de manhã. Cenário: rua arborizada.
-**Status:** publicado — carrossel em `carrossel-04-primeira-caminhada/`.
+**Status:** publicado em 04/09/2026 — carrossel em `carrossel-04-primeira-caminhada/`.
 
 **Ep. 04 — "Dez minutos de presença"**
 Ainda não definido cenário/roteiro. Ideia da lista original: um momento curto e deliberado de atenção plena entre os integrantes da família.
