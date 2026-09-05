@@ -42,7 +42,7 @@ function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
     <style>
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 5px; fill: ${p.destaque}; }
       .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 52px; font-weight: 700; fill: ${p.texto}; }
-      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 24px; letter-spacing: 2px; fill: ${p.textoMudo}; }
+      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 32px; letter-spacing: 2px; fill: ${p.textoMudo}; }
       .badge { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; fill: ${p.textoMudo}; }
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${p.destaque}; }
     </style>
