@@ -27,8 +27,14 @@ A primeira caminhada de fato: uma volta simples pelo bairro, de manhã. Cenário
 **Status:** publicado em 04/09/2026 — carrossel em `carrossel-04-primeira-caminhada/`.
 
 **Ep. 04 — "Dez minutos de presença"**
-Ainda não definido cenário/roteiro. Ideia da lista original: um momento curto e deliberado de atenção plena entre os integrantes da família.
-**Status:** pendente.
+Cenário: parque, de dia, luz clara/fria (não o tom âmbar dos episódios anteriores — testando a variação de iluminação por horário/atividade). A Nori brinca com outras crianças no parquinho, entre elas algumas com deficiência física e uma criança com síndrome de Down. A cena mostra todas brincando juntas, como iguais — ninguém de fora observando, ninguém "incluindo" ninguém como favor. A mensagem é sobre pertencimento, não sobre ajuda.
+
+Diretrizes específicas deste episódio:
+- Legenda simples e direta (ex.: "brincar não tem porta fechada pra ninguém"), sem linguagem clínica, sem explicar que as crianças "precisam" de interação — a cena fala sozinha.
+- Nenhum personagem (incluindo a Nori) é retratado como quem "ajuda" ou "inclui" as outras crianças — todas estão apenas brincando, no mesmo nível.
+- Geração de imagem exige conferência visual extra antes de aprovar, em especial a criança com síndrome de Down — checar que não saiu estereotipada/caricata antes de seguir pro carrossel.
+- Nori mantém a descrição física e o guarda-roupa já estabelecidos (ver `../biblia-familia-ola.md`) para não perder consistência com os episódios anteriores.
+**Status:** pendente — roteiro definido em 04/09/2026, produção não iniciada.
 
 **Ep. 05 — "Cada pessoa tem seu ritmo"**
 Ainda não definido cenário/roteiro. Ideia da lista original: reconhecer que a jornada de cada integrante da família avança num tempo diferente.
