@@ -16,6 +16,16 @@
         "KLING_API_KEY": "${KLING_API_KEY}",
         "KLING_REQUEST_TIMEOUT_MS": "60000"
       }
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--browser",
+        "chromium"
+      ],
+      "env": {}
     }
   }
 }

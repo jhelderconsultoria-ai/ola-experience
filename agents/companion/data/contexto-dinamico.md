@@ -20,7 +20,13 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 
 ## Onde Parou
 
-Episodios 1, 2 e 3 publicados, cada um com cenario proprio e hashtags de descoberta. Bio atualizada pra formato "enigmatico" com os 4 pilares nomeados + #JornadaOlá. Proximo passo e episodio 4 da Temporada 1 ("A primeira caminhada") quando o expert pedir — vai precisar de mais uma cena nova via Codex (cenario de caminhada/parque).
+Publicados no Instagram: post de chamada (sala), Episodio 01 (cozinha, "final de semana passou"), Episodio 02 (corredor, "vamos fazer alguma coisa"), Episodio 03 (rua, "uma volta pelo quarteirao") e Episodio 04/T1E04 (parquinho, "O parquinho e de todo mundo") — https://www.instagram.com/p/Dc6OmgtlhkH/, publicado em 05/09/2026 direto pelo Claude Code via Claude in Chrome (ver nota tecnica abaixo). Republicado no mesmo dia apos o Jorge apontar corte na capa (fit:'cover' descartava 2 criancas nas pontas) e avatar da Nori descentralizado — ambos corrigidos nos scripts antes de repostar.
+
+Proximo: Episodio 5 (T1E05, "Cada pessoa tem seu ritmo") ainda sem cenario/roteiro definido.
+
+Decisao nova (05/09/2026): numeracao de episodio reinicia a cada temporada (formato serie/Netflix). Rotulo na tela a partir do episodio 4 da Temporada 1 e em toda Temporada 2 passa a ser `T{temporada}E{episodio}` (ex.: T1E04, T2E01) — ver `log-decisoes.md`. `TEMPORADA-2-AVOS.md` ja foi renumerado de Ep.10-14 pra Ep.01-05.
+
+Visao de longo prazo registrada: o expert quer eventualmente levar a Jornada Ola pra video e/ou PDF — tratar a serie como ativo de propriedade intelectual em construcao, nao so conteudo de pre-lancamento (ver log-decisoes.md).
 
 ## Notas Tecnicas
 
@@ -28,8 +34,9 @@ Episodios 1, 2 e 3 publicados, cada um com cenario proprio e hashtags de descobe
 - `sharp`, `ffmpeg-static` e `@mindstone/mcp-server-kling` estao declarados em `package.json` (devDependencies) especificamente pra evitar que um `npm install` de um derrube o outro (aconteceu 2x nesta sessao, agravado pelo OneDrive sincronizando no meio da escrita).
 - Pasta do projeto fica dentro do OneDrive — escritas rapidas de varios arquivos (ex: os 6 slides do carrossel) podem sumir temporariamente por sincronizacao; se sumir, e so regenerar via script (nada e feito manualmente, tudo reprodutivel).
 - Carrosseis do Instagram devem ser gerados em **1080x1080 (quadrado)**, nao 1080x1350 (4:5) — o Instagram corta todo carrossel pra quadrado no upload independente da proporcao enviada, e isso cortava titulo/avatar/logo antes de eu descobrir. Os scripts em `scripts/gerar-carrossel-03-vamos-fazer.mjs`, `scripts/gerar-capa-carrossel-03.mjs` e `scripts/adicionar-avatares-carrossel-03.mjs` ja usam W=1080,H=1080 — manter esse padrao em episodios futuros.
+- Ao converter uma arte retangular (ex.: 1536x1024 gerada por IA) pra capa quadrada 1080x1080, usar `fit:'contain'` com padding na cor de fundo da marca, nunca `fit:'cover'` — o `cover` corta simetricamente as laterais (ou topo/base) pra preencher o quadrado, e se a cena tiver personagens espalhados pela largura toda (caso do episodio 4, com 6 criancas), os das pontas somem sem aviso. So descoberto porque o Jorge notou a falta de 2 criancas comparando com a arte original.
 - O arquivo `marca-ola-experience-caminho.png` (assinatura-mae) **nao tem transparencia real** — o fundo e um checker cinza solido gravado nos pixels (hasAlpha:false), nao alpha channel. Colar ele direto em cima de qualquer fundo colorido vira uma caixa cinza apagada. Use sempre `marca-ola-experience-caminho-transparente.png` (gerado nesta sessao, fundo removido por saturacao/diff de cor) pra qualquer composicao futura.
 
 ---
 
-*Ultima atualizacao: 04/09/2026*
+*Ultima atualizacao: 05/09/2026*

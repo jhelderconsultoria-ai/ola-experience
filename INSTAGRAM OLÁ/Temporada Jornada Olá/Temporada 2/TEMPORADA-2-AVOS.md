@@ -2,6 +2,8 @@
 
 > Continuação da Temporada 1 (9 episódios da Família Horizonte). Cadência: terça e sábado, 2x/semana. Personagens novos: Dora (avó, 68) e Beto (avô, 71), pais do Nilo — perfis completos em `../biblia-familia-ola.md` (pasta anterior, compartilhada entre temporadas).
 
+> **Numeração:** cada temporada reinicia o episódio em 1 (formato série — Temporada + Episódio, como Netflix). Rótulo na tela: `T2E0X`. Evita colisão com o Ep.01 da Temporada 1 e escala pra quantas temporadas vierem.
+
 ## Por que essa temporada
 
 Muita gente esquece dos avós no dia a dia — não por maldade, por rotina. A Temporada 2 usa a própria família pra mostrar isso: Dora se isolou sem perceber (o "antes"), Beto nunca parou (o "depois"), e o resto da família passa a temporada aprendendo a incluir os dois de verdade, não só quando precisa de ajuda com as crianças.
@@ -17,19 +19,19 @@ Formato: carrossel de texto (mesmo padrão do episódio 3), sem depender de gera
 
 ## Terças — arco da Dora
 
-**Ep. 10 — "Ela também merece ser convidada"**
+**Ep. 01 — "Ela também merece ser convidada"** (rótulo na tela: T2E01)
 Dora só é chamada pra resolver, nunca pra se divertir. A família convida ela pra algo só por vontade de tê-la junto.
 
-**Ep. 11 — "O avô que ninguém esperava"**
+**Ep. 02 — "O avô que ninguém esperava"** (rótulo na tela: T2E02)
 Apresenta o Beto: enquanto todo mundo acha que ele "já era", ele aparece animado, puxando um desafio pra galera (beach tennis).
 
-**Ep. 12 — "Ela disse não. De novo."**
+**Ep. 03 — "Ela disse não. De novo."** (rótulo na tela: T2E03)
 Dora hesita — vergonha, medo de não dar conta. Nori pergunta de novo: "E se a gente fosse descobrir?"
 
-**Ep. 13 — "Primeira vez em anos"**
+**Ep. 04 — "Primeira vez em anos"** (rótulo na tela: T2E04)
 Dora topa (caminhada em grupo ou hidroginástica) e descobre que ainda tem fôlego. Ponto de virada dela.
 
-**Ep. 14 — "Avó também tem grupo de amigas"**
+**Ep. 05 — "Avó também tem grupo de amigas"** (rótulo na tela: T2E05)
 Dora reconecta com a própria vida social — mostra que voltar a se mover abre outras portas, não só as da família.
 
 ## Sábados — 4 pilares (voz do Beto)

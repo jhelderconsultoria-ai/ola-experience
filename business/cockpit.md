@@ -4,7 +4,7 @@
 > Mantido pelo Companion. Expert valida.
 > Regra: max 3 ativos. Sem excecao.
 
-**Ultima atualizacao:** 04/09/2026
+**Ultima atualizacao:** 05/09/2026
 **Proximo review:** 11/09/2026
 
 ---
@@ -13,7 +13,7 @@
 
 | # | Projeto | Objetivo | Next Action | Dono | Status | Tracker |
 |---|---------|----------|-------------|------|--------|---------|
-| 1 | Instagram Olá Experience | Construir presenca pre-lancamento com a Familia Horizonte (@olaexperienceoficial) | Aprovar legenda e publicar o carrossel 03 "Vamos fazer alguma coisa?" | Jorge Helder | Ativo | `INSTAGRAM OLÁ/PROJETO-INSTAGRAM-OLA.md` |
+| 1 | Instagram Olá Experience | Construir presenca pre-lancamento com a Familia Horizonte (@olaexperienceoficial) | Definir cenario/roteiro do episodio 5 (T1E05, "Cada pessoa tem seu ritmo" — ainda sem cenario definido) e montar o carrossel | Jorge Helder | Ativo | `INSTAGRAM OLÁ/PROJETO-INSTAGRAM-OLA.md` |
 | 2 | | | | | | |
 | 3 | | | | | | |
 
