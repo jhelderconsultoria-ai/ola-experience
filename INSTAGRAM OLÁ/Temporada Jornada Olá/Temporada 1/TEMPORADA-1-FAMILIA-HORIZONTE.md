@@ -27,7 +27,7 @@ A primeira caminhada de fato: uma volta simples pelo bairro, de manhã. Cenário
 **Status:** publicado em 04/09/2026 — carrossel em `carrossel-04-primeira-caminhada/`.
 
 **Ep. 04 — "O parquinho é de todo mundo"** (era "Dez minutos de presença" na lista original — renomeado porque o tema mudou de rumo, de atenção plena em família pra inclusão entre crianças)
-Cenário: parque, de dia, luz clara/fria (não o tom âmbar dos episódios anteriores — testando a variação de iluminação por horário/atividade). A Nori brinca com outras crianças no parquinho, entre elas algumas com deficiência física e uma criança com síndrome de Down. A cena mostra todas brincando juntas, como iguais — ninguém de fora observando, ninguém "incluindo" ninguém como favor. A mensagem é sobre pertencimento, não sobre ajuda.
+Cenário: parque, de dia, luz clara/fria (não o tom âmbar dos episódios anteriores — testando a variação de iluminação por horário/atividade). A Nori brinca com outras crianças no parquinho, entre elas algumas com deficiência física e uma criança com síndrome de Down. Dois cachorros golden retriever correm animados ao redor do grupo, brincando junto com as crianças. A cena mostra todas brincando juntas, como iguais — ninguém de fora observando, ninguém "incluindo" ninguém como favor. A mensagem é sobre pertencimento, não sobre ajuda.
 
 Diretrizes específicas deste episódio:
 - Legenda simples e direta (ex.: "brincar não tem porta fechada pra ninguém"), sem linguagem clínica, sem explicar que as crianças "precisam" de interação — a cena fala sozinha.
