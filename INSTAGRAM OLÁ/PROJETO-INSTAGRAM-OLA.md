@@ -70,7 +70,7 @@ Pergunta recorrente de Nori:
 
 > E se a gente fosse descobrir?
 
-A documentação completa dos personagens está em `conteudo-inicial/biblia-familia-ola.md`.
+A documentação completa dos personagens está em `Temporada Jornada Olá/biblia-familia-ola.md`.
 
 ## Regras narrativas
 
@@ -107,8 +107,8 @@ A documentação completa dos personagens está em `conteudo-inicial/biblia-fami
 
 ## Primeira publicação
 
-- Imagem: `conteudo-inicial/01-familia-ola-apresentacao.png`
-- Roteiro, legenda e Stories: `conteudo-inicial/01-publicacao-apresentacao.md`
+- Imagem: `Temporada Jornada Olá/Temporada 1/artes-base/01-familia-ola-apresentacao.png`
+- Roteiro, legenda e Stories: `Temporada Jornada Olá/Temporada 1/01-publicacao-apresentacao.md`
 - Abertura sugerida: “Quando foi a última vez que vocês viveram algo novo juntos?”
 
 A imagem atual é a referência conceitual inicial. Antes da publicação, deve receber identidade visual, nome da marca e texto final aprovado.

@@ -5,9 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/04-caminhada-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/04-caminhada-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/carrossel-04-primeira-caminhada');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/carrossel-04-primeira-caminhada');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const W = 1080, H = 1080;

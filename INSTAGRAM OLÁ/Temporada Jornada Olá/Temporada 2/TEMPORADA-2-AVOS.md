@@ -1,6 +1,6 @@
 # Temporada 2 — "A gente ainda tem tempo"
 
-> Continuação da Temporada 1 (9 episódios da Família Horizonte). Cadência: terça e sábado, 2x/semana. Personagens novos: Dora (avó, 68) e Beto (avô, 71), pais do Nilo — perfis completos em `conteudo-inicial/biblia-familia-ola.md`.
+> Continuação da Temporada 1 (9 episódios da Família Horizonte). Cadência: terça e sábado, 2x/semana. Personagens novos: Dora (avó, 68) e Beto (avô, 71), pais do Nilo — perfis completos em `../biblia-familia-ola.md` (pasta anterior, compartilhada entre temporadas).
 
 ## Por que essa temporada
 
