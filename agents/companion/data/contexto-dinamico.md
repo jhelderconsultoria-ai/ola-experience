@@ -46,6 +46,8 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 
 **Frase 13/09 publicada antecipadamente (06/09/2026):** "Nem tudo que é rápido é melhor" — https://www.instagram.com/p/Dc9EuewljIH/. Pasta renomeada `frases/2026-09-13-postado-06-09-2026/`.
 
+**Anúncio do T1E06 liberado (06/09/2026):** saiu de "Em análise" e está rodando — encerra em 5 dias (previsão ~11/09/2026), 20 visualizações, 2 visitas ao perfil, R$0,24 de R$50,00 gastos até agora. Novos itens de rotina registrados em `PROJETO-INSTAGRAM-OLA.md`: (3.1) toda vez que logar, se houver post turbinado, conferir status em `instagram.com/ad_tools/`; (3.2) assim que os dias comprados terminarem, dar o resultado final pro Jorge (visualizações, visitas ao perfil, valor gasto, público atingido). **Lembrete:** checar esse anúncio especificamente a partir de ~11/09/2026 pra reportar o resultado final.
+
 **Pendente pra 07/09/2026 em diante — resto da estrutura do 5º pilar:** ver decisão completa em `agents/companion/data/log-decisoes.md`. Falta: (1) confirmar com o Jorge a posição do bloco Alimentação na ordem real dos episódios (T1E10-12 já existem como Bloco Cognitivo, T1E10 publicado — proposta em aberto é anexar Alimentação depois do Bolso sem renumerar o que já existe); (2) atualizar `biblia-familia-ola.md`, `TEMPORADA-1-FAMILIA-HORIZONTE.md`, `TEMPORADA-2-AVOS.md` e o calendário da campanha de 60 dias pra refletir os episódios extras. Jorge pediu explicitamente pra só começar a criar conteúdo novo a partir de 07/09/2026 — hoje foi só a bio.
 
 ## Onde Parou
