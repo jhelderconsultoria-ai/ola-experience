@@ -159,7 +159,7 @@ rótulo por post já usado em cada publicação).
 | 55 | 2026-10-31 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
 | 56 | 2026-11-01 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E29_ |
 | 57 | 2026-11-02 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 58 | 2026-11-03 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E30_ |
+| 58 | 2026-11-03 | Terça | Arte (família em cena) | T1E30 — Duas horas só nossas (Fechamento, Nilo e Lu na academia) — arte e carrossel de 5 slides prontos em `T1E30-duas-horas-nossas/carrossel/`, aguardando a data |
 | 59 | 2026-11-04 | Quarta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
 | 60 | 2026-11-05 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E31_ |
 

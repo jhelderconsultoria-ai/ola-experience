@@ -149,6 +149,31 @@ Diretrizes específicas deste episódio:
 Ainda não definido cenário/roteiro episódio a episódio — escrever mais perto da data (regra: 1-2 semanas de antecedência). Considerar incluir o Thor nas cenas seguintes, já que ele passa a fazer parte do cotidiano da família.
 **Status:** pendente.
 
+### Fechamento (T1E30-31)
+
+**Ep. 30 — "Duas horas só nossas"** — rótulo na tela: **T1E30**
+Cenário: academia de bairro genérica, bem cedo da manhã, antes do resto da casa acordar. O Nilo e a Lu treinando juntos — ele na esteira, ela ao lado se alongando ou também na esteira — sem os filhos, sem o Thor, só os dois. Nenhuma marca, logotipo ou nome de academia aparece em lugar nenhum da cena (paredes, equipamentos, roupas). Callback ao "pequeno espaço protegido na rotina" do Ep. 11 (Lu), agora vivido a dois.
+
+Carrossel de 5 slides — junta três dos quatro pilares no mesmo episódio (fechamento):
+1. **Capa** — "Duas horas só nossas" (Nilo e Lu treinando juntos).
+2. **Cognitivo** — foco mental, desconectar da lista de tarefas: *"Aqui ninguém me chama de pai. Só de gente prestando atenção na própria respiração."*
+3. **Cardio** — fôlego e disposição, efeito sentido, não prometido: *"Vinte minutos de esteira e o resto do dia fica mais leve."*
+4. **Força** — funcional, não estética (ecoa a diretriz do Bloco Força: "não é sobre ficar mais forte pra malhação, é sobre aguentar o colo, as compras, a correria do dia").
+5. **Fechamento** — *"Duas horas por semana só deles — o resto da família também sente a diferença."* + assinatura Olá Experience.
+
+Diretrizes específicas deste episódio:
+- Nenhuma promessa de resultado ou efeito biológico (nada de "afasta a velhice" ou similar) — só sensação subjetiva de disposição/foco, guardrail 5 e 6 da bíblia.
+- Sem citar nome de academia real (nem Bluefit nem qualquer outra) e sem logotipo de marca em nenhuma peça de roupa ou equipamento — mesma regra do guarda-roupa aplicada aqui.
+- Guarda-roupa: cor do look ativo rotacionada em relação ao último uso — Nilo em terracota (era amarelo-mostarda no T1E08), Lu em regata verde-musgo + legging terracota (inverte a combinação terracota/verde-oliva do T1E08).
+- Hashtags de descoberta sugeridas: `#jornadaolá #familiahorizonte #saudeemfamilia #vidaativa #academia #treino #casalativo #familiaunida #bemestar` — genéricas, sem nome de marca.
+- Chamada para interação sugerida: "Vocês têm algum horário que é só de vocês dois, sem os filhos?"
+- Prompt de imagem pronto em `T1E30-duas-horas-nossas/prompt/prompts-codex-cena-duas-horas-nossas.txt`.
+**Status:** arte gerada via Codex e carrossel de 5 slides montado em `T1E30-duas-horas-nossas/carrossel/` — pronto pra publicar mais perto da data (dia 58 da campanha, 03/11/2026).
+
+**Ep. 31 — Fechamento final**
+Ainda não definido — fecha a Temporada 1 juntando o pilar Bolso que falta neste bloco e ecoando "quando vamos novamente?" numa escala maior, preparando a virada pra Temporada 2 (avós). Escrever mais perto da data.
+**Status:** pendente.
+
 ## Guardrails (herdados do projeto)
 
 - Tecnologia nunca é tratada como vilã.
