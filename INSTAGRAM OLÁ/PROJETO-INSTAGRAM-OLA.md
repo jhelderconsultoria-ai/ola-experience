@@ -107,8 +107,8 @@ A documentação completa dos personagens está em `Temporada Jornada Olá/bibli
 
 ## Primeira publicação
 
-- Imagem: `Temporada Jornada Olá/Temporada 1/T1E00-chamada/arte-bruta/01-familia-ola-apresentacao.png`
-- Roteiro, legenda e Stories: `Temporada Jornada Olá/Temporada 1/T1E00-chamada/doc/01-publicacao-apresentacao.md`
+- Imagem: `Temporada Jornada Olá/Temporada 1/T1E00-chamada-postado-04-09-2026/arte-bruta/01-familia-ola-apresentacao.png`
+- Roteiro, legenda e Stories: `Temporada Jornada Olá/Temporada 1/T1E00-chamada-postado-04-09-2026/doc/01-publicacao-apresentacao.md`
 - Abertura sugerida: “Quando foi a última vez que vocês viveram algo novo juntos?”
 
 A imagem atual é a referência conceitual inicial. Antes da publicação, deve receber identidade visual, nome da marca e texto final aprovado.

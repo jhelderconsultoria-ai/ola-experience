@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `T1E06-ritmo/carrossel/` (4 slides)
+- **Carrossel:** `T1E06-ritmo-postado-05-09-2026/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** rótulo de conteúdo gerado por IA (ativar ao publicar)
 - **Acessibilidade:** texto alternativo aplicado em cada slide

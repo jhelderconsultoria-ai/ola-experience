@@ -14,19 +14,19 @@ Mostrar uma família comum, cansada e cheia de tecnologia, descobrindo que dá p
 
 **Ep. 1 — "Juntos, mas envolvidos em rotinas diferentes"**
 Apresentação da família — todos na sala, cada um no próprio aparelho, juntos fisicamente mas ausentes uns dos outros. Publicado como post de chamada (sem numeração de episódio, funciona como convite pros episódios que vêm), não como carrossel.
-**Status:** publicado em 04/09/2026 — post único (sem carrossel), arte em `T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-chamada.png`.
+**Status:** publicado em 04/09/2026 — post único (sem carrossel), arte em `T1E00-chamada-postado-04-09-2026/arte-bruta/01-familia-ola-apresentacao-chamada.png`.
 
 **Ep. 01 — "O final de semana passou"**
 A Lu cuidou de todo mundo, o Nilo prometeu (de novo) que ia ser diferente, o Zai registrou tudo no celular, a Nori guardou uma folha. Cenário: cozinha, domingo à noite.
-**Status:** publicado em 04/09/2026 — carrossel em `T1E01-final-de-semana/carrossel/`.
+**Status:** publicado em 04/09/2026 — carrossel em `T1E01-final-de-semana-postado-04-09-2026/carrossel/`.
 
 **Ep. 02 — "Vamos fazer alguma coisa?"**
 A família decide sair de casa. Cada um reage diferente ao convite — a Lu já sabe que se esperar não começa nunca, o Nilo prefere começar pequeno, o Zai só topa se puder escolher parte do roteiro, a Nori pergunta o que sempre movimenta todo mundo. Cenário: corredor/porta de entrada.
-**Status:** publicado em 04/09/2026 — carrossel em `T1E02-vamos-fazer/carrossel/`.
+**Status:** publicado em 04/09/2026 — carrossel em `T1E02-vamos-fazer-postado-04-09-2026/carrossel/`.
 
 **Ep. 03 — "Uma volta pelo quarteirão"** (era "A primeira caminhada" na lista original — renomeado pra não sugerir que a família nunca tinha caminhado junta antes)
 A primeira caminhada de fato: uma volta simples pelo bairro, de manhã. Cenário: rua arborizada.
-**Status:** publicado em 04/09/2026 — carrossel em `T1E03-primeira-caminhada/carrossel/`. (Nota: em 05/09/2026 o Claude questionou esse status por só achar a capa gerada no disco local — Jorge confirmou que foi publicado sim.)
+**Status:** publicado em 04/09/2026 — carrossel em `T1E03-primeira-caminhada-postado-04-09-2026/carrossel/`. (Nota: em 05/09/2026 o Claude questionou esse status por só achar a capa gerada no disco local — Jorge confirmou que foi publicado sim.)
 
 **Ep. 04 — "O parquinho é de todo mundo"** (era "Dez minutos de presença" na lista original — renomeado porque o tema mudou de rumo, de atenção plena em família pra inclusão entre crianças) — rótulo na tela: **T1E04**
 Cenário: parque, de dia, luz clara/fria (não o tom âmbar dos episódios anteriores — testando a variação de iluminação por horário/atividade). A Nori brinca com outras crianças no parquinho, entre elas algumas com deficiência física e uma criança com síndrome de Down. Dois cachorros golden retriever correm animados ao redor do grupo, brincando junto com as crianças. A cena mostra todas brincando juntas, como iguais — ninguém de fora observando, ninguém "incluindo" ninguém como favor. A mensagem é sobre pertencimento, não sobre ajuda.
@@ -47,11 +47,11 @@ Diretrizes específicas deste episódio:
 - Episódio de marco emocional (chegada de um novo integrante fixo) — publicado fora da ordem original de roteiro, a pedido do Jorge, pra sair no ar ainda em 05/09/2026 (mesmo dia do Ep. 04). Por isso entra como T1E05, antes dos episódios já roteirizados de ritmo/preparação/natureza, que foram todos renumerados +1 (ver abaixo).
 - Thor precisa manter a coleira de couro terracota com placa redonda (com o nome THOR gravado) em **todo** episódio futuro em que aparecer — é a âncora visual fixa dele.
 - Prompt de referência do personagem: `../personagens/thor-referencia.txt` (gerado antes da cena, pra fixar a aparência — 3 iterações até aprovar).
-- Prompt da cena: `T1E05-thor/prompt/prompts-codex-cena-thor-chegada.txt`.
+- Prompt da cena: `T1E05-thor-postado-05-09-2026/prompt/prompts-codex-cena-thor-chegada.txt`.
 **Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6lqL0FgxX/ (carrossel com 4 slides, legenda com hashtags, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Arte gerada e revisada direto via Codex CLI (`codex exec`) chamado pelo Claude Code — novo fluxo, ver nota técnica em `contexto-dinamico.md`.
 
 **Correções pós-geração (mesmo dia, antes de publicar):** o Jorge apontou 4 problemas na primeira versão da cena, corrigidos em rodadas sucessivas de edição via `image_gen.imagegen` (usando imagens de referência de episódios anteriores + a ficha do Thor):
-1. Corpo/pernas da Lu fora do padrão de identidade dela — corrigido usando `T1E02-vamos-fazer/arte-bruta/03-corredor-raw.png` como referência de físico.
+1. Corpo/pernas da Lu fora do padrão de identidade dela — corrigido usando `T1E02-vamos-fazer-postado-04-09-2026/arte-bruta/03-corredor-raw.png` como referência de físico.
 2. Nilo repetindo a mesma camiseta azul-petróleo de todos os episódios — trocado por jaqueta jeans + camiseta cinza-clara (um dos looks já previstos na bíblia, "fim de semana casual").
 3. Pelagem do Thor com aspecto arrepiado e olhar direcionado pra longe da Nori — corrigido pra pelagem lisa/escovada e cabeça virada com expressão carinhosa pra ela, usando `thor-referencia.png` como referência.
 4. Zai (ao fundo) com o rosto borrado/pouco nítido — corrigido pra nitidez igual aos outros personagens.
@@ -63,8 +63,8 @@ Cenário: trilha arborizada num parque, manhã de sábado, luz clara e quente. A
 Diretrizes específicas deste episódio:
 - Nenhum personagem é retratado como "mais lento" ou "mais devagar" de forma negativa — reforça a regra de não haver padrão de performance ou comparação entre os personagens.
 - Considerar incluir o Thor na cena (já faz parte do cotidiano a partir do Ep. 05) — decidir ao gerar a arte.
-- Prompt de imagem pronto em `T1E06-ritmo/prompt/prompts-codex-cena-ritmo.txt`.
-**Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6wW6OFiIF/ (carrossel com 4 slides, legenda em `T1E06-ritmo/carrossel/legenda.md`, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Thor não entrou na cena (decisão tomada na hora de gerar a arte). Vestuário esportivo genérico (sem logos de marca) usado como execução segura da ideia de admiração à Track&Field — menção só na legenda, ver nota abaixo.
+- Prompt de imagem pronto em `T1E06-ritmo-postado-05-09-2026/prompt/prompts-codex-cena-ritmo.txt`.
+**Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6wW6OFiIF/ (carrossel com 4 slides, legenda em `T1E06-ritmo-postado-05-09-2026/carrossel/legenda.md`, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Thor não entrou na cena (decisão tomada na hora de gerar a arte). Vestuário esportivo genérico (sem logos de marca) usado como execução segura da ideia de admiração à Track&Field — menção só na legenda, ver nota abaixo.
 
 **Nota — Track&Field (05/09/2026):** o Jorge propôs usar looks estilo Track&Field nos personagens com o disclosure "inspirado no estilo Track&Field" como "conteúdo editorial/UGC conceitual". Análise jurídica apontou risco real (concorrência desleal, publicidade disfarçada perante o CONAR, mislabeling de UGC) mesmo com disclosure — "inspirado em X" é rótulo de marketing, não blindagem legal. Alternativa adotada: vestuário esportivo 100% genérico (zero imitação visual de produto/marca) + uma linha de admiração textual genuína na legenda ("a gente ama o que a Track&Field representa"), sem marcar a conta oficial nesta publicação. Decisão do Jorge: seguir essa alternativa seguro.
 

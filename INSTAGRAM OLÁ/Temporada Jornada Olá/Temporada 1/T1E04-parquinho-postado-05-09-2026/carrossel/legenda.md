@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** publicado em `T1E04-parquinho/carrossel/` (4 slides)
+- **Carrossel:** publicado em `T1E04-parquinho-postado-05-09-2026/carrossel/` (4 slides)
 - **Publicado:** 5 de setembro de 2026 — https://www.instagram.com/p/Dc6OmgtlhkH/ (link atual; versão anterior apagada e republicada por corte na capa e avatar descentralizado)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** rótulo de conteúdo gerado por IA ativado

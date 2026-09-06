@@ -3,9 +3,9 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E03-primeira-caminhada/arte-bruta/04-caminhada-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E03-primeira-caminhada-postado-04-09-2026/arte-bruta/04-caminhada-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E03-primeira-caminhada/carrossel/01-capa.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E03-primeira-caminhada-postado-04-09-2026/carrossel/01-capa.png');
 
 const W = 1080, H = 1080;
 const CREAM = '#F3E9D8';

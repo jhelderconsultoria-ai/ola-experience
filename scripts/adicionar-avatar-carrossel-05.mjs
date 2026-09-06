@@ -4,8 +4,8 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E04-parquinho/arte-bruta/05-parquinho-raw.png');
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E04-parquinho/carrossel');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E04-parquinho-postado-05-09-2026/arte-bruta/05-parquinho-raw.png');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E04-parquinho-postado-05-09-2026/carrossel');
 
 const W = 1080, H = 1080;
 const BG = '#1A3C30';
