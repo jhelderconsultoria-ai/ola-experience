@@ -74,8 +74,8 @@ Cenário: sala de casa, fim de tarde, luz quente. A família toda senta no chão
 Diretrizes específicas deste episódio:
 - Preparação é mostrada como parte da aventura, não burocracia chata antes dela.
 - Cada personagem contribui de um jeito próprio (reforça "os filhos participam das decisões").
-- Prompt de imagem pronto em `T1E07-preparar/prompt/prompts-codex-cena-preparar.txt`.
-**Status:** arte gerada via Codex CLI e carrossel montado em `T1E07-preparar/carrossel/` (4 slides, legenda em `T1E07-preparar/carrossel/legenda.md`) — pronto pra publicar em 10/09/2026, aguardando confirmação do Jorge no dia.
+- Prompt de imagem pronto em `T1E07-preparar-postado-06-09-2026/prompt/prompts-codex-cena-preparar.txt`.
+**Status:** publicado em 06/09/2026 (antecipado): https://www.instagram.com/p/Dc7sEV0lk-l/. Pasta renomeada `T1E07-preparar-postado-06-09-2026/`.
 
 **Nota:** T1E07 ("Preparar também faz parte") publicado em 06/09/2026 (antecipado a pedido do Jorge): https://www.instagram.com/p/Dc7sEV0lk-l/.
 
@@ -85,8 +85,8 @@ Cenário: clareira de mata nativa, beira de um riacho, meio-dia com luz filtrada
 Diretrizes específicas deste episódio:
 - Paga o setup do Ep. 07 (mochila, câmera, lupa, bicicleta) — reforça que a preparação valeu a pena.
 - Acessibilidade, não proeza física — ninguém aparece cansado de forma negativa ou "batalhando" pra chegar ali.
-- Prompt de imagem pronto em `T1E08-natureza/prompt/prompts-codex-cena-natureza.txt` — inclui o Thor na cena (reforço de 06/09/2026: ele passa a aparecer em toda cena de trilha/natureza da família daqui pra frente, ver bíblia).
-**Status:** arte gerada via Codex e carrossel montado em `T1E08-natureza/carrossel/` (4 slides) — pronto pra publicar em 13/09/2026.
+- Prompt de imagem pronto em `T1E08-natureza-postado-06-09-2026/prompt/prompts-codex-cena-natureza.txt` — inclui o Thor na cena (reforço de 06/09/2026: ele passa a aparecer em toda cena de trilha/natureza da família daqui pra frente, ver bíblia).
+**Status:** publicado em 06/09/2026 (antecipado): https://www.instagram.com/p/Dc73ur4FtSR/. Pasta renomeada `T1E08-natureza-postado-06-09-2026/`.
 
 **Ep. 09 — "Quando vamos novamente?"** — rótulo na tela: **T1E09** (era T1E08)
 Cenário: varanda de casa, fim de tarde, golden hour (luz dourada quente, sol baixo, sombras longas — deliberadamente diferente da luz de meio-dia do Ep. 08 e da luz fria do Ep. 04, pra manter a variação de iluminação por horário coerente com o momento da cena). A família volta da experiência na natureza, ainda com mochilas e bicicleta, sentados nos degraus, cansados de um jeito bom. A Nori pergunta animada "quando vamos de novo?", o Nilo e a Lu trocam um olhar sorrindo, o Zai olha as fotos que tirou com um meio-sorriso discreto.
@@ -95,8 +95,8 @@ Diretrizes específicas deste episódio:
 - Fecha o arco inicial (Ep. 01-09) sem ser o fechamento final da temporada — a pergunta da Nori é o gancho que abre o bloco Cognitivo (T1E10).
 - Continuidade visual: mesma roupa de trilha do Ep. 08.
 - Luminosidade sempre compatível com o momento do dia da cena (golden hour aqui, meio-dia no Ep. 08, luz fria testada no Ep. 04) — checar isso em todo prompt novo.
-- Prompt de imagem pronto em `T1E09-quando-vamos/prompt/prompts-codex-cena-quando-vamos.txt` — inclui o Thor deitado nos degraus da varanda (regra de 06/09/2026).
-**Status:** arte gerada via Codex e carrossel montado em `T1E09-quando-vamos/carrossel/` (4 slides).
+- Prompt de imagem pronto em `T1E09-quando-vamos-postado-06-09-2026/prompt/prompts-codex-cena-quando-vamos.txt` — inclui o Thor deitado nos degraus da varanda (regra de 06/09/2026).
+**Status:** publicado em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. Pasta renomeada `T1E09-quando-vamos-postado-06-09-2026/`.
 
 ## Ep. 10 em diante (T1E10 a T1E31) — estrutura decidida em 05/09/2026, renumerada no mesmo dia
 
@@ -133,8 +133,8 @@ Cenário: sala de casa, noite, luz interna quente e aconchegante. A família reu
 Diretrizes específicas deste episódio:
 - Abre o Bloco Cognitivo mostrando aprendizado/curiosidade compartilhada, não uma "aula" ou dica técnica.
 - Callback visual intencional ao Ep. 1 — reforça "tecnologia nunca é vilã", mostra o mesmo hábito usado de outro jeito.
-- Prompt de imagem pronto em `T1E10-curiosidade-junto/prompt/prompts-codex-cena-curiosidade-junto.txt`.
-**Status:** arte gerada via Codex e carrossel montado em `T1E10-curiosidade-junto/carrossel/` (4 slides).
+- Prompt de imagem pronto em `T1E10-curiosidade-junto-postado-06-09-2026/prompt/prompts-codex-cena-curiosidade-junto.txt`.
+**Status:** publicado em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. Pasta renomeada `T1E10-curiosidade-junto-postado-06-09-2026/`.
 
 **Ep. 11 — "Cinco minutos só meus"** — rótulo na tela: **T1E11** (era T1E10)
 Cenário: cozinha de casa, manhã, luz suave e clara (deliberadamente diferente da noite do Ep. 10, do golden hour do Ep. 09 e do meio-dia do Ep. 08). Em primeiro plano nítido, a Lu tira cinco minutos com uma xícara de café e um caderno, presente e tranquila. Ao fundo, desfocado, a correria normal da casa continua (Nilo saindo pro trabalho, Zai passando de fone, Nori correndo animada) — ela não espera a casa ficar em silêncio pra proteger esse espaço pra si mesma.
@@ -143,7 +143,7 @@ Diretrizes específicas deste episódio:
 - Ilustra a regra da bíblia "autocuidado não precisa ser uma grande mudança, pode começar com pequenos espaços protegidos na rotina" (conflito central da Lu) — sem linguagem clínica, sem "prática de mindfulness", só um momento simples.
 - Profundidade de campo (foco na Lu, fundo desfocado) reforça visualmente o contraste calma vs. correria.
 - Prompt de imagem pronto em `T1E11-cinco-minutos/prompt/prompts-codex-cena-cinco-minutos.txt`.
-**Status:** arte corrigida (06/09/2026, 4ª versão) — causa raiz encontrada: personagens de fundo (Nilo, Zai, Nori) so tinham a roupa descrita no prompt, sem âncora física, então saíam genéricos. Adicionadas âncoras completas (pele, cabelo, físico) pra todos, inclusive desfocados — regra sistêmica fixada na bíblia. Carrossel remontado em `T1E11-cinco-minutos/carrossel/` (4 slides) — aguardando aprovação final do Jorge antes de publicar.
+**Status:** arte refeita do zero (06/09/2026, v3) depois da v1 (fotorrealista) e v2 (estilizada mas com Nilo/Zai/Nori fora do padrão) terem sido publicadas, rejeitadas e apagadas. Nova versão gerada via Codex CLI com o prompt reescrito do zero — âncoras físicas completas de todo personagem (inclusive os desfocados no fundo) e reforço explícito de estilo 3D não-fotorrealista no início do prompt. Aprovada pelo Jorge em 06/09/2026, com uma ressalva: o cabelo da Lu saiu solto/ondulado em vez de preso (desvio pequeno da âncora fixa dela), aceito nesta arte. Carrossel montado em `T1E11-cinco-minutos/carrossel/` (4 slides) — ainda não publicado, aguardando o Jorge confirmar "publica" na data (20/09).
 
 **Ep. 12 — "Duas horas só nossas"** — rótulo na tela: **T1E12** (movido de T1E30 em 06/09/2026, a pedido do Jorge)
 Cenário: academia de bairro genérica, bem cedo da manhã, antes do resto da casa acordar. O Nilo e a Lu treinando juntos — os dois correndo lado a lado na esteira, sincronizados, com expressão de satisfação genuína — sem os filhos, sem o Thor, só os dois. Nenhuma marca, logotipo ou nome de academia aparece em lugar nenhum da cena (paredes, equipamentos, roupas). Callback ao "pequeno espaço protegido na rotina" do Ep. 11 (Lu), agora vivido a dois.

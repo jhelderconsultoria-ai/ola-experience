@@ -108,14 +108,14 @@ rótulo por post já usado em cada publicação).
 | 4 | 2026-09-10 | Quinta | Arte + Frase | T1E07 — Preparar também faz parte — publicado em 06/09/2026 (antecipado): https://www.instagram.com/p/Dc7sEV0lk-l/. **+ Frase** "Pedir ajuda não é fraqueza" — publicada em 06/09/2026 (antecipada): https://www.instagram.com/p/Dc7sMtElhOn/ |
 | 5 | 2026-09-11 | Sexta | Frase (carrossel de texto) | "Pais também erram" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qukCFmOZ/ |
 | 6 | 2026-09-12 | Sábado | Frase (carrossel de texto) | "Pressa e produtividade" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6rGM-Fq1c/ |
-| 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza — arte e carrossel prontos (`T1E08-natureza/carrossel/`, 4 slides, com o Thor na cena), aguardando a data pra publicar. **+ Frase** "Nem tudo que é rápido é melhor" — pronta em `frases/2026-09-13/nem-tudo-que-e-rapido-e-melhor/` |
+| 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73ur4FtSR/. **+ Frase** "Nem tudo que é rápido é melhor" — pronta em `frases/2026-09-13/nem-tudo-que-e-rapido-e-melhor/` |
 | 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — pronta em `frases/2026-09-14/casa-baguncada-nao-e-casa-mal-cuidada/` |
-| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? (arte pendente). **+ Frase** "Brincar também é conversa" — pronta em `frases/2026-09-15/brincar-tambem-e-conversa/` |
+| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — pronta em `frases/2026-09-15/brincar-tambem-e-conversa/` |
 | 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/notificacao-nao-e-urgencia/` |
-| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente (arte pendente). **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
+| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
 | 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/cada-um-ajuda-do-seu-jeito/` |
 | 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/feed-perfeito-vida-real/` |
-| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus (arte pendente). **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/cada-fase-pede-uma-presenca-diferente/` |
+| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus — arte refeita do zero (v3) e carrossel prontos em `T1E11-cinco-minutos/carrossel/`, aguardando a data pra publicar. **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/cada-fase-pede-uma-presenca-diferente/` |
 | 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/ouvir-sem-resposta-pronta/` |
 | 16 | 2026-09-22 | Terça | Arte + Frase | T1E12 — Duas horas só nossas (Nilo e Lu na academia, movido do slot de Fechamento em 06/09/2026) — arte e carrossel de 5 slides prontos em `T1E12-duas-horas-nossas/carrossel/`. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
 | 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
@@ -177,6 +177,16 @@ rótulo por post já usado em cada publicação).
 - **Ordem de produção (pedido do Jorge em 05/09/2026):** seguir a sequência real do
   calendário, alternando Arte e Frase — não deixar um tipo acumular enquanto o outro fica
   parado.
+
+## Ritual semanal — toda segunda-feira
+
+Criado em 06/09/2026, junto com o ajuste da bio pra gancho de dor ("Qualidade de vida ficou
+pra depois? Vem ver como a gente tá mudando 👇") — objetivo é acompanhar se a bio nova (e os
+posts da semana) estão performando, não só olhar no checkpoint final do dia 60.
+
+1. Avaliar os relatórios que o Instagram oferece (Insights → Conta: alcance, contas
+   atingidas, seguidores ganhos/perdidos, visitas ao perfil, cliques na bio) — registrar o
+   resultado aqui ou em `agents/companion/data/contexto-dinamico.md`.
 
 ## Métricas a observar no checkpoint (05/11/2026)
 

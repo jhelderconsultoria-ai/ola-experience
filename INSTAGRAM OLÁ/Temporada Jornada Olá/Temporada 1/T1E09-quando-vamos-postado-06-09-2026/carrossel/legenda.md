@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `T1E09-quando-vamos/carrossel/` (4 slides)
+- **Carrossel:** `T1E09-quando-vamos-postado-06-09-2026/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** sem rótulo de conteúdo de IA (mudança de padrão de 05/09/2026)
 - **Acessibilidade:** texto alternativo aplicado em cada slide

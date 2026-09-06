@@ -137,6 +137,18 @@ O Claude Code possuía autorização local para ferramentas Playwright. O arquiv
 
 Nunca fornecer senha, código de autenticação ou cookies em uma conversa. O login deve ser realizado pessoalmente pelo titular da conta.
 
+## Rotina de manutenção da conta
+
+Toda vez que logar no Instagram da conta (via Claude in Chrome ou equivalente), independente do motivo da sessão:
+
+1. Verificar quem está marcando (@olaexperienceoficial) em posts, stories ou comentários — conferir em "Marcações" (perfil → menu → Marcações) e nas notificações. Dar feedback pro Jorge sobre quem marcou e em que contexto (perfil real, conta suspeita, marca/empresa, etc.), pra ele decidir se responde, agradece ou ignora.
+2. Toda vez que enviarmos uma resposta em **DM** (mensagem direta), conferir depois se ela foi vista ("Visto às HH:MM", aparece na conversa depois que a pessoa abre) e informar o Jorge. **Limitação real do Instagram:** isso só existe em DM — em comentário público não existe recibo de leitura, não tem como confirmar se a pessoa viu a resposta (só dá pra saber se ela reagir ou responder de volta).
+3. Verificar se há mensagens (DM, incluindo a aba "Pedidos" de gente que não segue) ou comentários com pergunta/pedido ainda sem resposta nossa, e informar o Jorge quais precisam de resposta.
+4. **Responder sempre no mesmo idioma em que a pergunta/comentário foi feito** (ex.: comentário em inglês → resposta em inglês).
+5. **Resposta padrão pra quem pede pra repostar conteúdo:** "Autorizamos a repostagem, fique à vontade, sem compromisso ❤️" (traduzir pro idioma do pedido). **Antes de responder, checar o perfil de quem pediu** (seguidores, quantidade de posts, tema/bio) — só responder se o perfil parecer legítimo (conta real de nicho, sem sinal de spam/golpe); se for suspeito, não responder e avisar o Jorge.
+
+Regra criada em 06/09/2026, a pedido do Jorge, junto com o ritual semanal de segunda-feira (ver `business/campanhas/instagram/campanha-60-dias-cotidiano.md`).
+
 ## Campanha ativa
 
 Campanha de 60 dias (07/09 a 05/11/2026), postagem diária — 3x/semana Arte (episódios da

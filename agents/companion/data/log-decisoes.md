@@ -151,3 +151,33 @@
 **Decisao:** Passado post por post (11 no total, exceto T1E06 que fica intocado por causa do boost em analise). Resultado: **6 posts tinham o rotulo** (post de chamada, Episodio 01, Episodio 02, Episodio 03, Frase "Pressa e produtividade", Frase "Duas criancas") — em todos, o toggle "Adicionar rotulo de IA" foi desativado e a edicao foi salva ("Editado"), mas o rotulo continuou visivel nos 6, sem excecao. **5 posts nunca tiveram o rotulo** (T1E04/parquinho, T1E05/Thor, T1E06/ritmo, Frase "Pais tambem erram", Frase "Comparacao com a vida dos outros"). Nenhuma postagem foi excluida.
 **Racional:** Confirma definitivamente (nao so hipotese) que o rotulo autodeclarado na publicacao nao pode ser retirado depois via o editor do Instagram — e via de mao unica, testado em 6 casos reais com o mesmo resultado. Padrao notavel: os posts mais antigos (chamada, Ep01-03) ficaram todos presos com o rotulo, enquanto os mais recentes (T1E04 em diante) majoritariamente nao tinham — possivelmente ligado a quando o rotulo de perfil "Criador de conteudo de IA" estava ativo, mas nao investigado a fundo.
 **Impacto:** Os 6 posts antigos vao continuar mostrando "Conteudo de IA" permanentemente, a nao ser que sejam apagados e republicados (nao solicitado). Sem acao pendente — o padrao novo (nao ativar o toggle) ja cobre os posts futuros, que devem sair sem o rotulo.
+
+## 06/09/2026 — Temporada 1 ganha o 5º pilar Alimentação, na frente dos outros 4
+
+**Contexto:** Jorge decidiu acrescentar "Alimentação" como pilar novo na bio (Cognitivo, Cardio, Força, Bolso), com duvida inicial entre "Nutrição" e "Alimentação".
+
+**Decisao:** Nome escolhido: **Alimentação**. Ordem na bio: **Alimentação primeiro**, antes dos outros 4 ("Alimentação. Cognitivo. Cardio. Força. Bolso."). Temporada 1 vai ser **estendida** (mais episodios) pra caber o bloco novo, em vez de encurtar os blocos existentes ou cortar o fechamento. Jorge disse que vai pedir explicitamente pra comecar a criar conteudo da nova estrutura a partir de 07/09/2026 — hoje (06/09) e so a decisao, sem criar episodio novo ainda.
+
+**Racional:** "Nutrição" soa clinico (e area de nutricionista, e o projeto reforca sempre que a familia nao e formada por profissionais de saude) — "Alimentação" e leigo/cotidiano, no mesmo tom de "Bolso". Alimentacao na frente porque, na visao do Jorge, ela e a base ("nao adianta atividade fisica sem uma boa alimentacao").
+
+**Impacto:** Pendente pra 07/09/2026 (nao feito ainda nesta sessao): (1) trocar a bio real do Instagram pra incluir Alimentação; (2) decidir a posicao do bloco Alimentação na ordem REAL dos episodios — T1E10, T1E11 e T1E12 ja existem como abertura do Bloco Cognitivo (T1E10 ja publicado), entao a opcao padrao proposta (ainda sem confirmacao do Jorge) e nao renumerar o que ja foi feito e anexar o bloco Alimentação depois do Bolso, mesmo que a bio liste Alimentação primeiro no texto; (3) atualizar `biblia-familia-ola.md`, `TEMPORADA-1-FAMILIA-HORIZONTE.md`, `TEMPORADA-2-AVOS.md` (eco dos 4 pilares) e o calendario da campanha de 60 dias (que hoje cobre so ate T1E31) pra refletir os episodios extras.
+
+## 06/09/2026 — Bio muda pra gancho de dor ("qualidade de vida") + ritual semanal de analise
+
+**Contexto:** Jorge quis aplicar tecnica de marketing (bio como filtro de intencao de busca no Instagram): citar a dor/sentimento que a pessoa esta sentindo, nao so listar os pilares. Foram testadas varias frases-gancho (cansaco, tempo, tela, correria) antes de fechar.
+
+**Decisao:** Bio trocada pra: "Qualidade de vida ficou pra depois? A gente também vivia assim 👇" seguida da lista de pilares (a frase "Família Horizonte descobrindo os 5 pilares..." foi removida pra caber no limite de 150 caracteres) e dos hashtags. Palavra-chave escolhida: **"qualidade de vida"** (nao "tempo de qualidade") porque cobre tanto pais exaustos (Temporada 1) quanto o publico 60+ que se sente excluido (perfil da Dora, Temporada 2) — termo mais buscado e mais amplo. **Ritual novo: toda segunda-feira, analisar os resultados no Instagram** (Insights: alcance, seguidores, contas atingidas) pra validar se essa bio-gancho esta funcionando — e um teste, nao decisao definitiva.
+
+**Racional:** Bio funciona como "SEO" de busca dentro do Instagram — quem esta sentindo a dor e mais propenso a parar e seguir do que quem so ve uma lista de palavras (pilares). "Qualidade de vida" e termo generico o suficiente pra puxar os dois publicos-alvo da marca (familia nuclear agora, avos na Temporada 2 depois).
+
+**Impacto:** Bio anterior (so pilares + tagline, sem gancho) fica documentada aqui como historico. Toda segunda-feira (a partir de 07/09/2026, ou a segunda seguinte se a sessao nao abrir nesse dia) fazer a analise no Instagram Insights e registrar o resultado aqui ou no `contexto-dinamico.md` — se o gancho nao gerar diferenca perceptivel de seguidores/alcance em algumas semanas, testar outra frase da lista de opcoes discutida na sessao.
+
+## 06/09/2026 — Bio ajustada de novo: gancho vira ponte pra futuro (nao so empatia)
+
+**Contexto:** Apos aplicar a bio "Qualidade de vida ficou pra depois? A gente também vivia assim 👇", Jorge questionou se a segunda parte (so empatia, sem convite) cumpria o objetivo original de criar uma "ponte induzindo" pra quando a Olá comecar a vender servico.
+
+**Decisao:** Trocado o fechamento da frase-gancho pra "Vem ver como a gente tá mudando" (convite ativo, aponta pra frente) em vez de "A gente também vivia assim" (so empatia, sem movimento). Bio final: "Qualidade de vida ficou pra depois? Vem ver como a gente tá mudando 👇" + lista de pilares sem pontuacao entre eles (pra caber no limite) + hashtags. Escolhida entre 4 opcoes pelo motivo de "ficou pra depois" ecoar a frase-assinatura da Lu na biblia ("Se a gente esperar sobrar tempo, nao comeca nunca").
+
+**Racional:** Uma bio que so gera identificacao (empatia) nao prepara audiencia pra uma oferta futura; precisa ter um verbo de movimento/convite ("vem ver", "acompanha") pra funcionar como funil de longo prazo.
+
+**Impacto:** Bio no ar desde 06/09/2026. Mantido o ritual de segunda-feira (ver decisao anterior) pra avaliar se essa versao performa melhor que a anterior.

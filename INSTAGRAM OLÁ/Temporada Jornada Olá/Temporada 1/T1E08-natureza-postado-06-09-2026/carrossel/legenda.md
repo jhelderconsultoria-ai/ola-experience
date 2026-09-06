@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `T1E08-natureza/carrossel/` (4 slides)
+- **Carrossel:** `T1E08-natureza-postado-06-09-2026/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** não ativar rótulo de conteúdo de IA (mudança de padrão de 05/09/2026)
 - **Acessibilidade:** texto alternativo aplicado em cada slide

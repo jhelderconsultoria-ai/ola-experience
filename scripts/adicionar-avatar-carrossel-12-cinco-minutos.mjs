@@ -16,8 +16,8 @@ const AVATAR_SIZE = 110;
 const AVATAR_LEFT = 70;
 const AVATAR_TOP = 26;
 
-// Caixa de rosto conferida a olho na arte 1536x1024 (12-cinco-minutos-raw.png, regenerada em 06/09/2026).
-const FACE_BOX = { left: 260, top: 60, size: 380 };
+// Caixa de rosto conferida a olho na arte 1536x1024 (12-cinco-minutos-raw.png, regenerada do zero em 06/09/2026, v3 sem fotoreal).
+const FACE_BOX = { left: 280, top: 60, size: 400 };
 
 function esc(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');

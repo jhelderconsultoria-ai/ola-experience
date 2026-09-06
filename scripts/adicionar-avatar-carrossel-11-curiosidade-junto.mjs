@@ -3,8 +3,8 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E10-curiosidade-junto/arte-bruta/11-curiosidade-junto-raw.png');
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E10-curiosidade-junto/carrossel');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E10-curiosidade-junto-postado-06-09-2026/arte-bruta/11-curiosidade-junto-raw.png');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E10-curiosidade-junto-postado-06-09-2026/carrossel');
 
 const W = 1080, H = 1080;
 const BG = '#1A3C30';

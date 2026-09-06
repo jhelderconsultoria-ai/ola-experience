@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `T1E07-preparar/carrossel/` (4 slides)
+- **Carrossel:** `T1E07-preparar-postado-06-09-2026/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** sem rótulo de conteúdo de IA (mudança de padrão de 05/09/2026)
 - **Acessibilidade:** texto alternativo aplicado em cada slide
