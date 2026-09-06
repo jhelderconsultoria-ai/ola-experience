@@ -103,6 +103,116 @@ const FRASES = [
       { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Não precisa ser', 'tudo hoje.'], footer: 'Precisa ser real, aos poucos.', badge: '3/3', showArrow: false },
     ],
   },
+  {
+    id: '2026-09-14',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'Casa bagunçada não é casa mal cuidada',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Uma casa bagunçada', 'não é uma casa', 'mal cuidada.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Livro aberto na mesa,', 'brinquedo no meio da sala —', 'é sinal de vida acontecendo.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Casa de gente viva', 'não fica em ordem.'], footer: 'Fica em movimento.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-16',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'Notificação não é urgência',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Nem toda notificação', 'precisa de resposta', 'na hora.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O celular vibra.', 'A criança na sua frente', 'também está pedindo atenção.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Presença não compete', 'com tela.'], footer: 'Ela só precisa de prioridade.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-18',
+    eixo: 'dentro de casa',
+    palette: 'oliva',
+    tema: 'Cada um ajuda do seu jeito',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Nem todo mundo ajuda', 'do mesmo jeito.', 'E tudo bem.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Um lava a louça.', 'Outro conta piada', 'no meio da bagunça.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Cooperação não tem', 'um formato só.'], footer: 'Tem o formato de cada casa.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-19',
+    eixo: 'mundo lá fora',
+    palette: 'florestaEscuro',
+    tema: 'Feed perfeito, vida real',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['O feed é editado.', 'A vida, não.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Ninguém filma', 'a segunda tentativa', 'de sair de casa a tempo.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Sua versão real', 'já é suficiente.'], footer: 'Ninguém vive de rascunho editado.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-21',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'Ouvir sem resposta pronta',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Às vezes seu filho', 'só quer ser ouvido.', 'Não corrigido.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Antes de explicar,', 'antes de resolver,', 'só escuta até o fim.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Nem todo problema', 'pede solução na hora.'], footer: 'Alguns só pedem companhia.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-23',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'Ritmo do trabalho não é ritmo de casa',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['O trabalho tem prazo.', 'A infância, não.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O e-mail pode esperar', 'cinco minutos.', 'A pergunta da sua filha, não.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Levar o ritmo do escritório', 'pra dentro de casa cansa.'], footer: 'Casa tem o próprio compasso.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-25',
+    eixo: 'dentro de casa',
+    palette: 'oliva',
+    tema: 'Elogiar o esforço, não só o resultado',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['A nota não conta', 'a história toda.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Ele tentou de novo', 'depois de errar três vezes.', 'Isso também merece elogio.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Criança que aprende', 'a tentar de novo'], footer: 'Aprende mais que criança que só acerta.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-26',
+    eixo: 'mundo lá fora',
+    palette: 'florestaEscuro',
+    tema: 'Curtir não é se importar',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Um coração na tela', 'não substitui', 'uma pergunta de verdade.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['"Como foi seu dia?"', 'vale mais', 'que qualquer curtida.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Cuidado de verdade', 'não cabe num ícone.'], footer: 'Cabe numa conversa.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-28',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'Silêncio também é comunicação',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Nem toda conversa', 'em família', 'precisa de palavras.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Um filme junto no sofá.', 'Ninguém fala muito.', 'Todo mundo está presente.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Silêncio compartilhado', 'também é intimidade.'], footer: 'Nem tudo precisa virar assunto.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-30',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'A pressa dos outros não é sua régua',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['O vizinho já viajou.', 'O colega já mudou de casa.', 'E a sua família?'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Comparar o capítulo 3 da sua vida', 'com o capítulo 20', 'de outra família não é justo.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Sua jornada tem', 'o tempo dela.'], footer: 'Não o tempo dos outros.', badge: '3/3', showArrow: false },
+    ],
+  },
 ];
 
 async function gerarFrase(frase) {

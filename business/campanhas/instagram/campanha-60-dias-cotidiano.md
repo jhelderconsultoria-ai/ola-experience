@@ -99,23 +99,23 @@ rótulo por post já usado em cada publicação).
 | 5 | 2026-09-11 | Sexta | Frase (carrossel de texto) | "Pais também erram" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qukCFmOZ/ |
 | 6 | 2026-09-12 | Sábado | Frase (carrossel de texto) | "Pressa e produtividade" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6rGM-Fq1c/ |
 | 7 | 2026-09-13 | Domingo | Arte (família em cena) | T1E08 — A primeira experiência na natureza |
-| 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
+| 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — pronta em `frases/2026-09-14/` |
 | 9 | 2026-09-15 | Terça | Arte (família em cena) | T1E09 — Quando vamos novamente? |
-| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/` |
 | 11 | 2026-09-17 | Quinta | Arte (família em cena) | T1E10 — A mesma tela, de um jeito diferente |
-| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/` |
+| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/` |
 | 14 | 2026-09-20 | Domingo | Arte (família em cena) | T1E11 — Cinco minutos só meus |
-| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
+| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/` |
 | 16 | 2026-09-22 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E12_ |
-| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/` |
 | 18 | 2026-09-24 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E13_ |
-| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/` |
+| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/` |
 | 21 | 2026-09-27 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E14_ |
-| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
+| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/` |
 | 23 | 2026-09-29 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E15_ |
-| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/` |
 | 25 | 2026-10-01 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E16_ |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
