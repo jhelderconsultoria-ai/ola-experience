@@ -95,7 +95,7 @@ rótulo por post já usado em cada publicação).
 | 1 | 2026-09-07 | Segunda | Frase (carrossel de texto) | "Amor não se mede em atenção igual" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6pAd5FgX4/ |
 | 2 | 2026-09-08 | Terça | Arte (família em cena) | T1E06 — Cada pessoa tem seu ritmo — publicado antecipadamente em 05/09: https://www.instagram.com/p/Dc6wW6OFiIF/ — **impulsionado (turbinado)** em 05/09: R$50 / 5 dias (R$10/dia), público "SP - Fitness e Corrida (18-60)" (São Paulo, interesses moda/corrida/fitness/marketing/e-commerce), pagamento MasterCard ****0418, status "Em análise" no Meta |
 | 3 | 2026-09-09 | Quarta | Frase (carrossel de texto) | "Comparação com a vida dos outros" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qXTwlmsv/ |
-| 4 | 2026-09-10 | Quinta | Arte (família em cena) | T1E07 — Preparar também faz parte — arte e carrossel prontos (`carrossel-08-preparar/`), aguardando data pra publicar |
+| 4 | 2026-09-10 | Quinta | Arte (família em cena) | T1E07 — Preparar também faz parte — arte e carrossel prontos (`T1E07-preparar/carrossel/`), aguardando data pra publicar |
 | 5 | 2026-09-11 | Sexta | Frase (carrossel de texto) | "Pais também erram" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qukCFmOZ/ |
 | 6 | 2026-09-12 | Sábado | Frase (carrossel de texto) | "Pressa e produtividade" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6rGM-Fq1c/ |
 | 7 | 2026-09-13 | Domingo | Arte (família em cena) | T1E08 — A primeira experiência na natureza |
@@ -201,7 +201,7 @@ Produção segue a ordem real do calendário (Arte e Frase intercaladas, sem dei
 acumular enquanto a outra fica parada):
 
 1. ~~Gerar a arte do T1E06 e montar o carrossel~~ — feito e publicado em 05/09.
-2. ~~Gerar a arte do T1E07 e montar o carrossel~~ — feito em 05/09 (`carrossel-08-preparar/`), publica 10/09.
+2. ~~Gerar a arte do T1E07 e montar o carrossel~~ — feito em 05/09 (`T1E07-preparar/carrossel/`), publica 10/09.
 3. Escrever a próxima Frase (14/09 em diante) — as 4 primeiras já foram publicadas
    antecipadamente em 05/09.
 4. Gerar a arte do T1E08 (publica 13/09), e por aí em diante — sempre a próxima peça do

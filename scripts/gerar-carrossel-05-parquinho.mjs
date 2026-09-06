@@ -8,7 +8,7 @@ import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/carrossel-05-parquinho');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E04-parquinho/carrossel');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');

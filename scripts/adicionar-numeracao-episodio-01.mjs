@@ -8,8 +8,8 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/01-familia-ola-apresentacao-marca-v3.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/01-familia-ola-apresentacao-episodio.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-marca-v3.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-episodio.png');
 
 const W = 1080, H = 1350; // 4:5 — proporcao maxima em altura que o Instagram aceita no feed
 const BG = '#1A3C30';

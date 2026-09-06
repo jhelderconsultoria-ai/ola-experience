@@ -14,19 +14,19 @@ Mostrar uma família comum, cansada e cheia de tecnologia, descobrindo que dá p
 
 **Ep. 1 — "Juntos, mas envolvidos em rotinas diferentes"**
 Apresentação da família — todos na sala, cada um no próprio aparelho, juntos fisicamente mas ausentes uns dos outros. Publicado como post de chamada (sem numeração de episódio, funciona como convite pros episódios que vêm), não como carrossel.
-**Status:** publicado em 04/09/2026 — post único (sem carrossel), arte em `artes-base/01-familia-ola-apresentacao-chamada.png`.
+**Status:** publicado em 04/09/2026 — post único (sem carrossel), arte em `T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-chamada.png`.
 
 **Ep. 01 — "O final de semana passou"**
 A Lu cuidou de todo mundo, o Nilo prometeu (de novo) que ia ser diferente, o Zai registrou tudo no celular, a Nori guardou uma folha. Cenário: cozinha, domingo à noite.
-**Status:** publicado em 04/09/2026 — carrossel em `carrossel-02-final-de-semana/`.
+**Status:** publicado em 04/09/2026 — carrossel em `T1E01-final-de-semana/carrossel/`.
 
 **Ep. 02 — "Vamos fazer alguma coisa?"**
 A família decide sair de casa. Cada um reage diferente ao convite — a Lu já sabe que se esperar não começa nunca, o Nilo prefere começar pequeno, o Zai só topa se puder escolher parte do roteiro, a Nori pergunta o que sempre movimenta todo mundo. Cenário: corredor/porta de entrada.
-**Status:** publicado em 04/09/2026 — carrossel em `carrossel-03-vamos-fazer/`.
+**Status:** publicado em 04/09/2026 — carrossel em `T1E02-vamos-fazer/carrossel/`.
 
 **Ep. 03 — "Uma volta pelo quarteirão"** (era "A primeira caminhada" na lista original — renomeado pra não sugerir que a família nunca tinha caminhado junta antes)
 A primeira caminhada de fato: uma volta simples pelo bairro, de manhã. Cenário: rua arborizada.
-**Status:** publicado em 04/09/2026 — carrossel em `carrossel-04-primeira-caminhada/`. (Nota: em 05/09/2026 o Claude questionou esse status por só achar a capa gerada no disco local — Jorge confirmou que foi publicado sim.)
+**Status:** publicado em 04/09/2026 — carrossel em `T1E03-primeira-caminhada/carrossel/`. (Nota: em 05/09/2026 o Claude questionou esse status por só achar a capa gerada no disco local — Jorge confirmou que foi publicado sim.)
 
 **Ep. 04 — "O parquinho é de todo mundo"** (era "Dez minutos de presença" na lista original — renomeado porque o tema mudou de rumo, de atenção plena em família pra inclusão entre crianças) — rótulo na tela: **T1E04**
 Cenário: parque, de dia, luz clara/fria (não o tom âmbar dos episódios anteriores — testando a variação de iluminação por horário/atividade). A Nori brinca com outras crianças no parquinho, entre elas algumas com deficiência física e uma criança com síndrome de Down. Dois cachorros golden retriever correm animados ao redor do grupo, brincando junto com as crianças. A cena mostra todas brincando juntas, como iguais — ninguém de fora observando, ninguém "incluindo" ninguém como favor. A mensagem é sobre pertencimento, não sobre ajuda.
@@ -47,11 +47,11 @@ Diretrizes específicas deste episódio:
 - Episódio de marco emocional (chegada de um novo integrante fixo) — publicado fora da ordem original de roteiro, a pedido do Jorge, pra sair no ar ainda em 05/09/2026 (mesmo dia do Ep. 04). Por isso entra como T1E05, antes dos episódios já roteirizados de ritmo/preparação/natureza, que foram todos renumerados +1 (ver abaixo).
 - Thor precisa manter a coleira de couro terracota com placa redonda (com o nome THOR gravado) em **todo** episódio futuro em que aparecer — é a âncora visual fixa dele.
 - Prompt de referência do personagem: `../personagens/thor-referencia.txt` (gerado antes da cena, pra fixar a aparência — 3 iterações até aprovar).
-- Prompt da cena: `prompts-codex-cena-thor-chegada.txt`.
+- Prompt da cena: `T1E05-thor/prompt/prompts-codex-cena-thor-chegada.txt`.
 **Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6lqL0FgxX/ (carrossel com 4 slides, legenda com hashtags, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Arte gerada e revisada direto via Codex CLI (`codex exec`) chamado pelo Claude Code — novo fluxo, ver nota técnica em `contexto-dinamico.md`.
 
 **Correções pós-geração (mesmo dia, antes de publicar):** o Jorge apontou 4 problemas na primeira versão da cena, corrigidos em rodadas sucessivas de edição via `image_gen.imagegen` (usando imagens de referência de episódios anteriores + a ficha do Thor):
-1. Corpo/pernas da Lu fora do padrão de identidade dela — corrigido usando `03-corredor-raw.png` como referência de físico.
+1. Corpo/pernas da Lu fora do padrão de identidade dela — corrigido usando `T1E02-vamos-fazer/arte-bruta/03-corredor-raw.png` como referência de físico.
 2. Nilo repetindo a mesma camiseta azul-petróleo de todos os episódios — trocado por jaqueta jeans + camiseta cinza-clara (um dos looks já previstos na bíblia, "fim de semana casual").
 3. Pelagem do Thor com aspecto arrepiado e olhar direcionado pra longe da Nori — corrigido pra pelagem lisa/escovada e cabeça virada com expressão carinhosa pra ela, usando `thor-referencia.png` como referência.
 4. Zai (ao fundo) com o rosto borrado/pouco nítido — corrigido pra nitidez igual aos outros personagens.
@@ -63,8 +63,8 @@ Cenário: trilha arborizada num parque, manhã de sábado, luz clara e quente. A
 Diretrizes específicas deste episódio:
 - Nenhum personagem é retratado como "mais lento" ou "mais devagar" de forma negativa — reforça a regra de não haver padrão de performance ou comparação entre os personagens.
 - Considerar incluir o Thor na cena (já faz parte do cotidiano a partir do Ep. 05) — decidir ao gerar a arte.
-- Prompt de imagem pronto em `prompts-codex-cena-ritmo.txt`.
-**Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6wW6OFiIF/ (carrossel com 4 slides, legenda em `carrossel-07-ritmo/legenda.md`, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Thor não entrou na cena (decisão tomada na hora de gerar a arte). Vestuário esportivo genérico (sem logos de marca) usado como execução segura da ideia de admiração à Track&Field — menção só na legenda, ver nota abaixo.
+- Prompt de imagem pronto em `T1E06-ritmo/prompt/prompts-codex-cena-ritmo.txt`.
+**Status:** publicado em 05/09/2026 — https://www.instagram.com/p/Dc6wW6OFiIF/ (carrossel com 4 slides, legenda em `T1E06-ritmo/carrossel/legenda.md`, rótulo de conteúdo de IA ativado, texto alternativo em todos os slides). Thor não entrou na cena (decisão tomada na hora de gerar a arte). Vestuário esportivo genérico (sem logos de marca) usado como execução segura da ideia de admiração à Track&Field — menção só na legenda, ver nota abaixo.
 
 **Nota — Track&Field (05/09/2026):** o Jorge propôs usar looks estilo Track&Field nos personagens com o disclosure "inspirado no estilo Track&Field" como "conteúdo editorial/UGC conceitual". Análise jurídica apontou risco real (concorrência desleal, publicidade disfarçada perante o CONAR, mislabeling de UGC) mesmo com disclosure — "inspirado em X" é rótulo de marketing, não blindagem legal. Alternativa adotada: vestuário esportivo 100% genérico (zero imitação visual de produto/marca) + uma linha de admiração textual genuína na legenda ("a gente ama o que a Track&Field representa"), sem marcar a conta oficial nesta publicação. Decisão do Jorge: seguir essa alternativa seguro.
 
@@ -74,8 +74,8 @@ Cenário: sala de casa, fim de tarde, luz quente. A família toda senta no chão
 Diretrizes específicas deste episódio:
 - Preparação é mostrada como parte da aventura, não burocracia chata antes dela.
 - Cada personagem contribui de um jeito próprio (reforça "os filhos participam das decisões").
-- Prompt de imagem pronto em `prompts-codex-cena-preparar.txt`.
-**Status:** arte gerada via Codex CLI e carrossel montado em `carrossel-08-preparar/` (4 slides, legenda em `carrossel-08-preparar/legenda.md`) — pronto pra publicar em 10/09/2026, aguardando confirmação do Jorge no dia.
+- Prompt de imagem pronto em `T1E07-preparar/prompt/prompts-codex-cena-preparar.txt`.
+**Status:** arte gerada via Codex CLI e carrossel montado em `T1E07-preparar/carrossel/` (4 slides, legenda em `T1E07-preparar/carrossel/legenda.md`) — pronto pra publicar em 10/09/2026, aguardando confirmação do Jorge no dia.
 
 **Ep. 08 — "A primeira experiência na natureza"** — rótulo na tela: **T1E08** (era T1E07)
 Cenário: clareira de mata nativa, beira de um riacho, meio-dia com luz filtrada pelas árvores. A família chega junto (bicicleta do Nilo encostada num tronco — paga o que foi preparado no Ep. 07) e cada um vive a experiência do próprio jeito: a Nori usa a lupa que arrumou na mochila pra examinar algo na água, o Zai fotografa a paisagem com a câmera que escolheu levar, o Nilo acompanha a descoberta da Nori sem tirar o protagonismo dela, a Lu observa sentada numa pedra com uma xícara térmica, presente e sem celular.
@@ -83,7 +83,7 @@ Cenário: clareira de mata nativa, beira de um riacho, meio-dia com luz filtrada
 Diretrizes específicas deste episódio:
 - Paga o setup do Ep. 07 (mochila, câmera, lupa, bicicleta) — reforça que a preparação valeu a pena.
 - Acessibilidade, não proeza física — ninguém aparece cansado de forma negativa ou "batalhando" pra chegar ali.
-- Prompt de imagem pronto em `prompts-codex-cena-natureza.txt`.
+- Prompt de imagem pronto em `T1E08-natureza/prompt/prompts-codex-cena-natureza.txt`.
 **Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
 
 **Ep. 09 — "Quando vamos novamente?"** — rótulo na tela: **T1E09** (era T1E08)
@@ -93,7 +93,7 @@ Diretrizes específicas deste episódio:
 - Fecha o arco inicial (Ep. 01-09) sem ser o fechamento final da temporada — a pergunta da Nori é o gancho que abre o bloco Cognitivo (T1E10).
 - Continuidade visual: mesma roupa de trilha do Ep. 08.
 - Luminosidade sempre compatível com o momento do dia da cena (golden hour aqui, meio-dia no Ep. 08, luz fria testada no Ep. 04) — checar isso em todo prompt novo.
-- Prompt de imagem pronto em `prompts-codex-cena-quando-vamos.txt`.
+- Prompt de imagem pronto em `T1E09-quando-vamos/prompt/prompts-codex-cena-quando-vamos.txt`.
 **Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
 
 ## Ep. 10 em diante (T1E10 a T1E31) — estrutura decidida em 05/09/2026, renumerada no mesmo dia
@@ -131,7 +131,7 @@ Cenário: sala de casa, noite, luz interna quente e aconchegante. A família reu
 Diretrizes específicas deste episódio:
 - Abre o Bloco Cognitivo mostrando aprendizado/curiosidade compartilhada, não uma "aula" ou dica técnica.
 - Callback visual intencional ao Ep. 1 — reforça "tecnologia nunca é vilã", mostra o mesmo hábito usado de outro jeito.
-- Prompt de imagem pronto em `prompts-codex-cena-curiosidade-junto.txt`.
+- Prompt de imagem pronto em `T1E10-curiosidade-junto/prompt/prompts-codex-cena-curiosidade-junto.txt`.
 **Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
 
 **Ep. 11 — "Cinco minutos só meus"** — rótulo na tela: **T1E11** (era T1E10)
@@ -140,7 +140,7 @@ Cenário: cozinha de casa, manhã, luz suave e clara (deliberadamente diferente 
 Diretrizes específicas deste episódio:
 - Ilustra a regra da bíblia "autocuidado não precisa ser uma grande mudança, pode começar com pequenos espaços protegidos na rotina" (conflito central da Lu) — sem linguagem clínica, sem "prática de mindfulness", só um momento simples.
 - Profundidade de campo (foco na Lu, fundo desfocado) reforça visualmente o contraste calma vs. correria.
-- Prompt de imagem pronto em `prompts-codex-cena-cinco-minutos.txt`.
+- Prompt de imagem pronto em `T1E11-cinco-minutos/prompt/prompts-codex-cena-cinco-minutos.txt`.
 **Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
 
 **Ep. 12 a 14 — Bloco Cognitivo (continuação)**

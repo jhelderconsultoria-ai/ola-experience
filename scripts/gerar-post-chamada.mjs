@@ -5,9 +5,9 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/01-familia-ola-apresentacao-marca-v3.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-marca-v3.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/01-familia-ola-apresentacao-chamada.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E00-chamada/arte-bruta/01-familia-ola-apresentacao-chamada.png');
 
 // Quadrado 1:1 — o Instagram cortou a versao 4:5 pra quadrado de qualquer
 // forma (o corte do editor web nao e confiavel pra post unico), entao aqui

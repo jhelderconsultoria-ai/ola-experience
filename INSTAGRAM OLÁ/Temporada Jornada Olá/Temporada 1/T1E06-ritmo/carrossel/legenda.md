@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `carrossel-07-ritmo/` (4 slides)
+- **Carrossel:** `T1E06-ritmo/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** rótulo de conteúdo gerado por IA (ativar ao publicar)
 - **Acessibilidade:** texto alternativo aplicado em cada slide

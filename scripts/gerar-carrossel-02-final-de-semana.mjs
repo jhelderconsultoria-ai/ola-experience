@@ -4,9 +4,9 @@ import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/artes-base/02-cozinha-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E01-final-de-semana/arte-bruta/02-cozinha-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/carrossel-02-final-de-semana');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E01-final-de-semana/carrossel');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const W = 1080, H = 1080; // quadrado — Instagram corta carrossel pra 1:1 sempre

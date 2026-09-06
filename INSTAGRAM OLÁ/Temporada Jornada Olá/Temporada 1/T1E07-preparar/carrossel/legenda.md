@@ -2,7 +2,7 @@
 
 ## Status
 
-- **Carrossel:** `carrossel-08-preparar/` (4 slides)
+- **Carrossel:** `T1E07-preparar/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** rótulo de conteúdo gerado por IA (ativar ao publicar)
 - **Acessibilidade:** texto alternativo aplicado em cada slide
