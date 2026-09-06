@@ -3,6 +3,7 @@
 ## Status
 - **Carrossel:** `frases/2026-09-08/` (3 slides)
 - **Eixo:** mundo lá fora
+- **Publicada em 06/09/2026:** https://www.instagram.com/p/Dc7r5ikFsnR/ (sem rótulo de IA)
 
 ## Legenda
 

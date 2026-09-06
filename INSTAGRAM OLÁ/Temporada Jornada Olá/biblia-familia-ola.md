@@ -103,6 +103,12 @@ reconhecimento dele em cenas futuras, sempre presente.
 **Afinidades:** correr, buscar bolinha, acompanhar a família nas trilhas e passeios na
 natureza (reforça o pilar Cardio nos episódios seguintes).
 
+**Reforço de 06/09/2026:** a partir do T1E08 ("A primeira experiência na natureza"), o
+Thor passa a ser incluído ativamente em toda cena de trilha/natureza/ar livre da família
+— não é mais só uma afinidade descrita, é presença esperada nesses episódios (checar isso
+no checklist de aprovação de arte, junto com a coleira terracota e a placa redonda como
+âncora fixa).
+
 **Frase característica:** (não fala — reage com o corpo: orelhas em pé de curiosidade,
 cauda abanando de alegria, deitado encostado em alguém quando a cena pede acolhimento.)
 
@@ -197,6 +203,8 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 Pra evitar a impressão de que a família nunca troca de roupa, cada personagem tem um pequeno guarda-roupa fixo (2 a 4 looks) em vez de uma roupa única. Cada look mantém as âncoras visuais do personagem (cor de cabelo, corte, e um elemento de identidade que nunca muda) — só a roupa varia conforme a atividade do episódio. Sempre descrever o look explicitamente no prompt; nunca deixar "livre" pro gerador escolher.
 
 **Reforço de 05/09/2026:** variar o look ativamente a cada episódio novo — não repetir o mesmo look "casa/cotidiano" toda vez só porque é o mais fácil de descrever. Antes de escrever o prompt de uma cena nova, escolher explicitamente qual dos looks já catalogados combina com o contexto daquele episódio.
+
+**Reforço de 06/09/2026 — variar também a COR dentro do mesmo look:** percebido no T1E08 que o look "ativo/ar livre" do Nilo repetia sempre camiseta azul-petróleo (T1E06, T1E08). Daqui pra frente, o look esportivo/técnico de cada personagem tem uma cor-base sugerida na paleta, mas a cor real usada deve **rotacionar entre episódios** dentro do leque de cores já estabelecido pra família (terracota, verde-floresta/oliva, azul-petróleo, amarelo-mostarda/amarelo-queimado, areia/creme) — nunca repetir a mesma cor de camiseta ativa do episódio anterior pro mesmo personagem. Estética de referência pro look ativo/esportivo: técnico, cores sólidas em bloco (estilo roupa esportiva de marca como Track&Field), corte confortável — **mas sem nenhum logotipo, marca ou texto em nenhuma peça de roupa**, sempre lisa ou com padrão neutro simples (percebido e corrigido um logotipo indevido no calção do Zai no T1E08 — reforçar essa restrição em todo prompt de cena ativa/esportiva).
 
 ### Lu — mãe
 

@@ -3,6 +3,7 @@
 ## Status
 - **Carrossel:** `frases/2026-09-06/` (3 slides)
 - **Eixo:** dentro de casa
+- **Publicada em 06/09/2026:** https://www.instagram.com/p/Dc7rsn0lpUq/ (sem rótulo de IA)
 
 ## Legenda
 

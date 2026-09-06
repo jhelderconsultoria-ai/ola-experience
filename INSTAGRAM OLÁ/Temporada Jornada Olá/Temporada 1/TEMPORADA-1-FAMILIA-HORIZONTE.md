@@ -77,14 +77,16 @@ Diretrizes específicas deste episódio:
 - Prompt de imagem pronto em `T1E07-preparar/prompt/prompts-codex-cena-preparar.txt`.
 **Status:** arte gerada via Codex CLI e carrossel montado em `T1E07-preparar/carrossel/` (4 slides, legenda em `T1E07-preparar/carrossel/legenda.md`) — pronto pra publicar em 10/09/2026, aguardando confirmação do Jorge no dia.
 
+**Nota:** T1E07 ("Preparar também faz parte") publicado em 06/09/2026 (antecipado a pedido do Jorge): https://www.instagram.com/p/Dc7sEV0lk-l/.
+
 **Ep. 08 — "A primeira experiência na natureza"** — rótulo na tela: **T1E08** (era T1E07)
 Cenário: clareira de mata nativa, beira de um riacho, meio-dia com luz filtrada pelas árvores. A família chega junto (bicicleta do Nilo encostada num tronco — paga o que foi preparado no Ep. 07) e cada um vive a experiência do próprio jeito: a Nori usa a lupa que arrumou na mochila pra examinar algo na água, o Zai fotografa a paisagem com a câmera que escolheu levar, o Nilo acompanha a descoberta da Nori sem tirar o protagonismo dela, a Lu observa sentada numa pedra com uma xícara térmica, presente e sem celular.
 
 Diretrizes específicas deste episódio:
 - Paga o setup do Ep. 07 (mochila, câmera, lupa, bicicleta) — reforça que a preparação valeu a pena.
 - Acessibilidade, não proeza física — ninguém aparece cansado de forma negativa ou "batalhando" pra chegar ali.
-- Prompt de imagem pronto em `T1E08-natureza/prompt/prompts-codex-cena-natureza.txt`.
-**Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
+- Prompt de imagem pronto em `T1E08-natureza/prompt/prompts-codex-cena-natureza.txt` — inclui o Thor na cena (reforço de 06/09/2026: ele passa a aparecer em toda cena de trilha/natureza da família daqui pra frente, ver bíblia).
+**Status:** arte gerada via Codex e carrossel montado em `T1E08-natureza/carrossel/` (4 slides) — pronto pra publicar em 13/09/2026.
 
 **Ep. 09 — "Quando vamos novamente?"** — rótulo na tela: **T1E09** (era T1E08)
 Cenário: varanda de casa, fim de tarde, golden hour (luz dourada quente, sol baixo, sombras longas — deliberadamente diferente da luz de meio-dia do Ep. 08 e da luz fria do Ep. 04, pra manter a variação de iluminação por horário coerente com o momento da cena). A família volta da experiência na natureza, ainda com mochilas e bicicleta, sentados nos degraus, cansados de um jeito bom. A Nori pergunta animada "quando vamos de novo?", o Nilo e a Lu trocam um olhar sorrindo, o Zai olha as fotos que tirou com um meio-sorriso discreto.

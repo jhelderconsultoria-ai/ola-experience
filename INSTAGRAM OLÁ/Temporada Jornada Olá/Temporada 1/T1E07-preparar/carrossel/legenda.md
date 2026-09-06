@@ -4,8 +4,9 @@
 
 - **Carrossel:** `T1E07-preparar/carrossel/` (4 slides)
 - **Formato:** feed, carrossel 1080x1080
-- **Transparência:** rótulo de conteúdo gerado por IA (ativar ao publicar)
+- **Transparência:** sem rótulo de conteúdo de IA (mudança de padrão de 05/09/2026)
 - **Acessibilidade:** texto alternativo aplicado em cada slide
+- **Publicado em 06/09/2026 (antecipado):** https://www.instagram.com/p/Dc7sEV0lk-l/
 
 ## Legenda
 
