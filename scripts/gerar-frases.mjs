@@ -213,6 +213,127 @@ const FRASES = [
       { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Sua jornada tem', 'o tempo dela.'], footer: 'Não o tempo dos outros.', badge: '3/3', showArrow: false },
     ],
   },
+  {
+    id: '2026-09-06',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'A rotina também pode ter alegria',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['A rotina não é', 'inimiga da alegria.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O mesmo caminho pra escola,', 'a mesma música no carro —', 'vira ritual, não vira tédio.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Repetição também', 'pode ser carinho.'], footer: 'Nem toda rotina cansa.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-08',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'Ninguém vê o que você segura sozinho',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Tem coisa que você segura', 'e ninguém vê.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['A lista mental do que não pode', 'esquecer, o que já resolveu', 'antes de alguém notar.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Cuidar em silêncio', 'também é trabalho.'], footer: 'Merece ser visto, não só feito.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-10',
+    eixo: 'dentro de casa',
+    palette: 'oliva',
+    tema: 'Pedir ajuda não é fraqueza',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Pedir ajuda', 'não é fraqueza.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['É saber que sozinho', 'ninguém dá conta', 'de tudo, sempre.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Família que se ajuda', 'não é família fraca.'], footer: 'É família que confia.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-13',
+    eixo: 'mundo lá fora',
+    palette: 'florestaEscuro',
+    tema: 'Nem tudo que é rápido é melhor',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Nem tudo que é rápido', 'é melhor.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O micro-ondas esquenta rápido.', 'A confiança de um filho', 'não tem atalho.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Algumas coisas', 'só o tempo resolve.'], footer: 'E tudo bem esperar.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-15',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'Brincar também é conversa',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Brincar também é', 'uma forma de conversar.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Enquanto joga bola', 'ou monta o quebra-cabeça,', 'a criança conta o que sente.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Nem toda confidência', 'chega sentado.'], footer: 'Às vezes chega brincando.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-17',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'A pressão de ser exemplo o tempo todo',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Ninguém precisa ser', 'exemplo o tempo todo.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Também vale o dia', 'que você só sobreviveu', 'sem se cobrar mais que isso.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Referência boa', 'também erra.'], footer: 'E continua sendo referência.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-20',
+    eixo: 'dentro de casa',
+    palette: 'oliva',
+    tema: 'Cada fase pede uma presença diferente',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Cada fase da vida', 'pede um tipo', 'de presença diferente.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O bebê pede colo.', 'O adolescente pede', 'espaço com porta aberta.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Presença não é', 'sempre igual.'], footer: 'Ela muda junto com quem cresce.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-22',
+    eixo: 'mundo lá fora',
+    palette: 'florestaEscuro',
+    tema: 'Descansar também rende',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Descansar', 'também rende.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['O corpo parado', 'ainda está trabalhando —', 'só que por dentro.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Produtividade não é', 'o único jeito de valer o dia.'], footer: 'Descanso também é conquista.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-24',
+    eixo: 'dentro de casa',
+    palette: 'terracotaEscuro',
+    tema: 'Repetir não é fracassar',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Repetir a mesma', 'conversa de novo', 'não é fracasso.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Às vezes o filho', 'só precisa ouvir', 'a mesma coisa outra vez.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Ensinar é', 'processo, não evento.'], footer: 'Repetir também é cuidar.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-27',
+    eixo: 'mundo lá fora',
+    palette: 'cremeClaro',
+    tema: 'Nem toda opinião on-line precisa de resposta',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Nem toda opinião', 'na internet', 'precisa da sua resposta.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Cada notificação de discussão', 'é um convite —', 'não uma obrigação.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Proteger sua paz', 'também é cuidado.'], footer: 'Nem toda briga é sua.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-09-29',
+    eixo: 'dentro de casa',
+    palette: 'oliva',
+    tema: 'Amor também é logística',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['Amor também', 'é logística.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Marcar a consulta,', 'lembrar do lanche,', 'separar o uniforme — é cuidado.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Nem todo carinho', 'parece romântico.'], footer: 'Às vezes parece agenda cheia.', badge: '3/3', showArrow: false },
+    ],
+  },
 ];
 
 async function gerarFrase(frase) {
