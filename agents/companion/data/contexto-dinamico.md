@@ -44,6 +44,8 @@ Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda —
 
 **Próxima Arte a produzir:** T1E13 em diante, que ainda não tem roteiro (Bloco Cognitivo continua T1E13-14 antes de fechar).
 
+**Frase 13/09 publicada antecipadamente (06/09/2026):** "Nem tudo que é rápido é melhor" — https://www.instagram.com/p/Dc9EuewljIH/. Pasta renomeada `frases/2026-09-13-postado-06-09-2026/`.
+
 **Pendente pra 07/09/2026 em diante — resto da estrutura do 5º pilar:** ver decisão completa em `agents/companion/data/log-decisoes.md`. Falta: (1) confirmar com o Jorge a posição do bloco Alimentação na ordem real dos episódios (T1E10-12 já existem como Bloco Cognitivo, T1E10 publicado — proposta em aberto é anexar Alimentação depois do Bolso sem renumerar o que já existe); (2) atualizar `biblia-familia-ola.md`, `TEMPORADA-1-FAMILIA-HORIZONTE.md`, `TEMPORADA-2-AVOS.md` e o calendário da campanha de 60 dias pra refletir os episódios extras. Jorge pediu explicitamente pra só começar a criar conteúdo novo a partir de 07/09/2026 — hoje foi só a bio.
 
 ## Onde Parou
