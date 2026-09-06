@@ -101,31 +101,31 @@ rótulo por post já usado em cada publicação).
 
 | Dia | Data | Dia da semana | Formato | Conteúdo |
 |---|---|---|---|---|
-| 0 | 2026-09-06 | Domingo | Frase (fora da janela oficial, a pedido do Jorge) | "A rotina também pode ter alegria" — pronta em `frases/2026-09-06/` |
+| 0 | 2026-09-06 | Domingo | Frase (fora da janela oficial, a pedido do Jorge) | "A rotina também pode ter alegria" — pronta em `frases/2026-09-06/a-rotina-tambem-pode-ter-alegria/` |
 | 1 | 2026-09-07 | Segunda | Frase (carrossel de texto) | "Amor não se mede em atenção igual" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6pAd5FgX4/ |
-| 2 | 2026-09-08 | Terça | Arte + Frase | T1E06 — Cada pessoa tem seu ritmo — publicado antecipadamente em 05/09: https://www.instagram.com/p/Dc6wW6OFiIF/ — **impulsionado (turbinado)** em 05/09: R$50 / 5 dias (R$10/dia), público "SP - Fitness e Corrida (18-60)" (São Paulo, interesses moda/corrida/fitness/marketing/e-commerce), pagamento MasterCard ****0418, status "Em análise" no Meta. **+ Frase** "Ninguém vê o que você segura sozinho" — pronta em `frases/2026-09-08/` |
+| 2 | 2026-09-08 | Terça | Arte + Frase | T1E06 — Cada pessoa tem seu ritmo — publicado antecipadamente em 05/09: https://www.instagram.com/p/Dc6wW6OFiIF/ — **impulsionado (turbinado)** em 05/09: R$50 / 5 dias (R$10/dia), público "SP - Fitness e Corrida (18-60)" (São Paulo, interesses moda/corrida/fitness/marketing/e-commerce), pagamento MasterCard ****0418, status "Em análise" no Meta. **+ Frase** "Ninguém vê o que você segura sozinho" — pronta em `frases/2026-09-08/ninguem-ve-o-que-voce-segura-sozinho/` |
 | 3 | 2026-09-09 | Quarta | Frase (carrossel de texto) | "Comparação com a vida dos outros" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qXTwlmsv/ |
-| 4 | 2026-09-10 | Quinta | Arte + Frase | T1E07 — Preparar também faz parte — arte e carrossel prontos (`T1E07-preparar/carrossel/`), aguardando data pra publicar. **+ Frase** "Pedir ajuda não é fraqueza" — pronta em `frases/2026-09-10/` |
+| 4 | 2026-09-10 | Quinta | Arte + Frase | T1E07 — Preparar também faz parte — arte e carrossel prontos (`T1E07-preparar/carrossel/`), aguardando data pra publicar. **+ Frase** "Pedir ajuda não é fraqueza" — pronta em `frases/2026-09-10/pedir-ajuda-nao-e-fraqueza/` |
 | 5 | 2026-09-11 | Sexta | Frase (carrossel de texto) | "Pais também erram" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6qukCFmOZ/ |
 | 6 | 2026-09-12 | Sábado | Frase (carrossel de texto) | "Pressa e produtividade" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6rGM-Fq1c/ |
-| 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza (arte ainda nao gerada, produção prevista pra amanhã 06/09). **+ Frase** "Nem tudo que é rápido é melhor" — pronta em `frases/2026-09-13/` |
-| 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — pronta em `frases/2026-09-14/` |
-| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? (arte pendente). **+ Frase** "Brincar também é conversa" — pronta em `frases/2026-09-15/` |
-| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/` |
-| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente (arte pendente). **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/` |
-| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/` |
-| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/` |
-| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus (arte pendente). **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/` |
-| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/` |
-| 16 | 2026-09-22 | Terça | Arte + Frase | Arte: _A definir — T1E12, sem roteiro ainda_. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/` |
-| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/` |
-| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: _A definir — T1E13, sem roteiro ainda_. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/` |
-| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/` |
-| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/` |
-| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: _A definir — T1E14, sem roteiro ainda_. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/` |
-| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/` |
-| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: _A definir — T1E15, sem roteiro ainda_. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/` |
-| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/` |
+| 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza (arte ainda nao gerada, produção prevista pra amanhã 06/09). **+ Frase** "Nem tudo que é rápido é melhor" — pronta em `frases/2026-09-13/nem-tudo-que-e-rapido-e-melhor/` |
+| 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — pronta em `frases/2026-09-14/casa-baguncada-nao-e-casa-mal-cuidada/` |
+| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? (arte pendente). **+ Frase** "Brincar também é conversa" — pronta em `frases/2026-09-15/brincar-tambem-e-conversa/` |
+| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/notificacao-nao-e-urgencia/` |
+| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente (arte pendente). **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
+| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/cada-um-ajuda-do-seu-jeito/` |
+| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/feed-perfeito-vida-real/` |
+| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus (arte pendente). **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/cada-fase-pede-uma-presenca-diferente/` |
+| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/ouvir-sem-resposta-pronta/` |
+| 16 | 2026-09-22 | Terça | Arte + Frase | Arte: _A definir — T1E12, sem roteiro ainda_. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
+| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
+| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: _A definir — T1E13, sem roteiro ainda_. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
+| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/elogiar-o-esforco-nao-so-o-resultado/` |
+| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
+| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: _A definir — T1E14, sem roteiro ainda_. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
+| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
+| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: _A definir — T1E15, sem roteiro ainda_. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
+| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
 | 25 | 2026-10-01 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E16_ |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |

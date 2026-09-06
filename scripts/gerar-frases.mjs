@@ -7,6 +7,7 @@
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
+import { pathToFileURL } from 'url';
 
 const OUT_ROOT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/frases');
 const LOGO_CLARO = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
@@ -27,6 +28,15 @@ const PALETAS = {
 
 function esc(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// Slug do tema pra nomear a subpasta (mesmo padrao usado em frases/2026-09-05-.../).
+function slugify(s) {
+  return s
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
 function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
@@ -337,7 +347,7 @@ const FRASES = [
 ];
 
 async function gerarFrase(frase) {
-  const outDir = path.join(OUT_ROOT, frase.id);
+  const outDir = path.join(OUT_ROOT, frase.id, slugify(frase.tema));
   fs.mkdirSync(outDir, { recursive: true });
 
   const logoPath = LOGO_ESCURO_PALETAS.has(frase.palette) ? LOGO_ESCURO : LOGO_CLARO;
@@ -370,7 +380,11 @@ async function main() {
   }
 }
 
-main().catch((e) => {
-  console.error('FATAL', e);
-  process.exit(1);
-});
+// So roda sozinho quando chamado direto (node scripts/gerar-frases.mjs), nunca
+// como efeito colateral de um import/teste de outra funcao deste arquivo.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((e) => {
+    console.error('FATAL', e);
+    process.exit(1);
+  });
+}
