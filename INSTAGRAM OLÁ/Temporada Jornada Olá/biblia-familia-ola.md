@@ -204,7 +204,7 @@ Todo prompt de imagem de cena tem que incluir a **âncora física completa** de 
 
 **Âncora completa mínima por personagem** (usar sempre, mesmo em uma frase curta):
 - **Lu:** pele morena clara, cabelos cacheados escuros presos (coque ou rabo de cavalo conforme o look), brinquinho pequeno dourado.
-- **Nilo:** pele morena, barba curta aparada, cabelo escuro curto e LISO ou levemente ondulado (nunca crespo/volumoso).
+- **Nilo:** pele morena, barba curta aparada, cabelo escuro curto e CACHEADO (traço de família — Lu, Zai e Nori também têm cabelo cacheado, confirmado nas artes originais T1E01/T1E02; corrigido em 06/09/2026 depois de uma regra anterior errada dizer o contrário).
 - **Zai:** pele morena, cabelo cacheado escuro curto, magro, postura mais reservada.
 - **Nori:** pele morena clara, cabelos cacheados presos com laço ou presilha colorida.
 - **Thor:** pelagem dourada tom âmbar, coleira de couro terracota com placa redonda dourada (ficha completa em `../personagens/thor-referencia.txt`).
@@ -212,6 +212,18 @@ Todo prompt de imagem de cena tem que incluir a **âncora física completa** de 
 **Por que essa regra existe:** no T1E11, a primeira versão da arte saiu fotorrealista (corrigido reforçando estilo) e a segunda versão, mesmo estilizada, teve personagens de fundo (Nilo, Zai, Nori) que não bateram com o padrão da família — porque o prompt só descrevia a roupa deles, sem nenhuma âncora física. Só ficou correto na terceira tentativa, quando as âncoras completas foram adicionadas pra todos, inclusive os desfocados.
 
 **Checklist de auditoria (ver também "Checklist obrigatório antes de aprovar arte" mais abaixo):** antes de aprovar qualquer arte, conferir que TODO personagem visível na cena — mesmo borrado — bate com essas âncoras, comparando lado a lado com uma arte já aprovada.
+
+## Regra sistêmica obrigatória (06/09/2026): usar imagem de referência, não só texto
+
+Sempre que gerar arte nova com personagem(ns) já estabelecido(s) (Lu, Nilo, Zai, Nori, Thor), além da âncora completa em texto, anexar uma imagem de referência recortada de uma arte já aprovada — descrição em texto sozinha não segura a identidade de forma confiável (comprovado repetidas vezes, inclusive o caso do cabelo do Nilo).
+
+**Como fazer:**
+1. Recortar (via sharp/node) um close-up do personagem de uma arte-bruta já aprovada, isolando ele o mais possivel dos outros personagens da cena original.
+2. Rodar `codex exec --sandbox workspace-write --image "caminho/ref1.png,caminho/ref2.png" -- "instrucao"` (usar `--` antes da instrucao pra evitar erro de parsing do `--image`; sem o `--` o comando falha).
+3. Na instrucao, deixar claro que a imagem anexa e SO referencia de identidade (rosto/cabelo/pele), nao pra copiar roupa nem pose — a cena nova segue o prompt de texto normalmente.
+4. Manter o reforco de estilo 3D nao-fotorrealista no prompt de texto mesmo usando referencia de imagem — a referencia nao garante isso sozinha.
+
+**Cuidado:** em pelo menos um caso anterior (T1E11, usando arte publicada como referencia direta) essa abordagem foi bloqueada pela moderacao da OpenAI. Se acontecer de novo, tentar gerar sem a imagem de referencia primeiro pra isolar a causa, e avisar o Jorge.
 
 ## Guarda-roupa por personagem
 
