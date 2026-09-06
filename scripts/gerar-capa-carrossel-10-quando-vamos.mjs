@@ -1,11 +1,10 @@
-// Capa fotografica do carrossel do episodio T1E30 (duas horas so nossas),
-// mesmo padrao visual dos episodios anteriores.
+// Capa fotografica do carrossel do episodio T1E09 (quando vamos novamente).
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E30-duas-horas-nossas/arte-bruta/31-academia-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E09-quando-vamos/arte-bruta/10-quando-vamos-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E30-duas-horas-nossas/carrossel/01-capa.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E09-quando-vamos/carrossel/01-capa.png');
 
 const W = 1080, H = 1080;
 const CREAM = '#F3E9D8';
@@ -43,11 +42,11 @@ async function main() {
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${TERRACOTA}; }
     </style>
     <rect x="70" y="88" width="70" height="6" fill="${TERRACOTA}"/>
-    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E30</text>
-    <text x="${W - 70}" y="76" text-anchor="end" class="badge">1/5</text>
+    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E09</text>
+    <text x="${W - 70}" y="76" text-anchor="end" class="badge">1/4</text>
     <text x="50%" y="${H - 290}" text-anchor="middle" class="headline">
-      <tspan x="50%" dy="0">Duas horas só</tspan>
-      <tspan x="50%" dy="58">nossas</tspan>
+      <tspan x="50%" dy="0">Quando vamos</tspan>
+      <tspan x="50%" dy="58">novamente?</tspan>
     </text>
     <text x="${W - 70}" y="${H - 34}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>
   </svg>`;

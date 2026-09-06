@@ -198,6 +198,21 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 - Natureza apresentada com verdes profundos, céu azul e luz acolhedora.
 - Sem semelhança deliberada com personagens ou franquias existentes.
 
+## Regra sistêmica obrigatória (06/09/2026): âncoras de identidade completas em todo prompt
+
+Todo prompt de imagem de cena tem que incluir a **âncora física completa** de CADA personagem que aparece na cena — inclusive personagens em segundo plano, desfocados ou em movimento. Nunca descrever um personagem de fundo só pela roupa (ex.: "o Nilo passa correndo" sem dizer cabelo/pele/físico) — isso deixa o gerador livre pra desenhar uma pessoa genérica que não bate com a família estabelecida.
+
+**Âncora completa mínima por personagem** (usar sempre, mesmo em uma frase curta):
+- **Lu:** pele morena clara, cabelos cacheados escuros presos (coque ou rabo de cavalo conforme o look), brinquinho pequeno dourado.
+- **Nilo:** pele morena, barba curta aparada, cabelo escuro curto e LISO ou levemente ondulado (nunca crespo/volumoso).
+- **Zai:** pele morena, cabelo cacheado escuro curto, magro, postura mais reservada.
+- **Nori:** pele morena clara, cabelos cacheados presos com laço ou presilha colorida.
+- **Thor:** pelagem dourada tom âmbar, coleira de couro terracota com placa redonda dourada (ficha completa em `../personagens/thor-referencia.txt`).
+
+**Por que essa regra existe:** no T1E11, a primeira versão da arte saiu fotorrealista (corrigido reforçando estilo) e a segunda versão, mesmo estilizada, teve personagens de fundo (Nilo, Zai, Nori) que não bateram com o padrão da família — porque o prompt só descrevia a roupa deles, sem nenhuma âncora física. Só ficou correto na terceira tentativa, quando as âncoras completas foram adicionadas pra todos, inclusive os desfocados.
+
+**Checklist de auditoria (ver também "Checklist obrigatório antes de aprovar arte" mais abaixo):** antes de aprovar qualquer arte, conferir que TODO personagem visível na cena — mesmo borrado — bate com essas âncoras, comparando lado a lado com uma arte já aprovada.
+
 ## Guarda-roupa por personagem
 
 Pra evitar a impressão de que a família nunca troca de roupa, cada personagem tem um pequeno guarda-roupa fixo (2 a 4 looks) em vez de uma roupa única. Cada look mantém as âncoras visuais do personagem (cor de cabelo, corte, e um elemento de identidade que nunca muda) — só a roupa varia conforme a atividade do episódio. Sempre descrever o look explicitamente no prompt; nunca deixar "livre" pro gerador escolher.

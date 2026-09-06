@@ -95,8 +95,8 @@ Diretrizes específicas deste episódio:
 - Fecha o arco inicial (Ep. 01-09) sem ser o fechamento final da temporada — a pergunta da Nori é o gancho que abre o bloco Cognitivo (T1E10).
 - Continuidade visual: mesma roupa de trilha do Ep. 08.
 - Luminosidade sempre compatível com o momento do dia da cena (golden hour aqui, meio-dia no Ep. 08, luz fria testada no Ep. 04) — checar isso em todo prompt novo.
-- Prompt de imagem pronto em `T1E09-quando-vamos/prompt/prompts-codex-cena-quando-vamos.txt`.
-**Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
+- Prompt de imagem pronto em `T1E09-quando-vamos/prompt/prompts-codex-cena-quando-vamos.txt` — inclui o Thor deitado nos degraus da varanda (regra de 06/09/2026).
+**Status:** arte gerada via Codex e carrossel montado em `T1E09-quando-vamos/carrossel/` (4 slides).
 
 ## Ep. 10 em diante (T1E10 a T1E31) — estrutura decidida em 05/09/2026, renumerada no mesmo dia
 
@@ -134,7 +134,7 @@ Diretrizes específicas deste episódio:
 - Abre o Bloco Cognitivo mostrando aprendizado/curiosidade compartilhada, não uma "aula" ou dica técnica.
 - Callback visual intencional ao Ep. 1 — reforça "tecnologia nunca é vilã", mostra o mesmo hábito usado de outro jeito.
 - Prompt de imagem pronto em `T1E10-curiosidade-junto/prompt/prompts-codex-cena-curiosidade-junto.txt`.
-**Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
+**Status:** arte gerada via Codex e carrossel montado em `T1E10-curiosidade-junto/carrossel/` (4 slides).
 
 **Ep. 11 — "Cinco minutos só meus"** — rótulo na tela: **T1E11** (era T1E10)
 Cenário: cozinha de casa, manhã, luz suave e clara (deliberadamente diferente da noite do Ep. 10, do golden hour do Ep. 09 e do meio-dia do Ep. 08). Em primeiro plano nítido, a Lu tira cinco minutos com uma xícara de café e um caderno, presente e tranquila. Ao fundo, desfocado, a correria normal da casa continua (Nilo saindo pro trabalho, Zai passando de fone, Nori correndo animada) — ela não espera a casa ficar em silêncio pra proteger esse espaço pra si mesma.
@@ -143,35 +143,37 @@ Diretrizes específicas deste episódio:
 - Ilustra a regra da bíblia "autocuidado não precisa ser uma grande mudança, pode começar com pequenos espaços protegidos na rotina" (conflito central da Lu) — sem linguagem clínica, sem "prática de mindfulness", só um momento simples.
 - Profundidade de campo (foco na Lu, fundo desfocado) reforça visualmente o contraste calma vs. correria.
 - Prompt de imagem pronto em `T1E11-cinco-minutos/prompt/prompts-codex-cena-cinco-minutos.txt`.
-**Status:** roteiro e prompt de imagem prontos — falta gerar a arte (via Codex) e montar o carrossel.
+**Status:** arte corrigida (06/09/2026, 4ª versão) — causa raiz encontrada: personagens de fundo (Nilo, Zai, Nori) so tinham a roupa descrita no prompt, sem âncora física, então saíam genéricos. Adicionadas âncoras completas (pele, cabelo, físico) pra todos, inclusive desfocados — regra sistêmica fixada na bíblia. Carrossel remontado em `T1E11-cinco-minutos/carrossel/` (4 slides) — aguardando aprovação final do Jorge antes de publicar.
 
-**Ep. 12 a 14 — Bloco Cognitivo (continuação)**
+**Ep. 12 — "Duas horas só nossas"** — rótulo na tela: **T1E12** (movido de T1E30 em 06/09/2026, a pedido do Jorge)
+Cenário: academia de bairro genérica, bem cedo da manhã, antes do resto da casa acordar. O Nilo e a Lu treinando juntos — os dois correndo lado a lado na esteira, sincronizados, com expressão de satisfação genuína — sem os filhos, sem o Thor, só os dois. Nenhuma marca, logotipo ou nome de academia aparece em lugar nenhum da cena (paredes, equipamentos, roupas). Callback ao "pequeno espaço protegido na rotina" do Ep. 11 (Lu), agora vivido a dois.
+
+Carrossel de 5 slides — junta três dos quatro pilares na mesma aventura, como ponte de abertura do Bloco Cognitivo:
+1. **Capa** — "Duas horas só nossas" (Nilo e Lu correndo juntos na esteira).
+2. **Cognitivo** — foco mental, desconectar da lista de tarefas: *"Aqui a mente também descansa. Foco na respiração, não na lista de tarefas."*
+3. **Cardio** — fôlego e disposição, efeito sentido, não prometido: *"O fôlego que sobra pro resto do dia. Vinte minutos e o dia fica mais leve."*
+4. **Força** — funcional, não estética: *"Força não é sobre estética. É sobre aguentar a correria do dia."*
+5. **Fechamento** — *"Duas horas só deles, toda semana."* + assinatura Olá Experience.
+
+Diretrizes específicas deste episódio:
+- Nenhuma promessa de resultado ou efeito biológico (nada de "afasta a velhice" ou similar) — só sensação subjetiva de disposição/foco, guardrail 5 e 6 da bíblia.
+- Sem citar nome de academia real (nem Bluefit nem qualquer outra) e sem logotipo de marca em nenhuma peça de roupa ou equipamento — mesma regra do guarda-roupa aplicada aqui.
+- Guarda-roupa: cor do look ativo rotacionada em relação ao último uso — Nilo em terracota (era amarelo-mostarda no T1E08), Lu em regata verde-musgo + legging terracota + faixa de cabeça (inverte a combinação terracota/verde-oliva do T1E08).
+- Hashtags de descoberta sugeridas: `#jornadaolá #familiahorizonte #saudeemfamilia #vidaativa #academia #treino #casalativo #familiaunida #bemestar` — genéricas, sem nome de marca.
+- Chamada para interação sugerida: "Vocês têm algum horário que é só de vocês dois, sem os filhos?"
+- Prompt de imagem pronto em `T1E12-duas-horas-nossas/prompt/prompts-codex-cena-duas-horas-nossas.txt`.
+**Status:** arte com pendência de revisão (06/09/2026) — 1ª versão tinha personagens fora do padrão (cabelo/físico do Nilo), 2ª versão saiu fotorrealista, 3ª versão corrigiu ambos os problemas mas não foi revisada em detalhe antes da sessão pausar. Carrossel em `T1E12-duas-horas-nossas/carrossel/` reflete essa 3ª versão — conferir com calma antes de considerar aprovado ou publicar.
+
+**Ep. 13 e 14 — Bloco Cognitivo (continuação)**
 Ainda não definido cenário/roteiro episódio a episódio — escrever mais perto da data (regra: 1-2 semanas de antecedência). Considerar incluir o Thor nas cenas seguintes, já que ele passa a fazer parte do cotidiano da família.
 **Status:** pendente.
 
 ### Fechamento (T1E30-31)
 
-**Ep. 30 — "Duas horas só nossas"** — rótulo na tela: **T1E30**
-Cenário: academia de bairro genérica, bem cedo da manhã, antes do resto da casa acordar. O Nilo e a Lu treinando juntos — ele na esteira, ela ao lado se alongando ou também na esteira — sem os filhos, sem o Thor, só os dois. Nenhuma marca, logotipo ou nome de academia aparece em lugar nenhum da cena (paredes, equipamentos, roupas). Callback ao "pequeno espaço protegido na rotina" do Ep. 11 (Lu), agora vivido a dois.
+**Nota (06/09/2026):** o episódio que ocupava o T1E30 ("Duas horas só nossas") foi movido pro T1E12 — ver Bloco Cognitivo acima. Este slot volta a ficar em aberto.
 
-Carrossel de 5 slides — junta três dos quatro pilares no mesmo episódio (fechamento):
-1. **Capa** — "Duas horas só nossas" (Nilo e Lu treinando juntos).
-2. **Cognitivo** — foco mental, desconectar da lista de tarefas: *"Aqui ninguém me chama de pai. Só de gente prestando atenção na própria respiração."*
-3. **Cardio** — fôlego e disposição, efeito sentido, não prometido: *"Vinte minutos de esteira e o resto do dia fica mais leve."*
-4. **Força** — funcional, não estética (ecoa a diretriz do Bloco Força: "não é sobre ficar mais forte pra malhação, é sobre aguentar o colo, as compras, a correria do dia").
-5. **Fechamento** — *"Duas horas por semana só deles — o resto da família também sente a diferença."* + assinatura Olá Experience.
-
-Diretrizes específicas deste episódio:
-- Nenhuma promessa de resultado ou efeito biológico (nada de "afasta a velhice" ou similar) — só sensação subjetiva de disposição/foco, guardrail 5 e 6 da bíblia.
-- Sem citar nome de academia real (nem Bluefit nem qualquer outra) e sem logotipo de marca em nenhuma peça de roupa ou equipamento — mesma regra do guarda-roupa aplicada aqui.
-- Guarda-roupa: cor do look ativo rotacionada em relação ao último uso — Nilo em terracota (era amarelo-mostarda no T1E08), Lu em regata verde-musgo + legging terracota (inverte a combinação terracota/verde-oliva do T1E08).
-- Hashtags de descoberta sugeridas: `#jornadaolá #familiahorizonte #saudeemfamilia #vidaativa #academia #treino #casalativo #familiaunida #bemestar` — genéricas, sem nome de marca.
-- Chamada para interação sugerida: "Vocês têm algum horário que é só de vocês dois, sem os filhos?"
-- Prompt de imagem pronto em `T1E30-duas-horas-nossas/prompt/prompts-codex-cena-duas-horas-nossas.txt`.
-**Status:** arte gerada via Codex e carrossel de 5 slides montado em `T1E30-duas-horas-nossas/carrossel/` — pronto pra publicar mais perto da data (dia 58 da campanha, 03/11/2026).
-
-**Ep. 31 — Fechamento final**
-Ainda não definido — fecha a Temporada 1 juntando o pilar Bolso que falta neste bloco e ecoando "quando vamos novamente?" numa escala maior, preparando a virada pra Temporada 2 (avós). Escrever mais perto da data.
+**Ep. 30 e Ep. 31 — Fechamento final**
+Ainda não definido — fecha a Temporada 1 juntando os 4 pilares e ecoando "quando vamos novamente?" numa escala maior, preparando a virada pra Temporada 2 (avós). Escrever mais perto da data.
 **Status:** pendente.
 
 ## Guardrails (herdados do projeto)

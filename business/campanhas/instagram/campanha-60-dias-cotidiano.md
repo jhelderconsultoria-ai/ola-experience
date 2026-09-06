@@ -117,7 +117,7 @@ rótulo por post já usado em cada publicação).
 | 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/feed-perfeito-vida-real/` |
 | 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus (arte pendente). **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/cada-fase-pede-uma-presenca-diferente/` |
 | 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/ouvir-sem-resposta-pronta/` |
-| 16 | 2026-09-22 | Terça | Arte + Frase | Arte: _A definir — T1E12, sem roteiro ainda_. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
+| 16 | 2026-09-22 | Terça | Arte + Frase | T1E12 — Duas horas só nossas (Nilo e Lu na academia, movido do slot de Fechamento em 06/09/2026) — arte e carrossel de 5 slides prontos em `T1E12-duas-horas-nossas/carrossel/`. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
 | 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
 | 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: _A definir — T1E13, sem roteiro ainda_. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
 | 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/elogiar-o-esforco-nao-so-o-resultado/` |
@@ -159,15 +159,15 @@ rótulo por post já usado em cada publicação).
 | 55 | 2026-10-31 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
 | 56 | 2026-11-01 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E29_ |
 | 57 | 2026-11-02 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 58 | 2026-11-03 | Terça | Arte (família em cena) | T1E30 — Duas horas só nossas (Fechamento, Nilo e Lu na academia) — arte e carrossel de 5 slides prontos em `T1E30-duas-horas-nossas/carrossel/`, aguardando a data |
+| 58 | 2026-11-03 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E30 (Fechamento) — sem roteiro ainda (episódio que ocupava esse slot foi movido pro T1E12 em 06/09/2026)_ |
 | 59 | 2026-11-04 | Quarta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
 | 60 | 2026-11-05 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E31_ |
 
 ## Gap identificado (precisa de decisão/roteiro antes de chegar a data)
 
-- **20 posts de Arte sem roteiro individual ainda** (T1E12 a T1E31, do dia 16 em diante,
-  22/09/2026) — T1E06-11 já têm roteiro e prompt de imagem prontos (T1E05/Thor é anterior
-  à campanha). Estrutura geral já fechada (ver acima) — falta só escrever episódio a
+- **19 posts de Arte sem roteiro individual ainda** (T1E13 a T1E31, do dia 18 em diante,
+  24/09/2026) — T1E06-12 já têm roteiro, arte e carrossel prontos (T1E05/Thor é anterior
+  à campanha; T1E12 foi movido do slot de Fechamento em 06/09/2026). Estrutura geral já fechada (ver acima) — falta só escrever episódio a
   episódio, dentro de cada bloco.
 - **30 posts de Frase sem tema definido** (4 primeiros já prontos — 07/09, 09/09, 11/09,
   12/09) — todos viram reflexões avulsas (eixo dentro de casa / mundo lá fora). Baixo

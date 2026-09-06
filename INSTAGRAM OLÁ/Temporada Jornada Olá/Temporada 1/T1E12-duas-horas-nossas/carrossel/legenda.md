@@ -1,8 +1,8 @@
-# Legenda — T1E30 "Duas horas só nossas"
+# Legenda — T1E12 "Duas horas só nossas"
 
 ## Status
 
-- **Carrossel:** `T1E30-duas-horas-nossas/carrossel/` (5 slides)
+- **Carrossel:** `T1E12-duas-horas-nossas/carrossel/` (5 slides)
 - **Formato:** feed, carrossel 1080x1080
 - **Transparência:** sem rótulo de conteúdo de IA (mudança de padrão de 05/09/2026)
 - **Acessibilidade:** texto alternativo aplicado em cada slide
@@ -35,7 +35,7 @@ Duas horas por semana só deles. O resto da família também sente a diferença.
 
 ## Observações
 
-- Episódio de Fechamento (junto com T1E31) — junta 3 dos 4 pilares (Cognitivo, Cardio, Força) num só episódio; o pilar Bolso fica pro T1E31.
+- Episódio movido de T1E30 (Fechamento) pra T1E12 (Bloco Cognitivo) a pedido do Jorge em 06/09/2026 — o slot T1E30 volta a ficar pendente. Mesmo assim, o episódio segue juntando 3 dos 4 pilares (Cognitivo, Cardio, Força) numa aventura só, ponte pro que vem no Bloco Cognitivo.
 - Sem nome de academia real (nem Bluefit nem qualquer outra) e sem logotipo em nenhuma peça de roupa ou equipamento — checado na arte antes de aprovar.
 - Sem promessa de resultado ou efeito biológico (nada de "afasta a velhice") — só sensação subjetiva de disposição e foco, conforme guardrail da bíblia.
 - Guarda-roupa: cor do look ativo rotacionada em relação ao T1E08 — Nilo em terracota (era amarelo-mostarda), Lu em regata verde-musgo + legging terracota (inverte a combinação usada antes) + faixa de cabeça pro ar fitness.

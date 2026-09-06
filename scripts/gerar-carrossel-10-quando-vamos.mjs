@@ -1,10 +1,9 @@
-// Carrossel "Duas horas só nossas" (episodio T1E30, Familia Horizonte,
-// fechamento com 3 pilares) — slides de texto, mesma paleta oficial da Ola.
+// Carrossel "Quando vamos novamente?" (episodio T1E09, Familia Horizonte).
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E30-duas-horas-nossas/carrossel');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E09-quando-vamos/carrossel');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
@@ -50,41 +49,33 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
 const slides = [
   {
     name: '01-capa',
-    eyebrow: 'FAMÍLIA HORIZONTE · T1E30',
-    lines: ['Duas horas só', 'nossas'],
-    badge: '1/5',
+    eyebrow: 'FAMÍLIA HORIZONTE · T1E09',
+    lines: ['Quando vamos', 'novamente?'],
+    badge: '1/4',
     showArrow: true,
   },
   {
-    name: '02-cognitivo',
-    eyebrow: 'COGNITIVO',
-    lines: ['Aqui a mente', 'também descansa.'],
-    footer: 'Foco na respiração, não na lista de tarefas.',
-    badge: '2/5',
+    name: '02-nori',
+    eyebrow: 'NORI, 8 ANOS',
+    quoteMark: true,
+    lines: ['Quando vamos', 'de novo?'],
+    footer: 'A pergunta que abre a aventura.',
+    badge: '2/4',
     showArrow: true,
   },
   {
-    name: '03-cardio',
-    eyebrow: 'CARDIO',
-    lines: ['O fôlego que sobra', 'pro resto do dia.'],
-    footer: 'Vinte minutos e o dia fica mais leve.',
-    badge: '3/5',
+    name: '03-mensagem',
+    eyebrow: 'NA VARANDA',
+    lines: ['Ninguém queria', 'voltar pra rotina ainda.'],
+    badge: '3/4',
     showArrow: true,
   },
   {
-    name: '04-forca',
-    eyebrow: 'FORÇA',
-    lines: ['Força não é', 'sobre estética.'],
-    footer: 'É sobre aguentar a correria do dia.',
-    badge: '4/5',
-    showArrow: true,
-  },
-  {
-    name: '05-fechamento',
+    name: '04-fechamento',
     eyebrow: 'OLÁ EXPERIENCE',
-    lines: ['Duas horas só', 'deles, toda semana.'],
+    lines: ['Um dia bom também', 'dá vontade de repetir.'],
     footer: 'Olá Experience — cada família, uma jornada.',
-    badge: '5/5',
+    badge: '4/4',
     showArrow: false,
   },
 ];
