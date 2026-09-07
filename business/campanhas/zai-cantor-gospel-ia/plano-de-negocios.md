@@ -387,8 +387,13 @@ Sources:
   "tá bom o suficiente")?
 - **Resolvida (07/09/2026):** faixa etária/estilo visual do Zai Cantor —
   não é o Zai de 15 anos da série com rosto realista; é essa mesma pessoa
-  anos depois, adulto (18-22 anos sugerido), o que evita o problema de
-  gerar imagem fotorrealista de um personagem nominalmente adolescente.
-  Falta só decidir se mantém o estilo 3D estilizado (recomendado — mais
-  barato, diferencia do Hikari, evita "uncanny valley") ou testa
-  fotorrealismo já com a idade ajustada.
+  anos depois, adulto (19-20 anos), o que evita o problema de gerar imagem
+  fotorrealista de um personagem nominalmente adolescente. **Estilo final
+  escolhido pelo Jorge: fotorrealista** (testado lado a lado com a versão
+  3D estilizada — o teste fotorrealista ficou limpo, sem os erros comuns
+  de IA em mãos/dentes/olhos, identidade preservada: mesmo tom de pele,
+  cabelo cacheado escuro volumoso, sobrancelhas e formato de olho). Foto
+  oficial: `ZAI CANTOR/identidade-visual/zai-horizonte-retrato-fotorrealista-teste.png`.
+  Diferente da recomendação inicial (3D, pra diferenciar do Hikari) — decisão
+  final prioriza o efeito de "parecer real" que impressionou o Jorge no
+  case de referência.
