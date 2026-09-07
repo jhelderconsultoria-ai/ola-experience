@@ -14,7 +14,7 @@
 | # | Projeto | Objetivo | Next Action | Dono | Status | Tracker |
 |---|---------|----------|-------------|------|--------|---------|
 | 1 | Instagram Olá Experience | Campanha de 60 dias (07/09 a 05/11/2026): postar todo dia, 3x/semana Arte (Temporada 1 expandida ate T1E31, estruturada em 4 blocos de pilares) + 4x/semana Frase (reflexao), checkpoint de metricas no dia 60 | T1E05 (Thor) + T1E06 (ritmo, com vestuario esportivo generico como execucao segura da ideia Track&Field) + as 4 primeiras Frases (07,09,11,12/09) todos publicados antecipadamente em 05/09 (11 posts no ar, 27 seguidores). Proximo: gerar arte do T1E07 (publica 10/09) e escrever nova Frase pra 14/09 em diante | Jorge Helder | Ativo | `business/campanhas/instagram/campanha-60-dias-cotidiano.md` |
-| 2 | | | | | | |
+| 2 | Zai, Cantor Gospel de IA | Transformar o Zai (personagem da serie) num artista musical gospel de IA com conta e identidade proprias, no molde do case real @hikaridejesus: musica real gerada com voz, distribuicao em streaming, Reels de divulgacao | Fase 1 (Fundacao): escolher ferramenta de geracao musical com voz e agregador de distribuicao, definir nome artistico/identidade visual do Zai cantor, decidir rotulo de IA nessa conta | Jorge Helder | Ativo | `business/campanhas/zai-cantor-gospel-ia/tracker.md` |
 | 3 | | | | | | |
 
 ---
