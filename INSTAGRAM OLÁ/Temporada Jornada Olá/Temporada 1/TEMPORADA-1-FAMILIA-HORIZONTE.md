@@ -175,11 +175,19 @@ Diretrizes específicas deste episódio:
 - Thor presente na cena (não é cena de trilha/natureza, então não é obrigatório por regra, mas reforça presença constante do cachorro no cotidiano da família).
 - Violão 100% genérico, sem marca ou logotipo visível.
 - Prompt de imagem pronto em `T1E13-ainda-nao-saiu/prompt/prompts-codex-cena-ainda-nao-saiu.txt`.
-**Status:** arte gerada e carrossel montado em `T1E13-ainda-nao-saiu/carrossel/` (06/09/2026) — publica 24/09/2026, ainda não publicado.
+**Status:** publicado antecipadamente em 07/09/2026 (a pedido do Jorge, calendário previa 24/09): https://www.instagram.com/p/Dc-IFP2jJbi/. Pasta renomeada `T1E13-ainda-nao-saiu-postado-07-09-2026/`.
 
-**Ep. 14 — Bloco Cognitivo (fechamento do bloco)**
-Ainda não definido cenário/roteiro — escrever mais perto da data (regra: 1-2 semanas de antecedência).
-**Status:** pendente.
+**Ep. 14 — "Ninguém queria parar de jogar"** — rótulo na tela: **T1E14** (fecha o Bloco Cognitivo)
+Cenário: sala de casa, noite de chuva (janela ao fundo com chuva visível, luz interna quente e aconchegante — contraste com o clima frio lá fora). A família toda reunida no chão/tapete ao redor de um jogo de tabuleiro genérico (peças coloridas, dado, cartas — sem nome ou marca real de jogo nenhuma). A Nori está confusa com uma regra e pergunta, o Zai explica pra ela sem tirar a graça do jogo dele mesmo, o Nilo e a Lu jogam juntos, todos genuinamente envolvidos, ninguém com celular na mão. O Thor está deitado embaixo da mesinha de centro, encostado nas pernas de alguém.
+
+Diretrizes específicas deste episódio:
+- Fecha o Bloco Cognitivo com o oposto do Ep. 13: ali era aprendizado individual e silencioso, aqui é aprendizado coletivo e barulhento — mente também se exercita brincando junto.
+- Callback ao Ep. 10 (tecnologia usada bem) por contraste: aqui a conexão acontece sem nenhuma tela — reforça que nenhum dos dois formatos é "o certo", os dois cabem na família.
+- Zai (o mais reservado) ensinando a Nori é um momento de protagonismo pra ele sem ser sozinho — reforça leveza entre irmãos.
+- Jogo de tabuleiro 100% genérico — sem nome, logotipo ou marca real visível em nenhuma peça, caixa ou carta.
+- **Atenção redobrada de identidade** (pedido explícito do Jorge): com 4 personagens + Thor na mesma cena, comparar CADA um (inclusive os de canto/fundo) com uma arte de referência real antes de aprovar — não só olhar o conjunto por cima. Cabelo do Nilo tem que sair CACHEADO (âncora corrigida em 06/09/2026, ver bíblia) — checar de perto, não só no todo.
+- Prompt de imagem pronto em `T1E14-ninguem-queria-parar/prompt/prompts-codex-cena-ninguem-queria-parar.txt`.
+**Status:** arte gerada e carrossel montado em `T1E14-ninguem-queria-parar/carrossel/` (06/09/2026) — publica 27/09/2026, ainda não publicado. Auditoria de identidade com os 5 personagens: coleira do Thor precisou de correção (saiu vermelha lisa na 1ª geração, regenerada certa em couro terracota, batendo com `personagens/thor-referencia.png`); cabelo da Lu saiu solto em vez de preso em coque (desvio pequeno, aceito pelo Jorge).
 
 ### Fechamento (T1E30-31)
 

@@ -40,3 +40,4 @@ Aprender também é isso: repetir sem se cobrar, até que um dia sai sozinho.
 - Thor presente na cena (cochilando, papel discreto) — reforço de presença constante do cachorro no cotidiano, mesmo fora de cena de trilha/natureza.
 - Violão 100% genérico, sem marca ou logotipo, checado na arte antes de aprovar.
 - Guarda-roupa: looks "casa/cotidiano" de Zai (moletom verde-floresta) e Nilo (camiseta azul-petróleo) — não é cena ativa/esportiva, então a regra de rotação de cor não se aplica aqui.
+- Capa atualizada em 07/09/2026 pro padrão fixo definitivo (ver `contexto-dinamico.md`, Notas Técnicas): barra verde sólida de 100px em cima, faixa de foto de 720px no meio (`fit:'inside'`, ninguém cortado), barra verde sólida de 260px embaixo com o headline (38px) e logo (180px) sempre dentro dela.

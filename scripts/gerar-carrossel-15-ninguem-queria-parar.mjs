@@ -1,9 +1,9 @@
-// Carrossel "Ainda não saiu, mas quase" (episodio T1E13, Familia Horizonte).
+// Carrossel "Ninguém queria parar de jogar" (episodio T1E14, Familia Horizonte).
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
 
-const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E13-ainda-nao-saiu-postado-07-09-2026/carrossel');
+const OUT_DIR = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E14-ninguem-queria-parar/carrossel');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
@@ -49,8 +49,8 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
 const slides = [
   {
     name: '01-capa',
-    eyebrow: 'FAMÍLIA HORIZONTE · T1E13',
-    lines: ['Ainda não saiu,', 'mas quase'],
+    eyebrow: 'FAMÍLIA HORIZONTE · T1E14',
+    lines: ['Ninguém queria', 'parar de jogar'],
     badge: '1/4',
     showArrow: true,
   },
@@ -58,22 +58,22 @@ const slides = [
     name: '02-zai',
     eyebrow: 'ZAI, 15 ANOS',
     quoteMark: true,
-    lines: ['Ainda não saiu,', 'mas quase.'],
-    footer: 'Terceira vez essa semana.',
+    lines: ['Deixa que eu', 'te ensino.'],
+    footer: 'Sem pressa nenhuma.',
     badge: '2/4',
     showArrow: true,
   },
   {
     name: '03-mensagem',
-    eyebrow: 'NO QUARTO',
-    lines: ['Aprender também é', 'tentar de novo.'],
+    eyebrow: 'SEM TELA NENHUMA',
+    lines: ['A mente também', 'brinca junto.'],
     badge: '3/4',
     showArrow: true,
   },
   {
     name: '04-fechamento',
     eyebrow: 'OLÁ EXPERIENCE',
-    lines: ['Ninguém aprende', 'sem errar antes.'],
+    lines: ['Ninguém queria', 'que a noite acabasse.'],
     footer: 'Olá Experience — cada família, uma jornada.',
     badge: '4/4',
     showArrow: false,

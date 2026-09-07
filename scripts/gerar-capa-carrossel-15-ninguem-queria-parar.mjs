@@ -1,19 +1,19 @@
-// Capa fotografica do carrossel do episodio T1E13 (ainda nao saiu, mas quase).
-// PADRAO FIXO DE CAPA — aprovado pelo Jorge em 07/09/2026 (T1E14), ver
-// `contexto-dinamico.md` (Notas Tecnicas). Aplicado retroativamente aqui no T1E13
-// a pedido do Jorge (07/09/2026):
-//   - Barra verde SOLIDA no topo: largura total, 100px de altura (eyebrow + badge).
+// Capa fotografica do carrossel do episodio T1E14 (ninguem queria parar de jogar).
+// PADRAO FIXO DE CAPA — aprovado pelo Jorge em 07/09/2026, ver `contexto-dinamico.md`
+// (Notas Tecnicas). Usar este mesmo layout em todo gerar-capa-carrossel-*.mjs novo:
+//   - Barra verde SOLIDA no topo: largura total, 100px de altura (eyebrow 26px +
+//     tracinho de destaque + badge de pagina).
 //   - Barra verde SOLIDA embaixo: largura total, 260px de altura (headline 38px,
-//     2 linhas, line-height 44 + logo Ola 180px + "ARRASTE"). O headline SEMPRE
-//     fica dentro dessa faixa, nunca em cima da cena.
+//     2 linhas, line-height 44 + logo Ola 180px de largura + "ARRASTE"). O
+//     headline SEMPRE fica dentro dessa faixa, nunca em cima da cena.
 //   - A foto ocupa so a faixa do meio (1080 x 720) — fit:'inside', nunca corta
 //     personagem, com pequena margem verde lateral se a proporcao nao bater exato.
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E13-ainda-nao-saiu-postado-07-09-2026/arte-bruta/14-ainda-nao-saiu-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E14-ninguem-queria-parar/arte-bruta/15-ninguem-queria-parar-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E13-ainda-nao-saiu-postado-07-09-2026/carrossel/01-capa.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E14-ninguem-queria-parar/carrossel/01-capa.png');
 
 const W = 1080, H = 1080;
 const CREAM = '#F3E9D8';
@@ -22,7 +22,7 @@ const BG = '#1A3C30';
 
 const TOP_BAR = 100;
 const BOTTOM_BAR = 260;
-const PHOTO_BAND_H = H - TOP_BAR - BOTTOM_BAR; // 720
+const PHOTO_BAND_H = H - TOP_BAR - BOTTOM_BAR; // 640
 
 async function main() {
   const resized = await sharp(SRC)
@@ -55,11 +55,11 @@ async function main() {
     <rect x="0" y="0" width="${W}" height="${TOP_BAR}" fill="${BG}"/>
     <rect x="0" y="${H - BOTTOM_BAR}" width="${W}" height="${BOTTOM_BAR}" fill="${BG}"/>
     <rect x="70" y="88" width="70" height="6" fill="${TERRACOTA}"/>
-    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E13</text>
+    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E14</text>
     <text x="${W - 70}" y="76" text-anchor="end" class="badge">1/4</text>
     <text x="50%" y="${H - BOTTOM_BAR + 55}" text-anchor="middle" class="headline">
-      <tspan x="50%" dy="0">Ainda não saiu,</tspan>
-      <tspan x="50%" dy="44">mas quase</tspan>
+      <tspan x="50%" dy="0">Ninguém queria</tspan>
+      <tspan x="50%" dy="44">parar de jogar</tspan>
     </text>
     <text x="${W - 70}" y="${H - 34}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>
   </svg>`;
