@@ -148,9 +148,10 @@ Toda vez que logar no Instagram da conta (via Claude in Chrome ou equivalente), 
 3.2. Assim que os dias comprados de um anúncio turbinado terminarem (data de encerramento batida), dar o resultado final pro Jorge: visualizações, visitas ao perfil, valor total gasto e público atingido — conferir em `instagram.com/ad_tools/` (ou em "Ver insights" do anúncio específico, que continua acessível mesmo depois de encerrado).
 4. **Responder sempre no mesmo idioma em que a pergunta/comentário foi feito** (ex.: comentário em inglês → resposta em inglês).
 5. **Resposta padrão pra quem pede pra repostar conteúdo:** "Autorizamos a repostagem, fique à vontade, sem compromisso ❤️" (traduzir pro idioma do pedido). **Antes de responder, checar o perfil de quem pediu** (seguidores, quantidade de posts, tema/bio) — só responder se o perfil parecer legítimo (conta real de nicho, sem sinal de spam/golpe); se for suspeito, não responder e avisar o Jorge.
+5.1. **Exceção — `@goldenretriever_official_`:** não responder mais nenhum comentário ou DM desse perfil, ficar nulo (sem resposta, mesmo que peçam repost/envio de arquivo de novo). Vale só pra essa conta — não muda a regra geral do item 4/5 pra ninguém mais. Decidido em 07/09/2026 depois que o perfil passou a pedir o envio do arquivo original (não só permissão de repost) com comentário idêntico repetido em vários posts, padrão de baixo esforço sem retorno real pra conta.
 6. Analisar o **Painel profissional** (Insights → Conta): alcance, contas atingidas, seguidores ganhos/perdidos, visitas ao perfil, cliques na bio. Comparar com o último número registrado e informar o Jorge se algo mudou de forma relevante (queda ou salto fora do padrão).
 
-Regra criada em 06/09/2026, a pedido do Jorge, junto com o ritual semanal de segunda-feira (ver `business/campanhas/instagram/campanha-60-dias-cotidiano.md`). Item 6 acrescentado em 07/09/2026, a pedido do Jorge.
+Regra criada em 06/09/2026, a pedido do Jorge, junto com o ritual semanal de segunda-feira (ver `business/campanhas/instagram/campanha-60-dias-cotidiano.md`). Item 6 acrescentado em 07/09/2026, a pedido do Jorge. Item 5.1 (exceção goldenretriever_official_) acrescentado em 07/09/2026.
 
 ## Campanha ativa
 
