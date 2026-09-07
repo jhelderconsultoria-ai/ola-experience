@@ -82,9 +82,14 @@ Os avós (Temporada 2) revisitam os mesmos 4 pilares por outro ângulo depois do
 eco proposital entre temporadas. Detalhe completo em `TEMPORADA-1-FAMILIA-HORIZONTE.md`.
 
 A bio do perfil foi ajustada no mesmo dia pra reforçar essa promessa: hashtag `#vidaativa`
-trocada por `#familiahorizonte` (conecta a bio à hashtag usada em todo post da série), e
-o rótulo de perfil "Criador de conteúdo de IA" foi ativado (transparência, complementa o
-rótulo por post já usado em cada publicação).
+trocada por `#familiahorizonte` (conecta a bio à hashtag usada em todo post da série). O
+rótulo de perfil "Criador de conteúdo de IA" chegou a ser ativado neste momento do dia,
+mas foi **desativado ainda em 05/09/2026** (decisão revertida no mesmo dia — ver
+`log-decisoes.md`, entrada "Rotulo de IA (perfil e por post) removido/desativado"): a Meta
+só exige disclosure de IA pra persona sintética apresentada como pessoa real ou pra
+vídeo/áudio fotorrealista gerado por IA — imagem estática em estilo 3D/Pixar (nosso caso)
+não entra na obrigação. **Estado correto e permanente: rótulo de perfil desligado, e não
+ativar o toggle "Adicionar rótulo de IA" em nenhum post novo.**
 
 ## Guardrails (herdados do projeto — não mudam nesta campanha)
 
@@ -122,7 +127,7 @@ rótulo por post já usado em cada publicação).
 | 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: T1E13 — Ainda não saiu, mas quase (Zai aprendendo violão com o Nilo por perto) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-IFP2jJbi/. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
 | 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/elogiar-o-esforco-nao-so-o-resultado/` |
 | 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
-| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — arte gerada e carrossel pronto em `T1E14-ninguem-queria-parar/carrossel/`, ainda não publicado. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
+| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Rc7jlmIv/. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
 | 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
 | 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-SJ3aFgC6/. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
 | 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
