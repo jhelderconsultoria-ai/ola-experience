@@ -3,7 +3,7 @@
 ## Status
 - **Carrossel:** `T1E16-finalmente-saiu/carrossel/` (6 slides)
 - **Publica:** a definir (próximo na fila do Bloco Cardio, após T1E15)
-- **Origem:** paga o setup do T1E13 ("Ainda não saiu, mas quase") e estreia o novo talento do Zai — compositor gospel, fixado em 07/09/2026 (ver `biblia-familia-ola.md` e `personagens/zai-poesias-gospel.md`).
+- **Origem:** paga o setup do T1E13 ("Ainda não saiu, mas quase") e estreia o novo talento do Zai — compositor gospel, fixado em 07/09/2026 (ver `biblia-familia-ola.md` e `ZAI CANTOR/zai-poesias-gospel.md`, projeto separado — ver `business/campanhas/zai-cantor-gospel-ia/`).
 
 ## Legenda
 
@@ -40,5 +40,5 @@ Ele não prometeu um caminho fácil. Prometeu que ninguém anda sozinho nele.
 
 - Carrossel ganhou 2 slides extras a pedido do Jorge: um de gratidão ("Zai, depois de tocar" — ele agradece pela inspiração, sem citar denominação específica) e um com a letra completa da música, com o retrato circular do Zai identificando personagem e idade (mesmo padrão usado em episódios anteriores como T1E11).
 - Paga o setup do T1E13 (Bloco Cognitivo): lá o Zai ainda tentava formar acordes sozinho; aqui, a composição está pronta e ele escolhe compartilhar com a família.
-- Talento novo do Zai (compositor gospel) tratado com tom pessoal e universal — sem mencionar denominação/igreja específica, sem prometer resultado garantido (a letra completa, em `personagens/zai-poesias-gospel.md`, deixa isso explícito na ponte: "a fé... não promete um caminho fácil — promete que eu não ando só nele").
+- Talento novo do Zai (compositor gospel) tratado com tom pessoal e universal — sem mencionar denominação/igreja específica, sem prometer resultado garantido (a letra completa, em `ZAI CANTOR/zai-poesias-gospel.md`, deixa isso explícito na ponte: "a fé... não promete um caminho fácil — promete que eu não ando só nele").
 - Cena de pijama/aconchego a pedido do Jorge — ambiente intimista de fim de noite, com o Thor usando uma touca de dormir terracota como detalhe bem-humorado.

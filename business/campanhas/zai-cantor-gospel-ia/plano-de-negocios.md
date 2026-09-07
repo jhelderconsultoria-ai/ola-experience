@@ -112,7 +112,7 @@ Sources:
 
 - Personagem Zai com bíblia fixa (Temporada 1 da série)
 - 4 letras 100% originais já escritas e checadas contra plágio
-  (`INSTAGRAM OLÁ/Temporada Jornada Olá/personagens/zai-poesias-gospel.md`)
+  (`ZAI CANTOR/zai-poesias-gospel.md`)
 - Um episódio da série (T1E16 "Finalmente Saiu") que já apresenta o Zai como
   compositor — serve de ponte narrativa pra "lançar" o artista depois
 - Aprendizado direto do case @hikaridejesus: estrutura de perfil, formato de
@@ -257,7 +257,7 @@ qualquer um poderia copiar sem cometer crime de plágio, porque não existe
 participação humana em cada composição — quem escreveu a letra, que
 decisões criativas foram tomadas na produção, prompts usados, escolha entre
 variações geradas. É exatamente o que já foi feito com as letras do Zai
-(ver `personagens/zai-poesias-gospel.md`, que já registra autoria e checagem
+(ver `ZAI CANTOR/zai-poesias-gospel.md`, que já registra autoria e checagem
 contra plágio) — só precisa manter esse mesmo cuidado quando a melodia/voz
 for gerada.
 
@@ -325,7 +325,7 @@ Regra fixada em 07/09/2026 a pedido do Jorge — vale pra **toda** letra nova
 3. **Melodia (quando a IA gerar):** ouvir e comparar com o resultado antes
    de publicar — ver seção 6.2, é onde mora o risco financeiro real.
 4. **Documentar:** toda letra nova entra em
-   `personagens/zai-poesias-gospel.md` com uma nota de autoria/checagem,
+   `ZAI CANTOR/zai-poesias-gospel.md` com uma nota de autoria/checagem,
    igual às 4 já existentes — isso é o que sustenta a participação humana
    documentada (seção 6.1).
 5. **Não avançar pra produção (Suno/gravação) sem os passos 1-4 feitos.**

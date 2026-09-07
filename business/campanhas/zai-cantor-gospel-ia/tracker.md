@@ -25,7 +25,7 @@ agregador digital, Reels de divulgação com a faixa tocando de verdade.
 persona de "artista adulto" do Zai cantor.
 
 **Base já existente:** banco de letras 100% originais em
-`INSTAGRAM OLÁ/Temporada Jornada Olá/personagens/zai-poesias-gospel.md`
+`ZAI CANTOR/zai-poesias-gospel.md`
 (autoria confirmada, checada contra músicas gospel reais — sem cópia), e a
 bíblia do personagem Zai na Temporada 1.
 
@@ -78,6 +78,7 @@ bíblia do personagem Zai na Temporada 1.
 
 > Mais recente primeiro. Cada entrada: data — agente/pessoa: o que fez.
 
+- 07/09 — Companion: gerado o retrato de artista do Zai Horizonte — jovem adulto (19-20 anos), estilo 3D estilizado consistente com o padrão adulto já usado na série (Nilo/Lu), identidade facial/capilar herdada do Zai original via recorte de referência do T1E16. A pedido do Jorge, o conteúdo criativo (arte) mora numa pasta própria na raiz do repositório, `ZAI CANTOR/identidade-visual/` — mesmo padrão já usado pela série (`INSTAGRAM OLÁ/`) — separada da pasta de gestão do projeto (`business/campanhas/zai-cantor-gospel-ia/`, onde ficam tracker e plano de negócios). Aguardando aprovação final do Jorge antes de virar foto de perfil oficial.
 - 07/09 — Companion: nome artístico decidido — **Zai Horizonte** ("Horizonte" é o sobrenome narrativo oficial da família na bíblia da série, reforça a ponte com a origin story). Checagem feita antes de fechar (regra do checklist): existe cantor real ativo chamado só "Zai" (MPB, Bahia, single "Imenso", 2025) — "Zai" sozinho colidiria; "Zai Horizonte" não colidiu com nada na pesquisa. Tarefa de identidade artística na Fase 1 do tracker marcada como parcialmente resolvida.
 - 07/09 — Companion: decisão narrativa do Jorge registrada — o Zai da Família Horizonte (15 anos) é o "antes" do Zai Cantor; os episódios já publicados (T1E13 "Ainda não saiu, mas quase" e T1E16 "Finalmente Saiu") viram a origin story real do compositor, não uma bio inventada. O Zai Cantor é essa mesma pessoa anos depois, adulto — resolve o risco de gerar imagem fotorrealista de um personagem nominalmente adolescente (levantado antes) e dá gancho de campanha genuíno pro lançamento ("veja onde tudo começou"). Falta só decidir estilo visual final (3D estilizado, recomendado, vs. fotorrealismo com idade ajustada). Registrado na seção 1 e na pergunta em aberto (seção 8) do plano.
 - 07/09 — Companion: regra fixada a pedido do Jorge — checklist obrigatório antes de qualquer letra nova do Zai virar oficial (pesquisar título e letra contra obras existentes, checar melodia gerada, documentar autoria em `zai-poesias-gospel.md`, não avançar pra produção sem isso). Registrado na seção 6.5 do plano.
