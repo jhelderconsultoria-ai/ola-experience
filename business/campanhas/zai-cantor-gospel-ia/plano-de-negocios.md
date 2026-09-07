@@ -348,6 +348,7 @@ Sources:
 - [Suno Commercial Use vs Copyright — o que documentar](https://jackrighteous.com/en-us/blogs/guides-using-suno-ai-music-creation/suno-commercial-use-vs-copyright-what-creators-should-document)
 - [Ecad pode cobrar por execução pública de música feita com IA — UBC](https://www.ubc.org.br/publicacoes/noticia/23490/ecad-pode-cobrar-por-execucao-publica-de-musica-feita-com-ia-diz-decisao-liminar)
 - [ECAD e a Proteção dos Direitos Autorais na Era da IA — Sbacem](https://sbacem.org.br/ecad-e-a-protecao-dos-direitos-autorais-na-era-da-inteligencia-artificial/)
+- [Udio free tier 2026: exportação desativada pós-acordo UMG](https://www.aitoolsforkids.com/blog/udio-pricing-free-tier-guide)
 
 ---
 
@@ -356,10 +357,15 @@ Sources:
 - Suno: plano Free sem uso comercial; Pro ~R$ 50/mês (US$ 10) libera uso
   comercial, ~500 músicas/mês; Premier ~R$ 150/mês (US$ 30) com estúdio
   próprio.
-- Comparação Suno vs Udio (opinião de músicos, não só marketing): Udio tende
-  a soar mais humano na voz; Suno é mais fácil pra quem não é músico e quer
-  resultado rápido — decisão adiada pra Fase 0/1 (testar os dois no free
-  tier antes de decidir).
+- **Decidido (07/09/2026): Suno.** Comparação inicial (opinião de músicos,
+  não só marketing) apontava Udio com voz mais humana, mas pesquisa
+  aprofundada revelou o motivo real de descartar o Udio: depois do acordo
+  dele com a Universal Music Group, a plataforma **desativou a exportação
+  de áudio** — dá pra ouvir dentro do app, mas não dá pra baixar o arquivo.
+  Isso inviabiliza o projeto inteiro, já que a Fase 4 (distribuição em
+  streaming via agregador) depende de exportar a faixa gerada. Suno
+  continua permitindo exportação normalmente no plano Pro (~R$ 50/mês) —
+  única opção viável entre as duas.
 - Distribuidoras: DistroKid (rápido, suporte é o ponto fraco citado por
   usuários), TuneCore (melhor suporte humano), Amuse (mais rápido de todos,
   já manda automático pro TikTok/Instagram sem custo extra — por isso é a
