@@ -13,6 +13,8 @@ Reaproveitar arte já aprovada dos episódios publicados em vez de gerar vídeo 
 3. Sobrepor o mesmo texto/headline já usado no carrossel.
 4. Áudio: escolher música da biblioteca de tendências do próprio Instagram no momento de postar (gratuito, sem precisar gerar áudio). **Critério de escolha (07/09/2026, ideia do Jorge):** o Instagram da Família Horizonte também constrói terreno pro Zai Cantor — cujo estilo musical será "pop família suave" (ver `ZAI CANTOR/plano-de-negocios.md`). Priorizar músicas de tendência nessa mesma linha (pop suave, acústico, clima acolhedor de família) em vez de qualquer trend do momento, pra já criar familiaridade sonora com o público antes do Zai estrear.
 
+**Procedimento fixado (07/09/2026):** pra escolher a trilha de cada Reel, usar o **Meta Sound Collection** (`facebook.com/sound/collection`, login com a conta do Facebook do Jorge) — biblioteca de faixas gratuitas pra uso em Facebook/Instagram, com filtro por gênero/estado de espírito/ritmo. Processo: (1) filtrar por Pop + estado de espírito compatível com "suave"; (2) refinar por palavra-chave que combine com o **cenário específico do episódio** (ex.: "walk" pro T1E06, cena de trilha); (3) o Jorge ouve as opções tocando direto no site e escolhe junto comigo antes de eu baixar; (4) baixar a faixa escolhida e cortar pra caber no tempo do Reel (a música quase sempre é mais longa que o vídeo — corta a música, nunca estica o vídeo).
+
 **Por que essa e não gerar vídeo com IA (Kling):** o crédito do Kling já zerou 2x nesta campanha e reativar tem custo recorrente. A abordagem de arquivo usa só o que já foi pago/produzido, zero risco financeiro extra — bate com a regra de evolução incremental (reusar antes de criar).
 
 ## Conteúdo do teste
