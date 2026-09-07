@@ -151,6 +151,18 @@ cauda abanando de alegria, deitado encostado em alguém quando a cena pede acolh
 - Nenhum integrante é sempre o exemplo ou sempre o problema.
 - Todos podem ensinar e aprender em diferentes episódios.
 
+## Convívio social — amigos e outras pessoas
+
+**Diretriz fixada em 07/09/2026 (pedido do Jorge):** todo ser humano precisa de convívio social com outras pessoas, não só da família nuclear. Até o T1E14, a série mostrou quase só os 5 (+Thor) interagindo entre si — a única exceção foi o T1E04 (Nori brincando com outras crianças no parquinho, sem nomear ninguém). Isso é um gap real da Família Horizonte: falta vida social com amigos, vizinhos e outras famílias.
+
+**Aplicação prática:**
+- A partir do Bloco Cardio (T1E15-19) — que já é sobre movimento e fôlego, encaixe natural — pelo menos um episódio mostra a família convivendo com amigos/vizinhos/outra família numa atividade em conjunto, não só entre si.
+- Esse elemento pode voltar em blocos futuros (Força, Bolso) sempre que fizer sentido pro tema do episódio — não é exclusividade do Cardio, é uma lacuna da série inteira que passa a ser corrigida a partir daqui.
+- Personagens secundários (amigo do Zai, coleguinha da Nori, casal vizinho da Lu/Nilo, outro cachorro etc.) podem ser introduzidos aos poucos, episódio a episódio — documentar cada um na primeira aparição (nome, papel na cena, âncora visual mínima), do mesmo jeito que o Thor foi introduzido no T1E05. Não precisam de ficha completa de personagem principal antes de existir.
+- Vale a mesma regra de âncora física completa (ver seção abaixo) pra qualquer personagem secundário recorrente que apareça mais de uma vez, pra manter consistência visual entre episódios.
+
+**Diversidade corporal e etária nos amigos/vizinhos (reforço de 07/09/2026, pedido do Jorge):** os personagens secundários (amigos, vizinhos, outras famílias) precisam ter corpos, idades e tipos físicos diversos entre si — nunca todos com "boa forma física"/padrão atlético. O objetivo é o público não ler a série como "gente ativa só convive com gente ativa/sarada" — reforça o guardrail 5 da bíblia (nenhum padrão corporal ideal) já aplicado à própria família e ao T1E04. Ao escrever o prompt de qualquer cena com grupo de amigos: variar conscientemente tipo de corpo (magro, gordo, atlético, etc.), altura, idade aparente e etnia entre os personagens novos — a mesma cena não pode ter um "elenco de amigos" visualmente uniforme.
+
 ## Arco da primeira temporada
 
 ### Estado inicial

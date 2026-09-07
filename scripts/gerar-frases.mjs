@@ -52,7 +52,7 @@ function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
     <style>
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 5px; fill: ${p.destaque}; }
       .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 52px; font-weight: 700; fill: ${p.texto}; }
-      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 32px; letter-spacing: 2px; fill: ${p.textoMudo}; }
+      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 36px; letter-spacing: 2px; fill: ${p.textoMudo}; }
       .badge { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; fill: ${p.textoMudo}; }
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${p.destaque}; }
     </style>
@@ -342,6 +342,17 @@ const FRASES = [
       { eyebrow: 'OLÁ EXPERIENCE', lines: ['Amor também', 'é logística.'], badge: '1/3', showArrow: true },
       { eyebrow: 'NA PRÁTICA', lines: ['Marcar a consulta,', 'lembrar do lanche,', 'separar o uniforme — é cuidado.'], badge: '2/3', showArrow: true },
       { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Nem todo carinho', 'parece romântico.'], footer: 'Às vezes parece agenda cheia.', badge: '3/3', showArrow: false },
+    ],
+  },
+  {
+    id: '2026-10-03',
+    eixo: 'mundo lá fora',
+    palette: 'florestaEscuro',
+    tema: 'Ninguém vive bem sozinho',
+    slides: [
+      { eyebrow: 'OLÁ EXPERIENCE', lines: ['A família não é', 'o único lugar', 'onde a gente pertence.'], badge: '1/3', showArrow: true },
+      { eyebrow: 'NA PRÁTICA', lines: ['Um amigo que chama.', 'Um vizinho que aparece.', 'Isso também sustenta.'], badge: '2/3', showArrow: true },
+      { eyebrow: 'CADA FAMÍLIA, UMA JORNADA', lines: ['Cuidar da família', 'também é abrir espaço', 'pra outras pessoas.'], footer: 'Ninguém vive bem sozinho.', badge: '3/3', showArrow: false },
     ],
   },
 ];

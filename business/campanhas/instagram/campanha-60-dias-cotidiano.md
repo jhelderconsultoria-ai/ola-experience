@@ -124,11 +124,11 @@ rótulo por post já usado em cada publicação).
 | 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
 | 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — arte gerada e carrossel pronto em `T1E14-ninguem-queria-parar/carrossel/`, ainda não publicado. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
 | 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
-| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: _A definir — T1E15, sem roteiro ainda_. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
+| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — carrossel pronto em `T1E15-nao-precisa-ser-so-a-gente/carrossel/`, ainda não publicado. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
 | 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
 | 25 | 2026-10-01 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E16_ |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: mundo lá fora)_ |
+| 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | "Ninguém vive bem sozinho" — pronta em `frases/2026-10-03/ninguem-vive-bem-sozinho/` (nasceu da nova diretriz de convívio social da série, 07/09/2026) |
 | 28 | 2026-10-04 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E17_ |
 | 29 | 2026-10-05 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 30 | 2026-10-06 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E18_ |

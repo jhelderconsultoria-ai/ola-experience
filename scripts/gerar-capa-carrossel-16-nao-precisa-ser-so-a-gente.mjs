@@ -1,19 +1,13 @@
-// Capa fotografica do carrossel do episodio T1E14 (ninguem queria parar de jogar).
-// PADRAO FIXO DE CAPA — aprovado pelo Jorge em 07/09/2026, ver `contexto-dinamico.md`
-// (Notas Tecnicas). Usar este mesmo layout em todo gerar-capa-carrossel-*.mjs novo:
-//   - Barra verde SOLIDA no topo: largura total, 100px de altura (eyebrow 26px +
-//     tracinho de destaque + badge de pagina).
-//   - Barra verde SOLIDA embaixo: largura total, 260px de altura (headline 38px,
-//     2 linhas, line-height 44 + logo Ola 180px de largura + "ARRASTE"). O
-//     headline SEMPRE fica dentro dessa faixa, nunca em cima da cena.
-//   - A foto ocupa so a faixa do meio (1080 x 720) — fit:'inside', nunca corta
-//     personagem, com pequena margem verde lateral se a proporcao nao bater exato.
+// Capa fotografica do carrossel do episodio T1E15 (nao precisa ser so a gente).
+// PADRAO FIXO DE CAPA v2 — ajustado em 07/09/2026 (pedido do Jorge): faixa verde de
+// baixo reduzida (260 -> 190px) pra dar mais espaco pra foto, frase de fechamento
+// agora em UMA linha so pra continuar cabendo dentro da faixa. Ver contexto-dinamico.md.
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E14-ninguem-queria-parar/arte-bruta/15-ninguem-queria-parar-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente/arte-bruta/16-nao-precisa-ser-so-a-gente-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E14-ninguem-queria-parar/carrossel/01-capa.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente/carrossel/01-capa.png');
 
 const W = 1080, H = 1080;
 const CREAM = '#F3E9D8';
@@ -21,10 +15,10 @@ const TERRACOTA = '#C97B4A';
 const BG = '#1A3C30';
 
 const TOP_BAR = 100;
-const BOTTOM_BAR = 190; // reduzido de 260 em 07/09/2026 (padrao de capa v2)
+const BOTTOM_BAR = 190;
 const PHOTO_BAND_H = H - TOP_BAR - BOTTOM_BAR; // 790
 
-const HEADLINE = 'Ninguém queria parar de jogar';
+const HEADLINE = 'Não precisa ser só a gente';
 
 // Auto-ajuste de fonte do headline (fixado em 07/09/2026, pedido do Jorge: nao
 // perguntar, so resolver) — reduz a fonte proporcionalmente pra titulos longos
@@ -68,7 +62,7 @@ async function main() {
     <rect x="0" y="0" width="${W}" height="${TOP_BAR}" fill="${BG}"/>
     <rect x="0" y="${H - BOTTOM_BAR}" width="${W}" height="${BOTTOM_BAR}" fill="${BG}"/>
     <rect x="70" y="88" width="70" height="6" fill="${TERRACOTA}"/>
-    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E14</text>
+    <text x="70" y="76" class="eyebrow">FAMÍLIA HORIZONTE · T1E15</text>
     <text x="${W - 70}" y="76" text-anchor="end" class="badge">1/4</text>
     <text x="50%" y="${HEADLINE_Y}" text-anchor="middle" class="headline">${HEADLINE}</text>
     <text x="${W - 70}" y="${H - 18}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>

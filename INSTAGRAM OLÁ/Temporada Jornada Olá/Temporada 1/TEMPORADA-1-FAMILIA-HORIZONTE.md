@@ -189,6 +189,21 @@ Diretrizes específicas deste episódio:
 - Prompt de imagem pronto em `T1E14-ninguem-queria-parar/prompt/prompts-codex-cena-ninguem-queria-parar.txt`.
 **Status:** arte gerada e carrossel montado em `T1E14-ninguem-queria-parar/carrossel/` (06/09/2026) — publica 27/09/2026, ainda não publicado. Auditoria de identidade com os 5 personagens: coleira do Thor precisou de correção (saiu vermelha lisa na 1ª geração, regenerada certa em couro terracota, batendo com `personagens/thor-referencia.png`); cabelo da Lu saiu solto em vez de preso em coque (desvio pequeno, aceito pelo Jorge).
 
+### Bloco Cardio (T1E15-19)
+
+**Ep. 15 — "Não precisa ser só a gente"** — rótulo na tela: **T1E15** (abre o Bloco Cardio)
+Cenário: praça arborizada do bairro, sábado de manhã, luz clara e quente. A Família Horizonte se encontra com **amigos/vizinhos** pra uma caminhada/pedalada em grupo — primeira vez que a série mostra a família convivendo socialmente com pessoas fora do núcleo (fecha a lacuna registrada em 07/09/2026, ver `../biblia-familia-ola.md`, seção "Convívio social"). O Nilo pedala ao lado de um amigo, os dois rindo de algo; a Lu caminha conversando animada com uma amiga; o Zai anda de bike/skate com um amigo próximo, na dele, sem precisar dos pais por perto; a Nori corre à frente com uma coleguinha, as duas dando risada; o Thor brinca com outro cachorro do grupo, os dois se perseguindo.
+
+Diretrizes específicas deste episódio:
+- Introduz personagens secundários novos — cada um aparece só nesta cena por enquanto, sem nome obrigatório na legenda; se precisar nomear no prompt de imagem, usar nomes simples e genéricos (não reaproveitar nomes já usados na família).
+- **Diversidade corporal e etária obrigatória entre os amigos** (reforço de 07/09/2026, ver bíblia): nenhum dos 4 amigos pode ter o mesmo tipo físico "em forma" dos protagonistas — variar conscientemente. Sugestão de elenco pra este episódio: amigo do Nilo com corpo mais robusto/gordo, sem estar "tentando emagrecer" na cena, só curtindo a pedalada no próprio ritmo; amiga da Lu bem mais velha (60+), caminhando com bengala ou passo mais lento, mostrando que a caminhada acomoda o ritmo dela; amigo do Zai magro e alto, estilo despojado (skatista); coleguinha da Nori com um tipo físico diferente da Nori (mais robusta ou mais alta, à escolha na hora de gerar). Objetivo: ninguém no grupo parece "elenco de anúncio de academia" — a cena tem que deixar claro que gente de corpos e ritmos diferentes convive e se movimenta junto, sem competição nem padrão único.
+- Cardio mostrado como coisa que já é mais leve/divertida em grupo — fôlego e movimento não são o "assunto" da legenda, o encontro social é o que dá o tom.
+- Ninguém do grupo de amigos rouba o protagonismo da Família Horizonte — a cena é sobre eles JUNTOS com outras pessoas, não sobre os amigos.
+- Reforçar guarda-roupa ativo/esportivo já estabelecido pra cada personagem da família (rotacionar cor em relação ao último uso), sem logotipo/marca em nenhuma peça — inclusive nos personagens novos.
+- Thor mantém a coleira terracota com placa "THOR" como âncora fixa; o cachorro novo do grupo não precisa da mesma coleira (ajuda a diferenciar os dois visualmente).
+- Prompt de imagem: escrever com âncora física completa de todos os 5 da família + Thor (regra já existente) e uma descrição simples e consistente de cada personagem novo, incluindo o tipo físico definido acima (pra manter o mesmo visual se ele reaparecer em episódio futuro).
+**Status:** arte gerada e carrossel montado em 07/09/2026 — `T1E15-nao-precisa-ser-so-a-gente/carrossel/` (4 slides + legenda). Publica 29/09/2026, ainda não publicado. Cena final: Lu caminha com a esposa do amigo do Nilo (corpo cheio/curvilíneo, diversidade corporal); Nilo caminha em ritmo acelerado com o amigo (corpo robusto, marido da mulher que acompanha a Lu — sem bicicleta, a pedido do Jorge); Zai anda de skate com um amigo da mesma idade/estatura; Nori corre com a coleguinha; grupo de 3 cachorros espalhados pela praça (Thor, vira-lata caramelo, beagle — o poodle branco foi removido a pedido do Jorge, ficaram longe do caminho central).
+
 ### Fechamento (T1E30-31)
 
 **Nota (06/09/2026):** o episódio que ocupava o T1E30 ("Duas horas só nossas") foi movido pro T1E12 — ver Bloco Cognitivo acima. Este slot volta a ficar em aberto.

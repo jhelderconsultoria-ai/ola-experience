@@ -38,6 +38,13 @@
 **Racional:** Expert quer amadurecer mais o projeto antes de investir na infraestrutura de API/Business Manager.
 **Impacto:** Nenhuma automacao agendada configurada. Revisitar quando o expert tiver Facebook e Business Manager prontos.
 
+## 07/09/2026 — Familia Horizonte passa a mostrar convivio social com outras pessoas
+
+**Contexto:** Ate o T1E14, a serie mostrou quase so o nucleo familiar (5 pessoas + Thor) interagindo entre si. Unica excecao foi o T1E04 (Nori brincando com outras criancas no parquinho, sem personagens nomeados). Jorge apontou que isso e uma lacuna real — todo ser humano precisa de convivio social com outras pessoas, nao so em familia.
+**Decisao:** A partir do Bloco Cardio (T1E15-19), pelo menos um episodio mostra a familia convivendo com amigos/vizinhos/outra familia numa atividade em conjunto. Personagens secundarios recorrentes (amigo do Zai, coleguinha da Nori, casal vizinho, etc.) podem ser introduzidos aos poucos, documentados na primeira aparicao — sem precisar de ficha completa antes de existir.
+**Racional:** Reforca autenticidade e identificacao do publico; convivio social e parte real de uma vida equilibrada, e a serie ja tem guardrail de nao promover isolamento (tecnologia nunca e vilã, mas tambem nao pode ser o unico vinculo mostrado).
+**Impacto:** `biblia-familia-ola.md` ganhou secao "Convivio social — amigos e outras pessoas". T1E15 (proximo a ser roteirizado) passa a incluir amigos/vizinhos na cena. Elemento pode se repetir em blocos futuros (Forca, Bolso) sempre que fizer sentido.
+
 ## 04/09/2026 — Cada episodio ganha cenario proprio (nao repetir ambiente)
 
 **Contexto:** Episodios 1, 2 e 3 estavam reaproveitando a mesma foto de sala de estar. Expert notou a repeticao e pediu ambientes diferentes por episodio, batendo com o tema de cada um.
