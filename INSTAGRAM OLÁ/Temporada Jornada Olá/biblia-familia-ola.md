@@ -62,7 +62,7 @@ O nome é uma homenagem afetiva a Luduvina, mãe do fundador da Olá Experience.
 
 **Afinidades futuras:** fotografia de natureza, escalada indoor, ciclismo, geolocalização e produção de vídeos.
 
-**Talento (fixado em 07/09/2026):** tem talento pra compor — escreve letras e melodias de música gospel no violão, um jeito dele de processar o que sente sem precisar falar sobre isso diretamente (eco do T1E13, "Ainda não saiu, mas quase", onde aparece tentando formar acordes sozinho). É um talento pessoal dele, não um tema recorrente forçado em todo episódio — aparece quando fizer sentido narrativo. Composições originais dele (letras/poesias) ficam registradas em `../../ZAI CANTOR/zai-poesias-gospel.md` (projeto separado, ver `business/campanhas/zai-cantor-gospel-ia/`), pra usar como conteúdo gradual (Frases ou posts dedicados), nunca copiando obra existente no mercado.
+**Talento (fixado em 07/09/2026):** tem talento pra compor — escreve letras e melodias de música gospel no violão, um jeito dele de processar o que sente sem precisar falar sobre isso diretamente (eco do T1E13, "Ainda não saiu, mas quase", onde aparece tentando formar acordes sozinho). É um talento pessoal dele, não um tema recorrente forçado em todo episódio — aparece quando fizer sentido narrativo. Composições originais dele (letras/poesias) ficam registradas em `../../ZAI CANTOR/zai-poesias-gospel.md` (projeto separado, ver `ZAI CANTOR/`), pra usar como conteúdo gradual (Frases ou posts dedicados), nunca copiando obra existente no mercado.
 
 **Frase característica:** “Eu vou, mas posso escolher uma parte do roteiro?”
 

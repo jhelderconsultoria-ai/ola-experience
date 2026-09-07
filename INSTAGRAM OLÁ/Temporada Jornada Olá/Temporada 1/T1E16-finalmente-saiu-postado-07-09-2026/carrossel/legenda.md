@@ -3,7 +3,7 @@
 ## Status
 - **Carrossel:** `T1E16-finalmente-saiu/carrossel/` (6 slides)
 - **Publica:** a definir (próximo na fila do Bloco Cardio, após T1E15)
-- **Origem:** paga o setup do T1E13 ("Ainda não saiu, mas quase") e estreia o novo talento do Zai — compositor gospel, fixado em 07/09/2026 (ver `biblia-familia-ola.md` e `ZAI CANTOR/zai-poesias-gospel.md`, projeto separado — ver `business/campanhas/zai-cantor-gospel-ia/`).
+- **Origem:** paga o setup do T1E13 ("Ainda não saiu, mas quase") e estreia o novo talento do Zai — compositor gospel, fixado em 07/09/2026 (ver `biblia-familia-ola.md` e `ZAI CANTOR/zai-poesias-gospel.md`, projeto separado — ver `ZAI CANTOR/`).
 
 ## Legenda
 

@@ -6,7 +6,7 @@
 > anterior passou no critério de avanço.
 >
 > Tracker de execução (tarefas, status, log): `tracker.md` neste mesmo diretório.
-> Cockpit: [cockpit](../../cockpit.md)
+> Cockpit: [cockpit](../business/cockpit.md)
 
 **Criado:** 07/09/2026
 **Dono:** Jorge Helder
@@ -349,6 +349,9 @@ Sources:
 - [Ecad pode cobrar por execução pública de música feita com IA — UBC](https://www.ubc.org.br/publicacoes/noticia/23490/ecad-pode-cobrar-por-execucao-publica-de-musica-feita-com-ia-diz-decisao-liminar)
 - [ECAD e a Proteção dos Direitos Autorais na Era da IA — Sbacem](https://sbacem.org.br/ecad-e-a-protecao-dos-direitos-autorais-na-era-da-inteligencia-artificial/)
 - [Udio free tier 2026: exportação desativada pós-acordo UMG](https://www.aitoolsforkids.com/blog/udio-pricing-free-tier-guide)
+- [Does Amuse Accept AI Music? — exclusão do Meta](https://dynamoi.com/learn/ai-music-distribution/does-amuse-accept-ai-music)
+- [TuneCore AI Music Policy 2026 — bloqueio de conteúdo 100% IA](https://undetectr.com/blog/tunecore-ai-music-policy-2026)
+- [DistroKid vs TuneCore for AI Music — comparação 2026](https://dynamoi.com/learn/ai-music-distribution/distrokid-vs-tunecore-for-ai-music)
 
 ---
 
@@ -366,10 +369,17 @@ Sources:
   streaming via agregador) depende de exportar a faixa gerada. Suno
   continua permitindo exportação normalmente no plano Pro (~R$ 50/mês) —
   única opção viável entre as duas.
-- Distribuidoras: DistroKid (rápido, suporte é o ponto fraco citado por
-  usuários), TuneCore (melhor suporte humano), Amuse (mais rápido de todos,
-  já manda automático pro TikTok/Instagram sem custo extra — por isso é a
-  recomendação, já que a divulgação de vocês é 100% via Reels).
+- **Decidido (07/09/2026): DistroKid.** Recomendação inicial (Amuse) foi
+  corrigida após pesquisa aprofundada sobre política de música gerada por
+  IA de cada distribuidora: (1) **TuneCore bloqueia conteúdo 100% gerado
+  por IA** (alega 99,9% de precisão de detecção) — fora de cogitação,
+  já que a voz/instrumental do Zai vem do Suno; (2) **Amuse aceita IA mas
+  não entrega a faixa pro Meta (Instagram/Facebook)** — a música não fica
+  catalogada oficialmente no Instagram, o que prejudica a descoberta
+  orgânica via Reels (o algoritmo favorece som reconhecido), justamente o
+  canal principal de divulgação do projeto; (3) **DistroKid aceita IA sem
+  essa exclusão**, exigindo só comprovação de direito comercial — que já
+  está garantida pelo plano pago do Suno.
 - Política de IA do Spotify: exige declaração de vocais/instrumentação
   gerados por IA via metadado enviado pelo distribuidor; não permite clonar
   voz de artista real sem autorização (não é o caso do Zai).
