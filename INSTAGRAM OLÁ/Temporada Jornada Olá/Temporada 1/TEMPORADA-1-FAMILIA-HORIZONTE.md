@@ -164,8 +164,21 @@ Diretrizes específicas deste episódio:
 - Prompt de imagem pronto em `T1E12-duas-horas-nossas-postado-06-09-2026/prompt/prompts-codex-cena-duas-horas-nossas.txt`.
 **Status:** publicado em 06/09/2026: https://www.instagram.com/p/Dc9D66iFng6/. Pasta renomeada `T1E12-duas-horas-nossas-postado-06-09-2026/`. **Nota de identidade (06/09/2026):** a arte publicada tem o cabelo do Nilo cacheado/volumoso, fora da âncora fixa da bíblia ("nunca crespo/cacheado como o do Zai") — foi feita uma tentativa de correção (cabelo liso), mas saiu fotorrealista demais, e o Jorge pediu explicitamente pra manter a versão original (cacheada) e publicar assim mesmo. Prompt revertido pro texto original; o arquivo `arte-bruta/13-academia-raw.png` foi sobrescrito pela tentativa de correção e não bate mais com o carrossel publicado (só os slides finais preservam a versão certa).
 
-**Ep. 13 e 14 — Bloco Cognitivo (continuação)**
-Ainda não definido cenário/roteiro episódio a episódio — escrever mais perto da data (regra: 1-2 semanas de antecedência). Considerar incluir o Thor nas cenas seguintes, já que ele passa a fazer parte do cotidiano da família.
+**Ep. 13 — "Ainda não saiu, mas quase"** — rótulo na tela: **T1E13**
+Cenário: quarto do Zai, fim de tarde, luz quente e suave. Ele está sentado no chão encostado na cama, violão genérico no colo, tentando formar um acorde — uma folha com anotações de acordes rabiscada a mão jogada ao lado. Expressão de concentração e frustração boa (no meio de uma tentativa, não desistindo). O Nilo está sentado na beirada da cama atrás dele, sem instrumento, só acompanhando com atenção tranquila — não corrige nem pega o violão pra mostrar "o jeito certo", só fica presente. O Thor está deitado no tapete ao lado, cochilando, alheio à música. Ninguém mais na cena.
+
+Diretrizes específicas deste episódio:
+- Aprendizado mostrado como processo, não performance — o erro faz parte da cena, não é escondido nem resolvido no mesmo episódio.
+- O pai acompanha sem assumir o protagonismo do filho — mesma regra já aplicada com a Nori no Ep. 08, agora com o Zai.
+- Eco temático com a Frase publicada no mesmo dia (24/09, "Repetir não é fracassar") — sem citação literal, só o mesmo espírito.
+- Zai ganha momento de protagonismo individual (os episódios anteriores sempre o mostraram em grupo ou de passagem).
+- Thor presente na cena (não é cena de trilha/natureza, então não é obrigatório por regra, mas reforça presença constante do cachorro no cotidiano da família).
+- Violão 100% genérico, sem marca ou logotipo visível.
+- Prompt de imagem pronto em `T1E13-ainda-nao-saiu/prompt/prompts-codex-cena-ainda-nao-saiu.txt`.
+**Status:** arte gerada e carrossel montado em `T1E13-ainda-nao-saiu/carrossel/` (06/09/2026) — publica 24/09/2026, ainda não publicado.
+
+**Ep. 14 — Bloco Cognitivo (fechamento do bloco)**
+Ainda não definido cenário/roteiro — escrever mais perto da data (regra: 1-2 semanas de antecedência).
 **Status:** pendente.
 
 ### Fechamento (T1E30-31)

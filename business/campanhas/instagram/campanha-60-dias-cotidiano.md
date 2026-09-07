@@ -119,7 +119,7 @@ rótulo por post já usado em cada publicação).
 | 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/ouvir-sem-resposta-pronta/` |
 | 16 | 2026-09-22 | Terça | Arte + Frase | T1E12 — Duas horas só nossas (Nilo e Lu na academia, movido do slot de Fechamento em 06/09/2026) — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9D66iFng6/. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
 | 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
-| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: _A definir — T1E13, sem roteiro ainda_. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
+| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: T1E13 — Ainda não saiu, mas quase (Zai aprendendo violão com o Nilo por perto) — arte gerada e carrossel pronto em `T1E13-ainda-nao-saiu/carrossel/`, ainda não publicado. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
 | 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/elogiar-o-esforco-nao-so-o-resultado/` |
 | 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
 | 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: _A definir — T1E14, sem roteiro ainda_. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |

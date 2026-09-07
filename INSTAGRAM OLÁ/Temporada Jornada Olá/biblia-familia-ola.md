@@ -244,7 +244,7 @@ Pra evitar a impressão de que a família nunca troca de roupa, cada personagem 
 
 ### Nilo — pai
 
-Âncora fixa: barba curta aparada, cabelo escuro curto.
+Âncora fixa: barba curta aparada, cabelo escuro curto e CACHEADO (traço de família, igual Lu/Zai/Nori — nunca liso, ver nota física acima).
 
 - **Casa/cotidiano:** camiseta azul-petróleo, bermuda ou calça neutra.
 - **Trabalho:** camisa social areia remangada, calça social escura.
