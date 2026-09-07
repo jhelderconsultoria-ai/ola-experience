@@ -110,7 +110,7 @@ rótulo por post já usado em cada publicação).
 | 6 | 2026-09-12 | Sábado | Frase (carrossel de texto) | "Pressa e produtividade" — publicada antecipadamente em 05/09: https://www.instagram.com/p/Dc6rGM-Fq1c/ |
 | 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73ur4FtSR/. **+ Frase** "Nem tudo que é rápido é melhor" — publicada antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9EuewljIH/ |
 | 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Inq7jItW/ |
-| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — pronta em `frases/2026-09-15/brincar-tambem-e-conversa/` |
+| 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-R27dljXa/ |
 | 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/notificacao-nao-e-urgencia/` |
 | 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
 | 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/cada-um-ajuda-do-seu-jeito/` |
@@ -124,11 +124,11 @@ rótulo por post já usado em cada publicação).
 | 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
 | 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — arte gerada e carrossel pronto em `T1E14-ninguem-queria-parar/carrossel/`, ainda não publicado. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
 | 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
-| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — carrossel pronto em `T1E15-nao-precisa-ser-so-a-gente/carrossel/`, ainda não publicado. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
+| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-SJ3aFgC6/. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
 | 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
 | 25 | 2026-10-01 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E16_ |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
-| 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | "Ninguém vive bem sozinho" — pronta em `frases/2026-10-03/ninguem-vive-bem-sozinho/` (nasceu da nova diretriz de convívio social da série, 07/09/2026) |
+| 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | "Ninguém vive bem sozinho" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-ScD2lhgY/ (nasceu da nova diretriz de convívio social da série, 07/09/2026) |
 | 28 | 2026-10-04 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E17_ |
 | 29 | 2026-10-05 | Segunda | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 30 | 2026-10-06 | Terça | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E18_ |

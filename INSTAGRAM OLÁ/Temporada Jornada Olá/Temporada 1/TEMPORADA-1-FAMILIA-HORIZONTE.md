@@ -186,8 +186,8 @@ Diretrizes específicas deste episódio:
 - Zai (o mais reservado) ensinando a Nori é um momento de protagonismo pra ele sem ser sozinho — reforça leveza entre irmãos.
 - Jogo de tabuleiro 100% genérico — sem nome, logotipo ou marca real visível em nenhuma peça, caixa ou carta.
 - **Atenção redobrada de identidade** (pedido explícito do Jorge): com 4 personagens + Thor na mesma cena, comparar CADA um (inclusive os de canto/fundo) com uma arte de referência real antes de aprovar — não só olhar o conjunto por cima. Cabelo do Nilo tem que sair CACHEADO (âncora corrigida em 06/09/2026, ver bíblia) — checar de perto, não só no todo.
-- Prompt de imagem pronto em `T1E14-ninguem-queria-parar/prompt/prompts-codex-cena-ninguem-queria-parar.txt`.
-**Status:** arte gerada e carrossel montado em `T1E14-ninguem-queria-parar/carrossel/` (06/09/2026) — publica 27/09/2026, ainda não publicado. Auditoria de identidade com os 5 personagens: coleira do Thor precisou de correção (saiu vermelha lisa na 1ª geração, regenerada certa em couro terracota, batendo com `personagens/thor-referencia.png`); cabelo da Lu saiu solto em vez de preso em coque (desvio pequeno, aceito pelo Jorge).
+- Prompt de imagem pronto em `T1E14-ninguem-queria-parar-postado-07-09-2026/prompt/prompts-codex-cena-ninguem-queria-parar.txt`.
+**Status:** publicado antecipadamente em 07/09/2026 (calendário previa 27/09): https://www.instagram.com/p/Dc-Rc7jlmIv/. Auditoria de identidade com os 5 personagens: coleira do Thor precisou de correção (saiu vermelha lisa na 1ª geração, regenerada certa em couro terracota, batendo com `personagens/thor-referencia.png`); cabelo da Lu saiu solto em vez de preso em coque (desvio pequeno, aceito pelo Jorge). Pasta renomeada `T1E14-ninguem-queria-parar-postado-07-09-2026/`.
 
 ### Bloco Cardio (T1E15-19)
 
@@ -202,7 +202,7 @@ Diretrizes específicas deste episódio:
 - Reforçar guarda-roupa ativo/esportivo já estabelecido pra cada personagem da família (rotacionar cor em relação ao último uso), sem logotipo/marca em nenhuma peça — inclusive nos personagens novos.
 - Thor mantém a coleira terracota com placa "THOR" como âncora fixa; o cachorro novo do grupo não precisa da mesma coleira (ajuda a diferenciar os dois visualmente).
 - Prompt de imagem: escrever com âncora física completa de todos os 5 da família + Thor (regra já existente) e uma descrição simples e consistente de cada personagem novo, incluindo o tipo físico definido acima (pra manter o mesmo visual se ele reaparecer em episódio futuro).
-**Status:** arte gerada e carrossel montado em 07/09/2026 — `T1E15-nao-precisa-ser-so-a-gente/carrossel/` (4 slides + legenda). Publica 29/09/2026, ainda não publicado. Cena final: Lu caminha com a esposa do amigo do Nilo (corpo cheio/curvilíneo, diversidade corporal); Nilo caminha em ritmo acelerado com o amigo (corpo robusto, marido da mulher que acompanha a Lu — sem bicicleta, a pedido do Jorge); Zai anda de skate com um amigo da mesma idade/estatura; Nori corre com a coleguinha; grupo de 3 cachorros espalhados pela praça (Thor, vira-lata caramelo, beagle — o poodle branco foi removido a pedido do Jorge, ficaram longe do caminho central).
+**Status:** publicado antecipadamente em 07/09/2026 (calendário previa 29/09): https://www.instagram.com/p/Dc-SJ3aFgC6/. Pasta renomeada `T1E15-nao-precisa-ser-so-a-gente-postado-07-09-2026/`. Cena final: Lu caminha com a esposa do amigo do Nilo (corpo cheio/curvilíneo, diversidade corporal); Nilo caminha em ritmo acelerado com o amigo (corpo robusto, marido da mulher que acompanha a Lu — sem bicicleta, a pedido do Jorge); Zai anda de skate com um amigo da mesma idade/estatura; Nori corre com a coleguinha; grupo de 3 cachorros espalhados pela praça (Thor, vira-lata caramelo, beagle — o poodle branco foi removido a pedido do Jorge, ficaram longe do caminho central).
 
 ### Fechamento (T1E30-31)
 

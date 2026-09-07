@@ -5,9 +5,9 @@
 import path from 'path';
 import sharp from 'sharp';
 
-const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente/arte-bruta/16-nao-precisa-ser-so-a-gente-raw.png');
+const SRC = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente-postado-07-09-2026/arte-bruta/16-nao-precisa-ser-so-a-gente-raw.png');
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente/carrossel/01-capa.png');
+const OUT = path.resolve('INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E15-nao-precisa-ser-so-a-gente-postado-07-09-2026/carrossel/01-capa.png');
 
 const W = 1080, H = 1080;
 const CREAM = '#F3E9D8';
