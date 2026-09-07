@@ -372,7 +372,16 @@ Sources:
 
 ## 8. Perguntas em aberto pra fechar na Fase 0
 
-- Nome artístico do Zai: mantém "Zai" ou cria um nome de artista diferente?
+- **Resolvida (07/09/2026): nome artístico é "Zai Horizonte".** "Horizonte"
+  é o sobrenome narrativo oficial da família na bíblia da série (Família
+  Horizonte) — reforça a ponte com a origin story sem precisar explicar
+  nada. Checagem feita antes de fechar (regra do checklist, seção 6.5) e
+  aprofundada depois a pedido do Jorge: "Zai" sozinho já é nome de **pelo
+  menos 4 artistas reais ativos** — cantor de MPB (Bahia, Brasil, single
+  "Imenso" 2025), rapper de hip-hop (Istambul, Turquia), músico jovem
+  (Austrália) e entertainer/cantor (EUA, já apareceu no American Idol).
+  Confirma que "Zai" sozinho seria confusão garantida. "Zai Horizonte" não
+  colidiu com nada em nenhuma das buscas.
 - Qual das 4 letras já escritas vira o primeiro single de teste?
 - Quem faz a curadoria de qualidade da voz gerada (ouvido de quem decide se
   "tá bom o suficiente")?
