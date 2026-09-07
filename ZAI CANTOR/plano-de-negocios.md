@@ -39,6 +39,8 @@ gancho de campanha genuíno pro lançamento — "veja onde tudo começou" —
 mais forte que histórias de fundo inventadas do zero, porque a nossa já
 está documentada e publicada de verdade.
 
+**Estilo musical do Zai — "pop família suave" (07/09/2026, ideia do Jorge):** dentro do gospel, o som do Zai Cantor deve ser pop suave e acolhedor, com cara de família — não gospel tradicional de igreja nem gospel pesado. **Isso já vale pro Instagram da Família Horizonte antes mesmo do Zai Cantor existir**: o Instagram da série é também construção de terreno pro lançamento do cantor, então toda escolha de áudio nos Reels da Família Horizonte (trending audio ou trilha própria) deve já soar compatível com esse estilo — cria familiaridade sonora no público antes do Zai estrear. Ver `business/campanhas/instagram/plano-teste-reels.md` pra aplicação prática nos Reels de teste.
+
 **Por isso o plano é em fases com portão de decisão entre cada uma** —
 avança só quando a fase anterior prova que vale continuar.
 
