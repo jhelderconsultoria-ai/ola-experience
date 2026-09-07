@@ -40,8 +40,8 @@ async function main() {
       .quote { font-family: 'Georgia', 'Times New Roman', serif; font-size: ${fontSize}px; font-weight: 700; fill: ${CREAM}; }
     </style>
     <text x="50%" y="${textY}" text-anchor="middle" class="quote">
-      <tspan x="50%" dy="0">"Dia de beber na Fonte da Juventude</tspan>
-      <tspan x="50%" dy="${lineGap}">em nossa amada BlueFit."</tspan>
+      <tspan x="50%" dy="0">"Esse é o nosso jeito de cuidar</tspan>
+      <tspan x="50%" dy="${lineGap}">da saúde em família."</tspan>
     </text>
   </svg>`;
 

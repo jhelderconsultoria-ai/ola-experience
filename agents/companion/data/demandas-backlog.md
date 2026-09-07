@@ -10,6 +10,16 @@
 
 <!-- O que vem depois do urgente -->
 
+### Decidir turbinar o T1E09 — conversar em 07/09/2026
+
+O Jorge pediu pra retomar esse assunto especificamente em 07/09/2026. Contexto: análise
+de Insights (06/09/2026) mostrou que o T1E09 "Quando foi a última vez que vocês viveram
+algo novo juntos?" é o post orgânico de melhor desempenho (14 contas engajadas, 75
+visualizações orgânicas — o T1E06 só aparece na frente em visualizações totais porque já
+tem anúncio pago rodando nele). Proposta em aberto: turbinar o T1E09 nos mesmos moldes do
+T1E06 (R$50 / 5 dias, público "SP - Fitness e Corrida 18-60"). Falta só a confirmação do
+Jorge pra configurar e submeter o anúncio.
+
 ## Backlog (quando tiver tempo)
 
 <!-- Ideias e tarefas pra futuro -->
