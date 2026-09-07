@@ -126,7 +126,7 @@ rótulo por post já usado em cada publicação).
 | 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
 | 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-SJ3aFgC6/. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
 | 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
-| 25 | 2026-10-01 | Quinta | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E16_ |
+| 25 | 2026-10-01 | Quinta | Arte (família em cena) | T1E16 — Finalmente Saiu (o Zai apresenta pra família, de pijama, a música gospel que compôs — paga o setup do T1E13) — carrossel pronto em `T1E16-finalmente-saiu/carrossel/`, ainda não publicado |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | "Ninguém vive bem sozinho" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-ScD2lhgY/ (nasceu da nova diretriz de convívio social da série, 07/09/2026) |
 | 28 | 2026-10-04 | Domingo | Arte (família em cena) | _A definir — Temporada 1 expandida, T1E17_ |
