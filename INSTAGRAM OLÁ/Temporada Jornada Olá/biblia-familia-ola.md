@@ -212,6 +212,53 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 - Natureza apresentada com verdes profundos, céu azul e luz acolhedora.
 - Sem semelhança deliberada com personagens ou franquias existentes.
 
+## Estratégia — evolução visual gradual e sutil (07/09/2026, ideia do Jorge)
+
+O estilo 3D/Pixar de família está saturado (muitas contas de IA usando o mesmo
+tipo de render — ver achado da pesquisa de Reels em 07/09/2026). Pra começar
+a distanciar a Família Horizonte desse padrão genérico sem perder
+reconhecimento de quem já segue, a família vai **mudar fisicamente aos
+poucos, ao longo dos meses**, como reflexo natural da própria jornada dos 5
+pilares (o exercício físico realmente muda o corpo com o tempo):
+
+- **Ritmo fixado: a cada 30 dias** (mesmo ciclo já usado pra "temporada"),
+  revisar e aplicar **1 ajuste visível por vez** — nunca vários ajustes
+  juntos na mesma rodada, pra manter a mudança sutil e rastreável.
+- Físico mais tonificado/em forma progressivamente (Nilo, Lu e, mais à
+  frente, os adolescentes) — coerente com o Bloco Força e a prática
+  constante de atividade mostrada na série.
+- Pequenos ajustes de barba/cabelo/penteado (ex.: Nilo com a barba um pouco
+  diferente, corte de cabelo atualizado) — mudanças de estilo, não de
+  identidade.
+- **Vale pra todo mundo da família, MENOS o Thor** — o cachorro mantém a
+  âncora fixa de sempre (pelagem, coleira terracota com plaquinha dourada),
+  sem evolução nenhuma; um cachorro não muda de físico como reflexo de
+  treino igual os humanos, e mudar a aparência dele quebraria reconhecimento
+  à toa.
+- Ritmo **gradual e sutil** — nunca um salto brusco de um episódio pro
+  outro. Cada ajuste pequeno o bastante pra não quebrar reconhecimento
+  imediato do personagem (comparar sempre com a arte aprovada mais recente
+  antes de decidir a mudança, não com a arte original do T1E01).
+- **Âncoras que NUNCA mudam nesse processo:** tom de pele, cor e cacheado do
+  cabelo (traço de família), formato de olho, personalidade/postura de cada
+  um. O que muda é só physique/detalhe de estilo, não a pessoa.
+
+**Cuidado especial — Zai (15 anos, adolescente da série):** ele também
+recebe a evolução gradual normal, igual ao resto da família, mas cada ajuste
+nele precisa ser conferido contra a arte já aprovada do **Zai Horizonte
+adulto** (`ZAI CANTOR/identidade-visual/`) — a mudança tem que parecer um
+passo em direção a esse adulto (mesma linha de rosto, cabelo, tom de pele),
+nunca se afastar dele. É a ponte de origin story entre as duas contas; um
+Zai adolescente que diverge muito visualmente do Zai Cantor adulto quebra
+essa ponte.
+
+**Exceção explícita — Zai Horizonte adulto (Zai Cantor):** essa evolução
+gradual NÃO se aplica à imagem do Zai adulto, artista (`ZAI CANTOR/`). A
+identidade visual dele, uma vez aprovada, fica **travada** — é a imagem
+oficial do artista, precisa de consistência total pra reconhecimento de
+marca (capa de single, perfil, divulgação). Qualquer mudança ali é decisão
+separada do Jorge, não segue esse ritmo automático de evolução da série.
+
 ## Regra sistêmica obrigatória (06/09/2026): âncoras de identidade completas em todo prompt
 
 Todo prompt de imagem de cena tem que incluir a **âncora física completa** de CADA personagem que aparece na cena — inclusive personagens em segundo plano, desfocados ou em movimento. Nunca descrever um personagem de fundo só pela roupa (ex.: "o Nilo passa correndo" sem dizer cabelo/pele/físico) — isso deixa o gerador livre pra desenhar uma pessoa genérica que não bate com a família estabelecida.
