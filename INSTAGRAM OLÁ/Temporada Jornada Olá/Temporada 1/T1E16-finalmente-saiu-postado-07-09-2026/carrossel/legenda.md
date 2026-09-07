@@ -25,7 +25,7 @@ Ele não prometeu um caminho fácil. Prometeu que ninguém anda sozinho nele.
 
 ## Hashtags de descoberta
 
-#jornadaolá #familiahorizonte #saudeemfamilia #vidadefamilia #paisefilhos #música #violão #fé #esperança #gospel #compositor #goldenretriever #cachorro #petsofinstagram
+#jornadaolá #familiahorizonte #saudeemfamilia #vidadefamilia #paisefilhos #música #violão #fé #esperança #gospel #compositor #goldenretriever #cachorro #petlovers #amoanimais #petsofinstagram #dogsofinstagram
 
 ## Texto alternativo sugerido (por slide)
 
