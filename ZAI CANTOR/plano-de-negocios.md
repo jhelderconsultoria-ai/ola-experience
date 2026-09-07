@@ -1,4 +1,4 @@
-# Plano de Negócios — Zai, Cantor Gospel de IA
+# Plano de Negócios — Zai, Cantor Pop de IA
 
 > Bíblia de estudo da Fase 1. Objetivo: amadurecer aos poucos, validar barato
 > antes de gastar, e só escalar investimento quando a fase anterior provar
@@ -16,8 +16,11 @@
 ## 1. Tese do negócio
 
 Existe um mercado real e validado para "artistas musicais 100% fictícios/IA"
-no nicho gospel — o case @hikaridejesus prova isso (1 milhão de seguidores,
-presença em Spotify/Apple Music/YouTube, cobertura de imprensa). O Zai já
+— o case @hikaridejesus prova isso (1 milhão de seguidores, presença em
+Spotify/Apple Music/YouTube, cobertura de imprensa), ainda que no nicho
+gospel. O Zai usa o **mesmo modelo de negócio** (persona com biografia fixa,
+distribuição multi-plataforma, Reels com áudio real) num **gênero diferente:
+pop família suave, não gospel** (decisão de 07/09/2026 — ver abaixo). O Zai já
 tem o que mais custa caro pra construir do zero: um personagem com bíblia
 fechada, uma história pessoal ("garoto tímido que descobre que compõe") e um
 banco de letras 100% originais já escrito e checado contra plágio.
@@ -39,7 +42,7 @@ gancho de campanha genuíno pro lançamento — "veja onde tudo começou" —
 mais forte que histórias de fundo inventadas do zero, porque a nossa já
 está documentada e publicada de verdade.
 
-**Estilo musical do Zai — "pop família suave" (07/09/2026, ideia do Jorge):** dentro do gospel, o som do Zai Cantor deve ser pop suave e acolhedor, com cara de família — não gospel tradicional de igreja nem gospel pesado. **Isso já vale pro Instagram da Família Horizonte antes mesmo do Zai Cantor existir**: o Instagram da série é também construção de terreno pro lançamento do cantor, então toda escolha de áudio nos Reels da Família Horizonte (trending audio ou trilha própria) deve já soar compatível com esse estilo — cria familiaridade sonora no público antes do Zai estrear. Ver `business/campanhas/instagram/plano-teste-reels.md` pra aplicação prática nos Reels de teste.
+**Gênero do Zai — "pop família suave", NÃO gospel (07/09/2026, decisão do Jorge):** o Hikari de Jesus é referência só de **modelo de negócio** (persona de IA, biografia fixa, distribuição em streaming) — não de gênero. O som do Zai Cantor é **pop suave e acolhedor, com cara de família**, sem tema religioso. As 4 letras já escritas foram **adaptadas** no mesmo dia (`zai-poesias.md`, renomeado de `zai-poesias-gospel.md`) — trocadas as referências religiosas por família/apoio/afeto, mantendo tom e métrica. Letra nova já nasce direto em pop família suave daqui pra frente. **Isso já vale pro Instagram da Família Horizonte antes mesmo do Zai Cantor existir**: o Instagram da série é também construção de terreno pro lançamento do cantor, então toda escolha de áudio nos Reels da Família Horizonte (trending audio ou trilha própria) deve já soar compatível com esse estilo — cria familiaridade sonora no público antes do Zai estrear. Ver `business/campanhas/instagram/plano-teste-reels.md` pra aplicação prática nos Reels de teste.
 
 **Por isso o plano é em fases com portão de decisão entre cada uma** —
 avança só quando a fase anterior prova que vale continuar.
@@ -114,7 +117,7 @@ Sources:
 
 - Personagem Zai com bíblia fixa (Temporada 1 da série)
 - 4 letras 100% originais já escritas e checadas contra plágio
-  (`ZAI CANTOR/zai-poesias-gospel.md`)
+  (`ZAI CANTOR/zai-poesias.md`)
 - Um episódio da série (T1E16 "Finalmente Saiu") que já apresenta o Zai como
   compositor — serve de ponte narrativa pra "lançar" o artista depois
 - Aprendizado direto do case @hikaridejesus: estrutura de perfil, formato de
@@ -259,7 +262,7 @@ qualquer um poderia copiar sem cometer crime de plágio, porque não existe
 participação humana em cada composição — quem escreveu a letra, que
 decisões criativas foram tomadas na produção, prompts usados, escolha entre
 variações geradas. É exatamente o que já foi feito com as letras do Zai
-(ver `ZAI CANTOR/zai-poesias-gospel.md`, que já registra autoria e checagem
+(ver `ZAI CANTOR/zai-poesias.md`, que já registra autoria e checagem
 contra plágio) — só precisa manter esse mesmo cuidado quando a melodia/voz
 for gerada.
 
@@ -327,7 +330,7 @@ Regra fixada em 07/09/2026 a pedido do Jorge — vale pra **toda** letra nova
 3. **Melodia (quando a IA gerar):** ouvir e comparar com o resultado antes
    de publicar — ver seção 6.2, é onde mora o risco financeiro real.
 4. **Documentar:** toda letra nova entra em
-   `ZAI CANTOR/zai-poesias-gospel.md` com uma nota de autoria/checagem,
+   `ZAI CANTOR/zai-poesias.md` com uma nota de autoria/checagem,
    igual às 4 já existentes — isso é o que sustenta a participação humana
    documentada (seção 6.1).
 5. **Não avançar pra produção (Suno/gravação) sem os passos 1-4 feitos.**

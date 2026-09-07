@@ -35,6 +35,17 @@ Reportar no ritual semanal de segunda-feira (já existente):
 - Contas atingidas e visualizadores únicos
 - Seguidores ganhos na semana do teste vs. semana equivalente sem Reels
 
+## Hashtags de alcance (07/09/2026 — pedido do Jorge, ampliar descoberta)
+
+**Reels** pedem hashtag mais ampla/genérica que carrossel (o formato já favorece descoberta por conta própria via Explorar; hashtag nichada demais limita o público que o algoritmo testa). Proposta pra usar nos Reels, em cima da base de marca já fixa:
+
+- Fixas de marca (sempre): `#jornadaolá` `#familiahorizonte`
+- Descoberta ampla: `#reelsbrasil` `#familia` `#paisefilhos` `#vidadefamilia` `#maternidade` `#paternidade` `#reelsfamilia` `#familiaunida`
+
+**Carrossel (Arte/Frase)** mantém o padrão atual — hashtag mais específica ao tema do episódio/frase (ex.: T1E06 usou `#saudeemfamilia` `#vidaativa` `#movimento` `#trilha` `#natureza` `#ritmopróprio` `#bemestar` em cima das fixas de marca), decidido caso a caso conforme o assunto de cada post — não muda.
+
+**Zai Cantor (preparar desde já, usar quando a conta existir):** hashtags de descoberta pra artista pop de IA — `#cantordeia` `#artistadeia` `#musicapop` `#popbrasileiro` `#iamusic` `#vozdeia` `#musicaautoral` `#artistavirtual`. Ver `ZAI CANTOR/tracker.md` pra aplicação.
+
 ## Decisão pendente do Jorge
 
 1. ~~Aprovar a abordagem "Reels de arquivo" (sem custo) em vez de recarregar Kling.~~ — aprovado 07/09/2026.

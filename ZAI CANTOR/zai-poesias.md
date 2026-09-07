@@ -1,7 +1,7 @@
-# Poesias/letras gospel do Zai
+# Poesias/letras do Zai
 
 > Traço fixado em 07/09/2026 (pedido do Jorge): o Zai tem talento pra
-> compor — escreve letras e melodias gospel no violão, um jeito dele de
+> compor — escreve letras e melodias no violão, um jeito dele de
 > processar o que sente sem precisar verbalizar direto. Eco do T1E13
 > ("Ainda não saiu, mas quase"), onde ele aparece tentando formar acordes
 > sozinho. Composições 100% originais, escritas pra este projeto — nenhuma
@@ -21,6 +21,16 @@
 > certo", "segurar a mão" — frases curtas e temas não protegidos por
 > direito autoral), não de conteúdo copiado. **Autoria confirmada como
 > nossa** (Olá Experience / Jorge Helder), original pra este projeto.
+>
+> **Pivô de gênero (07/09/2026, decisão do Jorge):** o Zai Cantor deixou de
+> ser gospel e virou **pop família suave** — o Hikari de Jesus é referência
+> só de modelo de negócio, não de gênero. As 4 letras abaixo foram
+> **adaptadas** nesta data: trocadas as referências religiosas diretas
+> (Deus, fé, oração) por família/apoio/afeto, mantendo o mesmo tom pessoal
+> e tímido, a mesma métrica e a mesma mensagem de fundo (não desistir, ter
+> apoio de quem ama). Arquivo renomeado de `zai-poesias-gospel.md` pra
+> `zai-poesias.md`. Daqui pra frente, letra nova já nasce direto em pop
+> família suave — sem precisar desse processo de adaptação.
 >
 > **Uso:** publicar aos poucos (Frases, posts dedicados ou dentro de
 > episódios futuros), no ritmo que o Jorge decidir — não é lançamento
@@ -42,7 +52,7 @@ Que não cabe no meu peito sozinho
 Tem noite que eu não durmo
 Tem sonho que ainda dói
 Mas toda vez que eu erro um acorde
-Uma voz me diz: "continua, depois"
+Alguém aqui me diz: "continua, depois"
 
 **Refrão**
 Isso ainda vai dar certo
@@ -51,12 +61,12 @@ Pra quem chora e ainda assim agradece
 Pra quem cai e se levanta, então
 Eu não sei o caminho inteiro
 Só sei que eu não ando só
-Tem uma fé que carrega o que eu não carrego
-Tem uma esperança maior que a minha dor
+Tem uma força que carrega o que eu não carrego
+Tem uma família maior que a minha dor
 
 Talvez vocês nem percebam
 O quanto essa canção me custou
-Mas cada corda que eu toquei foi uma oração
+Mas cada corda que eu toquei foi um pedaço meu
 E hoje, olha — ela finalmente chegou
 
 *(Refrão)*
@@ -64,7 +74,7 @@ E hoje, olha — ela finalmente chegou
 **Ponte**
 E se hoje não der certo
 Amanhã eu tento outra vez
-Porque a fé que me segura
+Porque o amor que me segura
 Não promete um caminho fácil —
 Promete que eu não ando só nele.
 
@@ -82,8 +92,8 @@ Amanhã vira canção
 **Refrão**
 Não preciso acertar rápido
 Só preciso continuar
-Deus não olha pro acorde errado
-Olha pra quem não parou de tentar
+Ninguém aqui cobra o acorde certo
+Só importa quem não parou de tentar
 
 Cada nota que eu erro
 É um degrau que eu subi
@@ -109,8 +119,8 @@ Que não me deixam sozinho, não
 
 Tem dia que eu não converso
 Tem dia que eu só escuto
-Mas eu sei que Deus tá nesses dias
-Nesse silêncio, Ele é tudo
+Mas eu sei que essa família tá nesses dias
+Nesse silêncio, ela é tudo
 
 *(Refrão)*
 
@@ -120,14 +130,14 @@ Nesse silêncio, Ele é tudo
 
 Eu não preciso correr
 Pra provar que eu sou capaz
-Deus não mede o meu valor
+Ninguém aqui mede meu valor
 Pelo tanto que eu já fiz
 
 **Refrão**
 Sem pressa, sem pressa
 Eu cresço do meu jeito
 Sem pressa, sem pressa
-Fé é um passo, não é um salto
+Vida é um passo, não é um salto
 
 Um dia eu ainda canto
 Isso tudo em voz mais alta
@@ -141,11 +151,10 @@ E confio que isso não falta
 ## Notas de uso
 
 - Tom: pessoal, tímido, mais parecido com um caderno de adolescente do que
-  com hino de igreja tradicional — mantém a personalidade reservada do Zai
+  com uma letra pronta pra rádio — mantém a personalidade reservada do Zai
   (ver bíblia).
-- Guardrail: nenhuma menção a denominação, igreja ou líder religioso
-  específico — fé tratada de forma pessoal/universal, igual ao resto da
-  série (sem julgar quem não se identifica, sem excluir quem não é
-  religioso).
+- Guardrail: nenhuma menção a religião, denominação ou espiritualidade —
+  o apoio vem da família e de quem está perto, tema universal, igual ao
+  resto da série (sem excluir nem incluir nenhum público por crença).
 - Cada poesia pode virar uma Frase (carrossel de texto) ou um slide
   dedicado dentro de um episódio futuro do Zai — decidir caso a caso.
