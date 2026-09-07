@@ -111,7 +111,7 @@ rótulo por post já usado em cada publicação).
 | 7 | 2026-09-13 | Domingo | Arte + Frase | T1E08 — A primeira experiência na natureza — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73ur4FtSR/. **+ Frase** "Nem tudo que é rápido é melhor" — publicada antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9EuewljIH/ |
 | 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Inq7jItW/ |
 | 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-R27dljXa/ |
-| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — pronta em `frases/2026-09-16/notificacao-nao-e-urgencia/` |
+| 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — publicada em 07/09/2026 (correção de sequência, ordem de publicação): https://www.instagram.com/p/Dc-gAfqlokZ/ |
 | 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
 | 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/cada-um-ajuda-do-seu-jeito/` |
 | 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/feed-perfeito-vida-real/` |
@@ -177,6 +177,36 @@ rótulo por post já usado em cada publicação).
 - **Ordem de produção (pedido do Jorge em 05/09/2026):** seguir a sequência real do
   calendário, alternando Arte e Frase — não deixar um tipo acumular enquanto o outro fica
   parado.
+
+## Ordem de publicação corrigida (07/09/2026)
+
+**Problema identificado:** a sequência de **Arte (T1E)** sempre foi respeitada (T1E05→06→07→...→16, sem pular — checado antes de cada publicação). Mas a sequência de **Frase** quebrou: a Frase de 03/10 ("Ninguém vive bem sozinho") foi publicada em 07/09, **antes** de 15 Frases mais antigas (16/09 a 30/09) que já estavam prontas desde 05/09 e nunca foram ao ar.
+
+**Regra nova (espelha a regra já usada pro Arte):** antes de publicar qualquer Frase nova, conferir se existe alguma Frase de data mais antiga ainda pronta e não publicada — nesse caso, publicar a mais antiga primeiro. Mesma lógica já aplicada ao Arte (nunca publicar T1E15 antes de T1E14, por exemplo), agora vale igual pra Frase.
+
+**Fila corrigida a partir de 07/09/2026 (intercalando Frase e Arte, cada trilha na própria ordem):**
+
+1. ~~Frase — "Notificação não é urgência"~~ — publicada em 07/09/2026: https://www.instagram.com/p/Dc-gAfqlokZ/
+2. Frase — "A pressão de ser exemplo o tempo todo" (`frases/2026-09-17/`) — **próxima da fila**
+3. Frase — "Cada um ajuda do seu jeito" (`frases/2026-09-18/`)
+4. **T1E17** (Bloco Cardio) — ainda sem roteiro, escrever antes de publicar
+5. Frase — "Feed perfeito, vida real" (`frases/2026-09-19/`)
+6. Frase — "Cada fase pede uma presença diferente" (`frases/2026-09-20/`)
+7. Frase — "Ouvir sem resposta pronta" (`frases/2026-09-21/`)
+8. **T1E18** (Bloco Cardio) — ainda sem roteiro
+9. Frase — "Descansar também rende" (`frases/2026-09-22/`)
+10. Frase — "Ritmo do trabalho não é ritmo de casa" (`frases/2026-09-23/`)
+11. Frase — "Repetir não é fracassar" (`frases/2026-09-24/`)
+12. **T1E19** (Bloco Cardio, fecha o bloco) — ainda sem roteiro
+13. Frase — "Elogiar o esforço, não só o resultado" (`frases/2026-09-25/`)
+14. Frase — "Curtir não é se importar" (`frases/2026-09-26/`)
+15. Frase — "Nem toda opinião on-line precisa de resposta" (`frases/2026-09-27/`)
+16. Frase — "Silêncio também é comunicação" (`frases/2026-09-28/`)
+17. Frase — "Amor também é logística" (`frases/2026-09-29/`)
+18. Frase — "A pressa dos outros não é sua régua" (`frases/2026-09-30/`)
+19. **T1E20** (abre o Bloco Força) — a partir daqui, escrever roteiro conforme a produção avança
+
+Depois de esgotar essa fila, seguir criando Frases novas (eixo dentro de casa / mundo lá fora) e Artes do Bloco Força (T1E20-24) na mesma lógica intercalada.
 
 ## Ritual semanal — toda segunda-feira
 
