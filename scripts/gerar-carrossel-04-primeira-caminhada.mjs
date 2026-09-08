@@ -50,6 +50,12 @@ async function makeAvatar(key) {
   return sharp(face).composite([{ input: ring, top: 0, left: 0 }]).png().toBuffer();
 }
 
+function footerFontSize(texto, showArrow) {
+  const BASE = 30, MAX_W = showArrow ? 700 : 940, CHAR_W = 0.58, MIN = 22;
+  const tamanho = Math.min(BASE, Math.floor(MAX_W / (texto.length * CHAR_W)));
+  return Math.max(MIN, tamanho);
+}
+
 function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
   const lineHeight = 76;
   const startY = H / 2 - ((lines.length - 1) * lineHeight) / 2;
@@ -66,7 +72,7 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 4px; fill: ${TERRACOTA}; }
       .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 54px; font-weight: 700; fill: ${CREAM}; }
       .quote { font-family: 'Georgia', 'Times New Roman', serif; font-size: 140px; fill: ${TERRACOTA}; opacity: 0.55; }
-      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 24px; letter-spacing: 2px; fill: ${CREAM_MUTED}; }
+      .footer { font-family: 'Georgia', 'Times New Roman', serif; letter-spacing: 2px; fill: ${CREAM_MUTED}; }
       .badge { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; fill: ${CREAM_MUTED}; }
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${TERRACOTA}; }
     </style>
@@ -75,7 +81,7 @@ function slideSvg({ eyebrow, lines, quoteMark, footer, badge, showArrow }) {
     <rect x="${accentX}" y="${accentY}" width="70" height="6" fill="${TERRACOTA}"/>
     ${quoteMark ? `<text x="68" y="${startY - 120}" class="quote">&#8220;</text>` : ''}
     <text text-anchor="middle" class="headline">${textSpans}</text>
-    ${footer ? `<text x="${showArrow ? 70 : W / 2}" y="${H - 190}" text-anchor="${showArrow ? 'start' : 'middle'}" class="footer">${esc(footer)}</text>` : ''}
+    ${footer ? `<text x="${showArrow ? 70 : W / 2}" y="${H - 190}" text-anchor="${showArrow ? 'start' : 'middle'}" class="footer" style="font-size:${footerFontSize(footer, showArrow)}px">${esc(footer)}</text>` : ''}
     ${badge ? `<text x="${W - 70}" y="76" text-anchor="end" class="badge">${esc(badge)}</text>` : ''}
     ${showArrow ? `<text x="${W - 70}" y="${H - 190}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>` : ''}
   </svg>`;

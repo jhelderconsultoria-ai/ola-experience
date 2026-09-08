@@ -230,3 +230,10 @@
 **Decisao:** Recortadas referências de Lu, Nilo, Zai, Nori e Thor a partir da arte do T1E16 (mais recente aprovada) e as 3 artes regeneradas via `codex exec --image` com essas referências anexadas + instrução explícita de que são só referência de identidade, não de roupa/pose/cenário. Resultado muito mais fiel nos 3 casos — inclusive resolveu de brinde o desvio de estilo "realista demais" do T1E18. Versões finais salvas como `-raw-v2.png`, capas regeneradas.
 **Racional:** A regra já existia documentada por um motivo real (mesmo problema aconteceu antes, caso do cabelo do Nilo) — não segui o próprio processo que a bíblia manda seguir.
 **Impacto:** Lição pro próximo bloco (Força, T1E20-24) e todo episódio futuro: SEMPRE recortar e anexar referência de imagem ao gerar arte com personagem estabelecido, nunca só texto, mesmo com âncora completa escrita. Vale registrar isso como checklist reforçado antes de rodar Codex daqui pra frente.
+
+## 08/09/2026 — Fonte do rodapé aumentada em todos os carrosséis (Frases + episódios)
+
+**Contexto:** Jorge apontou que o texto pequeno acima do logo Olá (classe `.footer` do SVG) precisava ficar maior, sem mexer no "ARRASTE →".
+**Decisao:** Aumentado o tamanho-base do rodapé em `gerar-frases.mjs` (36→42px) e em todos os 18 scripts `gerar-carrossel-XX-*.mjs` de episódio (24→30, 32→38, 36→42, mantendo a diferença histórica entre eras). Implementado auto-ajuste (`footerFontSize()`) pra evitar colisão com "ARRASTE" em rodapés de texto mais longo — descoberto e corrigido durante o processo (T1E04 colidiu na primeira calibração, recalibrado). Todas as Frases (já publicadas e futuras) e todos os 19 episódios (T1E01-19) tiveram as imagens regeneradas.
+**Racional:** Rodapé pequeno demais comparado ao resto do texto; correção precisava ser proporcional, não um valor fixo igual pra todo texto, pra não quebrar em textos longos.
+**Impacto:** Nenhuma publicação já feita no Instagram muda (são só os arquivos locais) — mas qualquer reuso futuro dessas artes, ou reposts, já sai com o ajuste. Scripts atualizados são a nova referência padrão pra qualquer carrossel futuro.

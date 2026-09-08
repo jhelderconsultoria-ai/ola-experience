@@ -39,6 +39,12 @@ function slugify(s) {
     .replace(/^-+|-+$/g, '');
 }
 
+function footerFontSize(texto, showArrow) {
+  const BASE = 42, MAX_W = showArrow ? 700 : 940, CHAR_W = 0.58, MIN = 22;
+  const tamanho = Math.min(BASE, Math.floor(MAX_W / (texto.length * CHAR_W)));
+  return Math.max(MIN, tamanho);
+}
+
 function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
   const p = PALETAS[palette];
   const lineHeight = 76;
@@ -52,7 +58,7 @@ function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
     <style>
       .eyebrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 26px; font-weight: 700; letter-spacing: 5px; fill: ${p.destaque}; }
       .headline { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 52px; font-weight: 700; fill: ${p.texto}; }
-      .footer { font-family: 'Georgia', 'Times New Roman', serif; font-size: 36px; letter-spacing: 2px; fill: ${p.textoMudo}; }
+      .footer { font-family: 'Georgia', 'Times New Roman', serif; letter-spacing: 2px; fill: ${p.textoMudo}; }
       .badge { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; fill: ${p.textoMudo}; }
       .arrow { font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: 3px; fill: ${p.destaque}; }
     </style>
@@ -60,7 +66,7 @@ function slideSvg({ eyebrow, lines, footer, badge, showArrow, palette }) {
     <rect x="70" y="88" width="70" height="6" fill="${p.destaque}"/>
     <text x="70" y="76" class="eyebrow">${esc(eyebrow)}</text>
     <text text-anchor="middle" class="headline">${textSpans}</text>
-    ${footer ? `<text x="${showArrow ? 70 : W / 2}" y="${H - 190}" text-anchor="${showArrow ? 'start' : 'middle'}" class="footer">${esc(footer)}</text>` : ''}
+    ${footer ? `<text x="${showArrow ? 70 : W / 2}" y="${H - 190}" text-anchor="${showArrow ? 'start' : 'middle'}" class="footer" style="font-size:${footerFontSize(footer, showArrow)}px">${esc(footer)}</text>` : ''}
     ${badge ? `<text x="${W - 70}" y="76" text-anchor="end" class="badge">${esc(badge)}</text>` : ''}
     ${showArrow ? `<text x="${W - 70}" y="${H - 190}" text-anchor="end" class="arrow">ARRASTE &#8594;</text>` : ''}
   </svg>`;
