@@ -4,6 +4,12 @@
 
 **Lembrete fixo:** toda vez que acessar o Instagram @olaexperienceoficial nesta sessao (Claude in Chrome ou equivalente), rodar a "Rotina de manutencao da conta" em `INSTAGRAM OLÁ/PROJETO-INSTAGRAM-OLA.md` (marcacoes, DMs, comentarios sem resposta, status de anuncio turbinado) antes de fechar o bloco de trabalho — nao depender de lembrar sozinho, ela nao carrega automatico como este arquivo.
 
+**Lembrete fixo (07/09/2026, pedido do Jorge):** no primeiro acesso do dia (primeira mensagem dele numa sessao nova), avisar logo de cara as pendencias em geral antes de qualquer outra coisa — nao esperar ele perguntar. Ver secao "Pendencias em aberto" abaixo, manter atualizada a cada sessao.
+
+## Pendencias em aberto
+
+- **Publicar Reel do T1E11** ("Cinco minutos so meus") — arte e trilha ("Charango", cloud cover) prontas, agendado pro Jorge autorizar em 08/09/2026 (nunca publicar sem ele confirmar na hora, regra fixa — ver `business/campanhas/instagram/plano-teste-reels.md`).
+
 ## Status Geral
 
 Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda — falta formacao/registro do Jorge em Educacao Fisica). Foco atual e 100% construcao de presenca no Instagram @olaexperienceoficial com a narrativa da Familia Horizonte.
