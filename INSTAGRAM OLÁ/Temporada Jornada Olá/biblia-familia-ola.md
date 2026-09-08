@@ -6,6 +6,34 @@ Uma família brasileira comum tentando encontrar seu próprio jeito de viver mel
 
 Eles não são profissionais de saúde e não oferecem aconselhamento. Vivem situações com as quais o público pode se identificar. Quando um tema exigir orientação técnica, um profissional habilitado será convidado em conteúdo separado.
 
+## Núcleo de Influência (Método Audience — fixado em 08/09/2026)
+
+Construído com o Squad Posicionamento Arcane (nucleo-strategist), a partir da própria bíblia e da bio real do Instagram. Substitui/formaliza o que antes só existia implícito nas falas dos personagens.
+
+- **Quem ajuda:** famílias ocupadas.
+- **Dor principal (1 palavra):** Correria — já é vocabulário próprio da série ("a correria não pergunta se você está pronto", T1E12).
+- **Inimigo externo (nunca a tecnologia, nunca o público — Regra Editorial 1 preservada):** **A Maldição do Depois** — a crença de que qualidade de vida só começa quando sobrar tempo perfeito. Já estava latente na própria bio ("Qualidade de vida ficou pra depois?").
+- **Solução (engenharia reversa da dor + inimigo):** trocar o "depois eu cuido disso" por pequenos começos hoje, guiados pelos 5 pilares (alimentação, cognitivo, cardio, força, bolso) — um domingo de cada vez, não uma reforma de vida inteira.
+- **3 benefícios:**
+  1. Presença real em família sem virar mais uma obrigação.
+  2. Ânimo e saúde sem esperar o momento perfeito.
+  3. Mudança pequena que realmente fica — não é modismo de 21 dias.
+- **Soluções que já tentaram e não funcionaram:** prometer "segunda-feira eu começo"; comprar plano/app completo e abandonar em 2 semanas; esperar férias ou época "mais tranquila"; copiar rotina de influencer fitness sem filho/cansaço real; mudar tudo de uma vez e desistir de tudo.
+- **Mentira que o público acredita:** "Só vale a pena começar quando eu tiver tempo, dinheiro ou disposição de verdade."
+- **Não faz sentido:** "Não faz sentido adiar pro fim de semana perfeito algo que cabe numa caminhada de 20 minutos hoje."
+- **Crenças centrais:**
+  1. "Qualidade de vida não é destino, é hábito pequeno repetido."
+  2. "Cansaço não é fraqueza — é sinal de que ninguém cuidou de si primeiro."
+  3. "Família não muda de uma vez. Muda um domingo de cada vez."
+
+**Apresentação magnética (usar como referência de tom em copy institucional, bio, sobre):**
+- *Não Faz Sentido (Reels/polêmica leve):* "Somos a Olá Experience. Não faz sentido sua família viver esperando o 'depois' pra ter qualidade de vida. A gente mostra, com a Família Horizonte, como começar hoje — do jeito que cabe na correria real."
+- *Dor + Solução (direto):* "Somos a Olá Experience. Tiramos sua família da correria sem fim e te levamos pra pequenos hábitos que realmente ficam — um domingo de cada vez."
+- *Com Crença (post com história):* "Somos a Olá Experience. Acreditamos que qualidade de vida não é destino, é hábito pequeno repetido. Se sua família também tá cansada de esperar o momento perfeito, vem com a gente."
+- *Com Método (institucional/bio):* "Somos a Olá Experience. Ajudamos famílias ocupadas a sair do 'depois eu cuido disso' com o método dos 5 pilares — alimentação, mente, corpo, força e dinheiro — pela jornada real da Família Horizonte."
+
+**Como aplicar daqui pra frente:** todo roteiro/copy institucional deve poder ser rastreado até este núcleo — a dor (correria), o inimigo (a Maldição do Depois) e a solução (pequenos começos, 5 pilares). Personagens continuam sendo o veículo emocional; o núcleo é a espinha dorsal estratégica por trás deles.
+
 ## Sobrenome narrativo
 
 **Família Horizonte**

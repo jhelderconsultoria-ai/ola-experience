@@ -188,3 +188,10 @@
 **Racional:** Uma bio que so gera identificacao (empatia) nao prepara audiencia pra uma oferta futura; precisa ter um verbo de movimento/convite ("vem ver", "acompanha") pra funcionar como funil de longo prazo.
 
 **Impacto:** Bio no ar desde 06/09/2026. Mantido o ritual de segunda-feira (ver decisao anterior) pra avaliar se essa versao performa melhor que a anterior.
+
+## 08/09/2026 — Núcleo de Influência formalizado pra Família Horizonte/Olá Experience
+
+**Contexto:** Jorge pediu análise da bíblia usando o Método Audience (Squad Posicionamento Arcane). Achado: a marca tinha solução (5 pilares) e personagens fortes, mas nunca formalizou dor (1 palavra), inimigo externo nem apresentação magnética — elementos centrais do método. A bio atual ("ficou pra depois?") já ecoava um inimigo latente sem nomear (confirma decisão de 06/09 sobre a frase-gancho).
+**Decisao:** Núcleo de influência fixado — dor = "Correria", inimigo = "A Maldição do Depois" (nunca a tecnologia, preserva Regra Editorial 1), solução = pequenos começos hoje via 5 pilares, 3 benefícios (presença real sem obrigação / ânimo sem esperar o momento perfeito / mudança pequena que fica), 3 crenças centrais e 4 versões de apresentação magnética. Registrado na bíblia (`INSTAGRAM OLÁ/Temporada Jornada Olá/biblia-familia-ola.md`, seção "Núcleo de Influência").
+**Racional:** Jorge reforçou no mesmo dia que quer usar os recursos do Arcane "220%" e criar sempre em conjunto com os agentes, não só consultar de leve. O núcleo dá espinha dorsal estratégica rastreável pra todo roteiro/copy futuro, em vez de cada peça nascer solta.
+**Impacto:** Todo conteúdo institucional (bio, destaques, posts fixados, copy de campanha) deveria dali pra frente ser rastreável até esse núcleo. Próximo passo natural (ainda não feito): revisar a bio atual e propor destaques/posts fixados com o Squad Posicionamento Arcane usando esse núcleo como base.
