@@ -8,13 +8,13 @@ const W = 1080;
 const H = 1920;
 const FPS = 30;
 
-const baseDir = 'INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E06-ritmo-postado-05-09-2026';
-const outDir = 'INSTAGRAM OLÁ/REELS FAMÍLIA HORIZONTE/T1E06-ritmo';
+const baseDir = 'INSTAGRAM OLÁ/Temporada Jornada Olá/Temporada 1/T1E11-cinco-minutos-postado-06-09-2026';
+const outDir = 'INSTAGRAM OLÁ/REELS FAMÍLIA HORIZONTE/T1E11-cinco-minutos';
 fs.mkdirSync(outDir, { recursive: true });
 
 const segments = [
   { file: `${baseDir}/carrossel/01-capa.png`, dur: 2.3, zoomTo: 1.08 },
-  { file: `${baseDir}/arte-bruta/07-ritmo-raw.png`, dur: 3.0, zoomTo: 1.15 },
+  { file: `${baseDir}/arte-bruta/12-cinco-minutos-raw.png`, dur: 3.0, zoomTo: 1.15 },
   { file: `${baseDir}/carrossel/03-mensagem.png`, dur: 2.0, zoomTo: 1.06 },
   { file: `${baseDir}/carrossel/04-fechamento.png`, dur: 1.8, zoomTo: 1.0 },
 ];
@@ -74,7 +74,7 @@ for (let i = 0; i < segments.length; i++) {
 const listPath = path.join(outDir, 'concat-list.txt');
 fs.writeFileSync(listPath, clipPaths.map(p => `file '${path.resolve(p).replace(/'/g, "'\\''")}'`).join('\n'));
 
-const finalPath = path.join(outDir, 'reel-t1e06-teste.mp4');
+const finalPath = path.join(outDir, 'reel-t1e11-teste.mp4');
 execFileSync(ffmpegPath, [
   '-y',
   '-f', 'concat',
