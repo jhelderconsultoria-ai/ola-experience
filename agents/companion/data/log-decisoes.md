@@ -209,3 +209,10 @@
 **Decisao:** Bio corrigida pra "Ajudamos famílias ocupadas a sair do 'depois' pra hoje / Um domingo de cada vez. / A jornada real da Família Horizonte, sem perfeição ↓" (131 chars). Já trocada e salva no Instagram.
 **Racional:** Consistência de voz — a bíblia e a apresentação magnética já usavam "Somos"/"Ajudamos" (plural); só a bio tinha ficado no singular por descuido.
 **Impacto:** Nenhum outro texto do projeto usa "Ajudo" nesse contexto — checado e confirmado.
+
+## 08/09/2026 — Raiz da Ideia formalizada, bíblia nova criada pro Zai Cantor (8001)
+
+**Contexto:** Jorge pediu nova versão da bíblia dos dois projetos (8000 e 8001) baseada na raiz da ideia, com o Arcane envolvido ("EQUIPE OLÁ"). O Zai Cantor nunca teve bíblia de identidade própria — só plano de negócios e banco de letras.
+**Decisao:** Fixada a "Raiz da Ideia" comum (qualidade de vida não é destino, é hábito pequeno repetido; ninguém deveria viver esperando "o depois") — adicionada no topo da bíblia da Família Horizonte, apontando pro Zai Cantor. Criada `ZAI CANTOR/biblia-zai-cantor.md` do zero, com núcleo de influência próprio via Squad Posicionamento Arcane: dor="Silêncio", inimigo="A Obrigação de Se Explicar", solução=música como linguagem alternativa. Achado no processo: os títulos já escritos ("Sem Pressa", "continua, depois" em "Isso Ainda Vai Dar Certo") já ecoavam essa raiz sem ninguém ter planejado — e o "depois" tem sentido oposto nos dois núcleos (vilão na série, acolhimento na música do Zai) — nuance preservada de propósito, não igualada.
+**Racional:** Os dois projetos vinham sendo tratados como iniciativas separadas; formalizar a raiz comum dá coerência estratégica e facilita decisão de conteúdo futuro em ambos.
+**Impacto:** Toda produção futura do Zai Cantor (letra, bio, Reel) agora tem núcleo pra se checar contra, igual já acontece na Família Horizonte.

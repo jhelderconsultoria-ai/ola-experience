@@ -1,5 +1,11 @@
 # Bíblia da Família Olá
 
+## Raiz da Ideia — Olá Experience (fixado em 08/09/2026)
+
+Tudo que a Olá Experience produz nasce da mesma crença: **qualidade de vida não é destino, é hábito pequeno repetido** — e ninguém deveria viver esperando "o depois" pra se conectar de verdade com a própria família, o próprio corpo, os próprios sentimentos.
+
+A **Família Horizonte** mostra essa jornada de fora pra dentro — 5 pilares, rotina, presença, o dia a dia de uma família comum. O **Zai Cantor** (ver `ZAI CANTOR/biblia-zai-cantor.md`) mostra a mesma raiz de dentro pra fora: é o próprio Zai, personagem desta bíblia, anos depois, transformando em música o que uma vez não conseguia dizer em voz alta. Os dois projetos não são produtos separados — são dois ramos da mesma raiz, construídos junto com o Squad Posicionamento Arcane (Método Audience).
+
 ## Conceito
 
 Uma família brasileira comum tentando encontrar seu próprio jeito de viver melhor. Entre trabalho, escola, cansaço, tecnologia e diferentes interesses, eles descobrem que saúde, movimento, natureza e convivência podem fazer parte da vida sem exigir perfeição.
