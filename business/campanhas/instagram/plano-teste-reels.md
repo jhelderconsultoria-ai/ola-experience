@@ -54,7 +54,8 @@ Reportar no ritual semanal de segunda-feira (já existente):
 2. ~~Confirmar os 3 episódios escolhidos (ou trocar algum).~~ — aprovado 07/09/2026.
 3. ~~Dar sinal verde pra eu montar o primeiro Reel.~~ — feito.
 4. ~~Revisar e aprovar a publicação do primeiro Reel (T1E06) antes de postar.~~ — **Publicado em 07/09/2026**: https://www.instagram.com/reel/DdAZCbDBF9-/. Áudio "Walking Home" (cloud cover, Meta Sound Collection) reconhecido pelo Instagram como "Áudio original" (embutido no arquivo, não selecionado via biblioteca do app). Rótulo de IA conferido desligado antes de publicar.
-5. Próximo Reel do plano: T1E11 ("Cinco minutos só meus") ou T1E15 ("Não precisa ser só a gente") — repetir o mesmo processo (Sound Collection → escolher juntos → cortar → publicar).
+5. T1E11 ("Cinco minutos só meus") em produção — arte renderizada em duas versões (4 cenas e "só capa", esta sem faixa verde/arraste, com frase e logo direto sobre a cena). Trilha escolhida: **"Charango"** (cloud cover, Pop, lento, Meta Sound Collection), aguardando aprovação final antes de publicar.
+6. Depois do T1E11: T1E15 ("Não precisa ser só a gente") — repetir o mesmo processo.
 
 ## Log
 
