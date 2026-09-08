@@ -1,7 +1,7 @@
 # Plano de teste — Reels (Olá Experience)
 
 **Criado:** 07/09/2026
-**Status:** Aprovado (abordagem + episódios) em 07/09/2026. Primeiro Reel (T1E06) já renderizado, aguardando revisão do Jorge antes de publicar.
+**Status:** Primeiro Reel (T1E06) publicado em 07/09/2026: https://www.instagram.com/reel/DdAZCbDBF9-/
 **Contexto:** campanha ativa é 100% carrossel (foto ou texto); Reels tende a ampliar alcance de não-seguidores muito além do que carrossel consegue hoje (ver `agents/companion/data/contexto-dinamico.md`).
 
 ## Abordagem recomendada — "Reels de arquivo" (sem custo de ferramenta)
@@ -53,7 +53,8 @@ Reportar no ritual semanal de segunda-feira (já existente):
 1. ~~Aprovar a abordagem "Reels de arquivo" (sem custo) em vez de recarregar Kling.~~ — aprovado 07/09/2026.
 2. ~~Confirmar os 3 episódios escolhidos (ou trocar algum).~~ — aprovado 07/09/2026.
 3. ~~Dar sinal verde pra eu montar o primeiro Reel.~~ — feito.
-4. **Revisar e aprovar a publicação** do primeiro Reel (T1E06) antes de postar — vídeo enviado, aguardando "publica". **Confirmado pelo Jorge (07/09/2026): não publicar antes de testarmos.**
+4. ~~Revisar e aprovar a publicação do primeiro Reel (T1E06) antes de postar.~~ — **Publicado em 07/09/2026**: https://www.instagram.com/reel/DdAZCbDBF9-/. Áudio "Walking Home" (cloud cover, Meta Sound Collection) reconhecido pelo Instagram como "Áudio original" (embutido no arquivo, não selecionado via biblioteca do app). Rótulo de IA conferido desligado antes de publicar.
+5. Próximo Reel do plano: T1E11 ("Cinco minutos só meus") ou T1E15 ("Não precisa ser só a gente") — repetir o mesmo processo (Sound Collection → escolher juntos → cortar → publicar).
 
 ## Log
 
