@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Letra,Georgia,64,&H00D8E9F3,&H00D8E9F3,&H004A7BC9,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,80,80,260,1
+Style: Fechamento,Georgia,44,&H00D8E9F3,&H00D8E9F3,&H004A7BC9,&H00000000,-1,-1,0,0,100,100,2,0,1,3,1,2,80,80,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.00,0:00:17.00,Letra,,0,0,0,,Eu não sei o dia certo
+Dialogue: 0,0:00:17.00,0:00:23.00,Letra,,0,0,0,,Não sei a hora, nem sei como
+Dialogue: 0,0:00:24.00,0:00:29.00,Letra,,0,0,0,,Mas eu sinto uma certeza
+Dialogue: 0,0:00:29.00,0:00:34.50,Letra,,0,0,0,,Que não cabe no peito sozinho
+Dialogue: 0,0:00:38.50,0:00:42.00,Letra,,0,0,0,,Tem noite que eu não durmo
+Dialogue: 0,0:00:42.00,0:00:45.00,Letra,,0,0,0,,Tem sonho que ainda dói
+Dialogue: 0,0:00:45.00,0:00:49.00,Letra,,0,0,0,,Mas toda vez que eu erro um acorde
+Dialogue: 0,0:00:49.50,0:00:56.50,Letra,,0,0,0,,Uma voz me diz: "continua, depois"
+Dialogue: 0,0:00:57.00,0:01:00.00,Letra,,0,0,0,,Isso ainda vai dar certo
+Dialogue: 0,0:01:00.00,0:01:04.00,Letra,,0,0,0,,Pra quem segura e não solta a mão
+Dialogue: 0,0:01:04.00,0:01:08.00,Letra,,0,0,0,,Pra quem chora e ainda assim agradece
+Dialogue: 0,0:01:08.00,0:01:12.00,Letra,,0,0,0,,Pra quem cai e se levanta, então
+Dialogue: 0,0:01:12.00,0:01:16.00,Letra,,0,0,0,,Eu não sei o caminho inteiro
+Dialogue: 0,0:01:16.00,0:01:20.50,Letra,,0,0,0,,Só sei que eu não ando só
+Dialogue: 0,0:01:24.00,0:01:27.00,Letra,,0,0,0,,E se hoje não der certo
+Dialogue: 0,0:01:27.00,0:01:30.00,Letra,,0,0,0,,Amanhã eu tento outra vez
+Dialogue: 0,0:01:30.00,0:01:36.00,Letra,,0,0,0,,A fé não promete um caminho fácil
+Dialogue: 0,0:01:36.00,0:01:44.00,Letra,,0,0,0,,Promete que eu não ando só nele
+Dialogue: 0,0:01:45.00,0:01:48.00,Fechamento,,0,0,0,,Olá Experience — cada família, uma jornada.
