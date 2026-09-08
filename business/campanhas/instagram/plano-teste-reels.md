@@ -54,8 +54,24 @@ Reportar no ritual semanal de segunda-feira (já existente):
 2. ~~Confirmar os 3 episódios escolhidos (ou trocar algum).~~ — aprovado 07/09/2026.
 3. ~~Dar sinal verde pra eu montar o primeiro Reel.~~ — feito.
 4. ~~Revisar e aprovar a publicação do primeiro Reel (T1E06) antes de postar.~~ — **Publicado em 07/09/2026**: https://www.instagram.com/reel/DdAZCbDBF9-/. Áudio "Walking Home" (cloud cover, Meta Sound Collection) reconhecido pelo Instagram como "Áudio original" (embutido no arquivo, não selecionado via biblioteca do app). Rótulo de IA conferido desligado antes de publicar.
-5. T1E11 ("Cinco minutos só meus") em produção — arte renderizada em duas versões (4 cenas e "só capa", esta sem faixa verde/arraste, com frase e logo direto sobre a cena). Trilha escolhida: **"Charango"** (cloud cover, Pop, lento, Meta Sound Collection), aguardando aprovação final antes de publicar.
+5. T1E11 ("Cinco minutos só meus") em produção — arte renderizada em duas versões (4 cenas e "só capa", esta sem faixa verde/arraste, com frase e logo direto sobre a cena). Trilha escolhida: **"Charango"** (cloud cover, Pop, lento, Meta Sound Collection). **Publicar em 08/09/2026** (decisão do Jorge, 07/09/2026).
 6. Depois do T1E11: T1E15 ("Não precisa ser só a gente") — repetir o mesmo processo.
+
+## Regra permanente de publicação (07/09/2026, fixada pelo Jorge)
+
+**Todo Reel precisa ter áudio — nunca publicar mudo.** Se a trilha ainda não foi escolhida/cortada, o Reel não vai ao ar. **Nunca publicar no Instagram sem autorização explícita do Jorge** — mesmo com arte e áudio prontos, sempre perguntar antes de postar (não vale autorização automática/geral).
+
+## Padrão de capas e slides pra Reels (07/09/2026, fixado pelo Jorge)
+
+Ao montar um Reel reaproveitando arte já criada e aprovada pro carrossel (inclusive episódios já postados no Instagram), toda capa/slide usado passa por este ajuste antes de entrar no vídeo:
+
+- **Excluir** o rótulo de temporada/episódio (ex.: "FAMÍLIA HORIZONTE · T1E11")
+- **Excluir** o número de página (ex.: "1/4")
+- **Excluir** a palavra "ARRASTE →" — não faz sentido em Reel (não tem próximo slide)
+- **Manter a logo "Olá"**, posicionada com atenção pra **nunca sobrepor a frase/headline daquele slide especificamente** — cada slide reaproveitado tem sua própria frase, e a logo precisa respeitar todas elas, não só a da capa
+- Sem faixa verde sólida em cima/embaixo — a cena ocupa o quadro inteiro, com gradiente escuro sutil na base só onde precisar de legibilidade pro texto
+
+**Não vale pro carrossel original (feed)** — o padrão de capa do carrossel (`PADRAO FIXO DE CAPA v2` no `contexto-dinamico.md`) continua igual, intocado. Esse ajuste é só pra versão em Reel. Se algum slide precisar de tratamento diferente no meio do processo, o Jorge avalia caso a caso na hora de criar.
 
 ## Log
 
