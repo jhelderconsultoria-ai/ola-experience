@@ -24,4 +24,4 @@ outras rules. Exemplos:
 
 ## Suas regras
 
-<!-- Escreva abaixo. Apague estes exemplos quando colocar as suas. -->
+- **Sempre consultar o MCP `arcane` (squads e ferramentas do Pack, não só Companion/Consultor) antes de produzir qualquer conteúdo** — carrossel, Reel, Stories, roteiro, copy, criativo de anúncio, etc. Vale em todos os projetos, presentes e futuros, sem distinção: Instagram Família Horizonte (8000), Zai Cantor (8001) e qualquer outro que vier depois. Motivo dado pelo Jorge: ele pagou pelo Pack Arcane especificamente por causa dessas ferramentas (Squad Conteúdo Arcane, Squad Carrossel Arcane, Squad Anúncios Arcane, etc.) e quer que elas façam parte do fluxo, não fiquem paradas. Antes de criar algo do zero ou só com as pastas locais do projeto, checar `catalogo_listar` e `busca` no MCP `arcane` pra ver se há squad/metodologia aplicável, e usar.

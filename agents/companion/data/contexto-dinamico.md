@@ -8,7 +8,7 @@
 
 ## Pendencias em aberto
 
-- **Publicar Reel do T1E11** ("Cinco minutos so meus") — arte e trilha ("Charango", cloud cover) prontas, agendado pro Jorge autorizar em 08/09/2026 (nunca publicar sem ele confirmar na hora, regra fixa — ver `business/campanhas/instagram/plano-teste-reels.md`).
+<!-- Pendencia do Reel T1E11 removida em 08/09/2026: o Jorge mandou apagar os Reels de teste (T1E06 e T1E11, pastas e arquivos de video/audio) — nao vao mais ser publicados nesse formato. -->
 
 ## Status Geral
 
