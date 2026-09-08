@@ -202,3 +202,10 @@
 **Decisao:** Bio trocada de "Qualidade de vida ficou pra depois?..." pra versão GROWTH rastreável ao núcleo: "Ajudo famílias ocupadas a sair do 'depois' pra hoje / Um domingo de cada vez. / A jornada real da Família Horizonte, sem perfeição ↓" (128 chars). Fileira de emojis dos 5 pilares saiu da bio e foi realocada pro Destaque 1, renomeado "Sobre a Jornada" (adaptação de "Sobre Mim" do squad, já que o Jorge segue anônimo por estratégia). Destaques 2 (Produto) e 3 (Depoimentos) ficam como placeholder — sem produto nem cliente ainda (pré-operacional). Avaliada e mantida a palavra "Bolso" no 5º pilar (destoa estilisticamente dos outros 4, mas é vocabulário já publicado em dezenas de posts — trocar agora quebraria reconhecimento sem ganho comprovado).
 **Racional:** Bio anterior gerava identificação mas não carregava dor/solução/CTA específico rastreável ao método; a nova bio aplica a fórmula GROWTH do Método Audience (posicionamento + CTA específico, sem clichê).
 **Impacto:** Bio e destaque prontos pra colar, aguardando o Jorge aplicar (ou pedir pra eu aplicar) no Instagram. Ainda não publicado no perfil.
+
+## 08/09/2026 — Correção na bio: "Ajudo" vira "Ajudamos"
+
+**Contexto:** Jorge apontou que "Ajudo famílias ocupadas..." soa como uma pessoa só falando, mas a Olá Experience é marca/equipe — inconsistente com a decisão de manter o Jorge anônimo e adaptar "Sobre Mim" pra "Sobre a Jornada" no destaque.
+**Decisao:** Bio corrigida pra "Ajudamos famílias ocupadas a sair do 'depois' pra hoje / Um domingo de cada vez. / A jornada real da Família Horizonte, sem perfeição ↓" (131 chars). Já trocada e salva no Instagram.
+**Racional:** Consistência de voz — a bíblia e a apresentação magnética já usavam "Somos"/"Ajudamos" (plural); só a bio tinha ficado no singular por descuido.
+**Impacto:** Nenhum outro texto do projeto usa "Ajudo" nesse contexto — checado e confirmado.
