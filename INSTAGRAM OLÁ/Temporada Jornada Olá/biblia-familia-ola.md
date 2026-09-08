@@ -310,10 +310,12 @@ Todo prompt de imagem de cena tem que incluir a **âncora física completa** de 
 
 ## Regra sistêmica obrigatória (06/09/2026): usar imagem de referência, não só texto
 
-Sempre que gerar arte nova com personagem(ns) já estabelecido(s) (Lu, Nilo, Zai, Nori, Thor), além da âncora completa em texto, anexar uma imagem de referência recortada de uma arte já aprovada — descrição em texto sozinha não segura a identidade de forma confiável (comprovado repetidas vezes, inclusive o caso do cabelo do Nilo).
+Sempre que gerar arte nova com personagem(ns) já estabelecido(s) (Lu, Nilo, Zai, Nori, Thor), além da âncora completa em texto, anexar uma imagem de referência recortada de uma arte já aprovada — descrição em texto sozinha não segura a identidade de forma confiável (comprovado repetidas vezes, inclusive o caso do cabelo do Nilo e, em 08/09/2026, a produção inteira do T1E17-19 que saiu sem seguir essa regra e precisou ser refeita).
+
+**Biblioteca de referências prontas (criada em 08/09/2026):** `INSTAGRAM OLÁ/personagens/refs-identidade/` já tem um recorte de rosto/cabelo de cada personagem (lu.png, nilo.png, nori.png, zai.png, thor.png), extraído do T1E16. Usar esses arquivos direto em vez de recortar toda vez — só recortar de novo (atualizando a pasta) se a arte de origem ficar muito desatualizada em relação à evolução visual gradual da família (ver seção acima).
 
 **Como fazer:**
-1. Recortar (via sharp/node) um close-up do personagem de uma arte-bruta já aprovada, isolando ele o mais possivel dos outros personagens da cena original.
+1. Usar os recortes de `refs-identidade/` (ou recortar um novo, via sharp/node, se precisar de expressão/ângulo diferente) — isolando o personagem o mais possível dos outros da cena original.
 2. Rodar `codex exec --sandbox workspace-write --image "caminho/ref1.png,caminho/ref2.png" -- "instrucao"` (usar `--` antes da instrucao pra evitar erro de parsing do `--image`; sem o `--` o comando falha).
 3. Na instrucao, deixar claro que a imagem anexa e SO referencia de identidade (rosto/cabelo/pele), nao pra copiar roupa nem pose — a cena nova segue o prompt de texto normalmente.
 4. Manter o reforco de estilo 3D nao-fotorrealista no prompt de texto mesmo usando referencia de imagem — a referencia nao garante isso sozinha.

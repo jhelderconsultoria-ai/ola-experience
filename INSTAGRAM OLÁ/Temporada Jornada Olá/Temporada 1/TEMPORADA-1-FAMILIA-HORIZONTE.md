@@ -218,6 +218,31 @@ Diretrizes específicas deste episódio:
 - Prompt de imagem pronto em `T1E16-finalmente-saiu-postado-07-09-2026/prompt/prompts-codex-cena-finalmente-saiu.txt`.
 **Status:** publicado antecipadamente em 07/09/2026 (calendário previa 01/10): https://www.instagram.com/p/Dc-dxm9Frce/. Pasta renomeada `T1E16-finalmente-saiu-postado-07-09-2026/`. Carrossel de 6 slides com um slide de gratidão (Zai agradecendo pela inspiração, sem citar denominação específica) e um slide com a letra completa da música com o retrato circular do Zai identificando personagem e idade. Duas rodadas de correção na arte: (1) o Nilo saiu com o físico do amigo robusto do T1E15 na primeira geração — corrigido trocando a referência de identidade pra uma arte só do núcleo familiar e reforçando "magro-mediano, nunca robusto" no prompt; (2) a pedido do Jorge, cena toda refeita de pijama, ambiente de fim de noite antes de dormir, com o Thor ganhando uma touca de dormir terracota como detalhe extra (além da coleira fixa). Impulsionado (turbinado) no mesmo dia — ver `contexto-dinamico.md`.
 
+**Ep. 17 — "O fôlego que ninguém vê"** — rótulo na tela: **T1E17**
+
+Roteirizado em 08/09/2026 com o Squad Conteúdo Arcane (Sage/Rico/Mack), a partir do núcleo de influência fixado no mesmo dia (dor=Correria, inimigo=A Maldição do Depois). Elemento notável aplicado: Valor Prático + Identificação — mostra o efeito colateral do cardio (energia que sobra), não o exercício em si.
+
+Cenário: quintal de casa, fim de tarde, luz quente mas ainda alta (não é golden hour rasante). O Nilo chega de uma pedalada e, em vez de desabar no sofá como fazia antes, ainda tem energia pra empurrar o balanço da Nori — os dois brincando, rindo. A Lu observa da porta da cozinha, surpresa boa. O Thor corre perto, participando da energia da cena.
+
+Diretrizes específicas: guarda-roupa do Nilo em amarelo-queimado (rotacionado — T1E12 foi terracota); Lu em roupa de cotidiano (creme/verde-oliva), não esportiva, já que ela está observando, não participando da atividade física.
+**Status:** roteiro e arte prontos, aguardando publicação. Pasta: `T1E17-folego-que-ninguem-ve/`. **Correção de identidade (08/09/2026):** a primeira geração (só texto) saiu com os personagens reconhecíveis mas não fiéis o bastante às artes já aprovadas (apontado pelo Jorge) — regenerada usando imagens de referência recortadas do T1E16 (regra sistêmica da bíblia, "usar imagem de referência, não só texto"), versão final em `arte-bruta/17-folego-que-ninguem-ve-raw-v2.png`.
+
+**Ep. 18 — "Hoje o corpo não quis"** — rótulo na tela: **T1E18**
+
+Roteirizado em 08/09/2026 com o Squad Conteúdo Arcane. Elemento notável: Contra-intuitivo — combate direto o inimigo do núcleo (a pressão de nunca parar); descansar também é parte do pilar, não fracasso.
+
+Cenário: quarto de casa, manhã, luz suave. A Lu já parcialmente vestida pra caminhar (legging verde-oliva), tênis na mão — mas decide não ir, trocando pelo tênis largado no chão por uma xícara de chá. Expressão tranquila e decidida, sem culpa. Cena individual e intimista, sem mais ninguém.
+
+**Status:** roteiro e arte prontos, aguardando publicação. Pasta: `T1E18-hoje-o-corpo-nao-quis/`. **Correção de identidade (08/09/2026):** mesma correção do T1E17 — regenerada com imagem de referência da Lu (recortada do T1E16), versão final em `arte-bruta/18-hoje-o-corpo-nao-quis-raw-v2.png`. A correção também resolveu o desvio de estilo "realista demais" notado na primeira versão.
+
+**Ep. 19 — "O fôlego que sobrou"** — rótulo na tela: **T1E19** (fecha o Bloco Cardio)
+
+Roteirizado em 08/09/2026 com o Squad Conteúdo Arcane. Elemento notável: História Magnética — fecha o arco aberto no T1E09 ("quando vamos de novo?"), callback proposital.
+
+Cenário: mesa da cozinha, domingo de manhã, luz clara (diferente do golden hour do T1E09). Toda a família reunida no café da manhã, com energia visivelmente maior que o normal — a Lu e o Nilo trocam o mesmo olhar cúmplice do T1E09, a Nori já pedindo pra ir ao parque, o Zai com pressa boa de sair de bike, o Thor já esperando na porta com a guia.
+
+**Status:** roteiro e arte prontos, aguardando publicação. Pasta: `T1E19-folego-que-sobrou/`. Primeira geração (sem referência) bloqueada pela moderação da OpenAI sem motivo específico — retry sem referência resolveu, mas o resultado não bateu o suficiente com as artes já aprovadas. **Correção de identidade (08/09/2026):** regenerada com imagens de referência dos 5 personagens (recortadas do T1E16) — dessa vez sem bloqueio de moderação, versão final em `arte-bruta/19-folego-que-sobrou-raw-v2.png`.
+
 ### Fechamento (T1E30-31)
 
 **Nota (06/09/2026):** o episódio que ocupava o T1E30 ("Duas horas só nossas") foi movido pro T1E12 — ver Bloco Cognitivo acima. Este slot volta a ficar em aberto.
