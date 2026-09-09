@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Olá Experience — cada família, uma jornada</title>
+<meta name="description" content="Ajudamos famílias ocupadas a sair do 'depois' pra hoje. A jornada real da Família Horizonte, um domingo de cada vez.">
+<style>
+  :root {
+    --verde: #1A3C30;
+    --verde-escuro: #10241c;
+    --terracota: #C97B4A;
+    --creme: #F3E9D8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--verde);
+    color: var(--creme);
+    line-height: 1.6;
+  }
+  h1, h2, h3 { font-family: 'Georgia', serif; font-weight: 700; }
+  a { color: inherit; }
+  .container { max-width: 1000px; margin: 0 auto; padding: 0 24px; }
+
+  /* HERO */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(180deg, rgba(16,36,28,.55) 0%, rgba(16,36,28,.75) 55%, var(--verde) 100%),
+                url('assets/hero.jpg') center 30%/cover no-repeat;
+    padding: 60px 24px;
+  }
+  .hero-inner { max-width: 720px; }
+  .logo { width: 180px; height: auto; margin-bottom: 28px; }
+  .hero h1 {
+    font-size: clamp(28px, 5vw, 44px);
+    color: var(--creme);
+    margin-bottom: 18px;
+    letter-spacing: .3px;
+  }
+  .hero p.sub {
+    font-size: clamp(16px, 2.4vw, 19px);
+    color: var(--creme);
+    opacity: .92;
+    max-width: 560px;
+    margin: 0 auto 34px;
+  }
+  .cta {
+    display: inline-block;
+    background: var(--terracota);
+    color: var(--creme);
+    text-decoration: none;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 16px 36px;
+    border-radius: 999px;
+    transition: transform .15s ease, background .15s ease;
+  }
+  .cta:hover { background: #d98b5b; transform: translateY(-2px); }
+  .scroll-hint {
+    margin-top: 46px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    opacity: .55;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  /* SECTION SHARED */
+  section { padding: 90px 0; }
+  .eyebrow {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--terracota);
+    font-weight: 700;
+    margin-bottom: 14px;
+  }
+  .eyebrow .bar {
+    display: inline-block;
+    width: 32px;
+    height: 3px;
+    background: var(--terracota);
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+
+  /* NUCLEO */
+  .nucleo { background: var(--verde-escuro); }
+  .nucleo h2 {
+    font-size: clamp(24px, 4vw, 32px);
+    margin-bottom: 28px;
+    max-width: 700px;
+  }
+  .nucleo p {
+    font-size: 17px;
+    max-width: 680px;
+    opacity: .92;
+    margin-bottom: 20px;
+  }
+  .nucleo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 24px;
+    margin-top: 50px;
+  }
+  .nucleo-card {
+    border: 1px solid rgba(243,233,216,.18);
+    border-radius: 10px;
+    padding: 26px 22px;
+  }
+  .nucleo-card .tag {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--terracota);
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  .nucleo-card p { font-size: 15px; margin: 0; opacity: .95; }
+
+  /* PILARES */
+  .pilares h2 {
+    font-size: clamp(24px, 4vw, 32px);
+    margin-bottom: 12px;
+  }
+  .pilares > .container > p {
+    max-width: 620px;
+    font-size: 17px;
+    opacity: .9;
+    margin-bottom: 50px;
+  }
+  .pilares-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  @media (max-width: 640px) {
+    .pilares-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  .pilar {
+    background: rgba(243,233,216,.05);
+    border: 1px solid rgba(243,233,216,.14);
+    border-radius: 12px;
+    padding: 30px 18px;
+    text-align: center;
+  }
+  .pilar .emoji { font-size: 34px; display: block; margin-bottom: 14px; }
+  .pilar .nome {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: .5px;
+  }
+
+  /* CRENCAS */
+  .crencas { background: var(--verde-escuro); text-align: center; }
+  .crencas h2 {
+    font-size: clamp(24px, 4vw, 32px);
+    margin-bottom: 50px;
+  }
+  .crenca-item {
+    font-size: clamp(19px, 3vw, 24px);
+    font-style: italic;
+    max-width: 640px;
+    margin: 0 auto 40px;
+    position: relative;
+  }
+  .crenca-item::before { content: '“'; color: var(--terracota); font-size: 40px; font-style: normal; display: block; line-height: .5; margin-bottom: 6px; }
+
+  /* JORNADA */
+  .jornada { text-align: center; }
+  .jornada h2 {
+    font-size: clamp(24px, 4vw, 32px);
+    margin-bottom: 20px;
+  }
+  .jornada p {
+    max-width: 600px;
+    margin: 0 auto 40px;
+    font-size: 17px;
+    opacity: .92;
+  }
+
+  /* FOOTER */
+  footer {
+    background: var(--verde-escuro);
+    padding: 50px 0 34px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  footer .logo { width: 90px; margin-bottom: 20px; }
+  footer .links a {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: .5px;
+    margin: 0 14px;
+    color: var(--creme);
+    opacity: .85;
+  }
+  footer .links a:hover { color: var(--terracota); opacity: 1; }
+  footer .copy {
+    margin-top: 28px;
+    font-size: 12px;
+    opacity: .45;
+  }
+</style>
+</head>
+<body>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <img class="logo" src="assets/logo.png" alt="Olá Experience">
+      <h1>Ajudamos famílias ocupadas a sair do &ldquo;depois&rdquo; pra hoje.</h1>
+      <p class="sub">A jornada real da Família Horizonte — sem perfeição, um domingo de cada vez.</p>
+      <a class="cta" href="https://www.instagram.com/olaexperienceoficial/" target="_blank" rel="noopener">Siga a jornada no Instagram</a>
+      <div class="scroll-hint">role pra saber mais ↓</div>
+    </div>
+  </section>
+
+  <section class="nucleo">
+    <div class="container">
+      <div class="eyebrow"><span class="bar"></span>Por que existimos</div>
+      <h2>A correria não pergunta se você está pronto.</h2>
+      <p>A maioria das famílias não vive mal porque não se importa — vive mal porque adiou. Existe uma crença silenciosa que rouba anos de convivência: a de que qualidade de vida só começa quando sobrar tempo perfeito.</p>
+      <p>Chamamos isso de <strong>A Maldição do Depois</strong>. E ela não se resolve com mais uma reforma de vida inteira — se resolve trocando o &ldquo;depois eu cuido disso&rdquo; por pequenos começos, hoje.</p>
+      <div class="nucleo-grid">
+        <div class="nucleo-card">
+          <div class="tag">A dor</div>
+          <p>Correria — o cansaço de nunca sobrar tempo pro que importa de verdade.</p>
+        </div>
+        <div class="nucleo-card">
+          <div class="tag">O inimigo</div>
+          <p>A Maldição do Depois — a ideia de que dá pra adiar a própria vida.</p>
+        </div>
+        <div class="nucleo-card">
+          <div class="tag">O caminho</div>
+          <p>6 pilares, pequenos começos, um domingo de cada vez — não uma reforma completa.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pilares">
+    <div class="container">
+      <div class="eyebrow"><span class="bar"></span>O método</div>
+      <h2>6 pilares pra sair do depois</h2>
+      <p>Nada de mudar tudo de uma vez. A Família Horizonte mostra, na prática, como esses 6 pilares cabem numa rotina real — com cansaço, criança, trabalho e tudo o mais.</p>
+      <div class="pilares-grid">
+        <div class="pilar"><span class="emoji">🥕</span><span class="nome">ALIMENTAÇÃO</span></div>
+        <div class="pilar"><span class="emoji">🤸</span><span class="nome">COGNITIVO</span></div>
+        <div class="pilar"><span class="emoji">🧘</span><span class="nome">EMOCIONAL</span></div>
+        <div class="pilar"><span class="emoji">❤️</span><span class="nome">CARDIO</span></div>
+        <div class="pilar"><span class="emoji">💪</span><span class="nome">FORÇA</span></div>
+        <div class="pilar"><span class="emoji">💰</span><span class="nome">BOLSO</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="crencas">
+    <div class="container">
+      <div class="eyebrow"><span class="bar"></span>No que acreditamos</div>
+      <h2>Crenças que guiam tudo o que a gente mostra</h2>
+      <div class="crenca-item">Qualidade de vida não é destino, é hábito pequeno repetido.</div>
+      <div class="crenca-item">Cansaço não é fraqueza — é sinal de que ninguém cuidou de si primeiro.</div>
+      <div class="crenca-item">Família não muda de uma vez. Muda um domingo de cada vez.</div>
+    </div>
+  </section>
+
+  <section class="jornada">
+    <div class="container">
+      <div class="eyebrow"><span class="bar"></span>A Família Horizonte</div>
+      <h2>Uma família comum, sem roteiro perfeito</h2>
+      <p>Nilo, Lu, Zai, Nori e o Thor vivem, episódio a episódio no Instagram, a mesma correria que qualquer família brasileira reconhece — e vão descobrindo, sem pressa, como cada pilar cabe no dia real deles.</p>
+      <a class="cta" href="https://www.instagram.com/olaexperienceoficial/" target="_blank" rel="noopener">Acompanhar a jornada</a>
+    </div>
+  </section>
+
+  <footer>
+    <img class="logo" src="assets/logo.png" alt="Olá Experience">
+    <div class="links">
+      <a href="https://www.instagram.com/olaexperienceoficial/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/profile.php?id=61594370456151" target="_blank" rel="noopener">Facebook</a>
+      <a href="mailto:olaexperienceoficial@gmail.com">Contato</a>
+    </div>
+    <div class="copy">© 2026 Olá Experience — cada família, uma jornada.</div>
+  </footer>
+
+</body>
+</html>
