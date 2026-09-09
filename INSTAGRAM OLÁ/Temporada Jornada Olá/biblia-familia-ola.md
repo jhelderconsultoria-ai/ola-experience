@@ -19,7 +19,7 @@ Construído com o Squad Posicionamento Arcane (nucleo-strategist), a partir da p
 - **Quem ajuda:** famílias ocupadas.
 - **Dor principal (1 palavra):** Correria — já é vocabulário próprio da série ("a correria não pergunta se você está pronto", T1E12).
 - **Inimigo externo (nunca a tecnologia, nunca o público — Regra Editorial 1 preservada):** **A Maldição do Depois** — a crença de que qualidade de vida só começa quando sobrar tempo perfeito. Já estava latente na própria bio ("Qualidade de vida ficou pra depois?").
-- **Solução (engenharia reversa da dor + inimigo):** trocar o "depois eu cuido disso" por pequenos começos hoje, guiados pelos 5 pilares (alimentação, cognitivo, cardio, força, bolso) — um domingo de cada vez, não uma reforma de vida inteira.
+- **Solução (engenharia reversa da dor + inimigo):** trocar o "depois eu cuido disso" por pequenos começos hoje, guiados pelos 6 pilares (alimentação, cognitivo, cardio, força, bolso, emocional) — um domingo de cada vez, não uma reforma de vida inteira.
 - **3 benefícios:**
   1. Presença real em família sem virar mais uma obrigação.
   2. Ânimo e saúde sem esperar o momento perfeito.
@@ -36,9 +36,31 @@ Construído com o Squad Posicionamento Arcane (nucleo-strategist), a partir da p
 - *Não Faz Sentido (Reels/polêmica leve):* "Somos a Olá Experience. Não faz sentido sua família viver esperando o 'depois' pra ter qualidade de vida. A gente mostra, com a Família Horizonte, como começar hoje — do jeito que cabe na correria real."
 - *Dor + Solução (direto):* "Somos a Olá Experience. Tiramos sua família da correria sem fim e te levamos pra pequenos hábitos que realmente ficam — um domingo de cada vez."
 - *Com Crença (post com história):* "Somos a Olá Experience. Acreditamos que qualidade de vida não é destino, é hábito pequeno repetido. Se sua família também tá cansada de esperar o momento perfeito, vem com a gente."
-- *Com Método (institucional/bio):* "Somos a Olá Experience. Ajudamos famílias ocupadas a sair do 'depois eu cuido disso' com o método dos 5 pilares — alimentação, mente, corpo, força e dinheiro — pela jornada real da Família Horizonte."
+- *Com Método (institucional/bio):* "Somos a Olá Experience. Ajudamos famílias ocupadas a sair do 'depois eu cuido disso' com o método dos 6 pilares — alimentação, mente, corpo, força, dinheiro e emocional — pela jornada real da Família Horizonte."
 
-**Como aplicar daqui pra frente:** todo roteiro/copy institucional deve poder ser rastreado até este núcleo — a dor (correria), o inimigo (a Maldição do Depois) e a solução (pequenos começos, 5 pilares). Personagens continuam sendo o veículo emocional; o núcleo é a espinha dorsal estratégica por trás deles.
+**Como aplicar daqui pra frente:** todo roteiro/copy institucional deve poder ser rastreado até este núcleo — a dor (correria), o inimigo (a Maldição do Depois) e a solução (pequenos começos, 6 pilares). Personagens continuam sendo o veículo emocional; o núcleo é a espinha dorsal estratégica por trás deles.
+
+### 6º pilar — Emocional (formalizado em 09/09/2026)
+
+**Contexto e motivo:** decisão do Jorge — visão de negócio pra 2027 inclui equipe multidisciplinar
+(psicólogo, personal trainer, nutricionista). Personal trainer já tinha casa nos pilares Cardio/Força
+e nutricionista em Alimentação, mas Emocional (psicólogo) não tinha pilar próprio — "Cognitivo" na
+série sempre foi usado pra curiosidade/aprendizado, não regulação emocional. Estratégia: construir
+audiência e identificação com esse pilar DESDE JÁ (2026), pra já ter público quente quando a Olá
+Experience começar a vender produto/serviço pertinente em 2027.
+
+**Como aparece em cena:** mesma regra editorial da bíblia (linha 13) — os personagens não dão
+conselho nem terapia na tela; quando o tema pede orientação técnica, um **profissional habilitado
+aparece na cena** (ex.: Lu numa sessão com psicóloga, ou com nutricionista). A cena modela e
+normaliza buscar ajuda profissional — não substitui, não ensina a técnica.
+
+**Exemplo dado pelo Jorge:** "a Lu em uma terapia com uma psicóloga ou com nutricionista, e assim
+vai" — cenas pontuais, não um bloco didático, mostrando que cuidar da saúde emocional é parte
+normal da rotina da família, do mesmo jeito que ir à academia ou ao mercado já é.
+
+**Pendente:** ainda não tem bloco de episódios reservado na grade (Temporada 1 já tem T1E06-31
+todo alocado por pilar). Encaixar no planejamento da Temporada 2 ou como cenas pontuais
+intercaladas nos pilares existentes — decidir com o Jorge quando for roteirizar.
 
 ## Sobrenome narrativo
 

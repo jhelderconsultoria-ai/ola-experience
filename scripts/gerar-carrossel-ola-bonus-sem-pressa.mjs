@@ -83,7 +83,7 @@ const slides = [
     eyebrow: 'ZAI, DEPOIS DE TOCAR',
     quoteMark: true,
     lines: ['Hoje eu só escrevo', 'baixinho. E confio', 'que isso não falta.'],
-    footer: 'Sem pressa pra crescer, sem pressa pra mostrar.',
+    footer: 'Sem pressa pra crescer.',
     badge: '4/6',
     showArrow: true,
   },

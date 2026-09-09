@@ -93,6 +93,28 @@ A documentação completa dos personagens está em `Temporada Jornada Olá/bibli
 5. Saúde integral e conteúdo educativo.
 6. Construção e bastidores da Olá Experience.
 
+## Padrão de hashtags
+
+Toda legenda leva 2 fixas de marca + 3-6 variáveis de nicho família, ajustadas ao tema do post
+(`#vidadefamilia #saudeemfamilia #familiaunida #paisefilhos #maternidadereal` etc.):
+
+```
+#jornadaolá #familiahorizonte
+```
+
+**Quando o Thor aparece na arte**, mantém o bloco de pet — decisão do Jorge em 09/09/2026
+("tem muita gente que os ama e como estamos com o Thor acho justo manter"), mas trocado de
+genérico puro pra mais específico de família-com-pet (sugestão aprovada na mesma data):
+
+```
+#goldenretriever #petemfamilia #caodefamilia #familiacomcachorro #amoanimais
+```
+
+(Substitui o bloco anterior `#goldenretriever #cachorro #petlovers #petsofinstagram
+#dogsofinstagram #amoanimais` — os genéricos puros atraíam comentários de contas de nicho pet
+em vez de família/pais, ver histórico em `T1E08`/`T1E09`.) Vale a partir de 09/09/2026 pra
+posts novos — captions já publicadas não foram reeditadas.
+
 ## Primeira temporada sugerida
 
 1. Juntos, mas envolvidos em rotinas diferentes.

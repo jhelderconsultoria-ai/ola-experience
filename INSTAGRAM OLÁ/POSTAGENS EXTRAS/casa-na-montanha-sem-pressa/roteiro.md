@@ -74,5 +74,10 @@ Abre "o Zai vai se abrir mais?" (32s) → fecha no plano final de união (52s).
 - [x] V5 ainda apontado como "não ideal" pelo Jorge — desafio central: ritmo da música x ritmo do dedilhado das mãos do Zai no violão. Causa raiz confirmada: Kling image-to-video não recebe áudio como referência, só o lip-sync (boca) é realmente sincronizado.
 - **Consultada a Mack (produção, Squad Conteúdo Arcane) a pedido do Jorge:** princípio-chave — corte rápido no ritmo esconde imperfeição de movimento, plano longo demais escancara dessincronia. Não precisa gastar mais crédito Kling: é reedição do material já gerado (os 8 blocos calm-seg-0 a calm-seg-7 em `video-build-v5`, ainda em `AppData/Local/Temp/.../scratchpad/video-build-v5/`, não copiados pro projeto ainda).
 - **PRÓXIMO PASSO (não iniciado ainda):** recortar cada bloco de 10s em pedaços de ~2,5-3s (tamanho de frase da letra) alternando ângulos wide/close, criando sensação de ritmo pelo CORTE em vez de pela mão parada — monta v6 só com ffmpeg, sem nova geração Kling.
-- [ ] Legenda da publicação
-- [ ] Publicado — pausado a pedido do Jorge (foi descansar), retomar no próximo passo acima
+- **Pivô 09/09/2026:** vídeo (Kling motion + lip-sync) parado. Dados mostraram que o formato carrossel estático (T1E16) performa muito acima do vídeo (2.000 views orgânicos vs base de 63 seguidores). Decidido: publicar hoje como carrossel no molde do T1E16 ("OLÁ TRILHA"), com a música "Sem Pressa" reservada pra um Reel futuro (pan/zoom simples nas artes já aprovadas, sem lip-sync).
+  - Confirmado por teste direto: Instagram não permite áudio original em post/carrossel (só catálogo licenciado) nem em Stories via web — áudio próprio só entra embutido num arquivo de vídeo (Reels).
+  - Carrossel gerado com o molde fixo do T1E16 (`scripts/gerar-carrossel-ola-bonus-sem-pressa.mjs`, `gerar-capa-carrossel-ola-bonus-sem-pressa.mjs`, `gerar-slide-letra-avatar-ola-bonus-sem-pressa.mjs`), 6 slides, capa fotográfica com `performance-wide-raw-v2.png`.
+  - Ajuste de fonte no slide 4/6 (footer encurtado pra bater com o tamanho do slide 2/6, regra de sizing já estabelecida no projeto).
+- [x] Legenda da publicação (`carrossel/legenda.md`)
+- [x] **Publicado em 09/09/2026** — carrossel "OLÁ TRILHA — Sem Pressa" no ar em @olaexperienceoficial.
+- [ ] Reel com áudio real de "Sem Pressa" (pan/zoom simples, sem Kling lip-sync) — outro dia.

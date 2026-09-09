@@ -24,6 +24,34 @@ Jorge pra configurar e submeter o anúncio.
 
 <!-- Ideias e tarefas pra futuro -->
 
+### Roteirizar cenas do 6º pilar Emocional (2026-09-09)
+
+6º pilar "Emocional" formalizado no núcleo de influência em 09/09/2026 (ver `log-decisoes.md` e
+`biblia-familia-ola.md`) — ainda sem episódios roteirizados. Exemplo dado pelo Jorge: "a Lu em
+uma terapia com uma psicóloga ou com nutricionista, e assim vai" — cenas pontuais mostrando
+profissional habilitado em cena (não os personagens dando conselho).
+
+**Falta decidir antes de produzir:** essas cenas entram como bloco próprio na Temporada 2, ou
+intercaladas nos blocos de pilar já existentes da Temporada 1 (T1E06-31, já toda alocada)?
+Quando o Jorge quiser avançar, chamar o Squad Conteúdo Arcane (Sage/Rico) pra roteirizar seguindo
+o processo real do squad, amarrado ao núcleo.
+
+**Ideia complementar (09/09/2026):** o Jorge cogita pedir autorização de pessoas reais que vão
+fazer parte da futura equipe multidisciplinar (uma amiga psicóloga, uma nutricionista) pra usar o
+avatar delas em versão animada como as personagens desses papéis na série — reforça a ponte entre
+ficção e negócio real de 2027. **Gate obrigatório antes de produzir:** autorização por escrito de
+uso de imagem/likeness de cada pessoa real (mesmo estilizada/animada), já que é conteúdo comercial
+vinculado à marca — não é suficiente combinar verbalmente. Confirmar com o Jorge se ele já tem ou
+vai buscar essa autorização formal antes de qualquer arte ser gerada com a semelhança delas.
+
+**Extensão cogitada e descartada (09/09/2026):** Jorge chegou a cogitar divulgar a marca/empresa
+do profissional dentro dos cenários (ex.: Nilo visitando a clínica da parceria), mas descartou —
+"vamos deixar de lado sobre divulgar marca". **Intenção real confirmada:** mostrar pros futuros
+clientes da Olá que estarão em boas companhias — ou seja, é prova de credibilidade da própria
+equipe multidisciplinar da Olá (2027), não publicidade de marca de terceiro. Isso tira a
+complexidade de parceria comercial/publi (CONAR) do escopo — segue valendo só o gate de
+autorização de imagem/likeness de cada pessoa real, descrito acima.
+
 ### Ideia de episodio — enquete "qual raca escolher?" (2026-09-04)
 
 A Nori quer ganhar um pet. Episodio mostraria ela num canil, ao lado de algumas racas, com a legenda perguntando aos seguidores da Olá qual raca eles acham que ela deveria escolher.
