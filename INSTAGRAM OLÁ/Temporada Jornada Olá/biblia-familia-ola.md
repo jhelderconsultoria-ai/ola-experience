@@ -19,7 +19,7 @@ Construído com o Squad Posicionamento Arcane (nucleo-strategist), a partir da p
 - **Quem ajuda:** famílias ocupadas.
 - **Dor principal (1 palavra):** Correria — já é vocabulário próprio da série ("a correria não pergunta se você está pronto", T1E12).
 - **Inimigo externo (nunca a tecnologia, nunca o público — Regra Editorial 1 preservada):** **A Maldição do Depois** — a crença de que qualidade de vida só começa quando sobrar tempo perfeito. Já estava latente na própria bio ("Qualidade de vida ficou pra depois?").
-- **Solução (engenharia reversa da dor + inimigo):** trocar o "depois eu cuido disso" por pequenos começos hoje, guiados pelos 6 pilares (alimentação, cognitivo, cardio, força, bolso, emocional) — um domingo de cada vez, não uma reforma de vida inteira.
+- **Solução (engenharia reversa da dor + inimigo):** trocar o "depois eu cuido disso" por pequenos começos hoje, guiados pelos 6 pilares (alimentação, cognitivo, emocional, cardio, força, bolso) — um domingo de cada vez, não uma reforma de vida inteira.
 - **3 benefícios:**
   1. Presença real em família sem virar mais uma obrigação.
   2. Ânimo e saúde sem esperar o momento perfeito.
@@ -36,7 +36,7 @@ Construído com o Squad Posicionamento Arcane (nucleo-strategist), a partir da p
 - *Não Faz Sentido (Reels/polêmica leve):* "Somos a Olá Experience. Não faz sentido sua família viver esperando o 'depois' pra ter qualidade de vida. A gente mostra, com a Família Horizonte, como começar hoje — do jeito que cabe na correria real."
 - *Dor + Solução (direto):* "Somos a Olá Experience. Tiramos sua família da correria sem fim e te levamos pra pequenos hábitos que realmente ficam — um domingo de cada vez."
 - *Com Crença (post com história):* "Somos a Olá Experience. Acreditamos que qualidade de vida não é destino, é hábito pequeno repetido. Se sua família também tá cansada de esperar o momento perfeito, vem com a gente."
-- *Com Método (institucional/bio):* "Somos a Olá Experience. Ajudamos famílias ocupadas a sair do 'depois eu cuido disso' com o método dos 6 pilares — alimentação, mente, corpo, força, dinheiro e emocional — pela jornada real da Família Horizonte."
+- *Com Método (institucional/bio):* "Somos a Olá Experience. Ajudamos famílias ocupadas a sair do 'depois eu cuido disso' com o método dos 6 pilares — alimentação, mente, emocional, corpo, força e dinheiro — pela jornada real da Família Horizonte."
 
 **Como aplicar daqui pra frente:** todo roteiro/copy institucional deve poder ser rastreado até este núcleo — a dor (correria), o inimigo (a Maldição do Depois) e a solução (pequenos começos, 6 pilares). Personagens continuam sendo o veículo emocional; o núcleo é a espinha dorsal estratégica por trás deles.
 

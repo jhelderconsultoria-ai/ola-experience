@@ -61,7 +61,7 @@ const FRAMES = [
   {
     file: '03-pilares.png',
     eyebrow: 'PELOS 6 PILARES',
-    lines: ['🚀 Alimentação', '🧠 Cognitivo', '❤️ Cardio', '💪 Força', '💰 Bolso', '🫂 Emocional'],
+    lines: ['🚀 Alimentação', '🧠 Cognitivo', '🫂 Emocional', '❤️ Cardio', '💪 Força', '💰 Bolso'],
     badge: '3/6',
     fontSize: 52,
   },
