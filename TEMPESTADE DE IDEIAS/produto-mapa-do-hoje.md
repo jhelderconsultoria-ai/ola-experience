@@ -115,6 +115,12 @@ Testado visualmente no browser: checklist marca progresso e navega pros dias, fo
 
 **Ideia registrada pra depois (não implementada ainda):** sinalizar no material que "Mapa do Hoje" é o primeiro de uma sequência de produtos — ver `demandas-backlog.md`.
 
+**QR code maior (10/09/2026, ~18h40):** Jorge Helder testou o PDF v3, escaneou com sucesso, mas sugeriu aumentar o QR pensando em públicos de todas as idades (menos familiaridade com celular, câmeras piores). Verifiquei antes de mexer: decodifiquei os 8 QR codes programaticamente (todos corretos) e confirmei o site com HTTPS válido — não era bug, era tamanho pequeno mesmo (68px na tela ≈ 18mm impresso, no limite do scaneável). Aumentei pra 110px (≈29mm impresso), gerei os QR codes fonte em resolução maior (640px, margem 3) pra manter nitidez. PDF final agora é `mapa-do-hoje-PDF-final--v4--20260910-1839.pdf`.
+
+**Link redundante removido das páginas de dia (10/09/2026, ~19h):** Jorge Helder notou que o link "Ver progresso dos 6 dias →" (adicionado junto com o check-in) duplicava o "Voltar pro checklist" que já tínhamos combinado deixar como único link de navegação. Removido — cada página de dia (`dia1.html`–`dia6.html`) agora tem só foto + check-in + frase de efeito + "Voltar pro checklist".
+
+**Ainda pendente de push:** QR codes maiores + esse ajuste de link. Aguardando autorização do Jorge Helder.
+
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 
 1. Máquina de nomes — feito (Mapa do Hoje)

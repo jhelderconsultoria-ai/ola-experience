@@ -23,8 +23,8 @@ async function main() {
   for (const a of alvos) {
     const outPath = path.join(OUT_DIR, `qr-${a.nome}.png`);
     await QRCode.toFile(outPath, a.url, {
-      width: 480,
-      margin: 2,
+      width: 640,
+      margin: 3,
       color: { dark: '#10241c', light: '#F3E9D8' },
     });
     console.log('OK', a.nome, '->', a.url);
