@@ -138,6 +138,10 @@ Produto criado: **"O Mapa do Hoje"**, ID `8497819`, formato eBook.
 
 **Próximo passo (depois da aprovação):** voltar na Hotmart → pegar o link de checkout → atualizar o botão da página de vendas (`docs/mapa-do-hoje/index.html`, hoje placeholder) com o link real.
 
+## Frase de sequência de produtos (10/09/2026, ~20h)
+
+Enquanto aguarda o KYC da Hotmart, escrita a frase pendente do backlog (ver [[demandas-backlog.md]]): sinaliza que o Mapa do Hoje é o primeiro de uma sequência, sem prometer data/tema. Inserida na página de fechamento do PDF, depois do convite pra seguir @olaexperienceoficial. PDF regerado: `mapa-do-hoje-PDF-final--v5--20260910-2007.pdf` — **esse é o arquivo mais atual.** Ainda não reanexado na Hotmart (o cadastro está travado pelo KYC, não pelo conteúdo — trocar o arquivo lá quando a aprovação chegar, antes de publicar).
+
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 
 1. Máquina de nomes — feito (Mapa do Hoje)

@@ -24,13 +24,12 @@ Jorge pra configurar e submeter o anúncio.
 
 <!-- Ideias e tarefas pra futuro -->
 
-### Sinalizar sequência de produtos no material do Mapa do Hoje
+### ~~Sinalizar sequência de produtos no material do Mapa do Hoje~~ — feito 10/09/2026
 
-Jorge Helder (10/09/2026): quer deixar claro no certificado e/ou fechamento do PDF que
-"Mapa do Hoje" é o primeiro de uma sequência — vêm mais temas/desafios depois —, pra quem
-comprar não pensar que é só isso e ficar mais receptivo ao próximo produto. Ajuste de
-copy simples (frase, sem prometer data/tema específico). Ainda não escrito — aguardando
-o Jorge terminar de revisar QR code antes de eu ajustar o material.
+Frase escrita na página de fechamento do PDF (não no certificado — mantido limpo pra
+compartilhar): "Esse é só o primeiro Mapa. A Família Horizonte segue descobrindo outros
+pequenos começos — e outros desafios como esse vão nascer daqui, cada um olhando mais de
+perto pra uma parte diferente da correria de vocês." PDF regerado como v5.
 
 ### Lacuna: sem captura de contato de quem compra o Mapa do Hoje
 
