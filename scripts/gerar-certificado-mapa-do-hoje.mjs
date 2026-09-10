@@ -22,9 +22,12 @@ const pilares = [
 ];
 
 function pilaresRow() {
+  // Circulos (raio 58) precisam caber dentro da borda interna (x: 80 a 1000),
+  // com folga — por isso o intervalo usavel comeca/termina mais pra dentro.
   const total = pilares.length;
-  const spacing = 900 / (total - 1);
-  const startX = 90;
+  const startX = 160;
+  const endX = 920;
+  const spacing = (endX - startX) / (total - 1);
   return pilares.map((p, i) => {
     const cx = startX + i * spacing;
     return `
@@ -66,7 +69,6 @@ async function main() {
 
     <text x="540" y="1220" text-anchor="middle" class="label">NOME DA FAMÍLIA</text>
     <line x1="180" y1="1340" x2="900" y2="1340" stroke="${CREAM}" stroke-width="3" stroke-dasharray="14 14" opacity="0.6"/>
-    <text x="540" y="1400" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="${CREAM}" opacity="0.55">(escreva com caneta na tela ou segure um papel na foto)</text>
 
     <text x="540" y="1720" text-anchor="middle" class="rodape">Olá Experience — cada família, uma jornada.</text>
   </svg>`;

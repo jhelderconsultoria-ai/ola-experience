@@ -119,7 +119,11 @@ Testado visualmente no browser: checklist marca progresso e navega pros dias, fo
 
 **Link redundante removido das páginas de dia (10/09/2026, ~19h):** Jorge Helder notou que o link "Ver progresso dos 6 dias →" (adicionado junto com o check-in) duplicava o "Voltar pro checklist" que já tínhamos combinado deixar como único link de navegação. Removido — cada página de dia (`dia1.html`–`dia6.html`) agora tem só foto + check-in + frase de efeito + "Voltar pro checklist".
 
-**Ainda pendente de push:** QR codes maiores + esse ajuste de link. Aguardando autorização do Jorge Helder.
+**Certificado corrigido (10/09/2026, ~19h15):** Jorge Helder testou `certificado.html` no celular e achou 2 problemas reais:
+1. Os 6 ícones dos pilares vazavam pra fora da moldura dupla laranja — bug de cálculo de espaçamento no script (`pilaresRow()`: raio 58px, mas o primeiro/último círculo caíam fora da borda interna). Corrigido.
+2. A instrução "(escreva com caneta na tela ou segure um papel na foto)" estava gravada dentro da imagem — como o certificado é uma imagem fixa, a família não conseguiria apagar isso depois de escrever o nome, ficaria feio no Stories postado. Removida da imagem (já está explicada nos passos "Como postar nos Stories" na página, fora da imagem).
+
+**Ainda pendente de push:** certificado corrigido (esse ajuste). Aguardando autorização do Jorge Helder.
 
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 
