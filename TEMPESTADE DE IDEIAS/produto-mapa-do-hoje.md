@@ -125,6 +125,19 @@ Testado visualmente no browser: checklist marca progresso e navega pros dias, fo
 
 **Ainda pendente de push:** certificado corrigido (esse ajuste). Aguardando autorização do Jorge Helder.
 
+## Cadastro na Hotmart (10/09/2026, ~19h30)
+
+Produto criado: **"O Mapa do Hoje"**, ID `8497819`, formato eBook.
+
+- Informações básicas: nome, descrição (headline + mecanismo), categoria "Desenvolvimento Pessoal", capa gerada (`scripts/gerar-capa-produto-mapa-do-hoje.mjs`, reaproveita foto do Dia 1 + identidade visual).
+- Precificação: R$67, pagamento à vista (decisão confirmada com o Jorge Helder — irreversível depois de criado o preço).
+- Conteúdo do Produto: PDF final v4 anexado.
+- Cadastro finalizado e enviado pra análise.
+
+**Bloqueio atual:** a Hotmart pede verificação de identidade (KYC) antes de aprovar o produto — Jorge Helder já enviou os documentos, resposta por e-mail em até 5 dias úteis. Status do produto: "Ajustes pendentes" até a aprovação chegar.
+
+**Próximo passo (depois da aprovação):** voltar na Hotmart → pegar o link de checkout → atualizar o botão da página de vendas (`docs/mapa-do-hoje/index.html`, hoje placeholder) com o link real.
+
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 
 1. Máquina de nomes — feito (Mapa do Hoje)
