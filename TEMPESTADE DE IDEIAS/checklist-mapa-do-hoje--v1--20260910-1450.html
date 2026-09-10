@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checklist — O Mapa do Hoje</title>
+<style>
+  :root {
+    --verde: #1A3C30;
+    --verde-escuro: #10241c;
+    --terracota: #C97B4A;
+    --creme: #F3E9D8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--verde);
+    color: var(--creme);
+    min-height: 100vh;
+    padding: 40px 20px 60px;
+  }
+  .container { max-width: 480px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 30px; }
+  header .eyebrow {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px; letter-spacing: 3px; text-transform: uppercase;
+    color: var(--terracota); font-weight: 700; margin-bottom: 10px;
+  }
+  header h1 { font-size: 28px; margin-bottom: 8px; }
+  header p { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 14px; opacity: .8; }
+
+  .progresso { margin: 24px 0 30px; }
+  .barra-fundo { background: rgba(243,233,216,.15); border-radius: 999px; height: 10px; overflow: hidden; }
+  .barra-fill { background: var(--terracota); height: 100%; width: 0%; transition: width .3s ease; }
+  .progresso-label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; text-align: center; margin-top: 8px; opacity: .8; }
+
+  .dia {
+    background: rgba(243,233,216,.06);
+    border: 1px solid rgba(243,233,216,.16);
+    border-radius: 14px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    cursor: pointer;
+    transition: background .2s ease, border-color .2s ease;
+  }
+  .dia:hover { background: rgba(243,233,216,.1); }
+  .dia.feito { background: rgba(201,123,74,.15); border-color: var(--terracota); }
+  .dia .emoji { font-size: 32px; flex-shrink: 0; }
+  .dia .info { flex: 1; }
+  .dia .info .num { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--terracota); margin-bottom: 2px; }
+  .dia .info .nome { font-size: 18px; font-weight: 700; }
+  .dia .check {
+    width: 28px; height: 28px; border-radius: 50%;
+    border: 2px solid rgba(243,233,216,.4);
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    font-size: 16px;
+  }
+  .dia.feito .check { border-color: var(--terracota); background: var(--terracota); }
+
+  .rodape { text-align: center; margin-top: 40px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; opacity: .6; font-style: italic; }
+
+  .conquista {
+    display: none;
+    text-align: center;
+    background: rgba(201,123,74,.15);
+    border: 1px solid var(--terracota);
+    border-radius: 14px;
+    padding: 26px 20px;
+    margin-top: 20px;
+  }
+  .conquista.show { display: block; }
+  .conquista .titulo { font-size: 20px; margin-bottom: 8px; }
+  .conquista p { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; opacity: .85; }
+</style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="eyebrow">Família Horizonte · Jornada Olá</div>
+      <h1>O Mapa do Hoje</h1>
+      <p>Marque cada dia conforme for completando. Fica salvo neste aparelho.</p>
+    </header>
+
+    <div class="progresso">
+      <div class="barra-fundo"><div class="barra-fill" id="barra"></div></div>
+      <div class="progresso-label" id="progLabel">0 de 6 dias completos</div>
+    </div>
+
+    <div id="lista">
+      <div class="dia" data-dia="1">
+        <div class="emoji">🥕</div>
+        <div class="info"><div class="num">Dia 1</div><div class="nome">Alimentação</div></div>
+        <div class="check"></div>
+      </div>
+      <div class="dia" data-dia="2">
+        <div class="emoji">🤸</div>
+        <div class="info"><div class="num">Dia 2</div><div class="nome">Cognitivo</div></div>
+        <div class="check"></div>
+      </div>
+      <div class="dia" data-dia="3">
+        <div class="emoji">🧘</div>
+        <div class="info"><div class="num">Dia 3</div><div class="nome">Emocional</div></div>
+        <div class="check"></div>
+      </div>
+      <div class="dia" data-dia="4">
+        <div class="emoji">❤️</div>
+        <div class="info"><div class="num">Dia 4</div><div class="nome">Cardio</div></div>
+        <div class="check"></div>
+      </div>
+      <div class="dia" data-dia="5">
+        <div class="emoji">💪</div>
+        <div class="info"><div class="num">Dia 5</div><div class="nome">Força</div></div>
+        <div class="check"></div>
+      </div>
+      <div class="dia" data-dia="6">
+        <div class="emoji">💰</div>
+        <div class="info"><div class="num">Dia 6</div><div class="nome">Bolso</div></div>
+        <div class="check"></div>
+      </div>
+    </div>
+
+    <div class="conquista" id="conquista">
+      <div class="titulo">🎉 Vocês completaram o Mapa do Hoje!</div>
+      <p>Escaneiem o QR code de conquista no PDF pra gerar o certificado da família e compartilhar.</p>
+    </div>
+
+    <div class="rodape">Olá Experience — cada família, uma jornada.</div>
+  </div>
+
+  <script>
+    const KEY = 'mapa-do-hoje-progresso';
+    function ler() {
+      try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { return {}; }
+    }
+    function salvar(estado) {
+      try { localStorage.setItem(KEY, JSON.stringify(estado)); } catch (e) {}
+    }
+    function atualizar() {
+      const estado = ler();
+      let feitos = 0;
+      document.querySelectorAll('.dia').forEach(el => {
+        const dia = el.dataset.dia;
+        const check = el.querySelector('.check');
+        if (estado[dia]) {
+          el.classList.add('feito');
+          check.textContent = '✓';
+          feitos++;
+        } else {
+          el.classList.remove('feito');
+          check.textContent = '';
+        }
+      });
+      document.getElementById('barra').style.width = (feitos / 6 * 100) + '%';
+      document.getElementById('progLabel').textContent = feitos + ' de 6 dias completos';
+      document.getElementById('conquista').classList.toggle('show', feitos === 6);
+    }
+    document.querySelectorAll('.dia').forEach(el => {
+      el.addEventListener('click', () => {
+        const estado = ler();
+        const dia = el.dataset.dia;
+        estado[dia] = !estado[dia];
+        salvar(estado);
+        atualizar();
+      });
+    });
+    atualizar();
+  </script>
+
+</body>
+</html>

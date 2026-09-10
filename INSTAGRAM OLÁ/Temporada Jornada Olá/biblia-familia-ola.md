@@ -151,12 +151,15 @@ ativamente das cenas — reage, brinca, acompanha a família nos passeios.
 **Personalidade:** brincalhão, leal, energético mas carinhoso — nem hiperativo, nem
 largado.
 
-**Aparência fixa (referência completa em `../personagens/thor-referencia.txt`):** golden
-retriever adulto, porte forte e robusto, pelagem dourada rica e intensa (mais próxima de
-âmbar do que do dourado pálido comum), peito e patas mais claros/cremosos, orelhas
+**Aparência fixa (referência real em `INSTAGRAM OLÁ/personagens/refs-identidade/thor.png`, extraída do T1E16):** golden
+retriever adulto, porte forte e robusto, pelagem dourada acobreada e escura (mais próxima
+de âmbar/cobre do que do dourado pálido comum), peito e patas mais claros/cremosos, orelhas
 caídas, cauda felpuda. **Âncora fixa que nunca muda:** coleira de couro terracota (cor da
-paleta da marca) com uma placa de identificação redonda pequena — é o que garante
-reconhecimento dele em cenas futuras, sempre presente.
+paleta da marca) com uma **plaqueta OVAL/ALONGADA** (não um disco redondo) pendurada por uma
+pequena argola de metal, com o nome "THOR" gravado nela — é o que garante reconhecimento
+dele em cenas futuras, sempre presente. *(Corrigido em 10/09/2026: a descrição anterior
+dizia "placa redonda", mas a referência real mostra formato oval/alongado — usar sempre a
+imagem de referência real, não só o texto.)*
 
 **Afinidades:** correr, buscar bolinha, acompanhar a família nas trilhas e passeios na
 natureza (reforça o pilar Cardio nos episódios seguintes).
@@ -164,7 +167,7 @@ natureza (reforça o pilar Cardio nos episódios seguintes).
 **Reforço de 06/09/2026:** a partir do T1E08 ("A primeira experiência na natureza"), o
 Thor passa a ser incluído ativamente em toda cena de trilha/natureza/ar livre da família
 — não é mais só uma afinidade descrita, é presença esperada nesses episódios (checar isso
-no checklist de aprovação de arte, junto com a coleira terracota e a placa redonda como
+no checklist de aprovação de arte, junto com a coleira terracota e a plaqueta oval/alongada como
 âncora fixa).
 
 **Frase característica:** (não fala — reage com o corpo: orelhas em pé de curiosidade,
@@ -255,6 +258,7 @@ Eles continuam tendo dias cansativos, conflitos e muito contato com tecnologia. 
 8. Segurança, preparação e respeito aos limites aparecerão naturalmente.
 9. Temas clínicos serão explicados por profissionais habilitados, não pelos personagens.
 10. O humor será afetuoso e nunca humilhará um integrante.
+11. Nenhuma cena mostrará um integrante sobrecarregado sozinho enquanto o resto da família está ausente ou indiferente — esforço físico ou emocional pesado é sempre coletivo ou reconhecido na hora, nunca depois. Causas de desconforto emocional (medo, ansiedade) ficam genéricas e leves (ex.: medo de errar uma apresentação), nunca especificam temas sensíveis como bullying ou violência. Cenas sobre dinheiro mostram economia colaborativa por um objetivo bom, nunca aperto ou crise financeira. *(Fixado em 10/09/2026, a pedido do Jorge, pra evitar leitura de estereótipo/crítica nos comentários.)*
 
 ## Identidade visual a preservar
 
@@ -324,7 +328,7 @@ Todo prompt de imagem de cena tem que incluir a **âncora física completa** de 
 - **Nilo:** pele morena, barba curta aparada, cabelo escuro curto e CACHEADO (traço de família — Lu, Zai e Nori também têm cabelo cacheado, confirmado nas artes originais T1E01/T1E02; corrigido em 06/09/2026 depois de uma regra anterior errada dizer o contrário).
 - **Zai:** pele morena, cabelo cacheado escuro curto, magro, postura mais reservada.
 - **Nori:** pele morena clara, cabelos cacheados presos com laço ou presilha colorida.
-- **Thor:** pelagem dourada tom âmbar, coleira de couro terracota com placa redonda dourada (ficha completa em `../personagens/thor-referencia.txt`).
+- **Thor:** pelagem dourada tom âmbar acobreado/escuro, coleira de couro terracota com plaqueta oval/alongada gravada "THOR" presa por argola de metal (referência real em `INSTAGRAM OLÁ/personagens/refs-identidade/thor.png`).
 
 **Por que essa regra existe:** no T1E11, a primeira versão da arte saiu fotorrealista (corrigido reforçando estilo) e a segunda versão, mesmo estilizada, teve personagens de fundo (Nilo, Zai, Nori) que não bateram com o padrão da família — porque o prompt só descrevia a roupa deles, sem nenhuma âncora física. Só ficou correto na terceira tentativa, quando as âncoras completas foram adicionadas pra todos, inclusive os desfocados.
 
