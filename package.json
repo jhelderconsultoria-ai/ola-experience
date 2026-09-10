@@ -9,6 +9,7 @@
   "devDependencies": {
     "@mindstone/mcp-server-kling": "^0.4.1",
     "ffmpeg-static": "^5.2.0",
+    "qrcode": "^1.5.4",
     "sharp": "^0.35.4"
   },
   "scripts": {

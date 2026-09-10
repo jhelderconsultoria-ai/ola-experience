@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dia 4 desbloqueado — O Mapa do Hoje</title>
+<style>
+  :root { --verde: #1A3C30; --verde-escuro: #10241c; --terracota: #C97B4A; --creme: #F3E9D8; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--verde); color: var(--creme); min-height: 100vh; }
+  .container { max-width: 480px; margin: 0 auto; padding: 0 0 50px; }
+  .foto { width: 100%; max-width: 480px; margin: 0 auto; aspect-ratio: 4/3; overflow: hidden; background: var(--verde-escuro); }
+  .foto img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .foto.retrato { aspect-ratio: 3/4; }
+  .foto.retrato img { object-fit: contain; }
+  .miolo { padding: 28px 24px 0; text-align: center; }
+  .eyebrow { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; color: var(--terracota); font-weight: 700; margin-bottom: 12px; }
+  .pilar { font-size: 30px; font-weight: 700; margin-bottom: 4px; }
+  .emoji { font-size: 40px; margin-bottom: 6px; }
+  .frase { font-style: italic; font-size: 22px; line-height: 1.5; color: var(--creme); margin: 22px 0; padding: 0 6px; }
+  .frase::before, .frase::after { content: '"'; color: var(--terracota); }
+  .box { background: rgba(243,233,216,.06); border: 1px solid rgba(243,233,216,.16); border-radius: 14px; padding: 18px 20px; margin-top: 18px; text-align: left; }
+  .box .label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--terracota); font-weight: 700; margin-bottom: 8px; }
+  .box p { font-size: 16px; line-height: 1.5; }
+  .navbar { display: flex; justify-content: space-between; align-items: center; margin-top: 30px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; }
+  .nav { color: var(--terracota); text-decoration: none; font-weight: 700; }
+  .voltar { text-align: center; margin-top: 26px; }
+  .voltar a { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: rgba(243,233,216,.6); text-decoration: none; }
+  .rodape { text-align: center; margin-top: 36px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; opacity: .55; font-style: italic; }
+</style>
+</head>
+<body>
+  <div class="foto"><img src="img/dia4-cardio.jpg" alt="Cardio"></div>
+  <div class="container">
+    <div class="miolo">
+      <div class="eyebrow">Dia 4 de 6 desbloqueado</div>
+      <div class="emoji">❤️</div>
+      <div class="pilar">Cardio</div>
+      <p class="frase">O corpo não pede corrida. Pede só uma volta, no ritmo de quem for mais devagar.</p>
+      <div class="box">
+        <div class="label">Pergunta</div>
+        <p>Seu corpo lembra a última vez que se moveu só por prazer, não por obrigação?</p>
+      </div>
+      <div class="box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Troquem 10 minutos de tela por uma volta perto de casa — no ritmo de quem for mais devagar.</p>
+      </div>
+    </div>
+    <div class="navbar"><a class="nav" href="dia3.html">&larr; Dia 3</a><a class="nav" href="dia5.html">Dia 5 &rarr;</a></div>
+    <div class="voltar"><a href="checklist.html">&larr; Voltar pro checklist</a></div>
+    <div class="rodape">Olá Experience — cada família, uma jornada.</div>
+  </div>
+</body>
+</html>

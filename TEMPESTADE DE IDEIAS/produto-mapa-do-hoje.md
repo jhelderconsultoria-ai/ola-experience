@@ -1,7 +1,7 @@
 # Mapa do Hoje — produto low ticket
 
 **Data:** 10/09/2026
-**Status:** oferta + página + material + revisão de pontos concluída. Falta: diagramação final do PDF com artes reaproveitadas, checklist web, QR codes, cadastro do produto na Hotmart (pausado por decisão do Jorge, aguardando aprovação do material).
+**Status:** oferta + página + PDF final (16 páginas, com foto da Força corrigida e 8 QR codes inseridos) concluídos. Site de apoio (checklist, 6 páginas de dia, certificado) construído em `docs/mapa-do-hoje/`. **Lançamento bloqueado por decisão do Jorge Helder (10/09/2026): só sai com tudo pronto, incluindo QR codes.** Falta: **dar `git push` pra publicar o site no GitHub Pages** (sem isso os QR codes apontam pra páginas que ainda não existem no ar) e cadastro do produto na Hotmart.
 **Origem:** Jorge trouxe o perfil @opoderdasmetas como referência (2,4 mi seguidores, formato carrossel + funil de quiz), precisando de receita rápida — CNPJ da Olá ativo, mas ainda sem CREF pra vender consultoria/treino.
 **Squad usado:** Squad Low Ticket Arcane (Método Maxxima) — Atlas (oferta) + Quinn (copy), via MCP arcane, com aprovação do Jorge em cada etapa.
 
@@ -79,6 +79,29 @@ Geradas via Codex (Squad Conteúdo Arcane / Rico ajudou nos conceitos), com ânc
 - `bonus-forca-compras` — **ainda não corrigida**: 2 tentativas de regenerar bloqueadas pela moderação da OpenAI (`moderation_blocked`, categoria `other`), com e sem imagem de referência. Fica a v1 (`bonus-forca-compras-raw--v1--20260910-1507.png`, plaquinha redonda, desvio pequeno) como única versão disponível até resolver — retomar quando o Jorge Helder decidir (nova tentativa, ou aceitar o desvio nessa cena específica).
 
 **Os 4 publicados no Instagram (10/09/2026, ~16h)** — @olaexperienceoficial, categoria OLÁ BÔNUS, um de cada vez com o Jorge Helder confirmando cada envio. Pastas renomeadas com sufixo `-postado-10-09-2026`. Rótulo de IA conferido desligado em todos. Véspera do lançamento do "Mapa do Hoje" (amanhã, 11/09) — decisão do Atlas: completa a cobertura visual dos 6 pilares na conta antes da oferta ir ao ar.
+
+**Nota de coerência (10/09/2026):** o carrossel "Economizar pra sonhar junto" (Bolso) tem um gap sutil entre a capa (sensação genérica) e o slide 2 (exemplo específico "cortar lanche"), sem pista visual legível conectando os dois. Decisão: manter o post como está (não é erro grave, já tinha tração) — registrado como aprendizado pra próximas produções ([[feedback_costura_capa_slide2_carrossel]]).
+
+## PDF final do produto (10/09/2026, ~16h30)
+
+`TEMPESTADE DE IDEIAS/mapa-do-hoje-PDF-final--v1--20260910-1625.pdf` — 16 páginas A4, 1,42MB. Capa + abertura + 6 dias (cada um com foto real: Dias 1/3/5/6 são os bônus novos aprovados; Dia 2 reaproveita T1E10 "curiosidade junto"; Dia 4 reaproveita T1E15 "não precisa ser só a gente") + fechamento + os 6 extras (checklist, cartas de conversa, pôster dos pilares, alternativas, episódios-modelo, frases de apoio). Gerado via Chrome headless a partir do HTML-fonte (`material-mapa-do-hoje--v1--20260910-1625.html`), com as fotos comprimidas em `assets-pdf/` (JPEG ~850KB total) pra manter o arquivo leve — a versão inicial sem compressão tinha 19,7MB.
+
+**Correção da foto da Força (10/09/2026, ~16h50):** Jorge Helder reportou a foto do Dia 5 cortada, sem rostos de alguns personagens. Causa: a arte da Força saiu em formato retrato (1024x1536) enquanto as outras 5 são paisagem; o CSS `object-fit: cover` numa faixa larga/baixa cortava as laterais. Corrigido com uma classe `.dia-foto.retrato` (`object-fit: contain` + fundo verde-escuro) aplicada só nessa foto. Testado visualmente no browser (todos os rostos da família + Thor aparecem inteiros) e PDF regenerado — esta é a versão corrigida.
+
+**Bloqueio de lançamento (decisão 10/09/2026):** ver [[log-decisoes.md]] — só lança com tudo pronto, incluindo QR codes.
+
+## Site de apoio + QR codes (10/09/2026, ~17h)
+
+Construído em `docs/mapa-do-hoje/` (mesma infra GitHub Pages da página de vendas, domínio `olaexperience.tv`):
+
+- `checklist.html` — checklist interativo (localStorage, sem servidor/login), reaproveitado do protótipo `checklist-mapa-do-hoje--v1--20260910-1450.html`. Cada pilar linka pra sua página de dia.
+- `dia1.html` a `dia6.html` — página "dia desbloqueado" por pilar: foto real + frase de efeito (nova, aplicando o princípio de literalidade do Quinn/Squad Low Ticket Arcane sobre a pergunta/começo já aprovados) + pergunta + pequeno começo, com navegação entre dias. Dia 5 (Força) usa o mesmo tratamento de foto retrato (`object-fit: contain`) do PDF.
+- `certificado.html` — mostra o certificado de conquista (`img/certificado-mapa-do-hoje.png`, gerado via `scripts/gerar-certificado-mapa-do-hoje.mjs`, formato Stories 1080x1920): zero digitação, espaço em branco pra família escrever o nome à mão, com passo a passo de como salvar e postar.
+- 8 QR codes gerados via `scripts/gerar-qrcodes-mapa-do-hoje.mjs` (pacote `qrcode` instalado como devDependency), apontando pra `https://olaexperience.tv/mapa-do-hoje/{dia1..6,checklist,certificado}.html`, e inseridos no PDF final (`assets-pdf/qr/`) — um por dia, mais checklist na página Extra 1 e certificado na página de fechamento.
+
+Testado visualmente no browser: checklist marca progresso e navega pros dias, foto retrato do Dia 5 aparece inteira, certificado renderiza legível, QR boxes cabem nas páginas A4 do PDF sem estourar.
+
+**Bloqueio técnico restante:** essas páginas só existem localmente. Os QR codes do PDF (e os links do checklist) só vão resolver depois de um `git push` publicando `docs/mapa-do-hoje/` no GitHub Pages. Preciso da autorização do Jorge Helder pra entregar (push) antes dele testar os QR codes.
 
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 

@@ -8,6 +8,9 @@ business/vault/
 *.key
 *.pem
 
+# Dados pessoais do Jorge Helder (CPF, CNPJ, endereco fiscal) — so local, repo pode ser publico
+OLÁ DADOS CADASTRAIS/
+
 # Runtime — se recria sozinho em cada maquina
 node_modules/
 .auroq/
@@ -36,3 +39,6 @@ Thumbs.db
 # Excecao: assets do site publico (docs/), precisam estar no repo pro GitHub Pages servir
 !docs/assets/*.png
 !docs/assets/*.jpg
+!docs/mapa-do-hoje/img/*.png
+!docs/mapa-do-hoje/img/*.jpg
+!docs/mapa-do-hoje/qr/*.png

@@ -314,3 +314,13 @@
 **Decisao:** Não tomar nenhuma ação adicional agora — nem clicar em "Obter suporte", nem enviar apelação extra, nem tentar mexer de novo no link. Só aguardar a revisão automática.
 **Racional:** Hipótese mais provável é bloqueio automático antifraude por o domínio ser novíssimo (registrado no mesmo dia, zero reputação/histórico) — mesmo padrão de sinal que já causou problema com a Página do Facebook e a Central de Contas dessa conta. Não é violação real de Padrões da Comunidade. Mexer mais no meio de uma apelação em andamento pode confundir o processo ou, no pior caso, contar contra a única apelação permitida.
 **Impacto:** Registrado como item URGENTE no `CHECK LIST/checklist-pendencias.md`. Se a conta voltar, reavaliar com o Jorge se vale colocar o link de novo imediatamente ou esperar o domínio "amadurecer" alguns dias antes — mesma lógica cautelosa já aplicada à Página do Facebook recriada.
+
+## 10/09/2026 — Lançamento do "Mapa do Hoje" só sai com QR codes prontos
+
+**Contexto:** PDF core do produto (16 páginas, R$67) estava pronto e testado, mas os QR codes planejados na revisão de pontos (por dia/pilar, checklist interativo, certificado de conquista) ainda não tinham sido construídos nem inseridos no material. Perguntei ao Jorge Helder se ele queria lançar com o PDF core primeiro e adicionar QR code depois (v2), ou esperar tudo pronto.
+
+**Decisao:** "Vamos lançar somente quando tiver tudo pronto com QR code." Nenhum lançamento (cadastro na Hotmart, divulgação, tráfego pago) acontece até o pacote completo estar fechado.
+
+**Racional:** Jorge Helder decidiu priorizar a experiência completa do funil (reforço por dia + prova social do certificado + acompanhamento do checklist) em vez de velocidade de lançamento.
+
+**Impacto:** Próximos passos antes do lançamento: checklist publicado em link real (GitHub Pages), 6 páginas de frase+cena por dia, template do certificado, QR codes reais gerados e inseridos no PDF final. Só depois disso retomar o cadastro na Hotmart.
