@@ -1,5 +1,7 @@
-// Gera as 6 paginas "Dia N desbloqueado" (frase de efeito + cena real) pro site
-// docs/mapa-do-hoje/, reaproveitando pergunta/comeco ja aprovados no PDF do produto.
+// Gera as 6 paginas "Dia N desbloqueado" pro site docs/mapa-do-hoje/.
+// O QR code do PDF funciona como check-in: ao abrir, a pagina marca sozinha
+// aquele dia como feito no checklist (mesmo localStorage), e mostra a frase
+// de efeito como recompensa — sem repetir pergunta/comeco, que ja estao no PDF.
 import fs from 'fs';
 import path from 'path';
 
@@ -45,9 +47,6 @@ const dias = [
 ];
 
 function page(d) {
-  const prevLink = d.n > 1 ? `<a class="nav" href="dia${d.n - 1}.html">&larr; Dia ${d.n - 1}</a>` : '<span></span>';
-  const nextLink = d.n < 6 ? `<a class="nav" href="dia${d.n + 1}.html">Dia ${d.n + 1} &rarr;</a>` : '<a class="nav" href="certificado.html">Certificado &rarr;</a>';
-
   return `<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -69,12 +68,11 @@ function page(d) {
   .emoji { font-size: 40px; margin-bottom: 6px; }
   .frase { font-style: italic; font-size: 22px; line-height: 1.5; color: var(--creme); margin: 22px 0; padding: 0 6px; }
   .frase::before, .frase::after { content: '"'; color: var(--terracota); }
-  .box { background: rgba(243,233,216,.06); border: 1px solid rgba(243,233,216,.16); border-radius: 14px; padding: 18px 20px; margin-top: 18px; text-align: left; }
-  .box .label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--terracota); font-weight: 700; margin-bottom: 8px; }
-  .box p { font-size: 16px; line-height: 1.5; }
-  .navbar { display: flex; justify-content: space-between; align-items: center; margin-top: 30px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; }
-  .nav { color: var(--terracota); text-decoration: none; font-weight: 700; }
-  .voltar { text-align: center; margin-top: 26px; }
+  .checkin { display: inline-flex; align-items: center; gap: 8px; background: rgba(201,123,74,.18); border: 1px solid var(--terracota); border-radius: 999px; padding: 8px 20px; margin-top: 6px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: .5px; }
+  .checkin .marca { color: var(--terracota); font-size: 16px; }
+  .progresso-link { margin-top: 22px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px; }
+  .progresso-link a { color: var(--terracota); font-weight: 700; text-decoration: none; }
+  .voltar { text-align: center; margin-top: 30px; }
   .voltar a { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; color: rgba(243,233,216,.6); text-decoration: none; }
   .rodape { text-align: center; margin-top: 36px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; opacity: .55; font-style: italic; }
 </style>
@@ -83,23 +81,28 @@ function page(d) {
   <div class="foto${d.retrato ? ' retrato' : ''}"><img src="${d.foto}" alt="${d.pilar}"></div>
   <div class="container">
     <div class="miolo">
-      <div class="eyebrow">Dia ${d.n} de 6 desbloqueado</div>
+      <div class="eyebrow">Dia ${d.n} de 6</div>
       <div class="emoji">${d.emoji}</div>
       <div class="pilar">${d.pilar}</div>
+      <div class="checkin" id="checkin"><span class="marca">✓</span><span id="checkinTexto">Marcando...</span></div>
       <p class="frase">${d.frase}</p>
-      <div class="box">
-        <div class="label">Pergunta</div>
-        <p>${d.pergunta}</p>
-      </div>
-      <div class="box">
-        <div class="label">Pequeno começo de hoje</div>
-        <p>${d.comeco}</p>
-      </div>
+      <div class="progresso-link"><a href="checklist.html">Ver progresso dos 6 dias &rarr;</a></div>
     </div>
-    <div class="navbar">${prevLink}${nextLink}</div>
     <div class="voltar"><a href="checklist.html">&larr; Voltar pro checklist</a></div>
     <div class="rodape">Olá Experience — cada família, uma jornada.</div>
   </div>
+  <script>
+    const KEY = 'mapa-do-hoje-progresso';
+    try {
+      const estado = JSON.parse(localStorage.getItem(KEY) || '{}');
+      const jaEstava = !!estado['${d.n}'];
+      estado['${d.n}'] = true;
+      localStorage.setItem(KEY, JSON.stringify(estado));
+      document.getElementById('checkinTexto').textContent = jaEstava ? 'Dia ${d.n} já estava marcado' : 'Dia ${d.n} marcado como feito';
+    } catch (e) {
+      document.getElementById('checkinTexto').textContent = 'Dia ${d.n}';
+    }
+  </script>
 </body>
 </html>
 `;

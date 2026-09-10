@@ -101,7 +101,19 @@ Construído em `docs/mapa-do-hoje/` (mesma infra GitHub Pages da página de vend
 
 Testado visualmente no browser: checklist marca progresso e navega pros dias, foto retrato do Dia 5 aparece inteira, certificado renderiza legível, QR boxes cabem nas páginas A4 do PDF sem estourar.
 
-**Bloqueio técnico restante:** essas páginas só existem localmente. Os QR codes do PDF (e os links do checklist) só vão resolver depois de um `git push` publicando `docs/mapa-do-hoje/` no GitHub Pages. Preciso da autorização do Jorge Helder pra entregar (push) antes dele testar os QR codes.
+**Publicado (10/09/2026, ~17h10):** `git push` feito com autorização do Jorge Helder — site no ar em `olaexperience.tv/mapa-do-hoje/`, todas as páginas e QR codes confirmados no ar (200).
+
+**Ajuste pós-teste (10/09/2026, ~17h20):** Jorge Helder testou os QR codes e estranhou a navegação "← Dia 3 / Dia 5 →" no rodapé das páginas de dia. Removida — agora só tem "Voltar pro checklist" em todas as 6 páginas. PDF renomeado pra `mapa-do-hoje-PDF-final--v2--20260910-1721.pdf` (o `v1` tinha a hora de criação do HTML-fonte no nome, não a hora real da geração do PDF corrigido).
+
+**Redesign do QR de dia como check-in (10/09/2026, ~18h)** — decisão do Jorge Helder após reflexão: o QR de cada dia repetia a mesma pergunta/começo que já está impresso no PDF, sem gerar valor por escanear. Consultei o squad (Atlas/Quinn — princípio P8 "farmácia, não hospital": não virar mini-curso; e literalidade do Quinn) e redesenhei:
+
+- As páginas `dia1.html`–`dia6.html` não mostram mais pergunta/começo (isso fica só no PDF). Ao abrir, a página **marca sozinha aquele dia como feito** no mesmo `localStorage` do checklist (check-in automático) e mostra a frase de efeito como recompensa. Testado: check-in em `dia3.html` refletiu na hora em `checklist.html` (2 de 6 completos), sem ação manual extra.
+- Frase de chamada do QR no PDF (validada com Quinn + núcleo-strategist do Squad Posicionamento Arcane, ligada ao núcleo de influência "Maldição do Depois"): label **"Hoje não ficou pro depois."**, descrição "Escaneiem pra guardar esse momento e levar a frase de hoje com vocês." — aplicada nos 6 QR boxes de dia no PDF.
+- PDF regenerado: `mapa-do-hoje-PDF-final--v3--20260910-1821.pdf` — **esse é o arquivo final atual.**
+
+**Site ainda não republicado com esses dois ajustes** (navegação removida + check-in): só existe localmente até o próximo `git push` autorizado pelo Jorge Helder.
+
+**Ideia registrada pra depois (não implementada ainda):** sinalizar no material que "Mapa do Hoje" é o primeiro de uma sequência de produtos — ver `demandas-backlog.md`.
 
 ## Próximos passos (workflow Fase 0 do squad, 16 dias)
 

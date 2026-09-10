@@ -24,6 +24,22 @@ Jorge pra configurar e submeter o anúncio.
 
 <!-- Ideias e tarefas pra futuro -->
 
+### Sinalizar sequência de produtos no material do Mapa do Hoje
+
+Jorge Helder (10/09/2026): quer deixar claro no certificado e/ou fechamento do PDF que
+"Mapa do Hoje" é o primeiro de uma sequência — vêm mais temas/desafios depois —, pra quem
+comprar não pensar que é só isso e ficar mais receptivo ao próximo produto. Ajuste de
+copy simples (frase, sem prometer data/tema específico). Ainda não escrito — aguardando
+o Jorge terminar de revisar QR code antes de eu ajustar o material.
+
+### Lacuna: sem captura de contato de quem compra o Mapa do Hoje
+
+Identificado na mesma conversa (10/09/2026): o checklist/certificado não capturam
+e-mail/contato (decisão original era zero login/servidor). Isso significa que não tem
+como alcançar diretamente quem comprou o produto 1 quando o produto 2 sair — a única
+ponte hoje é a menção a @olaexperienceoficial no material. Avaliar depois (ex: captura
+de e-mail no checkout da Hotmart) se virar prioridade pra lateralidade de ofertas.
+
 ### Roteirizar cenas do 6º pilar Emocional (2026-09-09)
 
 6º pilar "Emocional" formalizado no núcleo de influência em 09/09/2026 (ver `log-decisoes.md` e
