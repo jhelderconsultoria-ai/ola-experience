@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prévia — O Mapa dos 6 Dias</title>
+<style>
+  :root {
+    --verde: #1A3C30;
+    --verde-escuro: #10241c;
+    --terracota: #C97B4A;
+    --creme: #F3E9D8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: #555;
+    padding: 30px 0;
+  }
+  .page {
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto 24px;
+    box-shadow: 0 6px 24px rgba(0,0,0,.4);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .page.creme { background: var(--creme); color: var(--verde-escuro); }
+  .page.verde { background: var(--verde); color: var(--creme); }
+
+  /* CAPA */
+  .capa {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: var(--verde);
+    color: var(--creme);
+  }
+  .capa img { width: 140px; margin-bottom: 40px; }
+  .capa h1 { font-size: 44px; letter-spacing: 1px; margin-bottom: 16px; }
+  .capa .sub { font-size: 20px; color: var(--terracota); font-family: 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1px; }
+  .capa .rodape { position: absolute; bottom: 50px; font-size: 14px; font-style: italic; opacity: .8; }
+
+  /* MIOLO GERAL */
+  .miolo { padding: 70px 70px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .eyebrow {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--terracota);
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .miolo p { font-size: 17px; line-height: 1.7; margin-bottom: 20px; max-width: 620px; }
+
+  /* PAGINA DE DIA */
+  .dia-num {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--terracota);
+    margin-bottom: 8px;
+  }
+  .dia-emoji { font-size: 54px; margin-bottom: 20px; }
+  .dia-pilar { font-size: 34px; font-weight: 700; margin-bottom: 34px; }
+  .pergunta-box {
+    border-left: 4px solid var(--terracota);
+    padding: 4px 0 4px 24px;
+    margin-bottom: 28px;
+  }
+  .pergunta-box .label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; opacity: .7; margin-bottom: 6px; }
+  .pergunta-box p { font-size: 22px; font-style: italic; margin: 0; }
+  .comeco-box {
+    background: rgba(201,123,74,.12);
+    border-radius: 10px;
+    padding: 24px 28px;
+    margin-top: 10px;
+  }
+  .comeco-box .label { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--terracota); font-weight: 700; margin-bottom: 8px; }
+  .comeco-box p { font-size: 17px; margin: 0; }
+
+  .pagina-num { position: absolute; bottom: 36px; right: 70px; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px; opacity: .5; }
+
+  .print-note {
+    max-width: 210mm;
+    margin: 0 auto 20px;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+  <div class="print-note">Prévia de avaliação — 9 páginas (capa, abertura, 6 dias, fechamento). Ctrl+P → Salvar como PDF quando aprovado.</div>
+
+  <!-- PAGINA 1 — CAPA -->
+  <div class="page capa">
+    <img src="../docs/assets/logo.png" alt="Olá Experience">
+    <h1>O MAPA DO HOJE</h1>
+    <div class="sub">6 dias, 6 pilares, 6 pequenos começos.</div>
+    <div class="rodape">Olá Experience — cada família, uma jornada.</div>
+  </div>
+
+  <!-- PAGINA 2 — ABERTURA -->
+  <div class="page creme">
+    <div class="miolo">
+      <div class="eyebrow">Antes de começar</div>
+      <p>Não julgamos a rotina de ninguém. A gente cria possibilidades pra família viver melhor, do jeito que for possível pra ela.</p>
+      <p>Esse mapa não é um plano, nem uma lista de tarefas. São 6 perguntas e 6 passos pequenos — um pra cada dia, um pra cada pilar que a Família Horizonte também está descobrindo, dia após dia.</p>
+      <p>Escolha por onde começar. Siga na ordem que quiser. O único compromisso é: um pequeno começo por dia, não um projeto de vida inteira.</p>
+      <p style="font-style:italic; font-size:22px; color:var(--terracota); margin-top:10px;">E se a gente fosse descobrir?</p>
+    </div>
+    <div class="pagina-num">2</div>
+  </div>
+
+  <!-- DIA 1 — ALIMENTACAO -->
+  <div class="page verde">
+    <div class="miolo">
+      <div class="dia-num">Dia 1 de 6</div>
+      <div class="dia-emoji">🥕</div>
+      <div class="dia-pilar">Alimentação</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>Qual foi a última vez que a família comeu junta, sem tela, sem pressa?</p>
+      </div>
+      <p>Comer junto não precisa ser um evento especial. Às vezes é só sentar, sem o celular do lado, por um jantar inteiro.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Escolham uma refeição — qualquer uma — pra fazer só isso: sentar juntos, sem tela, sem pressa.</p>
+      </div>
+    </div>
+    <div class="pagina-num">3</div>
+  </div>
+
+  <!-- DIA 2 — COGNITIVO -->
+  <div class="page creme">
+    <div class="miolo">
+      <div class="dia-num">Dia 2 de 6</div>
+      <div class="dia-emoji">🤸</div>
+      <div class="dia-pilar">Cognitivo</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>Quando foi a última vez que vocês aprenderam algo juntos, só por curiosidade?</p>
+      </div>
+      <p>A mente também descansa brincando, perguntando, descobrindo — não precisa ser sempre produtivo.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Escolham uma pergunta sem resposta pronta ("por que o céu muda de cor?", "como funciona X?") e descubram juntos.</p>
+      </div>
+    </div>
+    <div class="pagina-num">4</div>
+  </div>
+
+  <!-- DIA 3 — EMOCIONAL -->
+  <div class="page verde">
+    <div class="miolo">
+      <div class="dia-num">Dia 3 de 6</div>
+      <div class="dia-emoji">🧘</div>
+      <div class="dia-pilar">Emocional</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>Quando foi a última vez que alguém da casa disse em voz alta o que estava sentindo, sem ser interrompido?</p>
+      </div>
+      <p>Sentimento não resolvido não desaparece — só fica esperando a hora errada pra aparecer.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Reservem 10 minutos pra cada um dizer, numa palavra só, como o dia foi por dentro — sem ninguém corrigir ou explicar o sentimento do outro.</p>
+      </div>
+    </div>
+    <div class="pagina-num">5</div>
+  </div>
+
+  <!-- DIA 4 — CARDIO -->
+  <div class="page creme">
+    <div class="miolo">
+      <div class="dia-num">Dia 4 de 6</div>
+      <div class="dia-emoji">❤️</div>
+      <div class="dia-pilar">Cardio</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>Seu corpo lembra a última vez que se moveu só por prazer, não por obrigação?</p>
+      </div>
+      <p>Não precisa ser treino. Precisa ser movimento que caiba na vida de vocês.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Troquem 10 minutos de tela por uma volta perto de casa — no ritmo de quem for mais devagar.</p>
+      </div>
+    </div>
+    <div class="pagina-num">6</div>
+  </div>
+
+  <!-- DIA 5 — FORCA -->
+  <div class="page verde">
+    <div class="miolo">
+      <div class="dia-num">Dia 5 de 6</div>
+      <div class="dia-emoji">💪</div>
+      <div class="dia-pilar">Força</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>Que tipo de força sua família já usa todo dia, sem perceber?</p>
+      </div>
+      <p>Força não é sobre estética. É sobre aguentar a correria do dia — e isso a maioria das famílias já faz, sem crédito.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Notem e digam em voz alta, pelo menos uma vez, quando alguém da casa "aguentou" algo difícil.</p>
+      </div>
+    </div>
+    <div class="pagina-num">7</div>
+  </div>
+
+  <!-- DIA 6 — BOLSO -->
+  <div class="page creme">
+    <div class="miolo">
+      <div class="dia-num">Dia 6 de 6</div>
+      <div class="dia-emoji">💰</div>
+      <div class="dia-pilar">Bolso</div>
+      <div class="pergunta-box">
+        <div class="label">Pergunta</div>
+        <p>O tempo da sua família também é um recurso — onde ele anda sendo mais gasto?</p>
+      </div>
+      <p>Cuidar do bolso não é só sobre dinheiro. É sobre onde o tempo e a energia da família estão indo.</p>
+      <div class="comeco-box">
+        <div class="label">Pequeno começo de hoje</div>
+        <p>Separem 15 minutos pra olhar juntos a agenda da semana seguinte, sem pressa, só pra saber o que vem por aí.</p>
+      </div>
+    </div>
+    <div class="pagina-num">8</div>
+  </div>
+
+  <!-- PAGINA FECHAMENTO -->
+  <div class="page verde">
+    <div class="miolo">
+      <div class="eyebrow">Pra fechar</div>
+      <p>Nenhum passo aqui promete transformar sua rotina da noite pro dia. A mudança real começa quando você percebe que existe outro caminho possível — e experimenta, no seu tempo.</p>
+      <p style="font-size:14px; opacity:.75;">Este guia é reflexivo, não é orientação técnica nem substitui acompanhamento profissional.</p>
+      <p>Continue acompanhando a jornada da Família Horizonte em <strong style="color:var(--terracota);">@olaexperienceoficial</strong>. Cada episódio é um pedaço dessa descoberta.</p>
+      <p style="font-style:italic; margin-top:20px;">Olá Experience — cada família, uma jornada.</p>
+    </div>
+    <div class="pagina-num">9</div>
+  </div>
+
+</body>
+</html>
