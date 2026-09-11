@@ -14,10 +14,15 @@ Já configurado na Hotmart desde o cadastro do produto (ID 8497819). Não precis
 
 ## Caminho 2 — Cupom de teste R$47
 
-**Como criar quando chegar a hora** (Hotmart → produto "O Mapa do Hoje" → aba **Cupons**):
+**Status (11/09/2026): NÃO criado ainda — decisão do Jorge Helder de esperar o eNotas resolver primeiro.** Parâmetros abaixo já calculados e testados no formulário da Hotmart (sem salvar), prontos pra criar rápido quando chegar a hora.
 
-- **Valor:** desconto que leve o preço final pra R$47 (de R$67 → desconto de ~R$20, ou definir direto como preço fixo se a Hotmart permitir)
-- **Validade sugerida:** 7 a 14 dias corridos (tempo mínimo pro Funil 3X ter dado confiável — método pede 2-3 dias completos mínimo antes de qualquer decisão)
+**Como criar quando chegar a hora** (Hotmart → produto "O Mapa do Hoje" ID 8497819 → aba **Cupons** → Criar cupom):
+
+- **Código do Cupom:** `MAPA47`
+- **Porcentagem de desconto:** `29,85%` (R$67 → R$47,00 exato)
+- **Válido a partir de:** definir a data real de início na hora (não deixar valendo desde já — evita venda com desconto antes da hora)
+- **Válido até:** início + 14 dias (tempo mínimo pro Funil 3X ter dado confiável — método pede 2-3 dias completos mínimo antes de qualquer decisão)
+- **Aplicar em todas as ofertas:** manter ativado (padrão)
 - **Não anunciar publicamente "baixamos o preço"** — cupom roda como teste controlado, não como desvalorização do produto de tabela
 
 **Thresholds de tráfego pago pra rodar o teste a R$47** (Funil 3X, Vol. 2 do método):

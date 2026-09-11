@@ -53,6 +53,7 @@ flowchart TD
 - [ ] **Automação do eNotas com a Hotmart** — pagamento em análise antifraude pela operadora; depois disso vem o e-mail de onboarding/configuração fiscal (OCR de documentos). Não encontrado nada sobre isso dentro do painel Hotmart (é integração externa, no eNotas) — checar e-mail.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
+- [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)** — decisão do Jorge Helder de esperar o eNotas resolver primeiro. Parâmetros já calculados, ver `precificacao-teste-47.md`.
 
 ## Referências
 
