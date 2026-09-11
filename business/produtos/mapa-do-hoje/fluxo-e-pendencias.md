@@ -60,3 +60,5 @@ flowchart TD
 - Copy da página de vendas: [[pagina-vendas]]
 - Backlog geral (ideias/lacunas): `agents/companion/data/demandas-backlog.md`
 - Log de decisões estratégicas: `agents/companion/data/log-decisoes.md`
+- Rascunho de e-mail pro contador sobre o eNotas: `HOTMART/Rascunho eNotas - Contador.docx`
+- **Pinned posts prontos, arquivados até liberar:** `REELS TURBINAR/A Maldição do Depois/pinned-posts-squad-posicionamento.md` — o Pinned 3 (Oferta) só publica quando este produto estiver liberado.
