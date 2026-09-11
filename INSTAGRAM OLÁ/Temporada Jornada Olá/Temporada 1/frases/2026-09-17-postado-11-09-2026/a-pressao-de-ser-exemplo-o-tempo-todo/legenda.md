@@ -1,7 +1,8 @@
 # Legenda — Frase "A pressão de ser exemplo o tempo todo" (17/09/2026)
 
 ## Status
-- **Carrossel:** `frases/2026-09-17-a-pressao-de-ser-exemplo-o-tempo-todo/` (3 slides)
+- **Publicado em 11/09/2026:** https://www.instagram.com/p/DdJ_T4hFokc/
+- **Carrossel:** `frases/2026-09-17-postado-11-09-2026/a-pressao-de-ser-exemplo-o-tempo-todo/` (3 slides)
 - **Eixo:** mundo lá fora
 
 ## Legenda

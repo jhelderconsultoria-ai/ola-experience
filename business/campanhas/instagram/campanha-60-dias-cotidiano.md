@@ -117,7 +117,7 @@ ativar o toggle "Adicionar rótulo de IA" em nenhum post novo.**
 | 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Inq7jItW/ |
 | 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-R27dljXa/ |
 | 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — publicada em 07/09/2026 (correção de sequência, ordem de publicação): https://www.instagram.com/p/Dc-gAfqlokZ/ |
-| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17-a-pressao-de-ser-exemplo-o-tempo-todo/` |
+| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — publicada em 11/09/2026: https://www.instagram.com/p/DdJ_T4hFokc/ |
 | 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18-cada-um-ajuda-do-seu-jeito/` |
 | 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19-feed-perfeito-vida-real/` |
 | 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9B_WfFjMo/. **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20-cada-fase-pede-uma-presenca-diferente/` |
@@ -192,9 +192,9 @@ ativar o toggle "Adicionar rótulo de IA" em nenhum post novo.**
 **Fila corrigida a partir de 07/09/2026 (intercalando Frase e Arte, cada trilha na própria ordem):**
 
 1. ~~Frase — "Notificação não é urgência"~~ — publicada em 07/09/2026: https://www.instagram.com/p/Dc-gAfqlokZ/
-2. Frase — "A pressão de ser exemplo o tempo todo" (`frases/2026-09-17-a-pressao-de-ser-exemplo-o-tempo-todo/`) — **próxima da fila**
-3. Frase — "Cada um ajuda do seu jeito" (`frases/2026-09-18-cada-um-ajuda-do-seu-jeito/`)
-4. **T1E17** (Bloco Cardio) — ainda sem roteiro, escrever antes de publicar
+2. ~~Frase — "A pressão de ser exemplo o tempo todo"~~ — publicada em 11/09/2026: https://www.instagram.com/p/DdJ_T4hFokc/
+3. Frase — "Cada um ajuda do seu jeito" (`frases/2026-09-18-cada-um-ajuda-do-seu-jeito/`) — **próxima da fila**
+4. ~~**T1E17**~~ — publicado em 11/09/2026: https://www.instagram.com/p/DdKAl3cliSk/
 5. Frase — "Feed perfeito, vida real" (`frases/2026-09-19-feed-perfeito-vida-real/`)
 6. Frase — "Cada fase pede uma presença diferente" (`frases/2026-09-20-cada-fase-pede-uma-presenca-diferente/`)
 7. Frase — "Ouvir sem resposta pronta" (`frases/2026-09-21-ouvir-sem-resposta-pronta/`)

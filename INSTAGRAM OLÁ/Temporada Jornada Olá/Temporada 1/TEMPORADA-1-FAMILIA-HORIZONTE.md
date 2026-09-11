@@ -225,7 +225,7 @@ Roteirizado em 08/09/2026 com o Squad Conteúdo Arcane (Sage/Rico/Mack), a parti
 Cenário: quintal de casa, fim de tarde, luz quente mas ainda alta (não é golden hour rasante). O Nilo chega de uma pedalada e, em vez de desabar no sofá como fazia antes, ainda tem energia pra empurrar o balanço da Nori — os dois brincando, rindo. A Lu observa da porta da cozinha, surpresa boa. O Thor corre perto, participando da energia da cena.
 
 Diretrizes específicas: guarda-roupa do Nilo em amarelo-queimado (rotacionado — T1E12 foi terracota); Lu em roupa de cotidiano (creme/verde-oliva), não esportiva, já que ela está observando, não participando da atividade física.
-**Status:** roteiro e arte prontos, aguardando publicação. Pasta: `T1E17-folego-que-ninguem-ve/`. **Correção de identidade (08/09/2026):** a primeira geração (só texto) saiu com os personagens reconhecíveis mas não fiéis o bastante às artes já aprovadas (apontado pelo Jorge) — regenerada usando imagens de referência recortadas do T1E16 (regra sistêmica da bíblia, "usar imagem de referência, não só texto"), versão final em `arte-bruta/17-folego-que-ninguem-ve-raw-v2.png`.
+**Status:** publicado em 11/09/2026: https://www.instagram.com/p/DdKAl3cliSk/. Pasta renomeada `T1E17-folego-que-ninguem-ve-postado-11-09-2026/`. **Correção de identidade (08/09/2026):** a primeira geração (só texto) saiu com os personagens reconhecíveis mas não fiéis o bastante às artes já aprovadas (apontado pelo Jorge) — regenerada usando imagens de referência recortadas do T1E16 (regra sistêmica da bíblia, "usar imagem de referência, não só texto"), versão final em `arte-bruta/17-folego-que-ninguem-ve-raw-v2.png`.
 
 **Ep. 18 — "Hoje o corpo não quis"** — rótulo na tela: **T1E18**
 
