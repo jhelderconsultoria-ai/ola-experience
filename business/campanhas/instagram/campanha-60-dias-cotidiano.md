@@ -117,20 +117,20 @@ ativar o toggle "Adicionar rótulo de IA" em nenhum post novo.**
 | 8 | 2026-09-14 | Segunda | Frase (carrossel de texto) | "Casa bagunçada não é casa mal cuidada" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Inq7jItW/ |
 | 9 | 2026-09-15 | Terça | Arte + Frase | T1E09 — Quando vamos novamente? — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc73-Y3lk1-/. **+ Frase** "Brincar também é conversa" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-R27dljXa/ |
 | 10 | 2026-09-16 | Quarta | Frase (carrossel de texto) | "Notificação não é urgência" — publicada em 07/09/2026 (correção de sequência, ordem de publicação): https://www.instagram.com/p/Dc-gAfqlokZ/ |
-| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17/a-pressao-de-ser-exemplo-o-tempo-todo/` |
-| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18/cada-um-ajuda-do-seu-jeito/` |
-| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19/feed-perfeito-vida-real/` |
-| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9B_WfFjMo/. **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20/cada-fase-pede-uma-presenca-diferente/` |
-| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21/ouvir-sem-resposta-pronta/` |
-| 16 | 2026-09-22 | Terça | Arte + Frase | T1E12 — Duas horas só nossas (Nilo e Lu na academia, movido do slot de Fechamento em 06/09/2026) — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9D66iFng6/. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22/descansar-tambem-rende/` |
-| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23/ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
-| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: T1E13 — Ainda não saiu, mas quase (Zai aprendendo violão com o Nilo por perto) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-IFP2jJbi/. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24/repetir-nao-e-fracassar/` |
-| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25/elogiar-o-esforco-nao-so-o-resultado/` |
-| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26/curtir-nao-e-se-importar/` |
-| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Rc7jlmIv/. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27/nem-toda-opiniao-on-line-precisa-de-resposta/` |
-| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28/silencio-tambem-e-comunicacao/` |
-| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-SJ3aFgC6/. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29/amor-tambem-e-logistica/` |
-| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30/a-pressa-dos-outros-nao-e-sua-regua/` |
+| 11 | 2026-09-17 | Quinta | Arte + Frase | T1E10 — A mesma tela, de um jeito diferente — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc74NBYFqYT/. **+ Frase** "A pressão de ser exemplo o tempo todo" — pronta em `frases/2026-09-17-a-pressao-de-ser-exemplo-o-tempo-todo/` |
+| 12 | 2026-09-18 | Sexta | Frase (carrossel de texto) | "Cada um ajuda do seu jeito" — pronta em `frases/2026-09-18-cada-um-ajuda-do-seu-jeito/` |
+| 13 | 2026-09-19 | Sábado | Frase (carrossel de texto) | "Feed perfeito, vida real" — pronta em `frases/2026-09-19-feed-perfeito-vida-real/` |
+| 14 | 2026-09-20 | Domingo | Arte + Frase | T1E11 — Cinco minutos só meus — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9B_WfFjMo/. **+ Frase** "Cada fase pede uma presença diferente" — pronta em `frases/2026-09-20-cada-fase-pede-uma-presenca-diferente/` |
+| 15 | 2026-09-21 | Segunda | Frase (carrossel de texto) | "Ouvir sem resposta pronta" — pronta em `frases/2026-09-21-ouvir-sem-resposta-pronta/` |
+| 16 | 2026-09-22 | Terça | Arte + Frase | T1E12 — Duas horas só nossas (Nilo e Lu na academia, movido do slot de Fechamento em 06/09/2026) — publicado antecipadamente em 06/09/2026: https://www.instagram.com/p/Dc9D66iFng6/. **+ Frase** "Descansar também rende" — pronta em `frases/2026-09-22-descansar-tambem-rende/` |
+| 17 | 2026-09-23 | Quarta | Frase (carrossel de texto) | "Ritmo do trabalho não é ritmo de casa" — pronta em `frases/2026-09-23-ritmo-do-trabalho-nao-e-ritmo-de-casa/` |
+| 18 | 2026-09-24 | Quinta | Arte + Frase | Arte: T1E13 — Ainda não saiu, mas quase (Zai aprendendo violão com o Nilo por perto) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-IFP2jJbi/. **+ Frase** "Repetir não é fracassar" — pronta em `frases/2026-09-24-repetir-nao-e-fracassar/` |
+| 19 | 2026-09-25 | Sexta | Frase (carrossel de texto) | "Elogiar o esforço, não só o resultado" — pronta em `frases/2026-09-25-elogiar-o-esforco-nao-so-o-resultado/` |
+| 20 | 2026-09-26 | Sábado | Frase (carrossel de texto) | "Curtir não é se importar" — pronta em `frases/2026-09-26-curtir-nao-e-se-importar/` |
+| 21 | 2026-09-27 | Domingo | Arte + Frase | Arte: T1E14 — Ninguém queria parar de jogar (fecha o Bloco Cognitivo — família toda numa noite de jogo de tabuleiro, sem tela) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-Rc7jlmIv/. **+ Frase** "Nem toda opinião on-line precisa de resposta" — pronta em `frases/2026-09-27-nem-toda-opiniao-on-line-precisa-de-resposta/` |
+| 22 | 2026-09-28 | Segunda | Frase (carrossel de texto) | "Silêncio também é comunicação" — pronta em `frases/2026-09-28-silencio-tambem-e-comunicacao/` |
+| 23 | 2026-09-29 | Terça | Arte + Frase | Arte: T1E15 — Não precisa ser só a gente (abre o Bloco Cardio, família convive com amigos/vizinhos pela primeira vez) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-SJ3aFgC6/. **+ Frase** "Amor também é logística" — pronta em `frases/2026-09-29-amor-tambem-e-logistica/` |
+| 24 | 2026-09-30 | Quarta | Frase (carrossel de texto) | "A pressa dos outros não é sua régua" — pronta em `frases/2026-09-30-a-pressa-dos-outros-nao-e-sua-regua/` |
 | 25 | 2026-10-01 | Quinta | Arte (família em cena) | T1E16 — Finalmente Saiu (o Zai apresenta pra família, de pijama, a música gospel que compôs — paga o setup do T1E13) — publicado antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-dxm9Frce/ (impulsionado no mesmo dia) |
 | 26 | 2026-10-02 | Sexta | Frase (carrossel de texto) | _A definir — reflexão livre (eixo: dentro de casa)_ |
 | 27 | 2026-10-03 | Sábado | Frase (carrossel de texto) | "Ninguém vive bem sozinho" — publicada antecipadamente em 07/09/2026: https://www.instagram.com/p/Dc-ScD2lhgY/ (nasceu da nova diretriz de convívio social da série, 07/09/2026) |
@@ -192,23 +192,23 @@ ativar o toggle "Adicionar rótulo de IA" em nenhum post novo.**
 **Fila corrigida a partir de 07/09/2026 (intercalando Frase e Arte, cada trilha na própria ordem):**
 
 1. ~~Frase — "Notificação não é urgência"~~ — publicada em 07/09/2026: https://www.instagram.com/p/Dc-gAfqlokZ/
-2. Frase — "A pressão de ser exemplo o tempo todo" (`frases/2026-09-17/`) — **próxima da fila**
-3. Frase — "Cada um ajuda do seu jeito" (`frases/2026-09-18/`)
+2. Frase — "A pressão de ser exemplo o tempo todo" (`frases/2026-09-17-a-pressao-de-ser-exemplo-o-tempo-todo/`) — **próxima da fila**
+3. Frase — "Cada um ajuda do seu jeito" (`frases/2026-09-18-cada-um-ajuda-do-seu-jeito/`)
 4. **T1E17** (Bloco Cardio) — ainda sem roteiro, escrever antes de publicar
-5. Frase — "Feed perfeito, vida real" (`frases/2026-09-19/`)
-6. Frase — "Cada fase pede uma presença diferente" (`frases/2026-09-20/`)
-7. Frase — "Ouvir sem resposta pronta" (`frases/2026-09-21/`)
+5. Frase — "Feed perfeito, vida real" (`frases/2026-09-19-feed-perfeito-vida-real/`)
+6. Frase — "Cada fase pede uma presença diferente" (`frases/2026-09-20-cada-fase-pede-uma-presenca-diferente/`)
+7. Frase — "Ouvir sem resposta pronta" (`frases/2026-09-21-ouvir-sem-resposta-pronta/`)
 8. **T1E18** (Bloco Cardio) — ainda sem roteiro
-9. Frase — "Descansar também rende" (`frases/2026-09-22/`)
-10. Frase — "Ritmo do trabalho não é ritmo de casa" (`frases/2026-09-23/`)
-11. Frase — "Repetir não é fracassar" (`frases/2026-09-24/`)
+9. Frase — "Descansar também rende" (`frases/2026-09-22-descansar-tambem-rende/`)
+10. Frase — "Ritmo do trabalho não é ritmo de casa" (`frases/2026-09-23-ritmo-do-trabalho-nao-e-ritmo-de-casa/`)
+11. Frase — "Repetir não é fracassar" (`frases/2026-09-24-repetir-nao-e-fracassar/`)
 12. **T1E19** (Bloco Cardio, fecha o bloco) — ainda sem roteiro
-13. Frase — "Elogiar o esforço, não só o resultado" (`frases/2026-09-25/`)
-14. Frase — "Curtir não é se importar" (`frases/2026-09-26/`)
-15. Frase — "Nem toda opinião on-line precisa de resposta" (`frases/2026-09-27/`)
-16. Frase — "Silêncio também é comunicação" (`frases/2026-09-28/`)
-17. Frase — "Amor também é logística" (`frases/2026-09-29/`)
-18. Frase — "A pressa dos outros não é sua régua" (`frases/2026-09-30/`)
+13. Frase — "Elogiar o esforço, não só o resultado" (`frases/2026-09-25-elogiar-o-esforco-nao-so-o-resultado/`)
+14. Frase — "Curtir não é se importar" (`frases/2026-09-26-curtir-nao-e-se-importar/`)
+15. Frase — "Nem toda opinião on-line precisa de resposta" (`frases/2026-09-27-nem-toda-opiniao-on-line-precisa-de-resposta/`)
+16. Frase — "Silêncio também é comunicação" (`frases/2026-09-28-silencio-tambem-e-comunicacao/`)
+17. Frase — "Amor também é logística" (`frases/2026-09-29-amor-tambem-e-logistica/`)
+18. Frase — "A pressa dos outros não é sua régua" (`frases/2026-09-30-a-pressa-dos-outros-nao-e-sua-regua/`)
 19. **T1E20** (abre o Bloco Força) — a partir daqui, escrever roteiro conforme a produção avança
 
 Depois de esgotar essa fila, seguir criando Frases novas (eixo dentro de casa / mundo lá fora) e Artes do Bloco Força (T1E20-24) na mesma lógica intercalada.
