@@ -3,7 +3,7 @@
 > Produto ativo na esteira de negócios da Hotmart. Documento vivo — atualizar a cada
 > etapa concluída ou pendência nova, igual ao protocolo de tracker do cockpit.
 
-**Última atualização:** 11/09/2026 (verificado direto no Hotmart via Claude in Chrome)
+**Última atualização:** 11/09/2026 (botão da página de vendas atualizado com o link real de checkout)
 
 ## Fluxograma
 
@@ -29,8 +29,8 @@ flowchart TD
     classDef pending fill:#F3E9D8,color:#1A3C30,stroke:#C97B4A,stroke-dasharray: 4 2;
     classDef blocked fill:#C97B4A,color:#fff,stroke:#1A3C30;
 
-    class A,B,C,D,E,H,F,G,K done;
-    class I,J,L,M pending;
+    class A,B,C,D,E,H,F,G,K,L done;
+    class I,J,M pending;
     class N,O blocked;
 ```
 
@@ -46,11 +46,11 @@ flowchart TD
 - [x] Assinatura eNotas Basic contratada (720 notas/ano, parcelado 12x de R$126,90)
 - [x] **Aprovação do KYC pela Hotmart** — confirmado em 11/09/2026 direto no painel: produto com selo "Vendas ativas", mensagem "Tudo pronto para suas vendas!"
 - [x] **Link de checkout liberado** — página de vendas: `https://go.hotmart.com/W107561981F`
+- [x] Botão da página de vendas (`docs/mapa-do-hoje/index.html`) atualizado com o link real de checkout, nos dois CTAs
 
 ### Pendente
 
 - [ ] **Automação do eNotas com a Hotmart** — pagamento em análise antifraude pela operadora; depois disso vem o e-mail de onboarding/configuração fiscal (OCR de documentos). Não encontrado nada sobre isso dentro do painel Hotmart (é integração externa, no eNotas) — checar e-mail.
-- [ ] Atualizar o botão da página de vendas (`docs/mapa-do-hoje/index.html`) com o link real de checkout (`https://go.hotmart.com/W107561981F`)
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
 
