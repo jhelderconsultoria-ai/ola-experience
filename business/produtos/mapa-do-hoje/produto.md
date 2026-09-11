@@ -84,7 +84,7 @@ Geradas via Codex (Squad Conteúdo Arcane / Rico ajudou nos conceitos), com ânc
 
 ## PDF final do produto (10/09/2026, ~16h30)
 
-`TEMPESTADE DE IDEIAS/mapa-do-hoje-PDF-final--v1--20260910-1625.pdf` — 16 páginas A4, 1,42MB. Capa + abertura + 6 dias (cada um com foto real: Dias 1/3/5/6 são os bônus novos aprovados; Dia 2 reaproveita T1E10 "curiosidade junto"; Dia 4 reaproveita T1E15 "não precisa ser só a gente") + fechamento + os 6 extras (checklist, cartas de conversa, pôster dos pilares, alternativas, episódios-modelo, frases de apoio). Gerado via Chrome headless a partir do HTML-fonte (`material-mapa-do-hoje--v1--20260910-1625.html`), com as fotos comprimidas em `assets-pdf/` (JPEG ~850KB total) pra manter o arquivo leve — a versão inicial sem compressão tinha 19,7MB.
+`pdf/historico/mapa-do-hoje-PDF-final--v1--20260910-1625.pdf` — 16 páginas A4, 1,42MB. Capa + abertura + 6 dias (cada um com foto real: Dias 1/3/5/6 são os bônus novos aprovados; Dia 2 reaproveita T1E10 "curiosidade junto"; Dia 4 reaproveita T1E15 "não precisa ser só a gente") + fechamento + os 6 extras (checklist, cartas de conversa, pôster dos pilares, alternativas, episódios-modelo, frases de apoio). Gerado via Chrome headless a partir do HTML-fonte (`material-mapa-do-hoje--v1--20260910-1625.html`), com as fotos comprimidas em `assets-pdf/` (JPEG ~850KB total) pra manter o arquivo leve — a versão inicial sem compressão tinha 19,7MB.
 
 **Correção da foto da Força (10/09/2026, ~16h50):** Jorge Helder reportou a foto do Dia 5 cortada, sem rostos de alguns personagens. Causa: a arte da Força saiu em formato retrato (1024x1536) enquanto as outras 5 são paisagem; o CSS `object-fit: cover` numa faixa larga/baixa cortava as laterais. Corrigido com uma classe `.dia-foto.retrato` (`object-fit: contain` + fundo verde-escuro) aplicada só nessa foto. Testado visualmente no browser (todos os rostos da família + Thor aparecem inteiros) e PDF regenerado — esta é a versão corrigida.
 
@@ -137,6 +137,16 @@ Produto criado: **"O Mapa do Hoje"**, ID `8497819`, formato eBook.
 **Bloqueio atual:** a Hotmart pede verificação de identidade (KYC) antes de aprovar o produto — Jorge Helder já enviou os documentos, resposta por e-mail em até 5 dias úteis. Status do produto: "Ajustes pendentes" até a aprovação chegar.
 
 **Próximo passo (depois da aprovação):** voltar na Hotmart → pegar o link de checkout → atualizar o botão da página de vendas (`docs/mapa-do-hoje/index.html`, hoje placeholder) com o link real.
+
+## Emissão de nota fiscal automática — eNotas (10/09/2026, ~20h40)
+
+Hotmart não emite a nota fiscal da venda do produto (só a dela mesma, das taxas cobradas) — quem precisa emitir é a empresa (CNPJ). Achamos a integração nativa **eNotas** (Vendas → Emissão de Nota Fiscal), que automatiza isso.
+
+- Pré-requisito confirmado: Jorge Helder já tem certificado digital e-CNPJ A1.
+- Plano assinado: **Basic** (720 notas/ano, R$1.227/ano), parcelado em 12x de R$126,90 (total R$1.522,80 com juros do parcelamento).
+- Dados de cobrança/nota: razão social "Olá Serviços e Negócios e Participações Ltda", CNPJ 48.915.829/0001-40, endereço fiscal completo (Av. Paulista 1636, Conj. 04 Sala 1504 Pav. 15, Bela Vista, SP, CEP 01310-200) — Jorge Helder inseriu os dados do cartão pessoalmente (não deixo IA tocar em dado de cartão).
+- Compra aprovada (código transação HP2218054755, confirmado por e-mail em olaexperienceoficial@gmail.com).
+- **Pendente:** o e-mail "Recebemos o pedido" avisa que a transação ainda passa por análise antifraude da operadora de pagamento antes de confirmar — só depois disso vem o link de onboarding/criação de conta no eNotas. Não depende da gente, é só aguardar o e-mail de confirmação. Se demorar muito (sem sinal em 1-2 dias úteis), contatar suporte@enotas.com.br.
 
 ## Frase de sequência de produtos (10/09/2026, ~20h)
 

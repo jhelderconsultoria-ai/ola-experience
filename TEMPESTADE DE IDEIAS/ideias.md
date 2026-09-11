@@ -1,8 +1,12 @@
 # Tempestade de Ideia
 
 > Registro cru de ideias do Jorge, conforme vão surgindo. Sem filtro, sem avaliação — só captura. Decisão de levar adiante ou arquivar fica pra depois.
+>
+> Regra: quando uma ideia vira produto/projeto fechado, todo o material sai daqui e
+> vai pro local permanente (ex: `business/produtos/{nome}/`). Esta pasta é só ponto
+> de partida, nunca depósito final.
 
 ## Ideias
 
-- **10/09/2026 — Produto "Mapa do Hoje"** (low ticket, R$67): inspirado no @opoderdasmetas, criado com o Squad Low Ticket Arcane. Oferta, página, material e revisão de pontos (QR codes, certificado, checklist web) consolidados; checklist interativo já prototipado. Cadastro na Hotmart pausado até aprovação final do Jorge. Detalhes em `produto-mapa-do-hoje.md`, `pagina-mapa-do-hoje.md`, `material-mapa-do-hoje.md`, prévia em `preview-mapa-do-hoje--v1--20260910-1450.html` e `checklist-mapa-do-hoje--v1--20260910-1450.html` (nomenclatura versionada — material sob avaliação sempre leva `--v<N>--<AAAAMMDD>-<HHMM>`, nunca sobrescrever).
+- **10/09/2026 — Produto "Mapa do Hoje"** — fechado e transferido pra `business/produtos/mapa-do-hoje/` (fluxograma e checklist em `fluxo-e-pendencias.md` naquela pasta).
 

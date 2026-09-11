@@ -42,3 +42,7 @@ Thumbs.db
 !docs/mapa-do-hoje/img/*.png
 !docs/mapa-do-hoje/img/*.jpg
 !docs/mapa-do-hoje/qr/*.png
+
+# Excecao: produtos ativos na esteira de negocios (business/produtos/), material permanente
+!business/produtos/**/*.png
+!business/produtos/**/*.jpg
