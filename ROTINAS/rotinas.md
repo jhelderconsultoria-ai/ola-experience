@@ -38,6 +38,14 @@
 **Quando:** a cada 15 dias.
 **O quê:** perguntar se o Jorge Helder já atualizou a cópia manual do projeto no pendrive.
 
+## Padrão institucional
+
+### Público padrão pra turbinar Reels (tráfego pago)
+**Quando:** toda vez que for turbinar/impulsionar um Reel ou post, de qualquer criativo, qualquer fase do projeto.
+**O quê:** usar **"Pessoas semelhantes aos seguidores"** (Lookalike/Advantage+) como público padrão — não escolher interesse específico por criativo (ex.: "Família e Fé", "Fitness e Corrida"). Motivo (Squad Tráfego Arcane, Método Andromeda): família de verdade é diversa (profissões variadas, com ou sem pet) e não cabe num interesse único; interesse estreito sai mais caro (Lei 1 dos Públicos: quanto maior o público, mais barato) e já mostrou fadiga nos testes anteriores. Pet entra como elemento de cenário no criativo, não como filtro de público.
+**Validação obrigatória antes de confiar no padrão:** no próximo turbo real, ANTES de finalizar, confirmar na tela de "Turbinar" que a opção "Pessoas semelhantes aos seguidores" está de fato disponível e selecionável (não só na teoria) — print ou confirmação direta na tela. Depois de rodar, comparar custo/resultado desse turbo contra os turbos anteriores com interesse específico e registrar o resultado real aqui (ou no contexto-dinamico.md) antes de declarar o padrão validado.
+**Exceção:** só testar público de interesse específico em paralelo (não substituindo o padrão) se houver dado real justificando o teste.
+
 ## Sob demanda (código dispara)
 
 ### Weekly review (Companion)

@@ -6,6 +6,17 @@
 
 <!-- O que precisa ser feito AGORA -->
 
+### Comparar custo por visita do turbo atual (~14/09/2026)
+
+Anúncio ativo (encerra em 2 dias a partir de 12/09/2026, público "Pessoas semelhantes aos
+seus seguidores") vai ser a primeira validação real do novo padrão de público fixado em
+`ROTINAS/rotinas.md`. Quando ele terminar (~14/09/2026), comparar custo por visita ao
+perfil contra os dois turbos anteriores concluídos com interesse específico:
+- "SP - Família e Fé (18-60)": R$99,87 / 250 visitas = ~R$0,40/visita
+- "SP - Fitness e Corrida (18-60)": R$49,74 / 67 visitas = ~R$0,74/visita
+Registrar o resultado real em `ROTINAS/rotinas.md` (seção "Público padrão pra turbinar
+Reels") pra fechar a validação do padrão.
+
 ## Importante (proximo foco)
 
 <!-- O que vem depois do urgente -->
