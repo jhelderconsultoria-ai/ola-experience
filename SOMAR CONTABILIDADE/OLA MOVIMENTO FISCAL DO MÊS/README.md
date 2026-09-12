@@ -20,6 +20,16 @@
 - `NOVEMBRO 2026`
 - `DEZEMBRO 2026`
 
+## Formatos de exportação disponíveis (site da prefeitura, seção "Exportação de NFS-e")
+
+**TIPO:**
+- Planilha (CSV) — **usar essa por padrão**, os formatos TXT abaixo saem de linha em 01/08/2026 (Reforma Tributária/CNPJ alfanumérico)
+- TXT
+- TXT (Tabulado)
+- TXT Retorno
+
+**LAYOUT:** 7 versões (V.001 a V.007) — estruturas de coluna diferentes. Qual usar depende do sistema da Somar Contabilidade — perguntar pro Renato Lacerda.
+
 ## Pendência
 
 **E-mail(s) da Somar Contabilidade ainda não confirmado(s) com o Jorge Helder** — hoje só temos `comunicacoes@somarempresas.com.br` (usado no rascunho pro Renato Lacerda). Confirmar antes do primeiro envio real (~02/10/2026) se é esse mesmo o e-mail certo pra receber o movimento fiscal mensal, ou se tem outro contato específico.
