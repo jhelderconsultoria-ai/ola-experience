@@ -72,10 +72,20 @@ Configurar a empresa no eNotas (passos 1 e 2) não é o mesmo que conectar o can
 - Nota voltou ao status **"Em emissão"** (processamento assíncrono com a prefeitura de SP, pode levar alguns minutos).
 - **Lembrete:** depois de confirmar que essa nota saiu certo, voltar a configuração de emissão de "Na venda" para **"Após a garantia"** (Gerenciar → Apps → Hotmart → alterar), que é a config definitiva decidida pelo Jorge Helder.
 
+## 6. Segundo erro e correção — Código de Serviço (12/09/2026)
+
+- Depois da correção da Inscrição Municipal, a nota voltou a falhar com um novo erro: **"NFS-e - Necessário corrigir o serviço municipal padrão, mais especificamente o Código de Serviço."**
+- **Causa raiz:** o código `02961 | 1.09` (disponibilização de conteúdo digital) nunca esteve entre os serviços realmente habilitados para a OLA emitir NFS-e. A empresa foi aberta originalmente para outras atividades (locação de automóveis, depois expandida pra turismo, esportes, eventos, saúde) e só tem códigos de serviço cadastrados nessas áreas — confirmado consultando a Ficha de Dados Cadastrais (FDC) pública em `ccm.prefeitura.sp.gov.br` e, com o certificado digital A1, a tela real de emissão de NFS-e em `nfe.prefeitura.sp.gov.br` (Ambiente Restrito → Emissão de NFS-e), que lista os 33 códigos de serviço de fato disponíveis no dropdown — nenhum sobre conteúdo digital/ebook.
+- **Correção aplicada:** trocado o Serviço municipal padrão (Empresa → Alterar cadastro → Dados municipais) de `02961 | 1.09` para **`05762 | 8.02 - Serviços de instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza`**, alíquota ISS **5,00%** (subiu de 2,90%). Foi o código mais próximo do Mapa do Hoje entre os já habilitados no cadastro da OLA. Aplicado também ao produto (opção "Atualizar Produtos").
+- Nota da venda de teste (HP3708447756) reprocessada — status voltou para **"Em emissão"**, sem o erro de Código de Serviço. Confirmação final da emissão pendente (processamento assíncrono com a prefeitura).
+- **Achado paralelo:** a Prefeitura de SP encerrou vários códigos de serviço antigos em 31/12/2025 (Reforma Tributária, LC 214/2025) e migrou automaticamente os contribuintes para novos códigos — não afetou diretamente essa correção, mas explica por que a FDC mostra códigos que não batem exatamente com a tabela clássica de 2011. Detalhes em `Ficha de Dados Cadastrais (FDC) - CCM Prefeitura SP.md`.
+
 ## Pendências que ficaram de fora dessa configuração
 
+- Confirmar (depois de um tempo) se a nota HP3708447756 realmente completou a emissão com o código 05762, ou se surge algum novo erro.
+- Depois de confirmado, voltar "momento de emissão" de "Na venda" para "Após a garantia".
 - Refazer a conexão do canal Hotmart com o novo e-mail (`olaexperienceoficial@gmail.com`) assim que a troca de e-mail da conta Hotmart for confirmada pelo suporte.
-- Validar com o contador se o código de serviço 02961/1.09 é definitivo ou se ele prefere trocar por outro depois de revisar.
+- **Validar com o contador (Renato Lacerda)** se o código 05762 (5% ISS) é o mais adequado, ou se ele recomenda incluir um código de serviço específico de conteúdo digital no cadastro da empresa — isso reduziria a alíquota de volta pra perto de 2,90-2,90%. Ver `Ficha de Dados Cadastrais (FDC) - CCM Prefeitura SP.md`.
 
 ## Referências
 
