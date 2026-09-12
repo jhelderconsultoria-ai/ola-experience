@@ -63,7 +63,7 @@ flowchart TD
 ### Pendente
 
 - [ ] **Criar e-mail em domínio próprio (@olaexperience.tv)** — rodapé do site de apoio já cita "e-mail próprio do domínio (não Gmail)" como sinal de confiança (Bloco 14, método Maxxima), mas o serviço de e-mail ainda não existe pro domínio. Precisa contratar hospedagem de e-mail (Google Workspace, Zoho Mail, etc.) — decisão/pagamento do Jorge Helder.
-- [ ] **Fixar os 3 posts no grid** (Sobre → Tese → Oferta) — já publicados (12/09/2026), mas "Fixar no perfil" não existe no menu "..." da versão web do Instagram, só no app do celular. Precisa o Jorge Helder abrir cada post no app e fixar, nessa ordem (a última fixada fica primeiro, então fixar Oferta → Tese → Sobre, nessa ordem, pra Sobre ficar em primeiro).
+- [x] **3 posts fixados no grid** (12/09/2026, pelo Jorge Helder via app do celular, "Fixar no perfil" não existe na versão web) — ordem final confirmada: Sobre → Tese → Oferta.
 - [ ] **Validar com o contador (Renato Lacerda)** se o código 05762 (ISS 5%) é o definitivo, ou se compensa incluir um código específico de conteúdo digital no cadastro pra baixar a alíquota de volta perto de 2,90% — rascunho de e-mail pronto em `HOTMART/Rascunho E-mail - Renato Lacerda (Codigo de Servico).md`.
 - [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`. Tentativa nº3 (12/09/2026) com versão quadrada `docs/assets/logo-quadrada-perfil.png` também não persistiu via automação — fazer manualmente com esse arquivo. Ver `perfil-para-compradores-hotmart.md`.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)

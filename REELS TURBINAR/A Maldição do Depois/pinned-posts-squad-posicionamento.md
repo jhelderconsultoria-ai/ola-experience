@@ -67,4 +67,6 @@ Os 3 primeiros posts do grid são o "storefront" — a primeira coisa que quem c
 3. ~~Montar os carrosséis~~ — feito, 18 slides em `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/pinned-posts/pinned-0{1,2,3}-.../` (renomeados com número + slug da frase, 12/09/2026).
 4. ~~Jorge Helder revisa os PNGs e dá "publica" explícito~~ — aprovado 12/09/2026.
 5. ~~Subir os 3 carrosséis no Instagram~~ — publicados 12/09/2026, nessa ordem (Sobre → Tese → Oferta), rótulo de IA desligado nos 3.
-6. **Pendente:** fixar os 3 no grid — "Fixar no perfil" não existe no menu "..." da versão web, só no app do celular. Jorge Helder precisa fixar pelo app, na ordem Oferta → Tese → Sobre (a última fixada fica primeiro no grid).
+6. ~~Fixar os 3 no grid~~ — feito 12/09/2026, pelo Jorge Helder via app do celular. Ordem final confirmada: Sobre → Tese → Oferta.
+
+**Pinned posts concluídos.** Nada mais pendente nesta frente.
