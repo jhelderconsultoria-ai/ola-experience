@@ -35,6 +35,9 @@ Jorge Helder diz "ROTINA" pra pedir pra registrar uma ação recorrente nova (di
 ## SALDO CC INSTAGRAM — análise de gasto com tráfego pago
 Jorge Helder diz "SALDO CC INSTAGRAM" pra pedir uma análise do saldo/gasto dos anúncios do Instagram: saldo em aberto no cartão, quanto já foi gasto no mês contra o limite mensal (hoje R$500, ver `INSTAGRAM LIMITE MENSAL DE GASTOS COM TRÁFEGOS/registro.md`), resultado dos anúncios ativos, e um parecer se precisa aumentar o limite mensal pra dar conta da campanha vigente.
 
+## ok — retomar de onde paramos
+Jorge Helder diz "ok" (maiúsculo ou minúsculo, tanto faz) como primeira mensagem de uma sessão nova pra pedir pra retomar direto de onde a última sessão parou — sem ele precisar reexplicar contexto. Ao ver esse código: checar "Pendências em aberto" em `agents/companion/data/contexto-dinamico.md`, avisar o que ficou pendente, e seguir do ponto onde parou.
+
 ---
 
 *Arquivo mantido em paralelo à memória do Claude Code — cada código também fica salvo em `feedback_codigo-*.md` na memória, pra reconhecimento automático em conversas futuras.*

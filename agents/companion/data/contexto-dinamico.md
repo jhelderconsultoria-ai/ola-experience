@@ -22,6 +22,11 @@
 
 **Atualização 09/09/2026:** 6º pilar "Emocional" formalizado no núcleo (ver entrada própria abaixo e `log-decisoes.md`). Slide `03-pilares.png` do destaque "Sobre a Jornada" regenerado com os 6 pilares (era 5). **Pendência ativa:** o Jorge nunca fez Story pelo celular — pediu pra eu orientar passo a passo quando ele quiser fazer (ele foi dormir em 09/09, deixou pra depois). Quando ele voltar com "vamos fazer o destaque"/"stories", guiar do zero: abrir Instagram no celular, subir cada uma das 7 imagens (`00-capa-conceito.png` até `06-cta.png`, nessa ordem) como Story, depois fixar como destaque com o nome "Sobre a Jornada" usando `00-capa-conceito.png` como capa.
 
+**Sessão de 12/09/2026 fechada — resumo do que ficou pendente pra próxima:**
+- **Turbo do Reel ativo (T1E16, encerra ~14/09/2026):** já roda com público "Pessoas semelhantes aos seus seguidores" (padrão novo, ver `ROTINAS/rotinas.md`). Quando encerrar, comparar custo por visita ao perfil contra os 2 turbos concluídos por interesse específico (Família e Fé: ~R$0,40/visita; Fitness e Corrida: ~R$0,74/visita) — pendência registrada em `demandas-backlog.md`, seção Urgente.
+- **Somar Contabilidade:** rascunho de e-mail perguntando formato/layout de exportação pronto em `SOMAR CONTABILIDADE/Rascunho E-mail - Formato de Exportação do Movimento Fiscal.md`, envio previsto segunda 14/09/2026. Falta resposta do Renato Lacerda pra fechar `ROTINAS/rotinas.md`.
+- **Hotmart — Pixel de rastreamento:** decidido em 12/09/2026 não criar Business Manager/Pixel da Meta agora (Jorge nunca configurou) — fica pra quando ele migrar do "Turbinar" simplificado pro Gerenciador de Anúncios completo. Marketplace do Mapa do Hoje já estava publicado (nada a fazer); Order Bump adiado por falta de 2º produto.
+
 ## Status Geral
 
 Olá Experience em fase pre-operacional (nao pode anunciar atendimento ainda — falta formacao/registro do Jorge em Educacao Fisica). Foco atual e 100% construcao de presenca no Instagram @olaexperienceoficial com a narrativa da Familia Horizonte.
@@ -200,4 +205,4 @@ Página do Facebook criada, vinculação ao Instagram travada — pendência (07
 
 ---
 
-*Ultima atualizacao: 07/09/2026*
+*Ultima atualizacao: 12/09/2026*
