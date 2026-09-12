@@ -26,6 +26,9 @@ Dispara a checagem de risco de crítica/estereótipo em qualquer roteiro/cena da
 ## HOTMART — foco na plataforma Hotmart
 Jorge Helder diz "HOTMART" pra focar só em assuntos do site/plataforma Hotmart: produtos cadastrados, configurações de checkout/KYC, eNotas (nota fiscal) e relatórios de progressão de vendas dos produtos da Olá. Arquivos de trabalho ficam na pasta `HOTMART/` na raiz do projeto.
 
+## TEMPESTADE — registrar ideia crua na Tempestade de Ideias
+Jorge Helder diz "TEMPESTADE" pra pedir pra guardar uma ideia crua em `TEMPESTADE DE IDEIAS/ideias.md` — só captura, sem avaliar ou decidir na hora (decisão de levar adiante ou arquivar fica pra depois).
+
 ## SALDO CC INSTAGRAM — análise de gasto com tráfego pago
 Jorge Helder diz "SALDO CC INSTAGRAM" pra pedir uma análise do saldo/gasto dos anúncios do Instagram: saldo em aberto no cartão, quanto já foi gasto no mês contra o limite mensal (hoje R$500, ver `INSTAGRAM LIMITE MENSAL DE GASTOS COM TRÁFEGOS/registro.md`), resultado dos anúncios ativos, e um parecer se precisa aumentar o limite mensal pra dar conta da campanha vigente.
 
