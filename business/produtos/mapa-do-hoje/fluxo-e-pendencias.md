@@ -3,7 +3,7 @@
 > Produto ativo na esteira de negócios da Hotmart. Documento vivo — atualizar a cada
 > etapa concluída ou pendência nova, igual ao protocolo de tracker do cockpit.
 
-**Última atualização:** 12/09/2026 (nota fiscal de teste emitida com sucesso — Código de Serviço corrigido, emissão automática ativa)
+**Última atualização:** 12/09/2026 (link da bio corrigido pro site de apoio, rodapé com CNPJ)
 
 ## Fluxograma
 
@@ -57,9 +57,11 @@ flowchart TD
 - [x] **Momento de emissão revertido pra "Após a garantia"** (12/09/2026) — estava temporariamente em "Na venda" só pro teste, voltado pra config definitiva (7 dias) antes de novas vendas reais.
 - [x] **Lançamento desbloqueado** (12/09/2026) — decisão explícita do Jorge Helder de apresentar o produto ao público, mesmo com a logo e a captura de lead ainda pendentes (não são bloqueantes).
 - [x] **Artes dos 3 pinned posts produzidas** (12/09/2026, Squad Carrossel Arcane) — 18 slides (Sobre 5, Tese 5, Oferta 8) em `Downloads/pinned-0{1,2,3}-.../slide-NN.png`. Aguardando revisão e "publica" explícito antes de subir no Instagram. Detalhes em `REELS TURBINAR/A Maldição do Depois/pinned-posts-squad-posicionamento.md`.
+- [x] **Link da bio corrigido pra apontar pro funil principal** (12/09/2026, Squad Posicionamento + Squad Low Ticket Arcane) — bio apontava pra `olaexperience.tv` (institucional, sem produto/checkout). Trocado pra `olaexperience.tv/mapa-do-hoje/` (site de apoio já no padrão Maxxima: FAQ com garantia e "checkout seguro Hotmart", CTA direto pro checkout real `go.hotmart.com/W107561981F`). Rodapé completado com CNPJ (Bloco 14 do método, sinal de legitimidade pra reduzir insegurança de marca nova) — falta só e-mail em domínio próprio (ver pendência abaixo).
 
 ### Pendente
 
+- [ ] **Criar e-mail em domínio próprio (@olaexperience.tv)** — rodapé do site de apoio já cita "e-mail próprio do domínio (não Gmail)" como sinal de confiança (Bloco 14, método Maxxima), mas o serviço de e-mail ainda não existe pro domínio. Precisa contratar hospedagem de e-mail (Google Workspace, Zoho Mail, etc.) — decisão/pagamento do Jorge Helder.
 - [ ] **Revisar e aprovar os 18 slides dos pinned posts**, depois subir e fixar no grid do Instagram (Sobre → Tese → Oferta) — nunca publicar sem confirmação explícita.
 - [ ] **Validar com o contador (Renato Lacerda)** se o código 05762 (ISS 5%) é o definitivo, ou se compensa incluir um código específico de conteúdo digital no cadastro pra baixar a alíquota de volta perto de 2,90% — rascunho de e-mail pronto em `HOTMART/Rascunho E-mail - Renato Lacerda (Codigo de Servico).md`.
 - [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`. Tentativa nº3 (12/09/2026) com versão quadrada `docs/assets/logo-quadrada-perfil.png` também não persistiu via automação — fazer manualmente com esse arquivo. Ver `perfil-para-compradores-hotmart.md`.
