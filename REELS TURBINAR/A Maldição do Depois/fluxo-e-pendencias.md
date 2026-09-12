@@ -29,5 +29,5 @@ Arquivos de produção (frames, clips, áudio, vídeo final, roteiro completo) f
 ## Referências
 
 - Pinned posts (Squad Posicionamento Arcane): [[pinned-posts-squad-posicionamento]]
-- Produto Mapa do Hoje (bloqueio atual): `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`
+- Produto Mapa do Hoje (bloqueio atual): `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`
 - Rascunho pro contador sobre eNotas: `HOTMART/Rascunho eNotas - Contador.docx`

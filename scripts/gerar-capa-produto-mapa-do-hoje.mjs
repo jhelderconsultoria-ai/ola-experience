@@ -3,8 +3,8 @@ import path from 'path';
 import sharp from 'sharp';
 
 const LOGO_PATH = path.resolve('INSTAGRAM OLÁ/conteudo-inicial/marca-ola-experience-caminho-transparente.png');
-const FOTO_PATH = path.resolve('business/produtos/mapa-do-hoje/assets-pdf/dia1-alimentacao.jpg');
-const OUT = path.resolve('business/produtos/mapa-do-hoje/capa-produto-mapa-do-hoje--v1--20260910.png');
+const FOTO_PATH = path.resolve('LANÇAMENTO DE PRODUTOS/mapa-do-hoje/assets-pdf/dia1-alimentacao.jpg');
+const OUT = path.resolve('LANÇAMENTO DE PRODUTOS/mapa-do-hoje/capa-produto-mapa-do-hoje--v1--20260910.png');
 
 const W = 1200, H = 1200;
 const CREAM = '#F3E9D8';

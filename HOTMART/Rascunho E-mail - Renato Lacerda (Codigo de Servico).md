@@ -39,4 +39,4 @@ Jorge Helder
 ## Referências
 
 - `Passo a Passo - Configuracao eNotas.md` (seção 6 — correção do Código de Serviço)
-- `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`
+- `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`

@@ -21,4 +21,4 @@
 ## Referências
 
 - Fonte de cada linha: e-mail "Venda realizada: [produto]" recebido em jhelder.consultoria@gmail.com (conta de produtor na Hotmart).
-- Fluxo do produto: `../../../business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`
+- Fluxo do produto: `../../../LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`

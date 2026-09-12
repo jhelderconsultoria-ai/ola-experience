@@ -1,7 +1,7 @@
 # Dados Cadastrais — OLA SERVICOS E NEGOCIOS E PARTICIPACOES LTDA
 
 > Extraído dos 3 anexos do e-mail "hotmart" (jhelder.consultoria@gmail.com, 11/09/2026 19:52).
-> Objetivo: preencher a etapa "Dados Municipais" do eNotas sem depender do contador — ver `Rascunho eNotas - Contador.docx` e `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`.
+> Objetivo: preencher a etapa "Dados Municipais" do eNotas sem depender do contador — ver `Rascunho eNotas - Contador.docx` e `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`.
 
 **Nota:** os 3 PDFs originais não foram baixados automaticamente (o Chrome travou numa confirmação de download fora do alcance da automação). Os dados abaixo foram lidos direto no visualizador do Gmail. Se quiser os arquivos originais na pasta, é só abrir o e-mail "hotmart" no Gmail e baixar manualmente (o botão de download aparece ao passar o mouse em cada anexo).
 
@@ -73,4 +73,4 @@ O que **ainda** depende do Jorge Helder ou do contador:
 ## Referências
 
 - `Rascunho eNotas - Contador.docx`
-- `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`
+- `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`

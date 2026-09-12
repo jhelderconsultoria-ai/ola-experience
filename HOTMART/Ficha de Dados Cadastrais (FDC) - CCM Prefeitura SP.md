@@ -96,5 +96,5 @@ A nota fiscal da primeira venda de teste do Mapa do Hoje (Hotmart, transação H
 ## Referências
 
 - `Passo a Passo - Configuracao eNotas.md` — configuração completa do eNotas e o erro de emissão
-- `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md` — status geral do produto
+- `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md` — status geral do produto
 - `Dados Cadastrais OLA - extraidos do email.md` — dados cadastrais originais (CNPJ, C.C.M., JUCESP)

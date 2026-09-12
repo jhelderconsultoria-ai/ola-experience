@@ -89,6 +89,6 @@ Configurar a empresa no eNotas (passos 1 e 2) não é o mesmo que conectar o can
 
 ## Referências
 
-- `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md` — visão consolidada do produto (fluxograma + checklist)
+- `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md` — visão consolidada do produto (fluxograma + checklist)
 - `Dados Cadastrais OLA - extraidos do email.md` — de onde vieram Inscrição Municipal e Porte
 - `Rascunho eNotas - Contador.docx` — rascunho original enviado ao contador (parcialmente superado por essa configuração feita direto)

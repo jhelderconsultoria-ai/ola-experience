@@ -1,6 +1,6 @@
 # Pinned Posts — Squad Posicionamento Arcane (finalizado, arquivado)
 
-> **Status (12/09/2026): ARTES PRONTAS, aguardando "publica" explícito do Jorge Helder.** eNotas resolvido, nota de teste emitida com sucesso, Mapa do Hoje liberado. Os 18 slides dos 3 carrosséis foram gerados (Squad Carrossel Arcane, templates `ola-experience-capa/conteudo/cta`) e estão em `C:\Users\jheld\Downloads\pinned-01-sobre\`, `pinned-02-tese\` e `pinned-03-oferta\`, prontos pra revisão e upload. Publicar os 3 juntos (não faz sentido publicar só 1 ou 2 e deixar o grid capenga).
+> **Status (12/09/2026): publicados.** eNotas resolvido, nota de teste emitida com sucesso, Mapa do Hoje liberado. Os 18 slides dos 3 carrosséis foram gerados (Squad Carrossel Arcane, templates `ola-experience-capa/conteudo/cta`), aprovados pelo Jorge Helder e publicados no Instagram nessa ordem (Sobre → Tese → Oferta). Arquivos organizados em `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/pinned-posts/pinned-0{1,2,3}-.../`, cada slide renomeado com número + slug da frase.
 >
 > Produzido em 11/09/2026 pelo Squad Posicionamento Arcane (@vitrine-strategist), usando o núcleo de influência já fixado em 08/09/2026 (dor = Correria, inimigo = A Maldição do Depois, crenças centrais).
 
@@ -56,7 +56,7 @@ Os 3 primeiros posts do grid são o "storefront" — a primeira coisa que quem c
 
 **Capa-conceito:** "Mapa do Hoje — 6 dias pra sair do depois" (nome do produto + benefício em destaque).
 
-**Pré-requisito pra publicar:** eNotas configurado (emissão de NF ativa, idealmente só após os 7 dias de garantia) + decisão do Jorge Helder de liberar o lançamento — conforme `business/produtos/mapa-do-hoje/fluxo-e-pendencias.md`.
+**Pré-requisito pra publicar:** eNotas configurado (emissão de NF ativa, idealmente só após os 7 dias de garantia) + decisão do Jorge Helder de liberar o lançamento — conforme `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/fluxo-e-pendencias.md`.
 
 ---
 
@@ -64,7 +64,7 @@ Os 3 primeiros posts do grid são o "storefront" — a primeira coisa que quem c
 
 1. ~~Confirmar que o Hotmart/eNotas está 100% resolvido~~ — feito 12/09/2026.
 2. ~~Gerar as artes/capas dos 3 pinned~~ — feito 12/09/2026 (Squad Carrossel Arcane).
-3. ~~Montar os carrosséis~~ — feito, 18 slides em `Downloads/pinned-0{1,2,3}-.../slide-NN.png`.
+3. ~~Montar os carrosséis~~ — feito, 18 slides em `LANÇAMENTO DE PRODUTOS/mapa-do-hoje/pinned-posts/pinned-0{1,2,3}-.../` (renomeados com número + slug da frase, 12/09/2026).
 4. ~~Jorge Helder revisa os PNGs e dá "publica" explícito~~ — aprovado 12/09/2026.
 5. ~~Subir os 3 carrosséis no Instagram~~ — publicados 12/09/2026, nessa ordem (Sobre → Tese → Oferta), rótulo de IA desligado nos 3.
 6. **Pendente:** fixar os 3 no grid — "Fixar no perfil" não existe no menu "..." da versão web, só no app do celular. Jorge Helder precisa fixar pelo app, na ordem Oferta → Tese → Sobre (a última fixada fica primeiro no grid).
