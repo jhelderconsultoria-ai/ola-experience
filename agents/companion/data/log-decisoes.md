@@ -324,3 +324,13 @@
 **Racional:** Jorge Helder decidiu priorizar a experiência completa do funil (reforço por dia + prova social do certificado + acompanhamento do checklist) em vez de velocidade de lançamento.
 
 **Impacto:** Próximos passos antes do lançamento: checklist publicado em link real (GitHub Pages), 6 páginas de frase+cena por dia, template do certificado, QR codes reais gerados e inseridos no PDF final. Só depois disso retomar o cadastro na Hotmart.
+
+## 12/09/2026 — Estrutura de 2 links na bio do Instagram, padrão pra todo lançamento futuro
+
+**Contexto:** Jorge Helder notou que o funil bio→link→site→Hotmart não deixava claro pra quem visita o Instagram que existe um produto à venda. Consultado o Squad Posicionamento Arcane (bio/link) e o Squad Low Ticket Arcane (lateralidade — vários produtos empilhados no futuro).
+
+**Decisao:** Bio passa a ter 2 links simultâneos (recurso nativo do Instagram, só editável pelo app): Link 1 fixo "🎬 Por trás da série" → `olaexperience.tv` (institucional). Link 2 "🗺️ Comece hoje" → direto pro checkout Hotmart do produto ativo no momento (pula a página de vendas própria, decisão consciente do Jorge apesar do Arcane recomendar o contrário — ver racional).
+
+**Racional:** Pra lançamentos futuros (Olá vai lançar vários produtos, modelo de lateralidade), o nome do Link 2 fica **genérico e permanente** — só a URL de destino muda a cada novo produto. Evita ter que redigitar/repensar o rótulo toda vez que um produto for trocado por outro, já que a troca da URL é inevitável de qualquer forma. Nomes descartados no processo: "Nossa história" (soava institucional/sem gancho), "Conheça a Família Horizonte" e "Quem é a Família Horizonte?" (risco de sugerir que é uma família real, não personagens). "Sobre a Jornada" ficou em reserva pra uso futuro se quiser trocar o Link 1.
+
+**Impacto:** Todo lançamento de produto novo daqui pra frente: só trocar a URL do Link 2 pelo app do Instagram, nome "🗺️ Comece hoje" não muda mais. Bio (texto) também foi atualizada no mesmo dia pra nomear o Mapa do Hoje explicitamente (antes era só narrativa, sem menção a produto).
