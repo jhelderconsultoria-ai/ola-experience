@@ -55,14 +55,16 @@ flowchart TD
 - [x] **Canal de venda Hotmart conectado ao eNotas** (11/09/2026, em Gerenciar → Apps → Hotmart, via e-mail + Hottok/token de webhook): garantia de 7 dias, notas fiscais emitidas automaticamente **após a garantia** (não na venda), enviadas por e-mail ao cliente, e canceladas automaticamente se a venda for cancelada/reembolsada. Essa conexão é separada de configurar a empresa no eNotas — sem ela as vendas não disparavam nenhuma nota.
 - [x] **Código de Serviço corrigido** (12/09/2026): o código original `02961 | 1.09` nunca esteve habilitado no cadastro da OLA na prefeitura (empresa aberta pra outras atividades — turismo/esportes/eventos/saúde). Trocado para `05762 | 8.02` (instrução/treinamento), ISS 5% (era 2,90%). Nota de teste (HP3708447756) **emitida com sucesso** — correção validada ponta a ponta. Detalhes em `HOTMART/Passo a Passo - Configuracao eNotas.md`.
 - [x] **Momento de emissão revertido pra "Após a garantia"** (12/09/2026) — estava temporariamente em "Na venda" só pro teste, voltado pra config definitiva (7 dias) antes de novas vendas reais.
+- [x] **Lançamento desbloqueado** (12/09/2026) — decisão explícita do Jorge Helder de apresentar o produto ao público, mesmo com a logo e a captura de lead ainda pendentes (não são bloqueantes).
+- [x] **Artes dos 3 pinned posts produzidas** (12/09/2026, Squad Carrossel Arcane) — 18 slides (Sobre 5, Tese 5, Oferta 8) em `Downloads/pinned-0{1,2,3}-.../slide-NN.png`. Aguardando revisão e "publica" explícito antes de subir no Instagram. Detalhes em `REELS TURBINAR/A Maldição do Depois/pinned-posts-squad-posicionamento.md`.
 
 ### Pendente
 
+- [ ] **Revisar e aprovar os 18 slides dos pinned posts**, depois subir e fixar no grid do Instagram (Sobre → Tese → Oferta) — nunca publicar sem confirmação explícita.
 - [ ] **Validar com o contador (Renato Lacerda)** se o código 05762 (ISS 5%) é o definitivo, ou se compensa incluir um código específico de conteúdo digital no cadastro pra baixar a alíquota de volta perto de 2,90% — rascunho de e-mail pronto em `HOTMART/Rascunho E-mail - Renato Lacerda (Codigo de Servico).md`.
-- [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`, arquivo `docs/assets/logo.png`. Nome e descrição já salvaram e já aparecem na página real de vendas; só a imagem não persistiu (upload via automação e manual falharam até agora). Ver `perfil-para-compradores-hotmart.md`.
+- [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`. Tentativa nº3 (12/09/2026) com versão quadrada `docs/assets/logo-quadrada-perfil.png` também não persistiu via automação — fazer manualmente com esse arquivo. Ver `perfil-para-compradores-hotmart.md`.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
-- [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
-- [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)** — decisão do Jorge Helder de esperar o eNotas resolver primeiro. Parâmetros já calculados, ver `precificacao-teste-47.md`.
+- [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)**, se o Jorge Helder quiser testar preço menor. Parâmetros já calculados, ver `precificacao-teste-47.md`.
 
 ## Referências
 

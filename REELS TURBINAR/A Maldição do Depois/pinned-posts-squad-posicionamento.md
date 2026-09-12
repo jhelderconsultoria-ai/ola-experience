@@ -1,6 +1,6 @@
 # Pinned Posts — Squad Posicionamento Arcane (finalizado, arquivado)
 
-> **Status: PRONTO, mas NÃO PUBLICAR ainda.** O Pinned 3 (Oferta) depende do Mapa do Hoje estar liberado na Hotmart, e isso está bloqueado pela pendência do eNotas (configuração fiscal com o contador). Quando o Hotmart/eNotas estiver resolvido, retomar este assunto — publicar os 3 juntos (não faz sentido publicar só 1 ou 2 e deixar o grid capenga).
+> **Status (12/09/2026): ARTES PRONTAS, aguardando "publica" explícito do Jorge Helder.** eNotas resolvido, nota de teste emitida com sucesso, Mapa do Hoje liberado. Os 18 slides dos 3 carrosséis foram gerados (Squad Carrossel Arcane, templates `ola-experience-capa/conteudo/cta`) e estão em `C:\Users\jheld\Downloads\pinned-01-sobre\`, `pinned-02-tese\` e `pinned-03-oferta\`, prontos pra revisão e upload. Publicar os 3 juntos (não faz sentido publicar só 1 ou 2 e deixar o grid capenga).
 >
 > Produzido em 11/09/2026 pelo Squad Posicionamento Arcane (@vitrine-strategist), usando o núcleo de influência já fixado em 08/09/2026 (dor = Correria, inimigo = A Maldição do Depois, crenças centrais).
 
@@ -62,7 +62,8 @@ Os 3 primeiros posts do grid são o "storefront" — a primeira coisa que quem c
 
 ## Próximo passo quando retomar
 
-1. Confirmar que o Hotmart/eNotas está 100% resolvido (ver `HOTMART/` e o fluxo do Mapa do Hoje).
-2. Gerar as artes/capas dos 3 pinned (Codex, mesmo pipeline da série).
-3. Montar os carrosséis (mesmo padrão visual: fundo `#1A3C30`, texto creme, destaque terracota).
-4. Fixar os 3 no grid do Instagram, nessa ordem (Sobre → Tese → Oferta).
+1. ~~Confirmar que o Hotmart/eNotas está 100% resolvido~~ — feito 12/09/2026.
+2. ~~Gerar as artes/capas dos 3 pinned~~ — feito 12/09/2026 (Squad Carrossel Arcane).
+3. ~~Montar os carrosséis~~ — feito, 18 slides em `Downloads/pinned-0{1,2,3}-.../slide-NN.png`.
+4. **Pendente:** Jorge Helder revisa os PNGs e dá "publica" explícito.
+5. **Pendente:** subir os 3 carrosséis no Instagram e fixar no grid, nessa ordem (Sobre → Tese → Oferta).
