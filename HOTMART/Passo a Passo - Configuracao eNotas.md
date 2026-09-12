@@ -79,11 +79,11 @@ Configurar a empresa no eNotas (passos 1 e 2) não é o mesmo que conectar o can
 - **Correção aplicada:** trocado o Serviço municipal padrão (Empresa → Alterar cadastro → Dados municipais) de `02961 | 1.09` para **`05762 | 8.02 - Serviços de instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza`**, alíquota ISS **5,00%** (subiu de 2,90%). Foi o código mais próximo do Mapa do Hoje entre os já habilitados no cadastro da OLA. Aplicado também ao produto (opção "Atualizar Produtos").
 - Nota da venda de teste (HP3708447756) reprocessada — status voltou para **"Em emissão"**, sem o erro de Código de Serviço. Confirmação final da emissão pendente (processamento assíncrono com a prefeitura).
 - **Achado paralelo:** a Prefeitura de SP encerrou vários códigos de serviço antigos em 31/12/2025 (Reforma Tributária, LC 214/2025) e migrou automaticamente os contribuintes para novos códigos — não afetou diretamente essa correção, mas explica por que a FDC mostra códigos que não batem exatamente com a tabela clássica de 2011. Detalhes em `Ficha de Dados Cadastrais (FDC) - CCM Prefeitura SP.md`.
+- **Confirmação final (12/09/2026):** a nota de teste (HP3708447756) **foi emitida com sucesso** — eNotas mostrou o banner "A nota fiscal de teste foi emitida com sucesso! A partir de agora suas notas serão emitidas automaticamente." Correção validada ponta a ponta.
+- **Momento de emissão revertido pra config definitiva:** logo em seguida, voltado Gerenciar → Apps → Hotmart → "Em que momento?" de "Na venda" (modo de teste) para **"Após a garantia"** (7 dias), como decidido originalmente pelo Jorge Helder — antecipado por causa de novas vendas reais esperadas já no dia seguinte. Envio automático ao cliente e cancelamento automático mantidos ativos.
 
 ## Pendências que ficaram de fora dessa configuração
 
-- Confirmar (depois de um tempo) se a nota HP3708447756 realmente completou a emissão com o código 05762, ou se surge algum novo erro.
-- Depois de confirmado, voltar "momento de emissão" de "Na venda" para "Após a garantia".
 - Refazer a conexão do canal Hotmart com o novo e-mail (`olaexperienceoficial@gmail.com`) assim que a troca de e-mail da conta Hotmart for confirmada pelo suporte.
 - **Validar com o contador (Renato Lacerda)** se o código 05762 (5% ISS) é o mais adequado, ou se ele recomenda incluir um código de serviço específico de conteúdo digital no cadastro da empresa — isso reduziria a alíquota de volta pra perto de 2,90-2,90%. Ver `Ficha de Dados Cadastrais (FDC) - CCM Prefeitura SP.md`.
 

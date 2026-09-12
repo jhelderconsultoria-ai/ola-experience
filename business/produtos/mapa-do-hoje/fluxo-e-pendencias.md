@@ -3,7 +3,7 @@
 > Produto ativo na esteira de negócios da Hotmart. Documento vivo — atualizar a cada
 > etapa concluída ou pendência nova, igual ao protocolo de tracker do cockpit.
 
-**Última atualização:** 11/09/2026 (eNotas configurado e ativo — Dados Municipais, Certificado Digital A1, Serviço padrão)
+**Última atualização:** 12/09/2026 (nota fiscal de teste emitida com sucesso — Código de Serviço corrigido, emissão automática ativa)
 
 ## Fluxograma
 
@@ -53,13 +53,12 @@ flowchart TD
   - Plano contratado: eNotas Emissor Básico (Anual) — Ativo
   - **Confirmado direto na prefeitura (11/09/2026):** testado no site oficial (nfe.prefeitura.sp.gov.br, emissão de NFS-e) — o código `02961` preencheu automaticamente o nome "Disponibilização de conteúdos de imagem e texto p/ internet". Está ativo e válido, não foi descontinuado (a dúvida vinda de fonte externa não se confirmou).
 - [x] **Canal de venda Hotmart conectado ao eNotas** (11/09/2026, em Gerenciar → Apps → Hotmart, via e-mail + Hottok/token de webhook): garantia de 7 dias, notas fiscais emitidas automaticamente **após a garantia** (não na venda), enviadas por e-mail ao cliente, e canceladas automaticamente se a venda for cancelada/reembolsada. Essa conexão é separada de configurar a empresa no eNotas — sem ela as vendas não disparavam nenhuma nota.
-- [x] **Código de Serviço corrigido** (12/09/2026): o código original `02961 | 1.09` nunca esteve habilitado no cadastro da OLA na prefeitura (empresa aberta pra outras atividades — turismo/esportes/eventos/saúde). Trocado para `05762 | 8.02` (instrução/treinamento), ISS 5% (era 2,90%). Nota de teste reprocessada, aguardando confirmação final da emissão. Detalhes em `HOTMART/Passo a Passo - Configuracao eNotas.md`.
+- [x] **Código de Serviço corrigido** (12/09/2026): o código original `02961 | 1.09` nunca esteve habilitado no cadastro da OLA na prefeitura (empresa aberta pra outras atividades — turismo/esportes/eventos/saúde). Trocado para `05762 | 8.02` (instrução/treinamento), ISS 5% (era 2,90%). Nota de teste (HP3708447756) **emitida com sucesso** — correção validada ponta a ponta. Detalhes em `HOTMART/Passo a Passo - Configuracao eNotas.md`.
+- [x] **Momento de emissão revertido pra "Após a garantia"** (12/09/2026) — estava temporariamente em "Na venda" só pro teste, voltado pra config definitiva (7 dias) antes de novas vendas reais.
 
 ### Pendente
 
-- [ ] **Confirmar emissão final da nota de teste** (transação HP3708447756) após a correção do Código de Serviço — status atual "Em emissão", processamento assíncrono com a prefeitura. Checagem agendada 12/09/2026 12h.
-- [ ] **Validar com o contador (Renato Lacerda)** se o código 05762 (ISS 5%) é o definitivo, ou se compensa incluir um código específico de conteúdo digital no cadastro pra baixar a alíquota de volta perto de 2,90%.
-- [ ] **Voltar "momento de emissão" para "Após a garantia"** (está temporariamente em "Na venda" pra validar o teste) assim que a nota de teste confirmar emissão.
+- [ ] **Validar com o contador (Renato Lacerda)** se o código 05762 (ISS 5%) é o definitivo, ou se compensa incluir um código específico de conteúdo digital no cadastro pra baixar a alíquota de volta perto de 2,90% — rascunho de e-mail pronto em `HOTMART/Rascunho E-mail - Renato Lacerda (Codigo de Servico).md`.
 - [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`, arquivo `docs/assets/logo.png`. Nome e descrição já salvaram e já aparecem na página real de vendas; só a imagem não persistiu (upload via automação e manual falharam até agora). Ver `perfil-para-compradores-hotmart.md`.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
