@@ -52,10 +52,10 @@ flowchart TD
   - Serviço padrão: código `02961 | 1.09` (Disponibilização, sem cessão definitiva, de conteúdos de imagem e texto pela internet), ISS 2,90% — escolhido com apoio do Squad Low Ticket Arcane (Vol. 1: o Mapa do Hoje é "produto ferramental" — PDF + checklist de consumo rápido — não consultoria/assessoria continuada)
   - Plano contratado: eNotas Emissor Básico (Anual) — Ativo
   - **Confirmado direto na prefeitura (11/09/2026):** testado no site oficial (nfe.prefeitura.sp.gov.br, emissão de NFS-e) — o código `02961` preencheu automaticamente o nome "Disponibilização de conteúdos de imagem e texto p/ internet". Está ativo e válido, não foi descontinuado (a dúvida vinda de fonte externa não se confirmou).
+- [x] **Canal de venda Hotmart conectado ao eNotas** (11/09/2026, em Gerenciar → Apps → Hotmart, via e-mail + Hottok/token de webhook): garantia de 7 dias, notas fiscais emitidas automaticamente **após a garantia** (não na venda), enviadas por e-mail ao cliente, e canceladas automaticamente se a venda for cancelada/reembolsada. Essa conexão é separada de configurar a empresa no eNotas — sem ela as vendas não disparavam nenhuma nota.
 
 ### Pendente
 
-- [ ] **Confirmar timing de emissão da nota** (na geração da cobrança, no pagamento ou só após os 7 dias de garantia) — o eNotas/Hotmart permite escolher isso, ainda não configurado explicitamente.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
 - [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)** — decisão do Jorge Helder de esperar o eNotas resolver primeiro. Parâmetros já calculados, ver `precificacao-teste-47.md`.

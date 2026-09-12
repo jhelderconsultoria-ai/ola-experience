@@ -46,9 +46,26 @@ Ao terminar as duas etapas, o eNotas mostrou: *"A princípio temos todas as info
 - Plano: **eNotas Emissor Básico (Anual)** — status **Ativo**
 - Estatísticas do mês: 0 notas emitidas ainda (esperado, produto não lançado)
 
+## 4. Conexão do canal de venda Hotmart (Gerenciar → Apps → Hotmart)
+
+Configurar a empresa no eNotas (passos 1 e 2) não é o mesmo que conectar o canal de venda — sem esse passo, nenhuma venda da Hotmart dispara emissão de nota. Feito em 11/09/2026:
+
+1. Em `app.enotas.com.br`, menu **Gerenciar → Apps**, card **Hotmart** → "Ativar".
+2. Pediu **E-mail** (o de login da conta Hotmart, `jhelder.consultoria@gmail.com`) e **Hottok** (token de webhook — obtido em `app.hotmart.com/tools/webhook`, aba "Autenticação", "Hottok de verificação"). O Hottok foi colado direto pelo Jorge Helder, nunca pela automação (é credencial de API).
+3. Perguntas de configuração respondidas:
+   - **Você oferece garantia?** Sim, **7 dias** (é lei — Art. 49 do Código de Defesa do Consumidor, direito de arrependimento em compra fora de estabelecimento físico, vale pra produto virtual também).
+   - **Podemos emitir suas notas fiscais automaticamente?** Sim.
+   - **Em que momento?** **Após a garantia** (não na venda) — resolve o pedido original do Jorge Helder de só emitir depois dos 7 dias.
+   - **Podemos enviá-las aos clientes?** Sim (nota vai automaticamente por e-mail pro cliente).
+   - **Podemos tentar cancelar as notas fiscais automaticamente das vendas que forem canceladas?** Sim.
+
+**Resumo final confirmado pelo eNotas:** conta conectada, garantia de 7 dias, notas emitidas automaticamente após a garantia e enviadas por e-mail, cancelamento automático em caso de reembolso.
+
+**Nota sobre o e-mail da conexão:** ficou `jhelder.consultoria@gmail.com` (o e-mail de login atual da conta Hotmart) e não `olaexperienceoficial@gmail.com`, porque a troca de e-mail da conta Hotmart (pedida via chat de suporte no mesmo dia) ainda não foi efetivada. Quando a Hotmart confirmar a troca, essa conexão precisa ser refeita com o novo e-mail e um Hottok novo (trocar o e-mail da conta desativa a integração atual).
+
 ## Pendências que ficaram de fora dessa configuração
 
-- Confirmar o **timing de emissão da nota** (na geração da cobrança, no pagamento, ou só após os 7 dias de garantia) — não configurado explicitamente ainda; essa opção existe no lado Hotmart do eNotas.
+- Refazer a conexão do canal Hotmart com o novo e-mail (`olaexperienceoficial@gmail.com`) assim que a troca de e-mail da conta Hotmart for confirmada pelo suporte.
 - Validar com o contador se o código de serviço 02961/1.09 é definitivo ou se ele prefere trocar por outro depois de revisar.
 
 ## Referências
