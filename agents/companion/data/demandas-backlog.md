@@ -33,6 +33,15 @@ Jorge pra configurar e submeter o anúncio.
 
 ## Backlog (quando tiver tempo)
 
+### Pixel de rastreamento (Meta) — só ao migrar pro Ads Manager
+
+Decidido em 12/09/2026: Jorge Helder nunca configurou Business Manager/Pixel do Facebook.
+Ferramenta gratuita "Pixel de rastreamento" da Hotmart (`app.hotmart.com/tools`, produto
+"O Mapa do Hoje") fica pendente de propósito — só vale configurar quando ele migrar do
+"Turbinar" simplificado do Instagram pro Gerenciador de Anúncios completo da Meta. Até lá,
+não criar Business Manager nem Pixel.
+
+
 <!-- Ideias e tarefas pra futuro -->
 
 ### ~~Sinalizar sequência de produtos no material do Mapa do Hoje~~ — feito 10/09/2026
