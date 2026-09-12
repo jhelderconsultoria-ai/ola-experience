@@ -46,6 +46,7 @@ flowchart TD
 - [x] **Aprovação do KYC pela Hotmart** — confirmado em 11/09/2026 direto no painel: produto com selo "Vendas ativas", mensagem "Tudo pronto para suas vendas!"
 - [x] **Link de checkout liberado** — página de vendas: `https://go.hotmart.com/W107561981F`
 - [x] Botão da página de vendas (`docs/mapa-do-hoje/index.html`) atualizado com o link real de checkout, nos dois CTAs
+- [x] **Correção do link de checkout** (12/09/2026): `go.hotmart.com/W107561981F` ("Página de Vendas" no painel Hotmart, apesar do nome) na verdade cai na página fraca do Marketplace (só título/preço/botão), exige +1 clique. O link que pula direto pro formulário de pagamento é outro: `https://pay.hotmart.com/W107561981F` ("Página de pagamento" em Produtos → Links de divulgação no painel Hotmart). Trocado nos 2 CTAs de `docs/mapa-do-hoje/index.html` e no Link 2 sugerido pra bio do Instagram.
 - [x] **eNotas configurado e ativo** (11/09/2026, direto em `app.enotas.com.br`):
   - Dados municipais: Inscrição Municipal 7.545.710-5, Porte ME, não optante do Simples Nacional, emissão pela própria prefeitura de SP (Nota Fiscal Paulistana — já credenciados, emitindo há meses pra outro cliente), sem Inscrição Estadual (atividades da OLA são só serviço, não têm circulação de mercadoria)
   - Certificado Digital A1 (e-CNPJ) importado e validado, vencimento 15/07/2027
