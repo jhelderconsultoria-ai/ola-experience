@@ -3,7 +3,7 @@
 > Produto ativo na esteira de negócios da Hotmart. Documento vivo — atualizar a cada
 > etapa concluída ou pendência nova, igual ao protocolo de tracker do cockpit.
 
-**Última atualização:** 11/09/2026 (botão da página de vendas atualizado com o link real de checkout)
+**Última atualização:** 11/09/2026 (eNotas configurado e ativo — Dados Municipais, Certificado Digital A1, Serviço padrão)
 
 ## Fluxograma
 
@@ -16,8 +16,8 @@ flowchart TD
     E --> F[Verificacao KYC<br/>Hotmart - APROVADO]
     F --> G[Produto aprovado<br/>Vendas ativas]
     E --> H[Assinatura eNotas Basic<br/>parcelado 12x]
-    H --> I{Analise antifraude<br/>operadora de pagamento}
-    I -->|aguardando confirmacao por email| J[Onboarding eNotas<br/>configuracao fiscal com OCR]
+    H --> I[Dados municipais + Certificado<br/>Digital A1 configurados]
+    I --> J[eNotas Ativo<br/>Servico padrao 02961/1.09]
     G --> K[Link de checkout liberado<br/>go.hotmart.com/W107561981F]
     K --> L[Atualizar botao da pagina<br/>de vendas com link real]
     J --> M[Emissao automatica de<br/>nota fiscal por venda]
@@ -29,8 +29,7 @@ flowchart TD
     classDef pending fill:#F3E9D8,color:#1A3C30,stroke:#C97B4A,stroke-dasharray: 4 2;
     classDef blocked fill:#C97B4A,color:#fff,stroke:#1A3C30;
 
-    class A,B,C,D,E,H,F,G,K,L done;
-    class I,J,M pending;
+    class A,B,C,D,E,H,F,G,K,L,I,J,M done;
     class N,O blocked;
 ```
 
@@ -47,10 +46,16 @@ flowchart TD
 - [x] **Aprovação do KYC pela Hotmart** — confirmado em 11/09/2026 direto no painel: produto com selo "Vendas ativas", mensagem "Tudo pronto para suas vendas!"
 - [x] **Link de checkout liberado** — página de vendas: `https://go.hotmart.com/W107561981F`
 - [x] Botão da página de vendas (`docs/mapa-do-hoje/index.html`) atualizado com o link real de checkout, nos dois CTAs
+- [x] **eNotas configurado e ativo** (11/09/2026, direto em `app.enotas.com.br`):
+  - Dados municipais: Inscrição Municipal 7.545.710-5, Porte ME, não optante do Simples Nacional, emissão pela própria prefeitura de SP (Nota Fiscal Paulistana — já credenciados, emitindo há meses pra outro cliente), sem Inscrição Estadual (atividades da OLA são só serviço, não têm circulação de mercadoria)
+  - Certificado Digital A1 (e-CNPJ) importado e validado, vencimento 15/07/2027
+  - Serviço padrão: código `02961 | 1.09` (Disponibilização, sem cessão definitiva, de conteúdos de imagem e texto pela internet), ISS 2,90% — escolhido com apoio do Squad Low Ticket Arcane (Vol. 1: o Mapa do Hoje é "produto ferramental" — PDF + checklist de consumo rápido — não consultoria/assessoria continuada)
+  - Plano contratado: eNotas Emissor Básico (Anual) — Ativo
+  - **Confirmado direto na prefeitura (11/09/2026):** testado no site oficial (nfe.prefeitura.sp.gov.br, emissão de NFS-e) — o código `02961` preencheu automaticamente o nome "Disponibilização de conteúdos de imagem e texto p/ internet". Está ativo e válido, não foi descontinuado (a dúvida vinda de fonte externa não se confirmou).
 
 ### Pendente
 
-- [ ] **Automação do eNotas com a Hotmart** — pagamento em análise antifraude pela operadora; depois disso vem o e-mail de onboarding/configuração fiscal (OCR de documentos). Não encontrado nada sobre isso dentro do painel Hotmart (é integração externa, no eNotas) — checar e-mail.
+- [ ] **Confirmar timing de emissão da nota** (na geração da cobrança, no pagamento ou só após os 7 dias de garantia) — o eNotas/Hotmart permite escolher isso, ainda não configurado explicitamente.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
 - [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)** — decisão do Jorge Helder de esperar o eNotas resolver primeiro. Parâmetros já calculados, ver `precificacao-teste-47.md`.
