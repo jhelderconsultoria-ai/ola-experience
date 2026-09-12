@@ -10,11 +10,15 @@
 
 Olá, Renato, tudo bem?
 
-Estou finalizando a configuração do eNotas pra emitir nota fiscal automática das vendas de um novo produto digital da OLA (um e-book, vendido pela Hotmart, chamado "Mapa do Hoje"). Numa venda de teste, a nota falhou ao emitir com o erro "Necessário corrigir o serviço municipal padrão, mais especificamente o Código de Serviço".
+Já lancei um novo produto digital da OLA — um e-book vendido pela Hotmart, chamado "Mapa do Hoje" (R$67) — e a divulgação já está ativa (Instagram, site). Até agora só tive uma venda de teste (feita por mim mesmo pra validar o fluxo), mas com a divulgação rodando, uma venda real pode acontecer a qualquer momento, e por isso preciso resolver a dúvida abaixo o quanto antes.
+
+Na venda de teste, a nota falhou ao emitir com o erro "Necessário corrigir o serviço municipal padrão, mais especificamente o Código de Serviço".
 
 Investigando na Ficha de Dados Cadastrais (FDC) da OLA e direto na tela de emissão de NFS-e da prefeitura (entrei com o certificado digital A1), descobri que o código que eu tinha configurado (`02961 — Disponibilização de conteúdos de imagem e texto pela internet`) nunca esteve entre os serviços habilitados no nosso cadastro. Os códigos que a OLA realmente tem liberados hoje são todos ligados às atividades históricas da empresa — turismo, esportes, eventos, saúde, etc. (nenhum de TI ou conteúdo digital).
 
-Pra resolver rápido, troquei o código padrão pro que pareceu mais próximo entre os já habilitados: **05762 — Serviços de instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza (item 8.02)**, com ISS de **5%** (o código anterior seria 2,90%, mas nunca funcionou de verdade). Reprocessei a nota de teste com esse código e por enquanto está "em emissão", sem o erro anterior.
+Pra resolver rápido, troquei o código padrão pro que pareceu mais próximo entre os já habilitados: **05762 — Serviços de instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza (item 8.02)**, com ISS de **5%** (o código anterior seria 2,90%, mas nunca funcionou de verdade). Reprocessei a nota de teste com esse código e dessa vez **emitiu com sucesso**, sem o erro anterior — mas isso foi um remendo pra destravar, não uma validação de que é o código certo.
+
+A nota de teste ficou registrada como **NFS-e nº 22** (código de verificação **SF1HW4ZM**, RPS série 1 nº 1, emitida em 12/09/2026, valor R$67,00, ISS R$3,35). Importante: essa nota foi emitida em nome de **Jorge Helder Oliveira Silva** — usei meu próprio CPF como tomador só pra fazer o teste de emissão, não é uma venda real pra terceiro.
 
 Minhas dúvidas pra você:
 

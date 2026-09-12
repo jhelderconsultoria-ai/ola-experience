@@ -29,6 +29,9 @@ Jorge Helder diz "HOTMART" pra focar só em assuntos do site/plataforma Hotmart:
 ## TEMPESTADE — registrar ideia crua na Tempestade de Ideias
 Jorge Helder diz "TEMPESTADE" pra pedir pra guardar uma ideia crua em `TEMPESTADE DE IDEIAS/ideias.md` — só captura, sem avaliar ou decidir na hora (decisão de levar adiante ou arquivar fica pra depois).
 
+## ROTINA — registrar rotina recorrente nova
+Jorge Helder diz "ROTINA" pra pedir pra registrar uma ação recorrente nova (diária, semanal, mensal, quinzenal) em `ROTINAS/rotinas.md` — nome, frequência, o que fazer, e onde fica o detalhe completo se for em outro arquivo.
+
 ## SALDO CC INSTAGRAM — análise de gasto com tráfego pago
 Jorge Helder diz "SALDO CC INSTAGRAM" pra pedir uma análise do saldo/gasto dos anúncios do Instagram: saldo em aberto no cartão, quanto já foi gasto no mês contra o limite mensal (hoje R$500, ver `INSTAGRAM LIMITE MENSAL DE GASTOS COM TRÁFEGOS/registro.md`), resultado dos anúncios ativos, e um parecer se precisa aumentar o limite mensal pra dar conta da campanha vigente.
 
