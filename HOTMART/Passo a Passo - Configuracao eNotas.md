@@ -63,6 +63,15 @@ Configurar a empresa no eNotas (passos 1 e 2) não é o mesmo que conectar o can
 
 **Nota sobre o e-mail da conexão:** ficou `jhelder.consultoria@gmail.com` (o e-mail de login atual da conta Hotmart) e não `olaexperienceoficial@gmail.com`, porque a troca de e-mail da conta Hotmart (pedida via chat de suporte no mesmo dia) ainda não foi efetivada. Quando a Hotmart confirmar a troca, essa conexão precisa ser refeita com o novo e-mail e um Hottok novo (trocar o e-mail da conta desativa a integração atual).
 
+## 5. Primeira venda de teste (11/09/2026) — erro e correção
+
+- Feita compra de teste real do Mapa do Hoje (R$67,00, comprador Jorge Helder, transação Hotmart HP3708447756), com emissão temporariamente configurada "Na venda" (em vez de "Após a garantia") só pra validar o fluxo.
+- A nota fiscal **falhou ao emitir**. Erro no eNotas: *"Erro assinatura do RPS com tamanho inválido '89', esperado '86'"*.
+- **Causa raiz (confirmada pelo artigo oficial do eNotas):** a Inscrição Municipal estava cadastrada com pontuação (`7.545.710-5`) — precisa ser só números, sem ponto/traço/espaço (`75457105`). Isso quebra o cálculo da assinatura digital do RPS (a cadeia de caracteres assinada precisa ter exatamente 86 posições).
+- **Correção aplicada:** trocado o campo Inscrição Municipal em Empresa → Alterar cadastro → Dados municipais para `75457105`, e reprocessada a nota pendente em Vendas → (expandir a venda) → ícone de reprocessar.
+- Nota voltou ao status **"Em emissão"** (processamento assíncrono com a prefeitura de SP, pode levar alguns minutos).
+- **Lembrete:** depois de confirmar que essa nota saiu certo, voltar a configuração de emissão de "Na venda" para **"Após a garantia"** (Gerenciar → Apps → Hotmart → alterar), que é a config definitiva decidida pelo Jorge Helder.
+
 ## Pendências que ficaram de fora dessa configuração
 
 - Refazer a conexão do canal Hotmart com o novo e-mail (`olaexperienceoficial@gmail.com`) assim que a troca de e-mail da conta Hotmart for confirmada pelo suporte.

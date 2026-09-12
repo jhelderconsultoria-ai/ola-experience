@@ -56,6 +56,7 @@ flowchart TD
 
 ### Pendente
 
+- [ ] **Subir a logo (imagem de perfil) no Perfil Público da Hotmart** — `account.hotmart.com/public-profile`, arquivo `docs/assets/logo.png`. Nome e descrição já salvaram e já aparecem na página real de vendas; só a imagem não persistiu (upload via automação e manual falharam até agora). Ver `perfil-para-compradores-hotmart.md`.
 - [ ] Avaliar lacuna de captura de contato de quem compra (sem e-mail/lead capturado hoje — ver `agents/companion/data/demandas-backlog.md`)
 - [ ] **Lançamento oficial** (divulgação, tráfego pago) — bloqueado por decisão explícita do Jorge Helder até todos os itens acima estarem prontos
 - [ ] **Criar o cupom de teste MAPA47 (R$67→R$47)** — decisão do Jorge Helder de esperar o eNotas resolver primeiro. Parâmetros já calculados, ver `precificacao-teste-47.md`.
